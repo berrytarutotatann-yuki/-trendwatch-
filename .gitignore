@@ -1,0 +1,19 @@
+# Python / local-only artifacts
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Machine-local Codex / cloud credentials or settings. Never publish these.
+.aws/
+.agents/
+.codex/
+
+# Windows download metadata (not source files)
+*:Zone.Identifier
+
+# Atomic temporary files and local run logs
+data/**/*.tmp
+*.log
+*.pid

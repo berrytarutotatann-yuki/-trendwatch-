@@ -1,0 +1,138 @@
+# ============================================================
+# trendwatch 設定ファイル
+# 日付はすべて UTC 基準（日本時間の朝9時で1日が切り替わる）
+# ============================================================
+
+windows:
+  recent_days: 7        # 「最近」とみなす期間（日）
+  baseline_days: 90     # 比較相手にする「過去」の期間（日）
+  series_days: 120      # グラフに表示する最大日数
+  keep_docs_days: 120   # 集めた見出しデータを保存しておく日数（古いものは自動削除）
+
+discovery:
+  min_count: 3          # 最近の期間に最低何件の見出しに出ていれば候補にするか
+  min_voices: 3         # 最低何人（何サイト）が使っていれば候補にするか（1人の連投対策）
+  min_score: 2.0       # この点数未満は表示しない（2 ≒「普段よりはっきり多い」）
+  source_bonus: 0.5     # 複数のデータ源（HN・arXiv・ニュース）に出ていると点数を何割増しにするか
+  top_n_per_field: 15   # 分野ごとに何件表示するか
+  auto_track_per_field: 2      # 毎日、分野ごとに上位何件を自動でグラフ追跡に加えるか
+  auto_track_min_score: 4.0    # 自動追跡に加える最低点数
+  auto_track_expire_days: 30   # 自動追加した言葉を何日後に追跡から外すか（手動追加分は外れない）
+  max_auto_tracked: 30         # 自動追加で同時に追跡する最大数（多すぎると毎日の実行が長くなる）
+
+# ------------------------------------------------------------
+# 分野の定義
+#   arxiv_categories : その分野として扱う arXiv のカテゴリ
+#   news_query       : GDELT（世界のニュース）で見出しを集めるときの検索式
+#   keywords         : Hacker News などの見出しをこの分野に振り分けるための単語
+# ------------------------------------------------------------
+fields:
+  ai:
+    label: AI
+    arxiv_categories: [cs.AI, cs.CL, cs.LG]
+    news_query: '("artificial intelligence" OR "AI model" OR "AI agent" OR LLM OR chatbot)'
+    keywords: [ai, llm, llms, gpt, agent, agents, agentic, neural, transformer, inference,
+               claude, openai, anthropic, gemini, deepseek, qwen, llama, mistral, chatbot,
+               "machine learning", "language model", rag, embedding, embeddings, fine-tuning,
+               reasoning, prompt, copilot, "vibe coding", mcp]
+  semiconductor:
+    label: 半導体
+    arxiv_categories: [cs.AR, physics.app-ph]
+    news_query: '(semiconductor OR chipmaker OR "chip packaging" OR foundry OR lithography OR HBM OR wafer)'
+    keywords: [semiconductor, semiconductors, chip, chips, chipmaker, tsmc, nvidia, asml, amd,
+               intel, foundry, wafer, wafers, lithography, euv, hbm, dram, nand, packaging,
+               chiplet, chiplets, gpu, gpus, asic, fab, fabs, photonics, "tokyo electron",
+               "co-packaged", substrate, rapidus, micron, "sk hynix"]
+  power:
+    label: 電力
+    arxiv_categories: [eess.SY]
+    news_query: '("data center power" OR "power grid" OR "nuclear reactor" OR "energy storage" OR "small modular reactor" OR "grid capacity")'
+    keywords: [power, grid, energy, nuclear, reactor, reactors, smr, battery, batteries,
+               electricity, utility, utilities, solar, turbine, turbines, "data center",
+               "data centers", datacenter, datacenters, cooling, geothermal, fusion,
+               megawatt, gigawatt, transmission]
+
+# ------------------------------------------------------------
+# 手動で追跡する言葉（毎日のグラフに必ず出る）
+#   tickers を書くと、同じカードに株価のグラフも並ぶ（任意）
+#   ※ 下の銘柄は書き方の例です。おすすめではありません。
+#     日本株は "8035.T" のように末尾に .T を付ける
+# ------------------------------------------------------------
+tracked_terms:
+  - term: system one model
+    field: ai
+  - term: slop ui
+    field: ai
+  - term: harness engineering
+    field: ai
+  - term: HBM4
+    field: semiconductor
+    tickers: ["6857.T", "MU"]
+  - term: co-packaged optics
+    field: semiconductor
+  - term: small modular reactor
+    field: power
+    tickers: ["OKLO"]
+
+# ------------------------------------------------------------
+# 候補から外す言葉（正規表現）。data/exclude.txt に1行1語で書いても外せる
+# ------------------------------------------------------------
+exclude_patterns:
+  - '^(show|ask|tell|launch) hn'
+  - 'hacker news'
+  - '\b(19|20)\d\d\b'
+  - '\b(january|february|march|april|may|june|july|august|september|october|november|december)\b'
+  - '\b(monday|tuesday|wednesday|thursday|friday|saturday|sunday)\b'
+  - '\byear[- ]old\b'
+  - '^(new york|united states|white house|wall street|silicon valley)$'
+  - '\b(pdf|video)\b'
+
+# 指定媒体の見出し監視。本文は取得せず、RSSに掲載された見出しを保存する。
+# ReutersのみGoogleニュース検索経由（全記事を網羅するものではない）。
+media:
+  refresh_minutes: 180
+  publishers:
+    bloomberg:
+      label: Bloomberg Markets
+      site: https://www.bloomberg.com/markets
+      feed: https://feeds.bloomberg.com/markets/news.rss
+    reuters:
+      label: Reuters Business
+      site: https://www.reuters.com/business/
+      feed: 'https://news.google.com/rss/search?q=site%3Areuters.com%2Fbusiness%2F+when%3A7d&hl=en-US&gl=US&ceid=US%3Aen'
+      method: search
+      domain: reuters.com
+    techcrunch:
+      label: TechCrunch
+      site: https://techcrunch.com/
+      feed: https://techcrunch.com/feed/
+    verge:
+      label: The Verge
+      site: https://www.theverge.com/
+      feed: https://www.theverge.com/rss/index.xml
+    forbes:
+      label: Forbes Innovation
+      site: https://www.forbes.com/innovation/
+      feed: https://www.forbes.com/innovation/feed/
+    wsj:
+      label: WSJ Tech
+      site: https://www.wsj.com/tech
+      feed: https://feeds.content.dowjones.io/public/rss/RSSWSJD
+    information:
+      label: The Information
+      site: https://www.theinformation.com/
+      feed: https://www.theinformation.com/feed
+    semiconductor_engineering:
+      label: Semiconductor Engineering
+      site: https://semiengineering.com/
+      feed: https://semiengineering.com/feed/
+      fields: [semiconductor]
+    utility_dive:
+      label: Utility Dive
+      site: https://www.utilitydive.com/
+      feed: https://www.utilitydive.com/feeds/news/
+      fields: [power]
+    ieee_spectrum:
+      label: IEEE Spectrum
+      site: https://spectrum.ieee.org/
+      feed: https://spectrum.ieee.org/feeds/feed.rss

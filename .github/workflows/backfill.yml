@@ -1,0 +1,49 @@
+name: backfill
+
+# 最初に1回だけ手動で実行する（過去の見出しをまとめて集める）
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "何日分さかのぼるか（97 = 過去90日＋最近7日）"
+        default: "97"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trendwatch
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: 過去データを集める
+        run: python -m trendwatch backfill --days ${{ github.event.inputs.days }}
+      - name: 途中経過を保存
+        if: always()
+        run: |
+          git config user.name "trendwatch-bot"
+          git config user.email "trendwatch-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "backfill"
+          git pull --rebase
+          git push
+      - name: 候補・グラフ・ページを作る
+        env:
+          QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
+        run: python -m trendwatch daily
+      - name: 結果を保存
+        run: |
+          git add data docs
+          git diff --cached --quiet || git commit -m "first daily run"
+          git pull --rebase
+          git push

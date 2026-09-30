@@ -1,0 +1,550 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>トレンド語ウォッチ</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f6f5f2;
+  --surface-1: #fcfcfb;
+  --surface-2: #f0efec;
+  --border: #e2e1dc;
+  --grid: #ebeae6;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #7a7974;
+  --accent: #2a78d6;
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --series-3: #1baf7a;
+  --series-4: #eda100;
+  --series-5: #4a3aa7;
+  --good: #0a7a3a;
+  --good-bg: #e3f3e8;
+  --warn: #8a5a00;
+  --warn-bg: #fbf0d9;
+  --chip: #eeede9;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --bg: #121211;
+    --surface-1: #1a1a19;
+    --surface-2: #232321;
+    --border: #33332f;
+    --grid: #2a2a27;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted: #8f8e86;
+    --accent: #3987e5;
+    --series-1: #3987e5;
+    --series-2: #d95926;
+    --series-3: #199e70;
+    --series-4: #c98500;
+    --series-5: #9085e9;
+    --good: #6fd49a;
+    --good-bg: #16301f;
+    --warn: #f0c060;
+    --warn-bg: #33280f;
+    --chip: #2a2a27;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121211; --surface-1: #1a1a19; --surface-2: #232321; --border: #33332f; --grid: #2a2a27;
+  --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #8f8e86; --accent: #3987e5;
+  --series-1: #3987e5; --series-2: #d95926; --series-3: #199e70; --series-4: #c98500; --series-5: #9085e9;
+  --good: #6fd49a; --good-bg: #16301f; --warn: #f0c060; --warn-bg: #33280f; --chip: #2a2a27;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg); color: var(--text-primary);
+  font: 14px/1.6 -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", "Segoe UI", sans-serif;
+}
+.wrap { max-width: 1180px; margin: 0 auto; padding: 24px 16px 64px; }
+header h1 { font-size: 22px; margin: 0; letter-spacing: .02em; }
+.sub { color: var(--text-secondary); margin: 4px 0 0; font-size: 13px; }
+.controls {
+  position: sticky; top: 0; z-index: 5; background: var(--bg);
+  display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center;
+  padding: 12px 0; margin: 12px 0 4px; border-bottom: 1px solid var(--border);
+}
+.seg { display: inline-flex; background: var(--surface-2); border-radius: 8px; padding: 2px; }
+.seg button {
+  border: 0; background: transparent; color: var(--text-secondary); font: inherit; font-size: 13px;
+  padding: 4px 12px; border-radius: 6px; cursor: pointer;
+}
+.seg button[aria-pressed="true"] { background: var(--surface-1); color: var(--text-primary); box-shadow: 0 1px 2px rgba(0,0,0,.12); }
+.toggle { display: inline-flex; gap: 6px; align-items: center; color: var(--text-secondary); font-size: 13px; cursor: pointer; }
+.notice { background: var(--warn-bg); color: var(--warn); border-radius: 8px; padding: 10px 14px; margin: 12px 0; font-size: 13px; }
+section { margin-top: 28px; }
+h2 { font-size: 17px; margin: 0 0 4px; }
+h3 { font-size: 14px; margin: 18px 0 6px; color: var(--text-secondary); font-weight: 600; }
+.help { color: var(--text-muted); font-size: 12.5px; margin: 0 0 10px; }
+.tablewrap { overflow-x: auto; background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { padding: 7px 10px; text-align: left; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+th { color: var(--text-muted); font-weight: 500; font-size: 12px; background: var(--surface-1); }
+tr:last-child td { border-bottom: 0; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+td.term { font-weight: 600; white-space: normal; min-width: 180px; }
+.ex { display: block; font-weight: 400; color: var(--text-muted); font-size: 12px; max-width: 460px; white-space: normal; }
+.chip { display: inline-block; background: var(--chip); color: var(--text-secondary); border-radius: 999px; padding: 1px 8px; font-size: 11.5px; margin: 0 3px 2px 0; }
+.chip.new { background: var(--accent); color: #fff; }
+.chip.good { background: var(--good-bg); color: var(--good); }
+.chip.warn { background: var(--warn-bg); color: var(--warn); }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.links a { margin-right: 8px; font-size: 12px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 14px; }
+@media (max-width: 420px) { .grid { grid-template-columns: 1fr; } }
+.card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; padding: 14px 14px 10px; min-width: 0; }
+.card .head { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
+.card .name { font-size: 15.5px; font-weight: 700; word-break: break-word; }
+.card .meta { margin: 4px 0 8px; }
+.stat { color: var(--text-secondary); font-size: 12.5px; margin-bottom: 6px; }
+.stat b { color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.rows { position: relative; touch-action: pan-y; }
+.row { display: grid; grid-template-columns: 108px 1fr; gap: 6px; align-items: center; }
+.row .lab { font-size: 12px; color: var(--text-secondary); line-height: 1.3; }
+.row .lab .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 5px; vertical-align: 1px; }
+.row .lab small { display: block; color: var(--text-muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.row svg { display: block; width: 100%; height: 50px; overflow: visible; }
+.xaxis { display: grid; grid-template-columns: 108px 1fr; gap: 6px; }
+.xaxis div { display: flex; justify-content: space-between; color: var(--text-muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.nodata { font-size: 11.5px; fill: var(--text-muted); }
+details { margin-top: 6px; font-size: 12.5px; }
+details summary { cursor: pointer; color: var(--text-muted); }
+details table { margin-top: 6px; }
+#tip {
+  position: fixed; pointer-events: none; z-index: 20; display: none;
+  background: var(--surface-1); color: var(--text-primary); border: 1px solid var(--border);
+  box-shadow: 0 4px 16px rgba(0,0,0,.15); border-radius: 8px; padding: 8px 10px; font-size: 12px; min-width: 170px;
+}
+#tip .d { color: var(--text-muted); margin-bottom: 4px; }
+#tip .r { display: flex; justify-content: space-between; gap: 14px; font-variant-numeric: tabular-nums; }
+#tip .r span:first-child::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; background: var(--c); }
+.empty { color: var(--text-muted); padding: 20px; background: var(--surface-1); border: 1px dashed var(--border); border-radius: 10px; }
+footer { margin-top: 40px; color: var(--text-muted); font-size: 12px; }
+/* 指定媒体の広がり */
+.media-panel { border:1px solid var(--border); border-radius:16px; background:var(--surface-1); padding:24px; }
+.media-heading { display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+.media-heading h2 { margin:0; }
+.media-health { margin-top:16px; padding:10px 12px; border:1px solid var(--border); border-radius:8px; }
+.media-health summary { cursor:pointer; font-size:12px; color:var(--text-secondary); }
+.media-status { display:grid; grid-template-columns:repeat(auto-fit,minmax(185px,1fr)); gap:8px; margin:16px 0 24px; }
+.publisher { padding:10px 12px; border:1px solid var(--border); border-radius:8px; min-width:0; }
+.publisher a { color:var(--text-primary); font-size:12px; font-weight:600; }
+.publisher small { display:block; margin-top:5px; color:var(--text-muted); font-size:11px; }
+.status-dot { display:inline-block; width:7px; height:7px; border-radius:50%; margin-right:5px; background:var(--good); }
+.status-dot.error { background:var(--warn); } .status-dot.pending { background:var(--text-muted); }
+.media-picks { display:flex; gap:8px; flex-wrap:wrap; margin:14px 0; }
+.media-picks button { border:1px solid var(--border); background:var(--surface-2); color:var(--text-primary); border-radius:20px; padding:7px 12px; cursor:pointer; }
+.media-picks button[aria-pressed="true"] { border-color:var(--accent); color:var(--accent); }
+.media-form { display:flex; gap:16px; align-items:end; flex-wrap:wrap; margin-top:20px; }
+.media-form label { display:grid; gap:6px; font-size:12px; color:var(--text-secondary); }
+.media-form select { padding:9px; border:1px solid var(--border); border-radius:7px; background:var(--surface-1); color:var(--text-primary); max-width:100%; }
+.media-form .term-select { flex:1; min-width:180px; }
+.media-metrics { display:flex; gap:32px; flex-wrap:wrap; margin:20px 0; }
+.media-metrics strong { font-size:26px; letter-spacing:-1px; display:block; color:var(--text-primary); }
+.media-metrics span { font-size:12px; color:var(--text-secondary); }
+.media-heat { width:max-content; min-width:100%; border-collapse:separate; border-spacing:3px; }
+.media-heat th, .media-heat td { padding:0; border:0; text-align:center; }
+.media-heat th { font-size:10px; font-weight:400; }
+.media-heat .pub-label { position:sticky; left:0; z-index:1; text-align:left; min-width:166px; background:var(--surface-1); padding-right:10px; font-size:12px; }
+.heat-cell { width:34px; height:32px; border:1px solid transparent; border-radius:4px; background:var(--surface-2); color:var(--text-secondary); cursor:pointer; font-variant-numeric:tabular-nums; }
+.heat-cell.hit { background:var(--accent); color:white; }
+.heat-cell.many { background:#165aab; color:white; }
+.heat-cell.partial { background-image:repeating-linear-gradient(135deg,transparent,transparent 4px,rgba(128,128,128,.18) 4px,rgba(128,128,128,.18) 6px); }
+.heat-cell.unknown { color:var(--text-muted); background:transparent; border:1px dashed var(--border); }
+.heat-cell[aria-pressed="true"] { outline:2px solid var(--text-primary); outline-offset:1px; }
+.media-legend { display:flex; gap:16px; flex-wrap:wrap; font-size:11px; color:var(--text-muted); margin:12px 0; }
+.media-articles { margin-top:20px; border-top:1px solid var(--border); padding-top:16px; }
+.media-articles h3 { margin:0 0 12px; }
+.media-articles ol { margin:0; padding:0; list-style:none; }
+.media-articles li { padding:10px 0; border-bottom:1px solid var(--border); }
+.media-articles li small { display:block; color:var(--text-muted); margin-bottom:3px; }
+.media-articles a { color:var(--text-primary); line-height:1.6; }
+.media-clear { border:1px solid var(--border); background:var(--surface-2); color:var(--text-primary); padding:6px 10px; border-radius:6px; cursor:pointer; }
+@media(max-width:600px) { .media-panel { padding:16px 12px; } .media-status { grid-template-columns:repeat(2,minmax(0,1fr)); } .media-metrics { gap:20px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>トレンド語ウォッチ</h1>
+    <p class="sub" id="meta"></p>
+  </header>
+
+  <div class="controls">
+    <div class="seg" id="fieldSeg" role="group" aria-label="分野"></div>
+    <div class="seg" id="rangeSeg" role="group" aria-label="期間">
+      <button data-v="30">30日</button><button data-v="90">90日</button><button data-v="0">全期間</button>
+    </div>
+    <label class="toggle"><input type="checkbox" id="avgToggle"> 7日平均でならす</label>
+  </div>
+
+  <div id="notice"></div>
+
+  <section class="media-panel" aria-labelledby="mediaTitle">
+    <div class="media-heading"><h2 id="mediaTitle">メディアへの広がり</h2><span class="chip" id="mediaScope"></span></div>
+    <p class="help">気になる言葉が、どの媒体の見出しに登場したか。色のついたマスを押すと記事を読めます。</p>
+    <details class="media-health"><summary id="mediaHealth">監視媒体の取得状況</summary><div id="mediaStatus" class="media-status"></div></details>
+    <div class="media-form">
+      <label class="term-select">調べる言葉<select id="mediaTerm" aria-label="調べる言葉"></select></label>
+      <label>表示期間<select id="mediaRange"><option value="14">14日</option><option value="30">30日</option><option value="90">90日</option></select></label>
+    </div>
+    <div id="mediaPicks" class="media-picks"></div>
+    <div id="mediaMetrics" class="media-metrics"></div>
+    <div id="mediaHeat" class="tablewrap" tabindex="0" aria-label="媒体別の日ごとの掲載件数。横にスクロールできます"></div>
+    <div class="media-legend"><span>青：掲載あり（数字は件数）</span><span>斜線・*：一部の取得分</span><span>—：未取得</span><span>0：取得した範囲では該当なし</span></div>
+    <p class="help">公開された配信に含まれる見出しだけを集計します。全記事の件数ではありません。Reutersはニュース検索経由です。今日の分は途中経過で、収集開始前の期間は未取得です。媒体をまたぐ転載もあるため、掲載媒体数は独立した取材の数とは限りません。</p>
+    <div id="mediaArticles" class="media-articles" aria-live="polite"></div>
+  </section>
+
+  <section>
+    <h2>新語候補 <span id="discDate" class="sub"></span></h2>
+    <p class="help">最近7日の見出しに急に増えた2〜3語のフレーズです。点数は「過去のペースから予想される件数より、どれだけ多いか」。3人（3サイト）以上が使っていて、複数の場所に出ているほど高くなります。</p>
+    <div id="disc"></div>
+  </section>
+
+  <section>
+    <h2>追跡中の言葉（日ごとの言及数）</h2>
+    <p class="help">指定媒体の線は取得した見出しの件数です。他のニュースと重なるため「英語圏」の合計には足していません。グラフは場所ごとに縦の目盛りが違います（件数の桁が大きく違うため）。形、つまり「いつ増え始めたか」を比べてください。グラフにカーソルを乗せる（スマホはタップ）と、その日の数が出ます。</p>
+    <div id="cards" class="grid"></div>
+  </section>
+
+  <footer>
+    データ: Hacker News (Algolia) / arXiv / GDELT / Qiita / 各媒体の公開RSS / Googleニュース。日付はUTC基準。<br>
+    このページは投資の助言ではありません。
+  </footer>
+</div>
+<div id="tip" role="tooltip"></div>
+
+<script>
+const DATA = /*__DATA__*/null;
+
+const SRC = [
+  { key: "hn",    label: "Hacker News", color: "var(--series-1)" },
+  { key: "arxiv", label: "arXiv 論文",   color: "var(--series-2)" },
+  { key: "news",  label: "英語ニュース",  color: "var(--series-3)" },
+  { key: "media", label: "指定媒体の見出し", color: "var(--series-5)" },
+  { key: "qiita", label: "Qiita（日本語）", color: "var(--series-4)" },
+];
+const PRICE_COLOR = "var(--series-5)";
+const SRC_LABEL = { hn: "HN", arxiv: "arXiv", news: "ニュース", media: "指定媒体" };
+const state = { field: "all", range: 90, avg: false, mediaTerm: null, mediaRange: 14, mediaCell: null };
+
+const $ = (s, el = document) => el.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fmt = (n) => n == null ? "—" : (Math.round(n * 10) / 10).toLocaleString("ja-JP");
+
+function addDays(iso, n) {
+  const d = new Date(iso + "T00:00:00Z"); d.setUTCDate(d.getUTCDate() + n);
+  return d.toISOString().slice(0, 10);
+}
+function shortDate(iso) { const [, m, d] = iso.split("-"); return `${+m}/${+d}`; }
+
+function endDate() {
+  if (DATA.discovery && DATA.discovery.date) return DATA.discovery.date;
+  let max = null;
+  for (const t of Object.values(DATA.series)) for (const s of Object.values(t)) for (const d of Object.keys(s.c || {})) if (!max || d > max) max = d;
+  return max || new Date().toISOString().slice(0, 10);
+}
+function dateList() {
+  const n = state.range || DATA.series_days;
+  const end = endDate();
+  const out = [];
+  for (let i = n - 1; i >= 0; i--) out.push(addDays(end, -i));
+  return out;
+}
+
+function countsFor(term, src, dates) {
+  const s = (DATA.series[term] || {})[src];
+  if (!s || !s.from) return null;
+  // 集計開始日より前は「データなし」、それ以降で記録のない日は0件
+  return dates.map(d => d < s.from || (s.to && d > s.to) ? null : (src === "media" ? (s.c[d] ?? null) : (s.c[d] || 0)));
+}
+function smooth(vals) {
+  return vals.map((v, i) => {
+    if (v == null) return null;
+    const win = vals.slice(Math.max(0, i - 6), i + 1).filter(x => x != null);
+    return win.reduce((a, b) => a + b, 0) / win.length;
+  });
+}
+function sumRange(vals, from, to) {
+  let s = 0, any = false;
+  for (let i = Math.max(0, from); i < Math.min(vals.length, to); i++) if (vals[i] != null) { s += vals[i]; any = true; }
+  return any ? s : null;
+}
+
+/* ---------- controls ---------- */
+function renderControls() {
+  const seg = $("#fieldSeg");
+  const opts = [["all", "すべて"], ...Object.entries(DATA.fields)];
+  seg.innerHTML = opts.map(([k, l]) => `<button data-v="${k}">${esc(l)}</button>`).join("");
+  const sync = () => {
+    seg.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", b.dataset.v === state.field));
+    $("#rangeSeg").querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", +b.dataset.v === state.range));
+  };
+  seg.onclick = e => { const b = e.target.closest("button"); if (!b) return; state.field = b.dataset.v; state.mediaCell = null; sync(); renderAll(); };
+  $("#rangeSeg").onclick = e => { const b = e.target.closest("button"); if (!b) return; state.range = +b.dataset.v; sync(); renderCards(); };
+  $("#avgToggle").onchange = e => { state.avg = e.target.checked; renderCards(); };
+  sync();
+}
+
+/* ---------- selected publishers ---------- */
+function renderMedia() {
+  const m = DATA.media || {publishers:[], terms:[], articles:{}};
+  if (!m.publishers.length) {
+    $("#mediaStatus").innerHTML = '<div class="empty">監視媒体が設定されていません。</div>';
+    return;
+  }
+  const labels = Object.fromEntries(m.publishers.map(p => [p.key,p.label]));
+  const days = Array.from({length:state.mediaRange}, (_,i) => addDays(m.end, i-state.mediaRange+1));
+  const from = days[0], to = days[days.length-1];
+  const inScope = a => a.date >= from && a.date <= to && (state.field === 'all' || a.fields.includes(state.field));
+  const entries = Object.entries(m.articles).filter(([,a]) => inScope(a));
+  const ids = new Set(entries.map(([id]) => id));
+  const ranked = m.terms.filter(t => state.field === 'all' || t.field === state.field).map(t => {
+    const matched = t.articles.filter(id => ids.has(id));
+    return {...t, matched, breadth:new Set(matched.map(id => m.articles[id].publisher)).size};
+  }).sort((a,b) => b.breadth-a.breadth || b.matched.length-a.matched.length || a.term.localeCompare(b.term));
+  if (state.mediaTerm === null || (state.mediaTerm && !ranked.some(t=>t.term===state.mediaTerm))) state.mediaTerm = ranked[0]?.term || '';
+  const current = ranked.find(t => t.term === state.mediaTerm);
+  const selected = current ? current.matched.map(id=>[id,m.articles[id]]) : entries;
+  $("#mediaScope").textContent = `${m.publishers.length}媒体 ・ ${to} UTCまで`;
+  const okCount=m.publishers.filter(p=>p.status==='ok').length;
+  const errCount=m.publishers.filter(p=>p.status==='error').length;
+  $("#mediaHealth").textContent=`監視する${m.publishers.length}媒体の一覧 ・ ${okCount}媒体を取得済み${errCount?' / '+errCount+'媒体で取得エラー':''}（開いて確認）`;
+  $("#mediaStatus").innerHTML = m.publishers.map(p => {
+    const old = p.last_success && (new Date(m.end+'T23:59:59Z')-new Date(p.last_success)>48*3600000);
+    const status = p.status === 'error' ? '取得エラー・保存分を表示' : p.status === 'disabled' ? '停止中' : !p.last_success ? '未取得' : old ? '更新が遅れています' : '取得済み';
+    const cls = p.status === 'error' || old ? 'error' : !p.last_success ? 'pending' : '';
+    return `<div class="publisher"><a href="${esc(p.site)}" target="_blank" rel="noopener noreferrer">${esc(p.label)}</a><small><span class="status-dot ${cls}"></span>${status}</small><small>保存 ${p.count}件 ・ ${p.method==='search'?'検索経由':'公式RSS'}${p.last_success ? ' ・ '+esc(p.last_success.slice(0,10)) : ''}</small></div>`;
+  }).join('');
+  $("#mediaTerm").innerHTML = '<option value="">すべての見出し</option>' + ranked.map(t=>`<option value="${esc(t.term)}">${esc(t.term)} — ${t.breadth}媒体 / ${t.matched.length}件</option>`).join('');
+  $("#mediaTerm").value = state.mediaTerm;
+  $("#mediaTerm").onchange = e => { state.mediaTerm=e.target.value; state.mediaCell=null; renderMedia(); };
+  $("#mediaRange").value = state.mediaRange;
+  $("#mediaRange").onchange = e => { state.mediaRange=+e.target.value; state.mediaCell=null; renderMedia(); };
+  $("#mediaPicks").innerHTML = ranked.filter(t=>t.breadth>0).slice(0,6).map(t=>`<button type="button" data-term="${esc(t.term)}" aria-pressed="${t.term===state.mediaTerm}">${esc(t.term)} <b>${t.breadth}媒体</b></button>`).join('');
+  $("#mediaPicks").onclick = e => { const b=e.target.closest('button'); if(b) { state.mediaTerm=b.dataset.term; state.mediaCell=null; renderMedia(); } };
+  const pubs = new Set(selected.map(([,a])=>a.publisher));
+  const first = selected.map(([,a])=>a.date).sort()[0];
+  $("#mediaMetrics").innerHTML = `<div><strong>${pubs.size}<span> / ${m.publishers.length}</span></strong><span>掲載を確認した媒体</span></div><div><strong>${selected.length}</strong><span>取得した見出し</span></div><div><strong>${first ? shortDate(first) : '—'}</strong><span>表示期間内で最初の掲載日</span></div>`;
+  const counts = {};
+  for (const [,a] of selected) { const key=a.publisher+'|'+a.date; counts[key]=(counts[key]||0)+1; }
+  let grid = `<table class="media-heat"><caption class="sub">${esc(state.mediaTerm || 'すべての見出し')} ・ ${from}〜${to}（UTC）</caption><thead><tr><th class="pub-label">媒体 / 掲載日</th>${days.map(d=>`<th scope="col">${shortDate(d)}${d===m.end?'*':''}</th>`).join('')}</tr></thead><tbody>`;
+  for (const p of m.publishers) {
+    grid += `<tr><th scope="row" class="pub-label">${esc(p.label)}</th>`;
+    for (const d of days) {
+      const cov=p.coverage[d];
+      const n=counts[p.key+'|'+d]||0;
+      const known=!!cov || n>0;
+      const partial=known && cov!=='covered';
+      const chosen=state.mediaCell?.publisher===p.key && state.mediaCell?.date===d;
+      const tip=`${p.label} ${d}: ${known?n+'件'+(partial?'（一部取得）':'（配信の取得範囲）'):'未取得'}`;
+      grid += `<td><button type="button" class="heat-cell ${!known?'unknown':n>=3?'many':n?'hit':''} ${partial?'partial':''}" data-publisher="${esc(p.key)}" data-date="${d}" aria-label="${esc(tip)}" title="${esc(tip)}" aria-pressed="${chosen}">${known?n+(partial?'*':''):'—'}</button></td>`;
+    }
+    grid += '</tr>';
+  }
+  $("#mediaHeat").innerHTML = grid+'</tbody></table>';
+  $("#mediaHeat").onclick = e => {
+    const b=e.target.closest('button[data-publisher]');
+    if(b) { state.mediaCell={publisher:b.dataset.publisher,date:b.dataset.date}; renderMedia(); }
+  };
+  const cell=state.mediaCell;
+  const shown=selected.filter(([,a])=>!cell || (a.publisher===cell.publisher && a.date===cell.date)).sort((a,b)=>b[1].published.localeCompare(a[1].published));
+  const title=cell ? `${labels[cell.publisher]} ・ ${cell.date}` : '元の見出しを読む';
+  $("#mediaArticles").innerHTML = `<h3>${esc(title)} ${cell?'<button type="button" class="media-clear" id="mediaClear">日付・媒体の絞り込みを解除</button>':''}</h3>` + (!shown.length?'<p class="sub">この条件で取得した見出しはありません。未取得の期間は表の「—」をご確認ください。</p>':`<ol>${shown.slice(0,30).map(([,a])=>`<li><small>${esc(labels[a.publisher])} ・ ${esc(a.date)} UTC</small><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.title)} ↗</a></li>`).join('')}</ol>${shown.length>30?`<p class="sub">新しい順に30件を表示（該当${shown.length}件）。表で日付・媒体を絞れます。</p>`:''}`);
+  const clear=$("#mediaClear"); if(clear) clear.onclick=()=>{state.mediaCell=null;renderMedia();};
+}
+
+/* ---------- discovery ---------- */
+function renderDiscovery() {
+  const el = $("#disc");
+  const d = DATA.discovery;
+  if (!d) { el.innerHTML = `<div class="empty">まだ候補がありません。最初に backfill を実行し、そのあと daily を実行してください。</div>`; return; }
+  $("#discDate").textContent = `${d.date} まで7日間`;
+  const fields = state.field === "all" ? [...Object.keys(DATA.fields), "other"] : [state.field];
+  let html = "";
+  for (const f of fields) {
+    const rows = (d.fields || {})[f] || [];
+    if (!rows.length) continue;
+    const label = f === "other" ? "その他（分野に当てはまらない）" : DATA.fields[f];
+    html += `<h3>${esc(label)}</h3><div class="tablewrap"><table><thead><tr>
+      <th class="num">#</th><th>言葉と見出し例</th><th class="num">点数</th><th class="num">最近7日</th><th class="num">予想</th>
+      <th class="num">人数</th><th>出た場所</th><th>調べる</th></tr></thead><tbody>`;
+    for (const r of rows) {
+      const q = encodeURIComponent(r.term);
+      const ex = (r.examples || []).slice(0, 2).map(x => `<span class="ex">${esc(SRC_LABEL[x.source] || x.source)}: ${esc(x.title)}</span>`).join("");
+      const tracked = DATA.tracked.some(t => t.term === r.term) ? ` <span class="chip">追跡中</span>` : "";
+      html += `<tr>
+        <td class="num">${r.rank}</td>
+        <td class="term">${esc(r.term)} ${r.is_new ? '<span class="chip new">初登場</span>' : ""}${tracked}${ex}</td>
+        <td class="num"><b>${fmt(r.score)}</b></td>
+        <td class="num">${r.recent}</td>
+        <td class="num">${fmt(r.expected)}</td>
+        <td class="num">${r.voices}</td>
+        <td>${r.sources.map(s => `<span class="chip">${esc(SRC_LABEL[s] || s)}</span>`).join("")}</td>
+        <td class="links"><a href="https://hn.algolia.com/?q=${q}" target="_blank" rel="noopener">HN</a><a href="https://trends.google.com/trends/explore?q=${q}" target="_blank" rel="noopener">Googleトレンド</a><a href="https://x.com/search?q=%22${q}%22&f=live" target="_blank" rel="noopener">X</a></td>
+      </tr>`;
+    }
+    html += `</tbody></table></div>`;
+  }
+  el.innerHTML = html || `<div class="empty">この分野の候補は今日はありません。</div>`;
+}
+
+/* ---------- tracked cards ---------- */
+function termInfo(t, dates) {
+  const rows = SRC.map(s => ({ ...s, raw: countsFor(t.term, s.key, dates) }));
+  const n = dates.length;
+  const en = rows.filter(r => r.key !== "qiita" && r.key !== "media" && r.raw);
+  const last7 = en.reduce((a, r) => a + (sumRange(r.raw, n - 7, n) || 0), 0);
+  const prev28 = en.reduce((a, r) => a + (sumRange(r.raw, n - 35, n - 7) || 0), 0);
+  const expected = prev28 / 4;
+  const z = (last7 - expected) / Math.sqrt(expected + 1);
+  const q = rows.find(r => r.key === "qiita");
+  const en30 = en.reduce((a, r) => a + (sumRange(r.raw, n - 30, n) || 0), 0);
+  const jp30 = q.raw ? sumRange(q.raw, n - 30, n) : null;
+  return { rows, last7, expected, z, en30, jp30 };
+}
+
+function renderCards() {
+  const el = $("#cards");
+  const dates = dateList();
+  // 分野フィルタに関係なく、指標は常に直近の期間で計算（期間ボタンで並び順が変わらないように）
+  const fixed = []; for (let i = 34; i >= 0; i--) fixed.push(addDays(endDate(), -i));
+  let list = DATA.tracked.filter(t => state.field === "all" || t.field === state.field)
+    .map(t => ({ t, info: termInfo(t, fixed) }));
+  list.sort((a, b) => b.info.z - a.info.z);
+  if (!list.length) { el.innerHTML = `<div class="empty">追跡中の言葉がありません。config.yaml の tracked_terms に追加するか、daily を実行すると上位候補が自動で入ります。</div>`; return; }
+  el.innerHTML = "";
+  for (const { t, info } of list) el.appendChild(card(t, info, dates));
+}
+
+function card(t, info, dates) {
+  const c = document.createElement("article");
+  c.className = "card";
+  const originLabel = { config: "設定", manual: "手動", auto: "自動追加" }[t.origin] || t.origin;
+  const zChip = info.z >= 2 ? `<span class="chip good">伸び +${fmt(info.z)}</span>` : `<span class="chip">伸び ${info.z >= 0 ? "+" : ""}${fmt(info.z)}</span>`;
+  const gap = (info.jp30 === 0 && info.en30 >= 10) ? `<span class="chip warn">日本語圏ではまだ0件</span>` : "";
+  c.innerHTML = `
+    <div class="head"><div class="name">${esc(t.term)}</div>${zChip}</div>
+    <div class="meta"><span class="chip">${esc(DATA.fields[t.field] || "その他")}</span><span class="chip">${esc(originLabel)}${t.added ? " " + esc(shortDate(t.added)) : ""}</span>${gap}</div>
+    <div class="stat">英語圏 直近7日 <b>${fmt(info.last7)}</b>件（その前4週の週平均 ${fmt(info.expected)}件）</div>
+    <div class="rows"></div>
+    <div class="xaxis"><span></span><div><span>${shortDate(dates[0])}</span><span>${shortDate(dates[Math.floor(dates.length / 2)])}</span><span>${shortDate(dates[dates.length - 1])}</span></div></div>
+    <details><summary>表で見る（直近14日）</summary><div class="tablewrap"></div></details>`;
+  const rowsEl = $(".rows", c);
+  const series = SRC.map(s => {
+    const raw = countsFor(t.term, s.key, dates);
+    return { label: s.label, color: s.color, raw, vals: raw && state.avg ? smooth(raw) : raw, connect: false, unit: "件" };
+  });
+  for (const tk of t.tickers || []) {
+    const p = DATA.prices[tk] || {};
+    const raw = dates.map(d => p[d] ?? null);
+    series.push({ label: `株価 ${tk}`, color: PRICE_COLOR, raw, vals: raw.some(v => v != null) ? raw : null, connect: true, unit: "" });
+  }
+  const svgs = series.map(s => {
+    const row = document.createElement("div");
+    row.className = "row";
+    const tot = s.raw && s.unit ? sumRange(s.raw, s.raw.length - 7, s.raw.length) : null;
+    const lastPrice = !s.unit && s.vals ? [...s.vals].reverse().find(v => v != null) : null;
+    row.innerHTML = `<div class="lab"><span class="sw" style="background:${s.color}"></span>${esc(s.label)}<small>${s.unit ? (tot == null ? "データなし" : `直近7日 ${fmt(tot)}件`) : (lastPrice == null ? "データなし" : `終値 ${fmt(lastPrice)}`)}</small></div>`;
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    row.appendChild(svg);
+    rowsEl.appendChild(row);
+    return { svg, s };
+  });
+  requestAnimationFrame(() => svgs.forEach(({ svg, s }) => drawSpark(svg, s, dates)));
+  attachHover(c, rowsEl, svgs, dates);
+  // 表
+  const n = dates.length, from = Math.max(0, n - 14);
+  let tb = `<table><thead><tr><th>日付</th>${series.map(s => `<th class="num">${esc(s.label)}</th>`).join("")}</tr></thead><tbody>`;
+  for (let i = n - 1; i >= from; i--) tb += `<tr><td>${dates[i]}</td>${series.map(s => `<td class="num">${s.raw ? fmt(s.raw[i]) : "—"}</td>`).join("")}</tr>`;
+  $("details .tablewrap", c).innerHTML = tb + "</tbody></table>";
+  return c;
+}
+
+function drawSpark(svg, s, dates) {
+  const W = svg.clientWidth || 220, H = 50, pad = 3;
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  if (!s.vals || !s.vals.some(v => v != null)) { svg.innerHTML = `<text class="nodata" x="0" y="${H / 2 + 4}">データなし</text>`; return; }
+  const vals = s.vals;
+  const nums = vals.filter(v => v != null);
+  let lo = s.unit ? 0 : Math.min(...nums), hi = Math.max(...nums, s.unit ? 1 : -Infinity);
+  if (hi === lo) hi = lo + 1;
+  const x = i => (dates.length === 1 ? W / 2 : i * (W - 1) / (dates.length - 1));
+  const y = v => H - pad - (v - lo) / (hi - lo) * (H - pad * 2 - 10);
+  let d = "", pen = false;
+  vals.forEach((v, i) => {
+    if (v == null) { if (!s.connect) pen = false; return; }
+    d += (pen ? "L" : "M") + x(i).toFixed(1) + " " + y(v).toFixed(1);
+    pen = true;
+  });
+  let lastI = -1; vals.forEach((v, i) => { if (v != null) lastI = i; });
+  svg.innerHTML = `
+    <line x1="0" x2="${W}" y1="${H - pad}" y2="${H - pad}" stroke="var(--grid)" stroke-width="1"/>
+    <text x="${W}" y="8" text-anchor="end" font-size="10" fill="var(--text-muted)">${s.unit ? "最大 " + fmt(hi) : fmt(lo) + "–" + fmt(hi)}</text>
+    <path d="${d}" fill="none" stroke="${s.color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    ${lastI >= 0 ? `<circle cx="${x(lastI)}" cy="${y(vals[lastI])}" r="3.5" fill="${s.color}" stroke="var(--surface-1)" stroke-width="2"/>` : ""}
+    <line class="xh" x1="0" x2="0" y1="0" y2="${H}" stroke="var(--text-muted)" stroke-width="1" visibility="hidden"/>
+    <circle class="xd" r="4" fill="${s.color}" stroke="var(--surface-1)" stroke-width="2" visibility="hidden"/>`;
+  svg._geom = { x, y, W };
+}
+
+function attachHover(card, rowsEl, svgs, dates) {
+  const tip = $("#tip");
+  const move = (ev) => {
+    const first = svgs[0].svg.getBoundingClientRect();
+    const rel = (ev.clientX - first.left) / first.width;
+    if (rel < -0.02 || rel > 1.02) { hide(); return; }
+    const i = Math.max(0, Math.min(dates.length - 1, Math.round(rel * (dates.length - 1))));
+    let html = `<div class="d">${dates[i]}</div>`;
+    for (const { svg, s } of svgs) {
+      const g = svg._geom; if (!g) continue;
+      const xh = svg.querySelector(".xh"), xd = svg.querySelector(".xd");
+      const v = s.vals ? s.vals[i] : null;
+      xh.setAttribute("x1", g.x(i)); xh.setAttribute("x2", g.x(i)); xh.setAttribute("visibility", "visible");
+      if (v != null) { xd.setAttribute("cx", g.x(i)); xd.setAttribute("cy", g.y(v)); xd.setAttribute("visibility", "visible"); }
+      else xd.setAttribute("visibility", "hidden");
+      html += `<div class="r" style="--c:${s.color}"><span>${esc(s.label)}</span><span>${v == null ? "—" : fmt(v) + (s.unit || "")}</span></div>`;
+    }
+    tip.innerHTML = html;
+    tip.style.display = "block";
+    const tw = tip.offsetWidth, th = tip.offsetHeight;
+    let left = ev.clientX + 14; if (left + tw > innerWidth - 8) left = ev.clientX - tw - 14;
+    let top = ev.clientY - th - 12; if (top < 8) top = ev.clientY + 16;
+    tip.style.left = Math.max(8, left) + "px"; tip.style.top = top + "px";
+  };
+  const hide = () => {
+    tip.style.display = "none";
+    card.querySelectorAll(".xh,.xd").forEach(e => e.setAttribute("visibility", "hidden"));
+  };
+  rowsEl.addEventListener("pointermove", move);
+  rowsEl.addEventListener("pointerdown", move);
+  rowsEl.addEventListener("pointerleave", hide);
+}
+
+function renderAll() { renderMedia(); renderDiscovery(); renderCards(); }
+
+function init() {
+  if (!DATA) { document.body.innerHTML = "<p style='padding:20px'>データがありません。python -m trendwatch build を実行してください。</p>"; return; }
+  $("#meta").textContent = `最終更新 ${DATA.generated} ・ 追跡中 ${DATA.tracked.length}語`;
+  const d = DATA.discovery;
+  if (d && d.baseline_days_available < d.baseline_days_wanted) {
+    $("#notice").innerHTML = `<div class="notice">比べる相手の過去データがまだ ${d.baseline_days_available}日分しかありません（目標 ${d.baseline_days_wanted}日）。それまでは「初登場」が多めに出るので、点数は参考程度に見てください。</div>`;
+  }
+  renderControls();
+  renderAll();
+  let rt; addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(renderCards, 200); });
+}
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,881 @@
+{
+ "baseline_days_available": 0,
+ "baseline_days_wanted": 90,
+ "date": "2026-09-28",
+ "docs_baseline": 0,
+ "docs_recent": 2024,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Foundations of Large Language Models"
+     },
+     {
+      "source": "arxiv",
+      "title": "Telescopic Language Models"
+     },
+     {
+      "source": "arxiv",
+      "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 1,
+    "recent": 41,
+    "score": 61.5,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "language models",
+    "voices": 40,
+    "z": 41.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Releases Software It Says Can Prevent AI Agents From Going Rogue"
+     },
+     {
+      "source": "media",
+      "title": "Shopify opens checkout to browser-based AI agents"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia launches new platform for reining in rogue AI agents"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 23,
+    "score": 46.0,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai agents",
+    "voices": 22,
+    "z": 23.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning"
+     },
+     {
+      "source": "arxiv",
+      "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning"
+     },
+     {
+      "source": "arxiv",
+      "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 28,
+    "score": 28.0,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "reinforcement learning",
+    "voices": 28,
+    "z": 28.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "The Perfect Crime: LLM Agents Can Easily Tamper with Their Own Traces"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: IngotDB – SQL-based memory for LLM agents"
+     },
+     {
+      "source": "hn",
+      "title": "A-Mem: Agentic Memory for LLM Agents"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 4,
+    "recent": 18,
+    "score": 27.0,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "llm agents",
+    "voices": 18,
+    "z": 18.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Recursive Self-Improvement via On-Policy Distillation for Reasoning"
+     },
+     {
+      "source": "arxiv",
+      "title": "Reward-Aligned Reweighting for On-Policy Distillation"
+     },
+     {
+      "source": "arxiv",
+      "title": "d-OPD: Future-Aware On-Policy Distillation for Block Diffusion Language Models"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 5,
+    "recent": 16,
+    "score": 24.0,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "on-policy distillation",
+    "voices": 16,
+    "z": 16.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Give your AI agent a versioned filesystem"
+     },
+     {
+      "source": "hn",
+      "title": "Putting the trace before the loop: observability-first AI agent design"
+     },
+     {
+      "source": "hn",
+      "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 14,
+    "score": 14.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "ai agent",
+    "voices": 14,
+    "z": 14.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Detecting Compromised AI Coding Agents with Jev and Gryph"
+     },
+     {
+      "source": "hn",
+      "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents"
+     },
+     {
+      "source": "hn",
+      "title": "You shouldn't use Jev for coding agents and routing"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "coding agents",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "An Internet for the KV Cache: Rethinking Classical Infrastructure Boundaries"
+     },
+     {
+      "source": "arxiv",
+      "title": "Cartridges++: KV Cache Compression without Off-Context Derailment"
+     },
+     {
+      "source": "arxiv",
+      "title": "CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "kv cache",
+    "voices": 6,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion"
+     },
+     {
+      "source": "arxiv",
+      "title": "Building Transformation Layers for Riemannian Neural Networks"
+     },
+     {
+      "source": "arxiv",
+      "title": "Latency and accuracy tradeoffs in Spiking Neural Networks"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 9,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "neural networks",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Recursive Self-Improvement Won’t Be Winner-Takes-All, Say Founders of Ricursive"
+     },
+     {
+      "source": "hn",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
+     },
+     {
+      "source": "hn",
+      "title": "Recursive Self-Improvement via On-Policy Distillation for Reasoning"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 10.0,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "recursive self-improvement",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta Taps MongoDB CEO to Lead New Enterprise AI Division"
+     },
+     {
+      "source": "hn",
+      "title": "Meta Poaches MongoDB CEO \"Effective Immediately\""
+     },
+     {
+      "source": "hn",
+      "title": "Meta Poaches MongoDB CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 11,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "mongodb ceo",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI Will Not Ship GPT-6.1 Astra Due to Safety Concerns"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI shelves new AI model release over safety concerns"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI reportedly ditches model over safety concerns"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "safety concerns",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Five failure modes around fact retirement in agent memory, with measurements"
+     },
+     {
+      "source": "arxiv",
+      "title": "Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning"
+     },
+     {
+      "source": "arxiv",
+      "title": "Just-In-Time Agent Memory with Runtime Agentic Research"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 13,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "agent memory",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AI safety field *visual* impact analysis"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia announces AI safety platform"
+     },
+     {
+      "source": "hn",
+      "title": "'Things Will Never Be Chill Again':The Doomers Who Shaped the AI Safety Freakout"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 14,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "ai safety",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model"
+     },
+     {
+      "source": "arxiv",
+      "title": "A mechanistic study of language model introspection"
+     },
+     {
+      "source": "arxiv",
+      "title": "BA-DPO: Bias-Adjusted Direct Preference Optimization for Language Model Alignment"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "language model",
+    "voices": 5,
+    "z": 5.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX's Starship makes orbital debut deploying Starlinks before early ending"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX's Starship launching to orbit for first time ever today"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX – Starship Flight 14"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 1,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex starship",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper"
+     },
+     {
+      "source": "hn",
+      "title": "App Store review allowed a Meta Muse copycat"
+     },
+     {
+      "source": "hn",
+      "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "app store",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Sonnet 5.5 scores just behind Opus 5.5 on Artificial Analysis Intelligence Index"
+     },
+     {
+      "source": "hn",
+      "title": "Sonnet 5.5 trumps Fable 5.1 on Artificial Analysis"
+     },
+     {
+      "source": "hn",
+      "title": "The Artificial Analysis Cyber Index"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "artificial analysis",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "SpaceX – Starship Flight 14"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX – Starship Flight 14"
+     },
+     {
+      "source": "hn",
+      "title": "Starship Flight 14 – Live Broadcast"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "starship flight",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "How I Made a Zero Dependency Terminal Text Editor in C Using POSIX System Calls"
+     },
+     {
+      "source": "hn",
+      "title": "Lexxy: A modern rich text editor for Rails"
+     },
+     {
+      "source": "hn",
+      "title": "Lexxy 1.0. A new rich text editor for Rails"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "text editor",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Why AI's $15 Trillion Buildout Is Rewriting the Rules of Data Center Financing"
+     },
+     {
+      "source": "media",
+      "title": "Data center backup power contributes to health risks: report"
+     },
+     {
+      "source": "hn",
+      "title": "Oracle triggers 'force majeure' on data center project over power delays"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data center",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "From data centers to AI factories: What utilities need to know about the next wave of load growth"
+     },
+     {
+      "source": "hn",
+      "title": "One Quarter of Global Data Centers Are Located in Water-Stressed Areas"
+     },
+     {
+      "source": "arxiv",
+      "title": "Integrated Thermal and Power Management for Wave-Powered Subsea Data Centers via Nonlinear Model Predictive Control"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 3,
+    "score": 6.0,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "data centers",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Scalable Small-Signal Stability Assessment of Power Systems Based on Frequency-Domain Quadratic Constraints"
+     },
+     {
+      "source": "arxiv",
+      "title": "Frequency Measurement Practices for Inertia Assessment in Inverter Based Resources Dominated Power Systems"
+     },
+     {
+      "source": "arxiv",
+      "title": "PowerBench: A Benchmark for Agentic Retrieval and Reasoning in Power Systems"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "power systems",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD to Buy Fei-Fei Li’s World Labs for $8.2 Billion"
+     },
+     {
+      "source": "media",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 1,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "li world labs",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia launches new platform for reining in rogue AI agents"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Launches Agent Safety Platform to Secure Agents, Testing to Deployment"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia launches new tool to keep AI agents from going rogue"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 2,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia launches",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD to Buy Fei-Fei Li’s World Labs for $8.2 Billion"
+     },
+     {
+      "source": "hn",
+      "title": "AMD to buy Fei-Fei Li's AI startup for $8B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "buy fei-fei li",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Adds Record $150 Billion to Stock Buyback"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Authorizes $150 Billion Stock Buyback Increase, Largest In History"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 4,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "stock buyback",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Dr. Fei Fei Li's World Labs"
+     },
+     {
+      "source": "hn",
+      "title": "AMD acquires World Labs"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "amd acquires",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip"
+     },
+     {
+      "source": "hn",
+      "title": "Reverse Engineering How Meta's Muse Shops"
+     },
+     {
+      "source": "hn",
+      "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 6,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "reverse engineering",
+    "voices": 3,
+    "z": 3.0
+   }
+  ]
+ },
+ "recent_days": 7
+}

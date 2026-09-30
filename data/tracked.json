@@ -1,0 +1,26 @@
+{
+ "gpt-6 astra": {
+  "added": "2026-09-30",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 16.0
+ },
+ "li world labs": {
+  "added": "2026-09-30",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 13.5
+ },
+ "nvidia launches": {
+  "added": "2026-09-30",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 8.35
+ },
+ "on-policy distillation": {
+  "added": "2026-09-30",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 19.93
+ }
+}

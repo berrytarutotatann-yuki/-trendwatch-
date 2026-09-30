@@ -1,0 +1,1178 @@
+{
+ "baseline_days_available": 60,
+ "baseline_days_wanted": 90,
+ "date": "2026-09-29",
+ "docs_baseline": 73937,
+ "docs_recent": 7799,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 56,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Dr. OPD: Learning What to Follow for Optimal On-Policy Distillation of Large Language Models"
+     },
+     {
+      "source": "arxiv",
+      "title": "FlowMap-OPD: Rollout--Kernel Separation for On-Policy Distillation of Few-Step Flow-Map Generators"
+     },
+     {
+      "source": "arxiv",
+      "title": "From Dissonance to Orchestration: Teacher Intervention in On-Policy Distillation"
+     }
+    ],
+    "expected": 6.53,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 43,
+    "score": 19.93,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "on-policy distillation",
+    "voices": 43,
+    "z": 13.29
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less"
+     },
+     {
+      "source": "hn",
+      "title": "GPT-6 Astra is the best vision model we have tested"
+     },
+     {
+      "source": "hn",
+      "title": "Addendum to GPT-6 Astra System Card: GPT-6.1 Sol"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 8,
+    "score": 16.0,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "gpt-6 astra",
+    "voices": 7,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "d1: Liquid AI's First Decision Model"
+     },
+     {
+      "source": "hn",
+      "title": "Jeb: Turn any OpenAI API into a decision model"
+     },
+     {
+      "source": "arxiv",
+      "title": "Can a Cacheable Decision Model Follow Rules?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 10,
+    "score": 15.0,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Evolution Of Voice Agents: How They Work And Why You Could See Them Everywhere"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Universal 3.6 Pro – streaming speech-to-text tuned for voice agents"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Giving voice agents a voice that adapts to context"
+     }
+    ],
+    "expected": 0.82,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 9,
+    "score": 12.14,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "voice agents",
+    "voices": 9,
+    "z": 6.07
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta’s MongoDB CEO Poach"
+     },
+     {
+      "source": "media",
+      "title": "Meta Taps MongoDB CEO to Lead New Enterprise AI Division"
+     },
+     {
+      "source": "hn",
+      "title": "Meta Has Hired MongoDB CEO Chirantan Desai for AI Push"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 5,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "mongodb ceo",
+    "voices": 7,
+    "z": 8.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger"
+     },
+     {
+      "source": "media",
+      "title": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time."
+     },
+     {
+      "source": "media",
+      "title": "Meta expands Muse AI agent for small businesses"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 9,
+    "score": 11.84,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "muse ai",
+    "voices": 8,
+    "z": 7.89
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI Will Not Ship GPT-6.1 Astra Due to Safety Concerns"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI shelves new AI model release over safety concerns"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI reportedly ditches model over safety concerns"
+     }
+    ],
+    "expected": 0.47,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 10,
+    "score": 11.81,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "safety concerns",
+    "voices": 10,
+    "z": 7.87
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Jeeves. Reasoning improves Jev-like decision models"
+     },
+     {
+      "source": "hn",
+      "title": "Run Decision Models on vLLM and Red Hat AI Using DiffusionGemma"
+     },
+     {
+      "source": "hn",
+      "title": "Nodd – Tiny, use-case-specific decision models that can run in browser"
+     }
+    ],
+    "expected": 0.12,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 8,
+    "score": 11.19,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision models",
+    "voices": 8,
+    "z": 7.46
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger"
+     },
+     {
+      "source": "media",
+      "title": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time."
+     },
+     {
+      "source": "media",
+      "title": "Manus Unveils New Personal Agent App in Challenge to Meta’s Muse"
+     }
+    ],
+    "expected": 0.93,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 11,
+    "score": 10.86,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta muse",
+    "voices": 11,
+    "z": 7.24
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic IPO prospectus shows key executives and board"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic warns of 'existential risks to humanity' in IPO prospectus"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic IPO prospectus reveals surging costs, $42B 2025 net loss"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipo prospectus",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Recursive Self-Improvement Won’t Be Winner-Takes-All, Say Founders of Ricursive"
+     },
+     {
+      "source": "arxiv",
+      "title": "Video-RSI: Recursive Self-Improvement of Video Understanding Agents via Harness Evolution"
+     },
+     {
+      "source": "arxiv",
+      "title": "Gödel Forest: Balancing Search Depth and Breadth for Data-Centric Recursive Self-Improvement"
+     }
+    ],
+    "expected": 2.22,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 10,
+    "score": 8.68,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "recursive self-improvement",
+    "voices": 9,
+    "z": 4.34
+   },
+   {
+    "baseline": 47,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms"
+     },
+     {
+      "source": "arxiv",
+      "title": "ARC-KV: Amortizing Anchor Search for Reconstruction-Based KV Cache Compaction"
+     },
+     {
+      "source": "arxiv",
+      "title": "ATTUNER: Recomputation-Free KV Cache Reuse via Query-Side Adaptation"
+     }
+    ],
+    "expected": 5.48,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 20,
+    "score": 8.55,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "kv cache",
+    "voices": 19,
+    "z": 5.7
+   },
+   {
+    "baseline": 34,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘Things Will Never Be Chill Again’: The Doomers Who Shaped the AI Safety Freakout"
+     },
+     {
+      "source": "hn",
+      "title": "AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law"
+     },
+     {
+      "source": "hn",
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'"
+     }
+    ],
+    "expected": 3.97,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 13,
+    "score": 8.11,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai safety",
+    "voices": 13,
+    "z": 4.05
+   },
+   {
+    "baseline": 732,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Language models for text classification: From bag-of-words to Jev"
+     },
+     {
+      "source": "hn",
+      "title": "Language Models Act on Hidden Valence"
+     },
+     {
+      "source": "arxiv",
+      "title": "Alpha Diffusion Language Models: Factorization Alone Is Not the Problem"
+     }
+    ],
+    "expected": 85.4,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 134,
+    "score": 7.84,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "language models",
+    "voices": 132,
+    "z": 5.23
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic warns of 'existential risks to humanity' in IPO prospectus"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic warns",
+    "voices": 5,
+    "z": 5.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX's Starship makes orbital debut deploying Starlinks before early ending"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX Starship reaches orbit, deploys 26 satellites, returns early"
+     }
+    ],
+    "expected": 0.7,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 9,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex starship",
+    "voices": 8,
+    "z": 6.37
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports"
+     },
+     {
+      "source": "hn",
+      "title": "Boeing Knew About New 737 MAX Software Glitch for Nearly Two Years"
+     },
+     {
+      "source": "hn",
+      "title": "FAA to Delay 737 MAX 10 Approval over New Software Glitch"
+     }
+    ],
+    "expected": 0.12,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 8.35,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "software glitch",
+    "voices": 6,
+    "z": 5.57
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles"
+     },
+     {
+      "source": "hn",
+      "title": "US finalizes new lower fuel economy standards"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Set to Roll Back Biden-Era Auto Fuel Economy Standards"
+     }
+    ],
+    "expected": 0.12,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fuel economy standards",
+    "voices": 3,
+    "z": 2.73
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care"
+     }
+    ],
+    "expected": 0.35,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.42,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strategic petroleum reserve",
+    "voices": 3,
+    "z": 2.28
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Safety group urges EU to reject Tesla FSD over speed offset"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla FSD Supervised now approved in Croatia"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla 'FSD' sped in 55% of Brussels 30 km/h zones ahead of EU vote"
+     }
+    ],
+    "expected": 0.35,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.42,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla fsd",
+    "voices": 3,
+    "z": 2.28
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "French public debt soars to 119% of GDP, highest level since 1946"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 3.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "level since",
+    "voices": 3,
+    "z": 2.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Meta Enterprise Platform to be led by outgoing MongoDB boss"
+     },
+     {
+      "source": "hn",
+      "title": "MongoDB CEO Chirantan Desai steps down to lead Meta's enterprise platform"
+     },
+     {
+      "source": "hn",
+      "title": "Launching Meta Enterprise Platform"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "meta enterprise platform",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Musk – Official Trailer (2026)"
+     },
+     {
+      "source": "hn",
+      "title": "Musk – Official Trailer [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Musk – Official Trailer – Bleecker Street [video]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "musk official trailer",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline"
+     },
+     {
+      "source": "hn",
+      "title": "Flock (YC 2017) Wants Detailed Map of Its Surveillance Cameras Taken Offline"
+     },
+     {
+      "source": "hn",
+      "title": "Flock seeks to have security researchers' map of Flock cameras taken down"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "cameras taken",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Kafka for .NET developers Part 1 [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Rust for C# and .NET developers guide by Microsoft"
+     },
+     {
+      "source": "hn",
+      "title": "Rust for C#/.NET Developers"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "net developers",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Poincaré Conjecture Formalized in Lean4"
+     },
+     {
+      "source": "hn",
+      "title": "Hamilton–Perelman's proof of Poincaré conjecture is claimed to be autoformalized"
+     },
+     {
+      "source": "hn",
+      "title": "Lean formalization of the Hamilton-Perelman proof of the Poincaré conjecture"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "poincar conjecture",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Beta version of Campfire rewritten in Rust"
+     },
+     {
+      "source": "hn",
+      "title": "Skate 3, Being rewritten in Rust [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Campfire Rewritten in Rust By DHH"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 4,
+    "score": 2.92,
+    "sources": [
+     "hn"
+    ],
+    "term": "rewritten in rust",
+    "voices": 4,
+    "z": 2.92
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "The hottest new hangout for middle schoolers is NPR's comment section?"
+     },
+     {
+      "source": "hn",
+      "title": "Kids turned the comment section of an NPR podcast into a group chat"
+     },
+     {
+      "source": "hn",
+      "title": "The hottest new hangout for middle schoolers is NPR's comment section?"
+     }
+    ],
+    "expected": 0.12,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 3,
+    "score": 2.73,
+    "sources": [
+     "hn"
+    ],
+    "term": "comment section",
+    "voices": 3,
+    "z": 2.73
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Microbes could survive on Saturn's moon Enceladus"
+     },
+     {
+      "source": "hn",
+      "title": "Earth microbes survive simulated conditions of Saturn moon's ocean"
+     },
+     {
+      "source": "hn",
+      "title": "Great news from Saturn's moon Enceladus in the search for life in space"
+     }
+    ],
+    "expected": 0.12,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 3,
+    "score": 2.73,
+    "sources": [
+     "hn"
+    ],
+    "term": "saturn moon",
+    "voices": 3,
+    "z": 2.73
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "The Making of Prince of Persia: Notes on a four-year project"
+     },
+     {
+      "source": "hn",
+      "title": "Prince of Persia"
+     },
+     {
+      "source": "hn",
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia"
+     }
+    ],
+    "expected": 0.12,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 2.73,
+    "sources": [
+     "hn"
+    ],
+    "term": "prince of persia",
+    "voices": 3,
+    "z": 2.73
+   }
+  ],
+  "power": [
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Isostable-Based Nonlinear Model Reduction for Power System Oscillations"
+     },
+     {
+      "source": "arxiv",
+      "title": "Nonlinear Participation Factor-based Power System Model Reduction Addressing Near-Resonance Conditions"
+     },
+     {
+      "source": "arxiv",
+      "title": "SMORE: Stability-Promoting Mesh-Agnostic Model Reduction for Time-Dependent PDEs"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 3,
+    "score": 2.49,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "model reduction",
+    "voices": 3,
+    "z": 2.49
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD to Buy Fei-Fei Li’s World Labs for $8.2 Billion"
+     },
+     {
+      "source": "media",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 1,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "li world labs",
+    "voices": 9,
+    "z": 9.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia launches new platform for reining in rogue AI agents"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Launches Agent Safety Platform to Secure Agents, Testing to Deployment"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia launches new tool to keep AI agents from going rogue"
+     }
+    ],
+    "expected": 0.12,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 8.35,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia launches",
+    "voices": 6,
+    "z": 5.57
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 6,
+    "score": 5.19,
+    "sources": [
+     "hn"
+    ],
+    "term": "amd acquires",
+    "voices": 6,
+    "z": 5.19
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Adds Record $150 Billion to Stock Buyback"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Authorizes $150 Billion Stock Buyback Increase, Largest In History"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Adds $150B to Stock Buyback, the Largest"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "stock buyback",
+    "voices": 4,
+    "z": 3.39
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD to Buy Fei-Fei Li’s World Labs for $8.2 Billion"
+     },
+     {
+      "source": "hn",
+      "title": "AMD to buy Fei-Fei Li's AI startup for $8B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "buy fei-fei li",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "GPU Glossary"
+     },
+     {
+      "source": "hn",
+      "title": "GPU Glossary (Readable)"
+     },
+     {
+      "source": "hn",
+      "title": "GPU Glossary"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 6,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "gpu glossary",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Stanford and Nvidia's open Jev-like model"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Jev-Like Model Learns to Cook"
+     },
+     {
+      "source": "hn",
+      "title": "Eikos - OSS Jev-like model"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 7,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "jev-like model",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip"
+     },
+     {
+      "source": "hn",
+      "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip"
+     },
+     {
+      "source": "hn",
+      "title": "Reverse Engineering Apple's Mikey Chip"
+     }
+    ],
+    "expected": 0.12,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 2.73,
+    "sources": [
+     "hn"
+    ],
+    "term": "mikey chip",
+    "voices": 3,
+    "z": 2.73
+   }
+  ]
+ },
+ "recent_days": 7
+}

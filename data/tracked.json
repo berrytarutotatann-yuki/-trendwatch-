@@ -1,4 +1,22 @@
 {
+ "decision models": {
+  "added": "2026-10-01",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 17.32
+ },
+ "fire tv stick": {
+  "added": "2026-10-01",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 4.5
+ },
+ "force majeure": {
+  "added": "2026-10-01",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 9.0
+ },
  "gpt-6 astra": {
   "added": "2026-09-30",
   "field": "ai",

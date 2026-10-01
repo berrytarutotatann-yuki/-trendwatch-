@@ -92,6 +92,7 @@ tr:last-child td { border-bottom: 0; }
 td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 td.term { font-weight: 600; white-space: normal; min-width: 180px; }
 .ex { display: block; font-weight: 400; color: var(--text-muted); font-size: 12px; max-width: 460px; white-space: normal; }
+.translate-link { display: inline-block; margin-left: 5px; color: var(--accent) !important; font-size: 11px !important; font-weight: 400; white-space: nowrap; }
 .chip { display: inline-block; background: var(--chip); color: var(--text-secondary); border-radius: 999px; padding: 1px 8px; font-size: 11.5px; margin: 0 3px 2px 0; }
 .chip.new { background: var(--accent); color: #fff; }
 .chip.good { background: var(--good-bg); color: var(--good); }
@@ -168,6 +169,7 @@ footer { margin-top: 40px; color: var(--text-muted); font-size: 12px; }
 .media-articles li { padding:10px 0; border-bottom:1px solid var(--border); }
 .media-articles li small { display:block; color:var(--text-muted); margin-bottom:3px; }
 .media-articles a { color:var(--text-primary); line-height:1.6; }
+.media-articles a.translate-link { color:var(--accent); }
 .media-clear { border:1px solid var(--border); background:var(--surface-2); color:var(--text-primary); padding:6px 10px; border-radius:6px; cursor:pointer; }
 @media(max-width:600px) { .media-panel { padding:16px 12px; } .media-status { grid-template-columns:repeat(2,minmax(0,1fr)); } .media-metrics { gap:20px; } }
 </style>
@@ -240,6 +242,8 @@ const state = { field: "all", range: 90, avg: false, mediaTerm: null, mediaRange
 
 const $ = (s, el = document) => el.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const translateUrl = (text) => `https://translate.google.com/?sl=auto&tl=ja&text=${encodeURIComponent(text)}&op=translate`;
+const translateLink = (text) => `<a class="translate-link" href="${esc(translateUrl(text))}" target="_blank" rel="noopener noreferrer" title="Google翻訳で日本語にする">和訳</a>`;
 const fmt = (n) => n == null ? "—" : (Math.round(n * 10) / 10).toLocaleString("ja-JP");
 
 function addDays(iso, n) {
@@ -360,7 +364,7 @@ function renderMedia() {
   const cell=state.mediaCell;
   const shown=selected.filter(([,a])=>!cell || (a.publisher===cell.publisher && a.date===cell.date)).sort((a,b)=>b[1].published.localeCompare(a[1].published));
   const title=cell ? `${labels[cell.publisher]} ・ ${cell.date}` : '元の見出しを読む';
-  $("#mediaArticles").innerHTML = `<h3>${esc(title)} ${cell?'<button type="button" class="media-clear" id="mediaClear">日付・媒体の絞り込みを解除</button>':''}</h3>` + (!shown.length?'<p class="sub">この条件で取得した見出しはありません。未取得の期間は表の「—」をご確認ください。</p>':`<ol>${shown.slice(0,30).map(([,a])=>`<li><small>${esc(labels[a.publisher])} ・ ${esc(a.date)} UTC</small><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.title)} ↗</a></li>`).join('')}</ol>${shown.length>30?`<p class="sub">新しい順に30件を表示（該当${shown.length}件）。表で日付・媒体を絞れます。</p>`:''}`);
+  $("#mediaArticles").innerHTML = `<h3>${esc(title)} ${cell?'<button type="button" class="media-clear" id="mediaClear">日付・媒体の絞り込みを解除</button>':''}</h3>` + (!shown.length?'<p class="sub">この条件で取得した見出しはありません。未取得の期間は表の「—」をご確認ください。</p>':`<ol>${shown.slice(0,30).map(([,a])=>`<li><small>${esc(labels[a.publisher])} ・ ${esc(a.date)} UTC</small><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.title)} ↗</a>${translateLink(a.title)}</li>`).join('')}</ol>${shown.length>30?`<p class="sub">新しい順に30件を表示（該当${shown.length}件）。表で日付・媒体を絞れます。</p>`:''}`);
   const clear=$("#mediaClear"); if(clear) clear.onclick=()=>{state.mediaCell=null;renderMedia();};
 }
 
@@ -381,11 +385,11 @@ function renderDiscovery() {
       <th class="num">人数</th><th>出た場所</th><th>調べる</th></tr></thead><tbody>`;
     for (const r of rows) {
       const q = encodeURIComponent(r.term);
-      const ex = (r.examples || []).slice(0, 2).map(x => `<span class="ex">${esc(SRC_LABEL[x.source] || x.source)}: ${esc(x.title)}</span>`).join("");
+      const ex = (r.examples || []).slice(0, 2).map(x => `<span class="ex">${esc(SRC_LABEL[x.source] || x.source)}: ${esc(x.title)}${translateLink(x.title)}</span>`).join("");
       const tracked = DATA.tracked.some(t => t.term === r.term) ? ` <span class="chip">追跡中</span>` : "";
       html += `<tr>
         <td class="num">${r.rank}</td>
-        <td class="term">${esc(r.term)} ${r.is_new ? '<span class="chip new">初登場</span>' : ""}${tracked}${ex}</td>
+        <td class="term">${esc(r.term)}${translateLink(r.term)} ${r.is_new ? '<span class="chip new">初登場</span>' : ""}${tracked}${ex}</td>
         <td class="num"><b>${fmt(r.score)}</b></td>
         <td class="num">${r.recent}</td>
         <td class="num">${fmt(r.expected)}</td>
@@ -434,7 +438,7 @@ function card(t, info, dates) {
   const zChip = info.z >= 2 ? `<span class="chip good">伸び +${fmt(info.z)}</span>` : `<span class="chip">伸び ${info.z >= 0 ? "+" : ""}${fmt(info.z)}</span>`;
   const gap = (info.jp30 === 0 && info.en30 >= 10) ? `<span class="chip warn">日本語圏ではまだ0件</span>` : "";
   c.innerHTML = `
-    <div class="head"><div class="name">${esc(t.term)}</div>${zChip}</div>
+    <div class="head"><div class="name">${esc(t.term)}${translateLink(t.term)}</div>${zChip}</div>
     <div class="meta"><span class="chip">${esc(DATA.fields[t.field] || "その他")}</span><span class="chip">${esc(originLabel)}${t.added ? " " + esc(shortDate(t.added)) : ""}</span>${gap}</div>
     <div class="stat">英語圏 直近7日 <b>${fmt(info.last7)}</b>件（その前4週の週平均 ${fmt(info.expected)}件）</div>
     <div class="rows"></div>

@@ -3,39 +3,9 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-01",
  "docs_baseline": 110829,
- "docs_recent": 10094,
+ "docs_recent": 11632,
  "fields": {
   "ai": [
-   {
-    "baseline": 85,
-    "examples": [
-     {
-      "source": "arxiv",
-      "title": "Less Data, Better Timing: Student-Curriculum Coupling for VLM On-Policy Distillation in Temporal Video Grounding"
-     },
-     {
-      "source": "arxiv",
-      "title": "GFD-OPD: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales"
-     },
-     {
-      "source": "arxiv",
-      "title": "No Task Vector Is an Island: A Comprehensive Study on the Composability of Task Vectors from On-Policy Distillation"
-     }
-    ],
-    "expected": 6.61,
-    "field": "ai",
-    "is_new": false,
-    "rank": 1,
-    "recent": 47,
-    "score": 21.96,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "on-policy distillation",
-    "voices": 47,
-    "z": 14.64
-   },
    {
     "baseline": 7,
     "examples": [
@@ -45,27 +15,147 @@
      },
      {
       "source": "hn",
-      "title": "Tiny System One decision models that run in the browser (29MB)"
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform"
      },
      {
-      "source": "hn",
-      "title": "Ollama now supports Jev-style decision models"
+      "source": "arxiv",
+      "title": "LLM2Jev: LLMs Are Already Jev-Style Decision Models -- When and How to Fine-Tune Them"
      }
     ],
     "expected": 0.54,
     "field": "ai",
     "is_new": false,
-    "rank": 2,
-    "recent": 13,
-    "score": 20.05,
+    "rank": 1,
+    "recent": 15,
+    "score": 23.26,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "decision models",
-    "voices": 13,
-    "z": 10.02
+    "voices": 15,
+    "z": 11.63
+   },
+   {
+    "baseline": 85,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation"
+     },
+     {
+      "source": "arxiv",
+      "title": "Less Data, Better Timing: Student-Curriculum Coupling for VLM On-Policy Distillation in Temporal Video Grounding"
+     },
+     {
+      "source": "arxiv",
+      "title": "GFD-OPD: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales"
+     }
+    ],
+    "expected": 6.61,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 48,
+    "score": 22.5,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "on-policy distillation",
+    "voices": 48,
+    "z": 15.0
+   },
+   {
+    "baseline": 1065,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Language models will hide 'bad news' in reports by default"
+     },
+     {
+      "source": "hn",
+      "title": "Context Language Models"
+     },
+     {
+      "source": "arxiv",
+      "title": "Hierarchical Continuous Diffusion Language Models"
+     }
+    ],
+    "expected": 82.83,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 180,
+    "score": 15.92,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "language models",
+    "voices": 178,
+    "z": 10.61
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Free hosted API for Laya, the open-weight decision model"
+     },
+     {
+      "source": "hn",
+      "title": "Strands Decider Decision Model"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Gutsy, a 0.8B Jev-compatible decision model that runs on your CPU"
+     }
+    ],
+    "expected": 1.01,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 14,
+    "score": 13.74,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 14,
+    "z": 9.16
+   },
+   {
+    "baseline": 612,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Homomorphic Advantage Operator: Stabilizing Reinforcement Learning Under Fully Homomorphic Encryption Constraints"
+     },
+     {
+      "source": "arxiv",
+      "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning"
+     },
+     {
+      "source": "arxiv",
+      "title": "Bellman Meets Lyapunov: Unsupervised Reinforcement Learning via Mastering Chaos"
+     }
+    ],
+    "expected": 47.6,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 111,
+    "score": 13.64,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "reinforcement learning",
+    "voices": 111,
+    "z": 9.09
    },
    {
     "baseline": 0,
@@ -86,7 +176,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 3,
+    "rank": 6,
     "recent": 9,
     "score": 13.5,
     "sources": [
@@ -96,6 +186,36 @@
     "term": "ipo prospectus",
     "voices": 8,
     "z": 9.0
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "President Trump Announces ‘Super Intelligence’ Accord, Renames AI"
+     },
+     {
+      "source": "media",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’"
+     },
+     {
+      "source": "hn",
+      "title": ".si Registrations Surge After US Shift to 'Super Intelligence'"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 12,
+    "score": 13.4,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "super intelligence",
+    "voices": 11,
+    "z": 8.93
    },
    {
     "baseline": 15,
@@ -116,7 +236,7 @@
     "expected": 1.17,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
+    "rank": 8,
     "recent": 11,
     "score": 13.36,
     "sources": [
@@ -147,16 +267,16 @@
     "expected": 2.26,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
-    "recent": 17,
-    "score": 12.26,
+    "rank": 9,
+    "recent": 18,
+    "score": 13.09,
     "sources": [
      "hn",
      "media"
     ],
     "term": "meta muse",
-    "voices": 16,
-    "z": 8.17
+    "voices": 17,
+    "z": 8.73
    },
    {
     "baseline": 0,
@@ -177,7 +297,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 6,
+    "rank": 10,
     "recent": 8,
     "score": 12.0,
     "sources": [
@@ -189,34 +309,63 @@
     "z": 8.0
    },
    {
-    "baseline": 1065,
+    "baseline": 341,
     "examples": [
      {
-      "source": "hn",
-      "title": "Context Language Models (CLMs)"
-     },
-     {
-      "source": "hn",
-      "title": "Context Language Models"
+      "source": "arxiv",
+      "title": "Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control"
      },
      {
       "source": "arxiv",
-      "title": "Distribution Matching Distillation for Continuous Diffusion Language Models"
+      "title": "Mem++: Non-Destructive Memory for Long-Term Organizational LLM Agents"
+     },
+     {
+      "source": "arxiv",
+      "title": "Chaining Skills to Hijack LLM Agents"
      }
     ],
-    "expected": 82.83,
+    "expected": 26.52,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
-    "recent": 156,
-    "score": 11.99,
+    "rank": 11,
+    "recent": 65,
+    "score": 11.0,
     "sources": [
      "arxiv",
      "hn"
     ],
-    "term": "language models",
-    "voices": 154,
-    "z": 7.99
+    "term": "llm agents",
+    "voices": 64,
+    "z": 7.33
+   },
+   {
+    "baseline": 24,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes"
+     },
+     {
+      "source": "arxiv",
+      "title": "Better Supervision Is Nearby: Neighborhood On-Policy Self-Distillation"
+     },
+     {
+      "source": "arxiv",
+      "title": "Diagnosing On-Policy Self-Distillation for Reasoning Language Models"
+     }
+    ],
+    "expected": 1.87,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 19,
+    "score": 10.12,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "on-policy self-distillation",
+    "voices": 19,
+    "z": 10.12
    },
    {
     "baseline": 23,
@@ -237,7 +386,7 @@
     "expected": 1.79,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
+    "rank": 13,
     "recent": 13,
     "score": 10.07,
     "sources": [
@@ -267,7 +416,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 9,
+    "rank": 14,
     "recent": 7,
     "score": 10.0,
     "sources": [
@@ -279,155 +428,6 @@
     "z": 6.67
    },
    {
-    "baseline": 8,
-    "examples": [
-     {
-      "source": "media",
-      "title": "President Trump Announces ‘Super Intelligence’ Accord, Renames AI"
-     },
-     {
-      "source": "media",
-      "title": "Trump orders US government to call AI ‘Super Intelligence’"
-     },
-     {
-      "source": "hn",
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit"
-     }
-    ],
-    "expected": 0.62,
-    "field": "ai",
-    "is_new": false,
-    "rank": 10,
-    "recent": 9,
-    "score": 9.87,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "super intelligence",
-    "voices": 9,
-    "z": 6.58
-   },
-   {
-    "baseline": 612,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Distillation Defenses Easily Break After Reinforcement Learning"
-     },
-     {
-      "source": "arxiv",
-      "title": "Role-Adaptive Policy Optimization for Offline Reinforcement Learning"
-     },
-     {
-      "source": "arxiv",
-      "title": "Patient-Centered Treatment Planning for Chronic Multimorbidity: A Hierarchical Reinforcement Learning Framework for Preference Modeling"
-     }
-    ],
-    "expected": 47.6,
-    "field": "ai",
-    "is_new": false,
-    "rank": 11,
-    "recent": 93,
-    "score": 9.77,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "reinforcement learning",
-    "voices": 93,
-    "z": 6.51
-   },
-   {
-    "baseline": 341,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Show HN: FinTrace – point-in-time guardrails for financial LLM agents"
-     },
-     {
-      "source": "arxiv",
-      "title": "PhantomEnvironments: Training LLM Agents in Fictional Worlds"
-     },
-     {
-      "source": "arxiv",
-      "title": "Persistent Context Graphs for Efficient Memory Compaction in LLM Agents"
-     }
-    ],
-    "expected": 26.52,
-    "field": "ai",
-    "is_new": false,
-    "rank": 12,
-    "recent": 60,
-    "score": 9.57,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "llm agents",
-    "voices": 59,
-    "z": 6.38
-   },
-   {
-    "baseline": 24,
-    "examples": [
-     {
-      "source": "arxiv",
-      "title": "Better Supervision Is Nearby: Neighborhood On-Policy Self-Distillation"
-     },
-     {
-      "source": "arxiv",
-      "title": "Diagnosing On-Policy Self-Distillation for Reasoning Language Models"
-     },
-     {
-      "source": "arxiv",
-      "title": "When Clipping Reverses Correction: Failure Dynamics of Pointwise Forward-KL On-Policy Self-Distillation"
-     }
-    ],
-    "expected": 1.87,
-    "field": "ai",
-    "is_new": false,
-    "rank": 13,
-    "recent": 18,
-    "score": 9.53,
-    "sources": [
-     "arxiv"
-    ],
-    "term": "on-policy self-distillation",
-    "voices": 18,
-    "z": 9.53
-   },
-   {
-    "baseline": 13,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Liquid AI releases decision model D1"
-     },
-     {
-      "source": "hn",
-      "title": "Show HN: AT0M – a Jev Like System One decision model in a single Rust binary"
-     },
-     {
-      "source": "hn",
-      "title": "Jeb: Turn any OpenAI API into a decision model"
-     }
-    ],
-    "expected": 1.01,
-    "field": "ai",
-    "is_new": false,
-    "rank": 14,
-    "recent": 10,
-    "score": 9.51,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "decision model",
-    "voices": 10,
-    "z": 6.34
-   },
-   {
     "baseline": 39,
     "examples": [
      {
@@ -436,27 +436,27 @@
      },
      {
       "source": "hn",
-      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
+      "title": "Google RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
      },
      {
-      "source": "arxiv",
-      "title": "RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement"
+      "source": "hn",
+      "title": "Is recursive self-improvement mathematically possible?"
      }
     ],
     "expected": 3.03,
     "field": "ai",
     "is_new": false,
     "rank": 15,
-    "recent": 12,
-    "score": 8.93,
+    "recent": 13,
+    "score": 9.93,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "recursive self-improvement",
-    "voices": 11,
-    "z": 4.46
+    "voices": 12,
+    "z": 4.96
    }
   ],
   "other": [
@@ -510,15 +510,165 @@
     "field": "other",
     "is_new": false,
     "rank": 2,
-    "recent": 6,
-    "score": 6.33,
+    "recent": 7,
+    "score": 7.51,
     "sources": [
      "hn",
      "media"
     ],
     "term": "smart home",
-    "voices": 6,
-    "z": 4.22
+    "voices": 7,
+    "z": 5.01
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Russia extends diesel export ban until end of October"
+     },
+     {
+      "source": "media",
+      "title": "Trump says he is still considering diesel export ban"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 5,
+    "score": 6.44,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "export ban",
+    "voices": 3,
+    "z": 4.29
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Benchmark Yield Hits Highest Since 2002"
+     },
+     {
+      "source": "media",
+      "title": "‘Deadlock’ Hits Highest Player Count Ever Following Major Patch"
+     },
+     {
+      "source": "media",
+      "title": "German inflation hits highest level in almost 3 years"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "hits highest",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "10-year Treasury yield hits highest level since 2002"
+     },
+     {
+      "source": "hn",
+      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "level since",
+    "voices": 4,
+    "z": 3.22
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Global Bond Funds Are Rewarding the Early Movers on Inflation"
+     },
+     {
+      "source": "media",
+      "title": "Global bond rout deepens, pushes US Treasury yields to 24-year peak"
+     },
+     {
+      "source": "hn",
+      "title": "Global bond sell-off deepens as Asian yields jump"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "global bond",
+    "voices": 4,
+    "z": 3.06
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Justice Department files complaint against Minnesota judges who gave interviews about immigration surge"
+     },
+     {
+      "source": "hn",
+      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal"
+     },
+     {
+      "source": "hn",
+      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "justice department",
+    "voices": 4,
+    "z": 3.06
    },
    {
     "baseline": 0,
@@ -539,7 +689,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 3,
+    "rank": 8,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -547,6 +697,36 @@
      "media"
     ],
     "term": "cancer drugs",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Gears of War: E-Day is a great game launching at a terrible time"
+     },
+     {
+      "source": "media",
+      "title": "The ‘Gears Of War: E-Day’ Metacritic Review Score Is In, And It’s Great"
+     },
+     {
+      "source": "hn",
+      "title": "Advanced Shader Delivery Available for Gears of War"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gears of war",
     "voices": 3,
     "z": 3.0
    },
@@ -569,7 +749,7 @@
     "expected": 0.47,
     "field": "other",
     "is_new": false,
-    "rank": 4,
+    "rank": 10,
     "recent": 4,
     "score": 4.38,
     "sources": [
@@ -579,6 +759,35 @@
     "term": "borrowing costs",
     "voices": 4,
     "z": 2.92
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Laya: Multilingual, non-autoregressive System 1 decision engine"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Snap – local first decision engine open weight"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Open-Source Decision Engine"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 4.29,
+    "sources": [
+     "hn"
+    ],
+    "term": "decision engine",
+    "voices": 5,
+    "z": 4.29
    },
    {
     "baseline": 1,
@@ -599,7 +808,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 5,
+    "rank": 12,
     "recent": 3,
     "score": 4.22,
     "sources": [
@@ -629,7 +838,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 13,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -640,156 +849,41 @@
     "z": 4.0
    },
    {
-    "baseline": 1,
+    "baseline": 0,
     "examples": [
      {
       "source": "hn",
-      "title": "Tiny System One decision models that run in the browser (29MB)"
+      "title": "Ao: Homoiconic Solid Modeling [pdf]"
      },
      {
       "source": "hn",
-      "title": "Show HN: AT0M – a Jev Like System One decision model in a single Rust binary"
+      "title": "Halfspace experimental IDE for solid modeling with distance fields"
      },
      {
       "source": "hn",
-      "title": "OpenJev: An open-source, Jev-compatible System One decision engine"
+      "title": "Halfspace is an IDE for solid modeling with distance fields"
      }
     ],
-    "expected": 0.08,
+    "expected": 0.0,
     "field": "other",
-    "is_new": false,
-    "rank": 7,
+    "is_new": true,
+    "rank": 14,
     "recent": 4,
-    "score": 3.78,
+    "score": 4.0,
     "sources": [
      "hn"
     ],
-    "term": "system one decision",
+    "term": "solid modeling",
     "voices": 4,
-    "z": 3.78
-   },
-   {
-    "baseline": 3,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Egyptian police arrest all six journalists of investigative outlet"
-     },
-     {
-      "source": "media",
-      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders"
-     },
-     {
-      "source": "hn",
-      "title": "Dutch Police Arrest 'Reformed' Hacker in Shiny Hunters Investigation"
-     }
-    ],
-    "expected": 0.23,
-    "field": "other",
-    "is_new": false,
-    "rank": 8,
-    "recent": 3,
-    "score": 3.74,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "police arrest",
-    "voices": 3,
-    "z": 2.49
-   },
-   {
-    "baseline": 4,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982"
-     },
-     {
-      "source": "hn",
-      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
-     },
-     {
-      "source": "hn",
-      "title": "French public debt soars to 119% of GDP, highest level since 1946"
-     }
-    ],
-    "expected": 0.31,
-    "field": "other",
-    "is_new": false,
-    "rank": 9,
-    "recent": 3,
-    "score": 3.52,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "level since",
-    "voices": 3,
-    "z": 2.35
-   },
-   {
-    "baseline": 3,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "ChatGPT Pro 20x now 10x for the same price"
-     },
-     {
-      "source": "hn",
-      "title": "Practical ways to use ChatGPT Pro 500"
-     },
-     {
-      "source": "hn",
-      "title": "Ask HN: Any other ChatGPT Pro Subscribers get emailed 62,500 Tokens?"
-     }
-    ],
-    "expected": 0.23,
-    "field": "other",
-    "is_new": false,
-    "rank": 10,
-    "recent": 4,
-    "score": 3.39,
-    "sources": [
-     "hn"
-    ],
-    "term": "chatgpt pro",
-    "voices": 4,
-    "z": 3.39
-   },
-   {
-    "baseline": 5,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Global Bond Funds Are Rewarding the Early Movers on Inflation"
-     },
-     {
-      "source": "media",
-      "title": "Global bond rout deepens, pushes US Treasury yields to 24-year peak"
-     },
-     {
-      "source": "hn",
-      "title": "Global bond sell-off deepens, sending borrowing costs higher around the world"
-     }
-    ],
-    "expected": 0.39,
-    "field": "other",
-    "is_new": false,
-    "rank": 11,
-    "recent": 3,
-    "score": 3.32,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "global bond",
-    "voices": 3,
-    "z": 2.22
+    "z": 4.0
    },
    {
     "baseline": 22,
     "examples": [
+     {
+      "source": "hn",
+      "title": "Ask HN: What's a good title for a software engineer now?"
+     },
      {
       "source": "hn",
       "title": "Back to the 90s: The Software Engineer Has All the Roles Again"
@@ -797,114 +891,20 @@
      {
       "source": "hn",
       "title": "Software Engineer: I'm Tired of Pretending [video]"
-     },
-     {
-      "source": "hn",
-      "title": "A software engineer's playbook to go from single-digit to 100 PRs a day"
      }
     ],
     "expected": 1.71,
     "field": "other",
     "is_new": false,
-    "rank": 12,
-    "recent": 7,
-    "score": 3.21,
+    "rank": 15,
+    "recent": 8,
+    "score": 3.82,
     "sources": [
      "hn"
     ],
     "term": "software engineer",
-    "voices": 7,
-    "z": 3.21
-   },
-   {
-    "baseline": 6,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982"
-     },
-     {
-      "source": "hn",
-      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
-     },
-     {
-      "source": "hn",
-      "title": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care"
-     }
-    ],
-    "expected": 0.47,
-    "field": "other",
-    "is_new": false,
-    "rank": 13,
-    "recent": 3,
-    "score": 3.14,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "strategic petroleum reserve",
-    "voices": 3,
-    "z": 2.09
-   },
-   {
-    "baseline": 6,
-    "examples": [
-     {
-      "source": "media",
-      "title": "UK diesel prices hit record highs due to impact of Iran war"
-     },
-     {
-      "source": "hn",
-      "title": "Eighteen-Wheeler E-Trucks Are China's Answer to Soaring Global Diesel Prices"
-     },
-     {
-      "source": "hn",
-      "title": "The surprise winners from record-high diesel prices"
-     }
-    ],
-    "expected": 0.47,
-    "field": "other",
-    "is_new": false,
-    "rank": 14,
-    "recent": 3,
-    "score": 3.14,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "diesel prices",
-    "voices": 3,
-    "z": 2.09
-   },
-   {
-    "baseline": 6,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Safety group urges EU to reject Tesla FSD over speed offset"
-     },
-     {
-      "source": "hn",
-      "title": "Tesla FSD Supervised now approved in Croatia"
-     },
-     {
-      "source": "hn",
-      "title": "Tesla 'FSD' sped in 55% of Brussels 30 km/h zones ahead of EU vote"
-     }
-    ],
-    "expected": 0.47,
-    "field": "other",
-    "is_new": false,
-    "rank": 15,
-    "recent": 3,
-    "score": 3.14,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "tesla fsd",
-    "voices": 3,
-    "z": 2.09
+    "voices": 8,
+    "z": 3.82
    }
   ],
   "power": [
@@ -943,6 +943,66 @@
     "examples": [
      {
       "source": "media",
+      "title": "Pressure Is Piling Up for Europe to Release Diesel"
+     },
+     {
+      "source": "media",
+      "title": "US Energy Secretary Wright 'highly confident' Europe will release diesel stocks"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "release diesel",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EU governments spent €18 billion in 2026 to cushion energy price jump"
+     },
+     {
+      "source": "media",
+      "title": "Wei Li on AI Scarcity, Bond Selloff, Energy Price Shock"
+     },
+     {
+      "source": "media",
+      "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "energy price",
+    "voices": 3,
+    "z": 3.78
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "Amazon’s new Fire TV Stick 4K can pull power directly from your TV"
      },
      {
@@ -957,7 +1017,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 2,
+    "rank": 4,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -987,7 +1047,7 @@
     "expected": 0.54,
     "field": "power",
     "is_new": false,
-    "rank": 3,
+    "rank": 5,
     "recent": 3,
     "score": 3.95,
     "sources": [
@@ -998,6 +1058,36 @@
     "term": "virtual power",
     "voices": 3,
     "z": 1.98
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Facilities fueling energy storage installations"
+     },
+     {
+      "source": "arxiv",
+      "title": "Building Seasonal Highways for Residential Energy Hubs: Sizing, planning and operating thermal energy storage"
+     },
+     {
+      "source": "arxiv",
+      "title": "Assessing Modeling Fidelity for Long-Term Battery Energy Storage Planning: Operation, Degradation, and Temporal Representation"
+     }
+    ],
+    "expected": 1.17,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 2.89,
+    "sources": [
+     "arxiv",
+     "media"
+    ],
+    "term": "energy storage",
+    "voices": 4,
+    "z": 1.92
    },
    {
     "baseline": 2,
@@ -1018,7 +1108,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 4,
+    "rank": 7,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1069,26 +1159,26 @@
      },
      {
       "source": "hn",
-      "title": "Nvidia Launches Agent Safety Platform to Secure Agents, Testing to Deployment"
+      "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents"
      },
      {
       "source": "hn",
-      "title": "Nvidia launches new tool to keep AI agents from going rogue"
+      "title": "Nvidia Launches Agent Safety Platform to Secure Agents, Testing to Deployment"
      }
     ],
     "expected": 0.23,
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 6,
-    "score": 7.79,
+    "recent": 7,
+    "score": 9.14,
     "sources": [
      "hn",
      "media"
     ],
     "term": "nvidia launches",
-    "voices": 6,
-    "z": 5.19
+    "voices": 7,
+    "z": 6.09
    },
    {
     "baseline": 2,
@@ -1150,6 +1240,36 @@
     "z": 3.58
    },
    {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs"
+     },
+     {
+      "source": "media",
+      "title": "Why LLMs Are The Best Thing To Happen To Chip Design"
+     },
+     {
+      "source": "media",
+      "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion"
+     }
+    ],
+    "expected": 1.01,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 5.28,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip design",
+    "voices": 3,
+    "z": 3.52
+   },
+   {
     "baseline": 2,
     "examples": [
      {
@@ -1168,7 +1288,7 @@
     "expected": 0.16,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 5,
     "score": 4.51,
     "sources": [
@@ -1197,7 +1317,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1205,6 +1325,35 @@
      "media"
     ],
     "term": "buy fei-fei li",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "ESP-SDR uses undocumented raw IQ capture of ESP32 to make software defined radio"
+     },
+     {
+      "source": "hn",
+      "title": "Raw IQ Capture with Espressif's ESP32 Chips"
+     },
+     {
+      "source": "hn",
+      "title": "ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "raw iq capture",
     "voices": 3,
     "z": 3.0
    },
@@ -1227,7 +1376,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 7,
+    "rank": 9,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1256,7 +1405,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 8,
+    "rank": 10,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1285,7 +1434,7 @@
     "expected": 0.23,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 3,
     "score": 2.49,
     "sources": [
@@ -1294,6 +1443,35 @@
     "term": "gpu programming",
     "voices": 3,
     "z": 2.49
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Mini React – React like UI library"
+     },
+     {
+      "source": "hn",
+      "title": "Glacex: GPU-Rendered UI library built from scratch in Rust"
+     },
+     {
+      "source": "hn",
+      "title": "Redium: A small and declarative JavaScript-based UI library"
+     }
+    ],
+    "expected": 0.47,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 12,
+    "recent": 3,
+    "score": 2.09,
+    "sources": [
+     "hn"
+    ],
+    "term": "ui library",
+    "voices": 3,
+    "z": 2.09
    }
   ]
  },

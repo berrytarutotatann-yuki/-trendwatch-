@@ -40,5 +40,17 @@
   "field": "ai",
   "origin": "auto",
   "score_at_add": 19.93
+ },
+ "release diesel": {
+  "added": "2026-10-02",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 6.0
+ },
+ "spacex starship": {
+  "added": "2026-10-02",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 11.41
  }
 }

@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-01",
  "docs_baseline": 110829,
- "docs_recent": 10086,
+ "docs_recent": 10090,
  "fields": {
   "ai": [
    {
@@ -1209,35 +1209,6 @@
     "z": 3.0
    },
    {
-    "baseline": 4,
-    "examples": [
-     {
-      "source": "media",
-      "title": "OpenEvidence Confirms It Has Raised An Additional $250 Million At A $15 Billion Valuation"
-     },
-     {
-      "source": "media",
-      "title": "Nvidia-Backed Firmus Eyes $30 Billion Valuation in Australia IPO"
-     },
-     {
-      "source": "media",
-      "title": "Sydney Sweeney-Backed Novig Raised at $2 Billion Valuation"
-     }
-    ],
-    "expected": 0.31,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 7,
-    "recent": 4,
-    "score": 3.22,
-    "sources": [
-     "media"
-    ],
-    "term": "billion valuation",
-    "voices": 4,
-    "z": 3.22
-   },
-   {
     "baseline": 1,
     "examples": [
      {
@@ -1256,7 +1227,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 8,
+    "rank": 7,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1285,7 +1256,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 9,
+    "rank": 8,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1314,7 +1285,7 @@
     "expected": 0.23,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 10,
+    "rank": 9,
     "recent": 3,
     "score": 2.49,
     "sources": [

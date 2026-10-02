@@ -1,0 +1,1330 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-01",
+ "docs_baseline": 110829,
+ "docs_recent": 10086,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 85,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Less Data, Better Timing: Student-Curriculum Coupling for VLM On-Policy Distillation in Temporal Video Grounding"
+     },
+     {
+      "source": "arxiv",
+      "title": "GFD-OPD: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales"
+     },
+     {
+      "source": "arxiv",
+      "title": "No Task Vector Is an Island: A Comprehensive Study on the Composability of Task Vectors from On-Policy Distillation"
+     }
+    ],
+    "expected": 6.61,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 47,
+    "score": 21.96,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "on-policy distillation",
+    "voices": 47,
+    "z": 14.64
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon releases its own Jev clone as decision models flood the web"
+     },
+     {
+      "source": "hn",
+      "title": "Tiny System One decision models that run in the browser (29MB)"
+     },
+     {
+      "source": "hn",
+      "title": "Ollama now supports Jev-style decision models"
+     }
+    ],
+    "expected": 0.54,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 13,
+    "score": 20.05,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "decision models",
+    "voices": 13,
+    "z": 10.02
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO prospectus shows key executives and board"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic IPO prospectus lays bare deep dependence on Big Tech partners"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipo prospectus",
+    "voices": 8,
+    "z": 9.0
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Evolution Of Voice Agents: How They Work And Why You Could See Them Everywhere"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Jamb AI - Voice Agents for Group Calls"
+     },
+     {
+      "source": "arxiv",
+      "title": "Persona and Persuasive Framing in AI Voice Agents: A $2\\times2$ Field Experiment with Children"
+     }
+    ],
+    "expected": 1.17,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 11,
+    "score": 13.36,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "voice agents",
+    "voices": 11,
+    "z": 6.68
+   },
+   {
+    "baseline": 29,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Exclusive: Meta’s Muse Tops 3 Million Weekly Users"
+     },
+     {
+      "source": "media",
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger"
+     },
+     {
+      "source": "media",
+      "title": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time."
+     }
+    ],
+    "expected": 2.26,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 17,
+    "score": 12.26,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta muse",
+    "voices": 16,
+    "z": 8.17
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta’s MongoDB CEO Poach"
+     },
+     {
+      "source": "media",
+      "title": "Meta Taps MongoDB CEO to Lead New Enterprise AI Division"
+     },
+     {
+      "source": "hn",
+      "title": "Meta Has Hired MongoDB CEO Chirantan Desai for AI Push"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "mongodb ceo",
+    "voices": 7,
+    "z": 8.0
+   },
+   {
+    "baseline": 1065,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Context Language Models (CLMs)"
+     },
+     {
+      "source": "hn",
+      "title": "Context Language Models"
+     },
+     {
+      "source": "arxiv",
+      "title": "Distribution Matching Distillation for Continuous Diffusion Language Models"
+     }
+    ],
+    "expected": 82.83,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 156,
+    "score": 11.99,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "language models",
+    "voices": 154,
+    "z": 7.99
+   },
+   {
+    "baseline": 23,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google Rolls Out New AI Model Gradually Amid Safety Concerns"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI shelves new AI model release over safety concerns"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Will Not Ship GPT-6.1 Astra Due to Safety Concerns"
+     }
+    ],
+    "expected": 1.79,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 13,
+    "score": 10.07,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "safety concerns",
+    "voices": 12,
+    "z": 6.71
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Why OpenAI’s DevDay Looked Like Catch-Up"
+     },
+     {
+      "source": "hn",
+      "title": "How to Make Money from OpenAI DevDay 2026"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI DevDay Recap – what's new"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 7,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai devday",
+    "voices": 7,
+    "z": 6.67
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "President Trump Announces ‘Super Intelligence’ Accord, Renames AI"
+     },
+     {
+      "source": "media",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’"
+     },
+     {
+      "source": "hn",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 9,
+    "score": 9.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "super intelligence",
+    "voices": 9,
+    "z": 6.58
+   },
+   {
+    "baseline": 612,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Distillation Defenses Easily Break After Reinforcement Learning"
+     },
+     {
+      "source": "arxiv",
+      "title": "Role-Adaptive Policy Optimization for Offline Reinforcement Learning"
+     },
+     {
+      "source": "arxiv",
+      "title": "Patient-Centered Treatment Planning for Chronic Multimorbidity: A Hierarchical Reinforcement Learning Framework for Preference Modeling"
+     }
+    ],
+    "expected": 47.6,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 93,
+    "score": 9.77,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "reinforcement learning",
+    "voices": 93,
+    "z": 6.51
+   },
+   {
+    "baseline": 341,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: FinTrace – point-in-time guardrails for financial LLM agents"
+     },
+     {
+      "source": "arxiv",
+      "title": "PhantomEnvironments: Training LLM Agents in Fictional Worlds"
+     },
+     {
+      "source": "arxiv",
+      "title": "Persistent Context Graphs for Efficient Memory Compaction in LLM Agents"
+     }
+    ],
+    "expected": 26.52,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 60,
+    "score": 9.57,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "llm agents",
+    "voices": 59,
+    "z": 6.38
+   },
+   {
+    "baseline": 24,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Better Supervision Is Nearby: Neighborhood On-Policy Self-Distillation"
+     },
+     {
+      "source": "arxiv",
+      "title": "Diagnosing On-Policy Self-Distillation for Reasoning Language Models"
+     },
+     {
+      "source": "arxiv",
+      "title": "When Clipping Reverses Correction: Failure Dynamics of Pointwise Forward-KL On-Policy Self-Distillation"
+     }
+    ],
+    "expected": 1.87,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 18,
+    "score": 9.53,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "on-policy self-distillation",
+    "voices": 18,
+    "z": 9.53
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Liquid AI releases decision model D1"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: AT0M – a Jev Like System One decision model in a single Rust binary"
+     },
+     {
+      "source": "hn",
+      "title": "Jeb: Turn any OpenAI API into a decision model"
+     }
+    ],
+    "expected": 1.01,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 10,
+    "score": 9.51,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 10,
+    "z": 6.34
+   },
+   {
+    "baseline": 39,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Recursive Self-Improvement Won’t Be Winner-Takes-All, Say Founders of Ricursive"
+     },
+     {
+      "source": "hn",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
+     },
+     {
+      "source": "arxiv",
+      "title": "RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement"
+     }
+    ],
+    "expected": 3.03,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 12,
+    "score": 8.93,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "recursive self-improvement",
+    "voices": 11,
+    "z": 4.46
+   }
+  ],
+  "other": [
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports"
+     },
+     {
+      "source": "hn",
+      "title": "Boeing Knew About New 737 MAX Software Glitch for Nearly Two Years"
+     },
+     {
+      "source": "hn",
+      "title": "FAA to Delay 737 MAX 10 Approval over New Software Glitch"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "software glitch",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video"
+     },
+     {
+      "source": "media",
+      "title": "Apple Smart Home “HomePad” Set To Launch October 13"
+     },
+     {
+      "source": "media",
+      "title": "Apple Plans Aggressive New Push Into Smart Home"
+     }
+    ],
+    "expected": 0.62,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 6.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "smart home",
+    "voices": 6,
+    "z": 4.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AstraZeneca to Invest $2 Billion in Summit Therapeutics, Collaborate on Cancer Drugs"
+     },
+     {
+      "source": "hn",
+      "title": "New Cancer Drugs Are Revolutionary. Why Don't More Patients Get Them?"
+     },
+     {
+      "source": "hn",
+      "title": "Why Do Clinical Trials for Cancer Drugs Take So Long?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cancer drugs",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Global M&A deal rush fades in third quarter as rising borrowing costs bite"
+     },
+     {
+      "source": "media",
+      "title": "India Inc. Faces Higher Borrowing Costs as Short-Term Yields Surge"
+     },
+     {
+      "source": "hn",
+      "title": "Vanguard warns France is 'degrading credit' as borrowing costs surge"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 4.38,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "borrowing costs",
+    "voices": 4,
+    "z": 2.92
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles"
+     },
+     {
+      "source": "hn",
+      "title": "US finalizes new lower fuel economy standards"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Set to Roll Back Biden-Era Auto Fuel Economy Standards"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fuel economy standards",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Ken Griffin Donates $500M to Carnegie Mellon School of Computer Science"
+     },
+     {
+      "source": "hn",
+      "title": "Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin"
+     },
+     {
+      "source": "hn",
+      "title": "Is Ken Griffin turning Wynwood into a college town?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "ken griffin",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Tiny System One decision models that run in the browser (29MB)"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: AT0M – a Jev Like System One decision model in a single Rust binary"
+     },
+     {
+      "source": "hn",
+      "title": "OpenJev: An open-source, Jev-compatible System One decision engine"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 3.78,
+    "sources": [
+     "hn"
+    ],
+    "term": "system one decision",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Egyptian police arrest all six journalists of investigative outlet"
+     },
+     {
+      "source": "media",
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders"
+     },
+     {
+      "source": "hn",
+      "title": "Dutch Police Arrest 'Reformed' Hacker in Shiny Hunters Investigation"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 3.74,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "police arrest",
+    "voices": 3,
+    "z": 2.49
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "French public debt soars to 119% of GDP, highest level since 1946"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.52,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "level since",
+    "voices": 3,
+    "z": 2.35
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "ChatGPT Pro 20x now 10x for the same price"
+     },
+     {
+      "source": "hn",
+      "title": "Practical ways to use ChatGPT Pro 500"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: Any other ChatGPT Pro Subscribers get emailed 62,500 Tokens?"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 3.39,
+    "sources": [
+     "hn"
+    ],
+    "term": "chatgpt pro",
+    "voices": 4,
+    "z": 3.39
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Global Bond Funds Are Rewarding the Early Movers on Inflation"
+     },
+     {
+      "source": "media",
+      "title": "Global bond rout deepens, pushes US Treasury yields to 24-year peak"
+     },
+     {
+      "source": "hn",
+      "title": "Global bond sell-off deepens, sending borrowing costs higher around the world"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 3,
+    "score": 3.32,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "global bond",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Back to the 90s: The Software Engineer Has All the Roles Again"
+     },
+     {
+      "source": "hn",
+      "title": "Software Engineer: I'm Tired of Pretending [video]"
+     },
+     {
+      "source": "hn",
+      "title": "A software engineer's playbook to go from single-digit to 100 PRs a day"
+     }
+    ],
+    "expected": 1.71,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 7,
+    "score": 3.21,
+    "sources": [
+     "hn"
+    ],
+    "term": "software engineer",
+    "voices": 7,
+    "z": 3.21
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 3,
+    "score": 3.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strategic petroleum reserve",
+    "voices": 3,
+    "z": 2.09
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "UK diesel prices hit record highs due to impact of Iran war"
+     },
+     {
+      "source": "hn",
+      "title": "Eighteen-Wheeler E-Trucks Are China's Answer to Soaring Global Diesel Prices"
+     },
+     {
+      "source": "hn",
+      "title": "The surprise winners from record-high diesel prices"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 3,
+    "score": 3.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "diesel prices",
+    "voices": 3,
+    "z": 2.09
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Safety group urges EU to reject Tesla FSD over speed offset"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla FSD Supervised now approved in Croatia"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla 'FSD' sped in 55% of Brussels 30 km/h zones ahead of EU vote"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 3.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla fsd",
+    "voices": 3,
+    "z": 2.09
+   }
+  ],
+  "power": [
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX's Starship makes orbital debut deploying Starlinks before early ending"
+     }
+    ],
+    "expected": 0.54,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 10,
+    "score": 11.41,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex starship",
+    "voices": 9,
+    "z": 7.61
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon’s new Fire TV Stick 4K can pull power directly from your TV"
+     },
+     {
+      "source": "media",
+      "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote"
+     },
+     {
+      "source": "hn",
+      "title": "You probably won't be able to sideload APKs on Amazon's next Fire TV Stick 4K"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fire tv stick",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The virtuous cycle of inclusive utility investment and virtual power plants"
+     },
+     {
+      "source": "hn",
+      "title": "California Virtual Power Plant"
+     },
+     {
+      "source": "arxiv",
+      "title": "Resource-Aware Rolling-Horizon Controller for Renewable-Based Virtual Power Plants Providing Automatic Frequency Restoration Reserves"
+     }
+    ],
+    "expected": 0.54,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 3.95,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "virtual power",
+    "voices": 3,
+    "z": 1.98
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Isostable-Based Nonlinear Model Reduction for Power System Oscillations"
+     },
+     {
+      "source": "arxiv",
+      "title": "Nonlinear Participation Factor-based Power System Model Reduction Addressing Near-Resonance Conditions"
+     },
+     {
+      "source": "arxiv",
+      "title": "SMORE: Stability-Promoting Mesh-Agnostic Model Reduction for Time-Dependent PDEs"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "model reduction",
+    "voices": 3,
+    "z": 2.65
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD to Buy Fei-Fei Li’s World Labs for $8.2 Billion"
+     },
+     {
+      "source": "media",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 1,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "li world labs",
+    "voices": 9,
+    "z": 9.0
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia launches new platform for reining in rogue AI agents"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Launches Agent Safety Platform to Secure Agents, Testing to Deployment"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia launches new tool to keep AI agents from going rogue"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia launches",
+    "voices": 6,
+    "z": 5.19
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 6,
+    "score": 5.44,
+    "sources": [
+     "hn"
+    ],
+    "term": "amd acquires",
+    "voices": 6,
+    "z": 5.44
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Adds Record $150 Billion to Stock Buyback"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Authorizes $150 Billion Stock Buyback Increase, Largest In History"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Adds $150B to Stock Buyback, the Largest"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "stock buyback",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Gatekeeper – Persuade a 34MB Jev-like model to let you into the castle"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Bongard-mini – An open-weight Jev-like model built on T5"
+     },
+     {
+      "source": "hn",
+      "title": "Stanford and Nvidia's open Jev-like model"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 4.51,
+    "sources": [
+     "hn"
+    ],
+    "term": "jev-like model",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD to Buy Fei-Fei Li’s World Labs for $8.2 Billion"
+     },
+     {
+      "source": "hn",
+      "title": "AMD to buy Fei-Fei Li's AI startup for $8B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 6,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "buy fei-fei li",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenEvidence Confirms It Has Raised An Additional $250 Million At A $15 Billion Valuation"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia-Backed Firmus Eyes $30 Billion Valuation in Australia IPO"
+     },
+     {
+      "source": "media",
+      "title": "Sydney Sweeney-Backed Novig Raised at $2 Billion Valuation"
+     }
+    ],
+    "expected": 0.31,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 3.22,
+    "sources": [
+     "media"
+    ],
+    "term": "billion valuation",
+    "voices": 4,
+    "z": 3.22
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "GPU Glossary"
+     },
+     {
+      "source": "hn",
+      "title": "GPU Glossary (Readable)"
+     },
+     {
+      "source": "hn",
+      "title": "GPU Glossary"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "gpu glossary",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip"
+     },
+     {
+      "source": "hn",
+      "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip"
+     },
+     {
+      "source": "hn",
+      "title": "Reverse Engineering Apple's Mikey Chip"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "mikey chip",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Agentic GPU Programming for MLSys"
+     },
+     {
+      "source": "hn",
+      "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming"
+     },
+     {
+      "source": "hn",
+      "title": "Teaching GPU programming in p5.js: now with compute shaders"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.49,
+    "sources": [
+     "hn"
+    ],
+    "term": "gpu programming",
+    "voices": 3,
+    "z": 2.49
+   }
+  ]
+ },
+ "recent_days": 7
+}

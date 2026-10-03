@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-02",
  "docs_baseline": 111315,
- "docs_recent": 10611,
+ "docs_recent": 10615,
  "fields": {
   "ai": [
    {
@@ -128,6 +128,36 @@
     "z": 10.0
    },
    {
+    "baseline": 30,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Meta’s Muse Tops 3 Million Weekly Users"
+     },
+     {
+      "source": "media",
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger"
+     }
+    ],
+    "expected": 2.33,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 18,
+    "score": 12.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta muse",
+    "voices": 17,
+    "z": 8.58
+   },
+   {
     "baseline": 1074,
     "examples": [
      {
@@ -146,7 +176,7 @@
     "expected": 83.53,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 160,
     "score": 12.48,
     "sources": [
@@ -156,36 +186,6 @@
     "term": "language models",
     "voices": 158,
     "z": 8.32
-   },
-   {
-    "baseline": 30,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Exclusive: Meta’s Muse Tops 3 Million Weekly Users"
-     },
-     {
-      "source": "media",
-      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger"
-     },
-     {
-      "source": "media",
-      "title": "I Tried Meta’s Muse AI Agent. It’s Helpful and Scary at the Same Time."
-     }
-    ],
-    "expected": 2.33,
-    "field": "ai",
-    "is_new": false,
-    "rank": 6,
-    "recent": 17,
-    "score": 12.05,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "meta muse",
-    "voices": 16,
-    "z": 8.03
    },
    {
     "baseline": 0,

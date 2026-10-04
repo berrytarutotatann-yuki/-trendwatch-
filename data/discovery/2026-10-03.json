@@ -1,0 +1,1603 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-03",
+ "docs_baseline": 111614,
+ "docs_recent": 11143,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon releases its own Jev clone as decision models flood the web"
+     },
+     {
+      "source": "hn",
+      "title": "New in Llama.cpp: Decision Models"
+     },
+     {
+      "source": "hn",
+      "title": "Explore decision models in one place with Decisions API"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 17,
+    "score": 25.0,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "decision models",
+    "voices": 17,
+    "z": 12.5
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Executive Order On Renaming AI To ‘Super Intelligence’ Signals Unexpected Legal Bumps Ahead"
+     },
+     {
+      "source": "media",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)"
+     },
+     {
+      "source": "media",
+      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 16,
+    "score": 18.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "super intelligence",
+    "voices": 14,
+    "z": 12.07
+   },
+   {
+    "baseline": 93,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation"
+     },
+     {
+      "source": "arxiv",
+      "title": "Less Data, Better Timing: Student-Curriculum Coupling for VLM On-Policy Distillation in Temporal Video Grounding"
+     },
+     {
+      "source": "arxiv",
+      "title": "GFD-OPD: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales"
+     }
+    ],
+    "expected": 7.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 40,
+    "score": 17.13,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "on-policy distillation",
+    "voices": 40,
+    "z": 11.42
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO prospectus shows key executives and board"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 4,
+    "recent": 10,
+    "score": 15.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipo prospectus",
+    "voices": 8,
+    "z": 10.0
+   },
+   {
+    "baseline": 30,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Meta’s Muse Tops 3 Million Weekly Users"
+     },
+     {
+      "source": "media",
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger"
+     }
+    ],
+    "expected": 2.33,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 20,
+    "score": 14.51,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta muse",
+    "voices": 19,
+    "z": 9.68
+   },
+   {
+    "baseline": 18,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Training an open decision model to replace a closed one, in shadow on prod"
+     },
+     {
+      "source": "hn",
+      "title": "JevWorks: Self hosted decision model playing a procedural game live"
+     },
+     {
+      "source": "hn",
+      "title": "Mercury Decide – Inception's structured decision model"
+     }
+    ],
+    "expected": 1.4,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 14,
+    "score": 12.2,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 14,
+    "z": 8.13
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta’s MongoDB CEO Poach"
+     },
+     {
+      "source": "media",
+      "title": "Meta Taps MongoDB CEO to Lead New Enterprise AI Division"
+     },
+     {
+      "source": "hn",
+      "title": "Meta Has Hired MongoDB CEO Chirantan Desai for AI Push"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "mongodb ceo",
+    "voices": 7,
+    "z": 8.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Why OpenAI’s DevDay Looked Like Catch-Up"
+     },
+     {
+      "source": "hn",
+      "title": "How to Make Money from OpenAI DevDay 2026"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI DevDay Recap – what's new"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 7,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai devday",
+    "voices": 7,
+    "z": 6.67
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Europe’s Stocks Are Straining Under Pressure From Bond Yields"
+     },
+     {
+      "source": "media",
+      "title": "Bond Yields Are 'Juicy,' Says Apollo's Slok"
+     },
+     {
+      "source": "media",
+      "title": "Wall St Week Ahead Spiking bond yields, midterms, earnings to test US stocks' typical fourth-quarter strength"
+     }
+    ],
+    "expected": 1.32,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 11,
+    "score": 9.53,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bond yields",
+    "voices": 3,
+    "z": 6.35
+   },
+   {
+    "baseline": 1081,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Context language models explained"
+     },
+     {
+      "source": "hn",
+      "title": "Language models will hide 'bad news' in reports by default"
+     },
+     {
+      "source": "hn",
+      "title": "Context Language Models"
+     }
+    ],
+    "expected": 84.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 141,
+    "score": 9.26,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "language models",
+    "voices": 139,
+    "z": 6.17
+   },
+   {
+    "baseline": 625,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Homomorphic Advantage Operator: Stabilizing Reinforcement Learning Under Fully Homomorphic Encryption Constraints"
+     },
+     {
+      "source": "arxiv",
+      "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning"
+     },
+     {
+      "source": "arxiv",
+      "title": "Bellman Meets Lyapunov: Unsupervised Reinforcement Learning via Mastering Chaos"
+     }
+    ],
+    "expected": 48.61,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 92,
+    "score": 9.24,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "reinforcement learning",
+    "voices": 92,
+    "z": 6.16
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI shelves new AI model release over safety concerns"
+     },
+     {
+      "source": "arxiv",
+      "title": "The Price of Correlated Tests: How Strict Should a Model Release Gate Be?"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI Halts Model Release Amid Safety Escalation"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 9.01,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "model release",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 24,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google Rolls Out New AI Model Gradually Amid Safety Concerns"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI shelves new AI model release over safety concerns"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Will Not Ship GPT-6.1 Astra Due to Safety Concerns"
+     }
+    ],
+    "expected": 1.87,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 12,
+    "score": 8.98,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "safety concerns",
+    "voices": 11,
+    "z": 5.98
+   },
+   {
+    "baseline": 40,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Recursive Self-Improvement Won’t Be Winner-Takes-All, Say Founders of Ricursive"
+     },
+     {
+      "source": "hn",
+      "title": "Google RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
+     },
+     {
+      "source": "hn",
+      "title": "Is recursive self-improvement mathematically possible?"
+     }
+    ],
+    "expected": 3.11,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 12,
+    "score": 8.77,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "recursive self-improvement",
+    "voices": 11,
+    "z": 4.38
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia debuted the Open Agent Safety Platform"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Open Agent Safety Platform"
+     }
+    ],
+    "expected": 0.93,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 9,
+    "score": 8.7,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "agent safety",
+    "voices": 9,
+    "z": 5.8
+   }
+  ],
+  "other": [
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "France Floats Diesel, Crude Release Amid US Export Ban Risk"
+     },
+     {
+      "source": "media",
+      "title": "Trump: not going to be doing diesel export ban"
+     },
+     {
+      "source": "media",
+      "title": "Russia will consider partial lifting of diesel export ban in case of overproduction, Novak says"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "export ban",
+    "voices": 3,
+    "z": 6.99
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video"
+     },
+     {
+      "source": "media",
+      "title": "Apple Smart Home “HomePad” Set To Launch October 13"
+     },
+     {
+      "source": "media",
+      "title": "Apple Plans Aggressive New Push Into Smart Home"
+     }
+    ],
+    "expected": 0.54,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "smart home",
+    "voices": 7,
+    "z": 5.19
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Transport Chief Duffy sees no safety concern from 737 MAX software issue"
+     },
+     {
+      "source": "hn",
+      "title": "FAA says Boeing 737 MAX software glitch not a flight-safety issue"
+     },
+     {
+      "source": "hn",
+      "title": "FAA Says 737 MAX Software Glitch Doesn't Pose Safety Issue"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "max software",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Benchmark Yield Hits Highest Since 2002"
+     },
+     {
+      "source": "media",
+      "title": "‘Deadlock’ Hits Highest Player Count Ever Following Major Patch"
+     },
+     {
+      "source": "media",
+      "title": "German inflation hits highest level in almost 3 years"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "hits highest",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Treasuries Rebound as Global Bond Rout Continues"
+     },
+     {
+      "source": "media",
+      "title": "Indonesia Has Room for Global Bond Sale This Quarter, Finance Minister Says"
+     },
+     {
+      "source": "media",
+      "title": "Global Bond Funds Are Rewarding the Early Movers on Inflation"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 5.61,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "global bond",
+    "voices": 3,
+    "z": 3.74
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Paramount’s Warner Bros. megamerger will just be called Skydance"
+     },
+     {
+      "source": "media",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance"
+     },
+     {
+      "source": "media",
+      "title": "Moderna to replace Warner Bros Discovery on Nasdaq 100"
+     }
+    ],
+    "expected": 1.32,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 7,
+    "score": 5.59,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "warner bros",
+    "voices": 6,
+    "z": 3.73
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US job growth expected to slow in September; unemployment rate likely steady"
+     },
+     {
+      "source": "media",
+      "title": "US Job Growth Falls Short of Forecasts as Firms Remain Cautious"
+     },
+     {
+      "source": "media",
+      "title": "US job growth undershoots expectations in September, but labor market remains stable"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "job growth",
+    "voices": 3,
+    "z": 3.58
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "France to step up Ebola funding in Congo amid resurgence fears, minister says"
+     },
+     {
+      "source": "media",
+      "title": "Indonesia Has Room for Global Bond Sale This Quarter, Finance Minister Says"
+     },
+     {
+      "source": "media",
+      "title": "Poland to set quicker air defence procedures, defence minister says"
+     }
+    ],
+    "expected": 0.62,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 5,
+    "score": 5.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "minister says",
+    "voices": 3,
+    "z": 3.44
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982"
+     },
+     {
+      "source": "hn",
+      "title": "10-year Treasury yield hits highest level since 2002"
+     },
+     {
+      "source": "hn",
+      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 4,
+    "score": 5.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "level since",
+    "voices": 4,
+    "z": 3.39
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Polish city reopens Cold War shelter as Russian attacks in Ukraine intensify"
+     },
+     {
+      "source": "hn",
+      "title": "Cold War spy satellite named after Farrah Fawcett just exploded in space"
+     },
+     {
+      "source": "hn",
+      "title": "A Cold War Spy Satellite Named After Farrah Fawcett Just Blew Apart in Orbit"
+     }
+    ],
+    "expected": 0.78,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 4.75,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cold war",
+    "voices": 5,
+    "z": 3.17
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Justice Department files complaint against Minnesota judges who gave interviews about immigration surge"
+     },
+     {
+      "source": "hn",
+      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal"
+     },
+     {
+      "source": "hn",
+      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "justice department",
+    "voices": 4,
+    "z": 3.06
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AstraZeneca to Invest $2 Billion in Summit Therapeutics, Collaborate on Cancer Drugs"
+     },
+     {
+      "source": "hn",
+      "title": "New Cancer Drugs Are Revolutionary. Why Don't More Patients Get Them?"
+     },
+     {
+      "source": "hn",
+      "title": "Why Do Clinical Trials for Cancer Drugs Take So Long?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cancer drugs",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Gears of War: E-Day is a great game launching at a terrible time"
+     },
+     {
+      "source": "media",
+      "title": "The ‘Gears Of War: E-Day’ Metacritic Review Score Is In, And It’s Great"
+     },
+     {
+      "source": "hn",
+      "title": "Advanced Shader Delivery Available for Gears of War"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gears of war",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Laya: Multilingual, non-autoregressive System 1 decision engine"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Snap – local first decision engine open weight"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Open-Source Decision Engine"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 4.29,
+    "sources": [
+     "hn"
+    ],
+    "term": "decision engine",
+    "voices": 5,
+    "z": 4.29
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US finalizes new lower fuel economy standards in boost for gas-powered vehicles"
+     },
+     {
+      "source": "hn",
+      "title": "US finalizes new lower fuel economy standards"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Set to Roll Back Biden-Era Auto Fuel Economy Standards"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fuel economy standards",
+    "voices": 3,
+    "z": 2.81
+   }
+  ],
+  "power": [
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX's Starship makes orbital debut deploying Starlinks before early ending"
+     }
+    ],
+    "expected": 0.54,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 10,
+    "score": 11.41,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex starship",
+    "voices": 9,
+    "z": 7.61
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Factory Orders Edge Higher; G7 to Release Diesel, Crude"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Pressure Is Piling Up for Europe to Release Diesel"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "release diesel",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon’s new Fire TV Stick 4K can pull power directly from your TV"
+     },
+     {
+      "source": "media",
+      "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote"
+     },
+     {
+      "source": "hn",
+      "title": "You probably won't be able to sideload APKs on Amazon's next Fire TV Stick 4K"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fire tv stick",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EU governments spent €18 billion in 2026 to cushion energy price jump"
+     },
+     {
+      "source": "media",
+      "title": "Wei Li on AI Scarcity, Bond Selloff, Energy Price Shock"
+     },
+     {
+      "source": "hn",
+      "title": "\"we are not yet seeing spillovers from tariffs, [and] energy price shocks\""
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "energy price",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 298,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs"
+     },
+     {
+      "source": "media",
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?"
+     },
+     {
+      "source": "media",
+      "title": "Amazon to invest $1 billion over five years in US data center communities"
+     }
+    ],
+    "expected": 23.18,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 33,
+    "score": 3.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data center",
+    "voices": 22,
+    "z": 2.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Isostable-Based Nonlinear Model Reduction for Power System Oscillations"
+     },
+     {
+      "source": "arxiv",
+      "title": "Nonlinear Participation Factor-based Power System Model Reduction Addressing Near-Resonance Conditions"
+     },
+     {
+      "source": "arxiv",
+      "title": "SMORE: Stability-Promoting Mesh-Agnostic Model Reduction for Time-Dependent PDEs"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "model reduction",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Elusive Power Players Behind the Rise of Jane Street"
+     },
+     {
+      "source": "hn",
+      "title": "Results from the Jane Street hardware puzzle"
+     },
+     {
+      "source": "hn",
+      "title": "The Elusive Leaders Behind Jane Street's Wall Street Rise"
+     }
+    ],
+    "expected": 0.86,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 2.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "jane street",
+    "voices": 3,
+    "z": 1.57
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cities, states sue EPA over power plant emissions rollback"
+     },
+     {
+      "source": "media",
+      "title": "World’s first enhanced geothermal power plant completed in just 23 months"
+     },
+     {
+      "source": "hn",
+      "title": "The unfinished solar power plant in El Médano – Tenerife part 01"
+     }
+    ],
+    "expected": 1.71,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 2.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "power plant",
+    "voices": 4,
+    "z": 1.39
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD to Buy Fei-Fei Li’s World Labs for $8.2 Billion"
+     },
+     {
+      "source": "media",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 1,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "li world labs",
+    "voices": 9,
+    "z": 9.0
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia launches new platform for reining in rogue AI agents"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Launches Agent Safety Platform to Secure Agents, Testing to Deployment"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia launches",
+    "voices": 7,
+    "z": 6.09
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chinese State-Backed Firm Funded Purchase of Nvidia Chips"
+     },
+     {
+      "source": "media",
+      "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports"
+     },
+     {
+      "source": "media",
+      "title": "U.S. Arrests Man for Smuggling Nvidia Chips to China"
+     }
+    ],
+    "expected": 0.54,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 8,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia chips",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs"
+     },
+     {
+      "source": "media",
+      "title": "Why LLMs Are The Best Thing To Happen To Chip Design"
+     },
+     {
+      "source": "media",
+      "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion"
+     }
+    ],
+    "expected": 1.01,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 7.39,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip design",
+    "voices": 4,
+    "z": 4.93
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 5.44,
+    "sources": [
+     "hn"
+    ],
+    "term": "amd acquires",
+    "voices": 6,
+    "z": 5.44
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Adds Record $150 Billion to Stock Buyback"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Authorizes $150 Billion Stock Buyback Increase, Largest In History"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Adds $150B to Stock Buyback, the Largest"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "stock buyback",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Gatekeeper – Persuade a 34MB Jev-like model to let you into the castle"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Bongard-mini – An open-weight Jev-like model built on T5"
+     },
+     {
+      "source": "hn",
+      "title": "Stanford and Nvidia's open Jev-like model"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 5,
+    "score": 4.51,
+    "sources": [
+     "hn"
+    ],
+    "term": "jev-like model",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD to Buy Fei-Fei Li’s World Labs for $8.2 Billion"
+     },
+     {
+      "source": "hn",
+      "title": "AMD to buy Fei-Fei Li's AI startup for $8B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD to Buy Fei-Fei Li's World Labs AI Startup for $8.2B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "buy fei-fei li",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Catscan: Visualizing Pipelines of CPU Performance Simulation"
+     },
+     {
+      "source": "hn",
+      "title": "CPU Performance Engineering"
+     },
+     {
+      "source": "arxiv",
+      "title": "Catscan: Visualizing Pipelines of CPU Performance Simulation"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 9,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "cpu performance",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)"
+     },
+     {
+      "source": "hn",
+      "title": "CIRCT – An experimental effort to apply MLIR and LLVM to hardware design tools"
+     },
+     {
+      "source": "arxiv",
+      "title": "BEHAVE: Functional Behavior Modeling Enables Self-Improving Agents for Hardware Design and Verification"
+     }
+    ],
+    "expected": 0.54,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 3.95,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "hardware design",
+    "voices": 3,
+    "z": 1.98
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "ESP-SDR uses undocumented raw IQ capture of ESP32 to make software defined radio"
+     },
+     {
+      "source": "hn",
+      "title": "Raw IQ Capture with Espressif's ESP32 Chips"
+     },
+     {
+      "source": "hn",
+      "title": "ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 11,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "raw iq capture",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia/OpenShell: Safe, private runtime for autonomous AI agents"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia OpenShell"
+     },
+     {
+      "source": "hn",
+      "title": "The machine layer under Nvidia OpenShell: why containment is not safety"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 12,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia openshell",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "GPU Glossary"
+     },
+     {
+      "source": "hn",
+      "title": "GPU Glossary (Readable)"
+     },
+     {
+      "source": "hn",
+      "title": "GPU Glossary"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 13,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "gpu glossary",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip"
+     },
+     {
+      "source": "hn",
+      "title": "Reverse Engineering the iPod Classic's Undocumented Mikey Chip"
+     },
+     {
+      "source": "hn",
+      "title": "Reverse Engineering Apple's Mikey Chip"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 14,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "mikey chip",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Agentic GPU Programming for MLSys"
+     },
+     {
+      "source": "hn",
+      "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming"
+     },
+     {
+      "source": "hn",
+      "title": "Teaching GPU programming in p5.js: now with compute shaders"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "hn"
+    ],
+    "term": "gpu programming",
+    "voices": 3,
+    "z": 2.65
+   }
+  ]
+ },
+ "recent_days": 7
+}

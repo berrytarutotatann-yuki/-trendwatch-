@@ -2596,8 +2596,362 @@
    "fetched_to": "2026-10-03"
   },
   "news": {
-   "days": {},
-   "fetched_from": null
+   "days": {
+    "2026-07-08": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-09": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-10": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-07-11": {
+     "count": 6,
+     "voices": null
+    },
+    "2026-07-12": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-07-13": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-07-14": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-15": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-16": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-17": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-07-18": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-19": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-20": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-07-21": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-07-22": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-07-23": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-07-24": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-07-25": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-26": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-07-27": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-07-28": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-07-29": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-07-30": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-07-31": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-01": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-02": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-03": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-04": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-05": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-06": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-08-07": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-08": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-09": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-10": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-11": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-12": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-13": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-14": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-15": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-16": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-17": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-18": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-08-19": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-20": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-21": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-22": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-23": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-24": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-25": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-26": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-27": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-28": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-29": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-30": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-31": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-01": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-02": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-03": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-04": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-05": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-09-06": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-07": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-08": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-09": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-10": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-09-11": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-09-12": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-13": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-14": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-15": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-16": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-17": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-18": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-19": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-20": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-21": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-22": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-23": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-24": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-09-25": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-09-26": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-27": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-28": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-09-29": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-09-30": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-10-01": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-10-02": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-10-03": {
+     "count": 0,
+     "voices": null
+    }
+   },
+   "fetched_from": "2026-06-06",
+   "fetched_to": "2026-10-03"
   },
   "qiita": {
    "days": {
@@ -4680,10 +5034,18 @@
     "2026-10-01": {
      "count": 44,
      "voices": null
+    },
+    "2026-10-02": {
+     "count": 22,
+     "voices": null
+    },
+    "2026-10-03": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-01"
+   "fetched_to": "2026-10-03"
   },
   "qiita": {
    "days": {},
@@ -5895,10 +6257,18 @@
     "2026-10-01": {
      "count": 63,
      "voices": null
+    },
+    "2026-10-02": {
+     "count": 10,
+     "voices": null
+    },
+    "2026-10-03": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-01"
+   "fetched_to": "2026-10-03"
   },
   "qiita": {
    "days": {
@@ -7415,10 +7785,18 @@
     "2026-10-01": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-02": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-10-03": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-01"
+   "fetched_to": "2026-10-03"
   },
   "qiita": {
    "days": {
@@ -12219,10 +12597,18 @@
     "2026-10-01": {
      "count": 90,
      "voices": null
+    },
+    "2026-10-02": {
+     "count": 87,
+     "voices": null
+    },
+    "2026-10-03": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-01"
+   "fetched_to": "2026-10-03"
   },
   "qiita": {
    "days": {},
@@ -14580,8 +14966,362 @@
    "fetched_to": "2026-10-03"
   },
   "news": {
-   "days": {},
-   "fetched_from": null
+   "days": {
+    "2026-07-08": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-07-09": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-07-10": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-07-11": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-07-12": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-07-13": {
+     "count": 10,
+     "voices": null
+    },
+    "2026-07-14": {
+     "count": 9,
+     "voices": null
+    },
+    "2026-07-15": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-07-16": {
+     "count": 27,
+     "voices": null
+    },
+    "2026-07-17": {
+     "count": 97,
+     "voices": null
+    },
+    "2026-07-18": {
+     "count": 11,
+     "voices": null
+    },
+    "2026-07-19": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-07-20": {
+     "count": 16,
+     "voices": null
+    },
+    "2026-07-21": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-07-22": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-07-23": {
+     "count": 11,
+     "voices": null
+    },
+    "2026-07-24": {
+     "count": 7,
+     "voices": null
+    },
+    "2026-07-25": {
+     "count": 60,
+     "voices": null
+    },
+    "2026-07-26": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-07-27": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-07-28": {
+     "count": 10,
+     "voices": null
+    },
+    "2026-07-29": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-07-30": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-07-31": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-08-01": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-02": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-03": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-08-04": {
+     "count": 68,
+     "voices": null
+    },
+    "2026-08-05": {
+     "count": 23,
+     "voices": null
+    },
+    "2026-08-06": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-07": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-08-08": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-09": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-10": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-08-11": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-12": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-08-13": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-14": {
+     "count": 6,
+     "voices": null
+    },
+    "2026-08-15": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-08-16": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-17": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-18": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-19": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-08-20": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-08-21": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-22": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-08-23": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-08-24": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-08-25": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-26": {
+     "count": 6,
+     "voices": null
+    },
+    "2026-08-27": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-08-28": {
+     "count": 13,
+     "voices": null
+    },
+    "2026-08-29": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-08-30": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-08-31": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-01": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-02": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-03": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-04": {
+     "count": 21,
+     "voices": null
+    },
+    "2026-09-05": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-06": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-07": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-08": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-09-09": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-09-10": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-11": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-09-12": {
+     "count": 2,
+     "voices": null
+    },
+    "2026-09-13": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-14": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-15": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-16": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-17": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-18": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-19": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-20": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-09-21": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-09-22": {
+     "count": 11,
+     "voices": null
+    },
+    "2026-09-23": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-09-24": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-09-25": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-26": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-09-27": {
+     "count": 4,
+     "voices": null
+    },
+    "2026-09-28": {
+     "count": 143,
+     "voices": null
+    },
+    "2026-09-29": {
+     "count": 60,
+     "voices": null
+    },
+    "2026-09-30": {
+     "count": 11,
+     "voices": null
+    },
+    "2026-10-01": {
+     "count": 10,
+     "voices": null
+    },
+    "2026-10-02": {
+     "count": 20,
+     "voices": null
+    },
+    "2026-10-03": {
+     "count": 0,
+     "voices": null
+    }
+   },
+   "fetched_from": "2026-06-06",
+   "fetched_to": "2026-10-03"
   },
   "qiita": {
    "days": {},
@@ -17025,10 +17765,18 @@
     "2026-10-01": {
      "count": 3,
      "voices": null
+    },
+    "2026-10-02": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-10-03": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-01"
+   "fetched_to": "2026-10-03"
   },
   "qiita": {
    "days": {

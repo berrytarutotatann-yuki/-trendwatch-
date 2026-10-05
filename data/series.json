@@ -2,8 +2,8 @@
  "HBM4": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -41,7 +41,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -655,10 +655,6 @@
   },
   "qiita": {
    "days": {
-    "2026-06-06": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-07-01": {
      "count": 1,
      "voices": 1
@@ -721,7 +717,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "co-packaged optics": {
@@ -761,7 +757,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -775,7 +771,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -1753,7 +1749,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "decision models": {
@@ -1920,12 +1916,16 @@
      "voices": 5
     },
     "2026-10-01": {
-     "count": 5,
-     "voices": 5
+     "count": 8,
+     "voices": 8
+    },
+    "2026-10-02": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -1984,10 +1984,14 @@
     "2026-10-03": {
      "count": 1,
      "voices": 1
+    },
+    "2026-10-04": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -2948,10 +2952,14 @@
     "2026-10-03": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-04": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "qiita": {
    "days": {
@@ -2989,14 +2997,14 @@
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "fire tv stick": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -3022,7 +3030,7 @@
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -3983,31 +3991,43 @@
     "2026-09-30": {
      "count": 22,
      "voices": null
+    },
+    "2026-10-01": {
+     "count": 9,
+     "voices": null
+    },
+    "2026-10-02": {
+     "count": 9,
+     "voices": null
+    },
+    "2026-10-03": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-10-04": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-09-30"
+   "fetched_to": "2026-10-04"
   },
   "qiita": {
    "days": {
-    "2026-06-06": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-09-08": {
      "count": 1,
      "voices": 1
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "force majeure": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -4073,7 +4093,7 @@
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -5042,15 +5062,19 @@
     "2026-10-03": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-04": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   }
  },
  "gpt-6 astra": {
@@ -5153,12 +5177,16 @@
      "voices": 5
     },
     "2026-10-01": {
-     "count": 3,
-     "voices": 3
+     "count": 4,
+     "voices": 4
+    },
+    "2026-10-02": {
+     "count": 2,
+     "voices": 2
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -5293,10 +5321,14 @@
     "2026-10-03": {
      "count": 5,
      "voices": 5
+    },
+    "2026-10-04": {
+     "count": 6,
+     "voices": 6
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -6265,10 +6297,14 @@
     "2026-10-03": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-04": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "qiita": {
    "days": {
@@ -6403,19 +6439,19 @@
     "2026-10-03": {
      "count": 3,
      "voices": 3
+    },
+    "2026-10-04": {
+     "count": 7,
+     "voices": 6
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "harness engineering": {
   "arxiv": {
    "days": {
-    "2026-06-06": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-06-07": {
      "count": 1,
      "voices": 1
@@ -6513,19 +6549,15 @@
      "voices": 1
     },
     "2026-10-01": {
-     "count": 1,
-     "voices": 1
+     "count": 2,
+     "voices": 2
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
-    "2026-06-06": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-06-07": {
      "count": 3,
      "voices": 3
@@ -6817,10 +6849,14 @@
     "2026-10-02": {
      "count": 3,
      "voices": 3
+    },
+    "2026-10-04": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -7800,10 +7836,6 @@
   },
   "qiita": {
    "days": {
-    "2026-06-06": {
-     "count": 2,
-     "voices": 2
-    },
     "2026-06-08": {
      "count": 1,
      "voices": 1
@@ -8073,27 +8105,31 @@
      "voices": 1
     },
     "2026-10-01": {
-     "count": 1,
-     "voices": 1
+     "count": 2,
+     "voices": 2
     },
     "2026-10-02": {
      "count": 2,
      "voices": 1
     },
     "2026-10-03": {
+     "count": 2,
+     "voices": 1
+    },
+    "2026-10-04": {
      "count": 1,
      "voices": 1
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "li world labs": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -8107,7 +8143,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -9087,15 +9123,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   }
  },
  "nvidia launches": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -9129,7 +9165,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -10106,10 +10142,14 @@
     "2026-10-03": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-04": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "qiita": {
    "days": {
@@ -10127,7 +10167,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "on-policy distillation": {
@@ -10554,12 +10594,16 @@
      "voices": 11
     },
     "2026-10-01": {
-     "count": 2,
-     "voices": 2
+     "count": 6,
+     "voices": 6
+    },
+    "2026-10-02": {
+     "count": 11,
+     "voices": 11
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -10597,7 +10641,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -11611,14 +11655,14 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "release diesel": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -11633,10 +11677,14 @@
     "2026-10-03": {
      "count": 1,
      "voices": 1
+    },
+    "2026-10-04": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -12605,22 +12653,26 @@
     "2026-10-03": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-04": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   }
  },
  "slop ui": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -12658,7 +12710,7 @@
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -13272,8 +13324,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   }
  },
  "small modular reactor": {
@@ -13297,7 +13349,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -13323,7 +13375,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -14303,15 +14355,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   }
  },
  "spacex starship": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -14357,7 +14409,7 @@
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -15318,15 +15370,19 @@
     "2026-10-03": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-04": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_from": "2026-06-07",
+   "fetched_to": "2026-10-04"
   }
  },
  "super intelligence": {
@@ -15338,7 +15394,7 @@
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -15709,10 +15765,14 @@
     "2026-10-03": {
      "count": 12,
      "voices": 10
+    },
+    "2026-10-04": {
+     "count": 12,
+     "voices": 12
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -16673,10 +16733,14 @@
     "2026-10-03": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-04": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "qiita": {
    "days": {
@@ -16686,7 +16750,7 @@
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  },
  "system one model": {
@@ -16725,12 +16789,16 @@
      "voices": 2
     },
     "2026-10-01": {
+     "count": 2,
+     "voices": 2
+    },
+    "2026-10-02": {
      "count": 1,
      "voices": 1
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "hn": {
    "days": {
@@ -16800,7 +16868,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   },
   "media": {
    "days": {
@@ -17835,10 +17903,14 @@
     "2026-10-02": {
      "count": 1,
      "voices": 1
+    },
+    "2026-10-04": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-03"
+   "fetched_to": "2026-10-04"
   }
  }
 }

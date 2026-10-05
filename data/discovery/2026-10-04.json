@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-04",
  "docs_baseline": 111400,
- "docs_recent": 10050,
+ "docs_recent": 10053,
  "fields": {
   "ai": [
    {
@@ -641,6 +641,36 @@
     "z": 3.58
    },
    {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apache workers back strike that could disrupt North Sea Forties oil pipeline, union says"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine Attacks Key Russian Refinery and Oil Pipeline Hub"
+     },
+     {
+      "source": "media",
+      "title": "Canada to fast track oil pipeline designed to diversify economy away from US"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "oil pipeline",
+    "voices": 3,
+    "z": 3.58
+   },
+   {
     "baseline": 8,
     "examples": [
      {
@@ -659,7 +689,7 @@
     "expected": 0.62,
     "field": "other",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 5,
     "score": 5.16,
     "sources": [
@@ -689,7 +719,7 @@
     "expected": 0.23,
     "field": "other",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 4,
     "score": 5.09,
     "sources": [
@@ -719,7 +749,7 @@
     "expected": 0.23,
     "field": "other",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 4,
     "score": 5.09,
     "sources": [
@@ -749,7 +779,7 @@
     "expected": 0.39,
     "field": "other",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 4,
     "score": 4.6,
     "sources": [
@@ -779,7 +809,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 11,
+    "rank": 12,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -809,7 +839,7 @@
     "expected": 0.23,
     "field": "other",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 5,
     "score": 4.29,
     "sources": [
@@ -838,7 +868,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 3,
     "score": 4.22,
     "sources": [
@@ -868,36 +898,6 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 14,
-    "recent": 3,
-    "score": 4.22,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "faa says",
-    "voices": 3,
-    "z": 2.81
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order"
-     },
-     {
-      "source": "hn",
-      "title": "Site: *.si \"Domain for Sale\""
-     },
-     {
-      "source": "hn",
-      "title": "Slovenia's .si domain grows more than 15% in wake of Trump's UN speech"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
     "rank": 15,
     "recent": 3,
     "score": 4.22,
@@ -905,7 +905,7 @@
      "hn",
      "media"
     ],
-    "term": "si domain",
+    "term": "faa says",
     "voices": 3,
     "z": 2.81
    }

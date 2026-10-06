@@ -1,0 +1,1510 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-05",
+ "docs_baseline": 111943,
+ "docs_recent": 9045,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump Announces ‘Super Intelligence Force’ That Raises Super-Sized Questions About The Future Of AI"
+     },
+     {
+      "source": "media",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?"
+     },
+     {
+      "source": "media",
+      "title": "Trump unveils his new Super Intelligence Force"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 21,
+    "score": 24.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "super intelligence",
+    "voices": 16,
+    "z": 16.0
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon releases its own Jev clone as decision models flood the web"
+     },
+     {
+      "source": "hn",
+      "title": "Decision 2.0: our newest decision models"
+     },
+     {
+      "source": "hn",
+      "title": "Decision Models vs. ML Classification"
+     }
+    ],
+    "expected": 1.01,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 15,
+    "score": 19.73,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "decision models",
+    "voices": 15,
+    "z": 9.86
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic IPO prospectus lays bare deep dependence on Big Tech partners"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 8,
+    "score": 10.95,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipo prospectus",
+    "voices": 7,
+    "z": 7.3
+   },
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Wazn-2B – decision model with separate encoding and competition"
+     },
+     {
+      "source": "hn",
+      "title": "Training an open decision model to replace a closed one, in shadow on prod"
+     },
+     {
+      "source": "hn",
+      "title": "JevWorks: Self hosted decision model playing a procedural game live"
+     }
+    ],
+    "expected": 1.56,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 13,
+    "score": 10.74,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 13,
+    "z": 7.16
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Why OpenAI’s DevDay Looked Like Catch-Up"
+     },
+     {
+      "source": "hn",
+      "title": "How to Make Money from OpenAI DevDay 2026"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI DevDay Recap – what's new"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai devday",
+    "voices": 7,
+    "z": 6.67
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What Are OpenAI Dots And Do You Need Them?"
+     },
+     {
+      "source": "media",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch"
+     },
+     {
+      "source": "hn",
+      "title": "The $10B AI Assistant Challenging Meta's Muse, Grok's Bots, and OpenAI's Dots [video]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai dots",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic's IPO pitch embraces AI's promise and peril"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic IPO prospectus lays bare deep dependence on Big Tech partners"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 9,
+    "score": 8.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 8,
+    "z": 5.98
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic warns",
+    "voices": 5,
+    "z": 5.7
+   },
+   {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Brand AI Agent Vs Personal Agent, How Meta Muse And ChatGPT Dots Shop"
+     },
+     {
+      "source": "media",
+      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Meta’s Muse Tops 3 Million Weekly Users"
+     }
+    ],
+    "expected": 2.88,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 13,
+    "score": 7.71,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta muse",
+    "voices": 13,
+    "z": 5.14
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less"
+     },
+     {
+      "source": "hn",
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence"
+     },
+     {
+      "source": "hn",
+      "title": "GPT-6.1 Sol: Release Intelligence, Performance and Price"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gpt-6.1 sol",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’"
+     },
+     {
+      "source": "media",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai safety",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump’s AI Billionaire Lunch Dates Have So Far Spent $145 Million On Political Candidates"
+     },
+     {
+      "source": "media",
+      "title": "Who Had Power At That Trump AI Summit?"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Hires Top Trump AI Official to Work on National Security"
+     }
+    ],
+    "expected": 0.47,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 6,
+    "score": 6.85,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump ai",
+    "voices": 5,
+    "z": 4.57
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force"
+     },
+     {
+      "source": "media",
+      "title": "New AI Czar Unveils Goals, Members of White House Task Force"
+     },
+     {
+      "source": "media",
+      "title": "Trump Expected to Name ODNI’s Jay Clayton as AI Czar"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 6.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai czar",
+    "voices": 3,
+    "z": 4.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Context language models explained"
+     },
+     {
+      "source": "hn",
+      "title": "Context Language Models"
+     },
+     {
+      "source": "hn",
+      "title": "Context Language Models (CLMs)"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "context language models",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Explore decision models in one place with Decisions API"
+     },
+     {
+      "source": "hn",
+      "title": "The OpenAI Decisions API needs a confidence you can trust"
+     },
+     {
+      "source": "hn",
+      "title": "What Is OpenAI's Decisions API?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "decisions api",
+    "voices": 6,
+    "z": 6.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "France Floats Diesel, Crude Release Amid US Export Ban Risk"
+     },
+     {
+      "source": "media",
+      "title": "Trump: not going to be doing diesel export ban"
+     },
+     {
+      "source": "media",
+      "title": "Russia will consider partial lifting of diesel export ban in case of overproduction, Novak says"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "export ban",
+    "voices": 3,
+    "z": 6.99
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "South African fuel prices to jump this week on Iran war impact"
+     },
+     {
+      "source": "media",
+      "title": "Odd Lots: How Airlines Hedge Higher Fuel Prices (Podcast)"
+     },
+     {
+      "source": "media",
+      "title": "How Airlines Actually Hedge Higher Fuel Prices"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fuel prices",
+    "voices": 3,
+    "z": 4.74
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What’s Driving the Global Bond Selloff? Your Questions Answered"
+     },
+     {
+      "source": "media",
+      "title": "Treasuries Rebound as Global Bond Rout Continues"
+     },
+     {
+      "source": "media",
+      "title": "Indonesia Has Room for Global Bond Sale This Quarter, Finance Minister Says"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 6,
+    "score": 6.85,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "global bond",
+    "voices": 3,
+    "z": 4.57
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Key Saudi Oil Pipeline Flows Normal Despite Report of Halt"
+     },
+     {
+      "source": "media",
+      "title": "Apache workers back strike that could disrupt North Sea Forties oil pipeline, union says"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine Attacks Key Russian Refinery and Oil Pipeline Hub"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "oil pipeline",
+    "voices": 3,
+    "z": 4.51
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video"
+     },
+     {
+      "source": "media",
+      "title": "Apple Smart Home “HomePad” Set To Launch October 13"
+     },
+     {
+      "source": "media",
+      "title": "Apple Plans Aggressive New Push Into Smart Home"
+     }
+    ],
+    "expected": 0.62,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 6.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "smart home",
+    "voices": 6,
+    "z": 4.22
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Benchmark Yield Hits Highest Since 2002"
+     },
+     {
+      "source": "media",
+      "title": "‘Deadlock’ Hits Highest Player Count Ever Following Major Patch"
+     },
+     {
+      "source": "media",
+      "title": "German inflation hits highest level in almost 3 years"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "hits highest",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Paramount’s Warner Bros. megamerger will just be called Skydance"
+     },
+     {
+      "source": "media",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance"
+     },
+     {
+      "source": "media",
+      "title": "Moderna to replace Warner Bros Discovery on Nasdaq 100"
+     }
+    ],
+    "expected": 1.32,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 7,
+    "score": 5.59,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "warner bros",
+    "voices": 6,
+    "z": 3.73
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US job growth expected to slow in September; unemployment rate likely steady"
+     },
+     {
+      "source": "media",
+      "title": "US Job Growth Falls Short of Forecasts as Firms Remain Cautious"
+     },
+     {
+      "source": "media",
+      "title": "US job growth undershoots expectations in September, but labor market remains stable"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "job growth",
+    "voices": 3,
+    "z": 3.58
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "France to step up Ebola funding in Congo amid resurgence fears, minister says"
+     },
+     {
+      "source": "media",
+      "title": "Indonesia Has Room for Global Bond Sale This Quarter, Finance Minister Says"
+     },
+     {
+      "source": "media",
+      "title": "Poland to set quicker air defence procedures, defence minister says"
+     }
+    ],
+    "expected": 0.62,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 5,
+    "score": 5.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "minister says",
+    "voices": 3,
+    "z": 3.44
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Transport Chief Duffy sees no safety concern from 737 MAX software issue"
+     },
+     {
+      "source": "hn",
+      "title": "FAA says Boeing 737 MAX software glitch not a flight-safety issue"
+     },
+     {
+      "source": "hn",
+      "title": "FAA Says 737 MAX Software Glitch Doesn't Pose Safety Issue"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 5.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "max software",
+    "voices": 4,
+    "z": 3.39
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Justice Department files complaint against Minnesota judges who gave interviews about immigration surge"
+     },
+     {
+      "source": "hn",
+      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal"
+     },
+     {
+      "source": "hn",
+      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "justice department",
+    "voices": 4,
+    "z": 3.06
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue"
+     },
+     {
+      "source": "hn",
+      "title": "FAA says Boeing 737 MAX software glitch not a flight-safety issue"
+     },
+     {
+      "source": "hn",
+      "title": "FAA Says 737 MAX Software Glitch Doesn't Pose Safety Issue"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "faa says",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Gears of War: E-Day is a great game launching at a terrible time"
+     },
+     {
+      "source": "media",
+      "title": "The ‘Gears Of War: E-Day’ Metacritic Review Score Is In, And It’s Great"
+     },
+     {
+      "source": "hn",
+      "title": "Advanced Shader Delivery Available for Gears of War"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gears of war",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "From ‘Harry Potter’ To ‘Game Of Thrones,’ Every IP David Ellison’s Skydance Now Owns"
+     },
+     {
+      "source": "media",
+      "title": "David Ellison's appointment of Kreiz brings cost-cutter to Paramount-Warner Bros Discovery"
+     },
+     {
+      "source": "hn",
+      "title": "David Ellison on Paramount and Warner Bros. rename: \"Together, we are Skydance.\""
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "david ellison",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Rust for CPython (Python Language Summit 2026)"
+     },
+     {
+      "source": "hn",
+      "title": "Spicycrab (Python Language Summit 2026) – Python Insider"
+     },
+     {
+      "source": "hn",
+      "title": "Free-Threaded Python Post-Era (Python Language Summit 2026) – Python Insider"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "python language summit",
+    "voices": 3,
+    "z": 4.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Factory Orders Edge Higher; G7 to Release Diesel, Crude"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Pressure Is Piling Up for Europe to Release Diesel"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "release diesel",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon’s new Fire TV Stick 4K can pull power directly from your TV"
+     },
+     {
+      "source": "media",
+      "title": "Amazon’s new Fire TV Stick 4K comes with an actually good remote"
+     },
+     {
+      "source": "hn",
+      "title": "You probably won't be able to sideload APKs on Amazon's next Fire TV Stick 4K"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fire tv stick",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Fusion Energy Space Travel"
+     },
+     {
+      "source": "hn",
+      "title": "Japan's fusion energy startup to begin power-on tests at pilot reactor in 2027"
+     },
+     {
+      "source": "arxiv",
+      "title": "Integrated assessment of tritium releases from fission and fusion energy systems and their environmental implications"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "fusion energy",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EU governments spent €18 billion in 2026 to cushion energy price jump"
+     },
+     {
+      "source": "media",
+      "title": "Wei Li on AI Scarcity, Bond Selloff, Energy Price Shock"
+     },
+     {
+      "source": "hn",
+      "title": "\"we are not yet seeing spillovers from tariffs, [and] energy price shocks\""
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "energy price",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy"
+     },
+     {
+      "source": "hn",
+      "title": "Surviving 3 Years in North Korea as a Foreign Diplomat"
+     },
+     {
+      "source": "hn",
+      "title": "The Dangers of North Korea's Nuclear Status Quo"
+     }
+    ],
+    "expected": 1.48,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 3.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "north korea",
+    "voices": 5,
+    "z": 2.24
+   },
+   {
+    "baseline": 301,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Goldman sees US data center growth intact despite opposition"
+     },
+     {
+      "source": "media",
+      "title": "Why Google, Amazon and Microsoft Need Chinese Data Center Suppliers"
+     },
+     {
+      "source": "media",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs"
+     }
+    ],
+    "expected": 23.41,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 33,
+    "score": 2.91,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data center",
+    "voices": 22,
+    "z": 1.94
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Radio signal detected for the first time from a planet outside our solar system"
+     },
+     {
+      "source": "hn",
+      "title": "Our Solar System Is Terminally Unstable"
+     },
+     {
+      "source": "hn",
+      "title": "Radio signal detected for first time from a planet outside our solar system"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 2.53,
+    "sources": [
+     "hn"
+    ],
+    "term": "solar system",
+    "voices": 4,
+    "z": 2.53
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Elusive Power Players Behind the Rise of Jane Street"
+     },
+     {
+      "source": "hn",
+      "title": "Results from the Jane Street hardware puzzle"
+     },
+     {
+      "source": "hn",
+      "title": "The Elusive Leaders Behind Jane Street's Wall Street Rise"
+     }
+    ],
+    "expected": 0.86,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 2.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "jane street",
+    "voices": 3,
+    "z": 1.57
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cities, states sue EPA over power plant emissions rollback"
+     },
+     {
+      "source": "media",
+      "title": "World’s first enhanced geothermal power plant completed in just 23 months"
+     },
+     {
+      "source": "hn",
+      "title": "The unfinished solar power plant in El Médano – Tenerife part 01"
+     }
+    ],
+    "expected": 1.63,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 4,
+    "score": 2.19,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "power plant",
+    "voices": 4,
+    "z": 1.46
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Huawei unveils Mate 90 phones, leans on homegrown chip design to offset US curbs"
+     },
+     {
+      "source": "media",
+      "title": "Why LLMs Are The Best Thing To Happen To Chip Design"
+     },
+     {
+      "source": "media",
+      "title": "Synopsys, Amazon Web Services sign chip design licensing deal worth more than $1 billion"
+     }
+    ],
+    "expected": 1.01,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 8,
+    "score": 7.39,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip design",
+    "voices": 4,
+    "z": 4.93
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chinese State-Backed Firm Funded Purchase of Nvidia Chips"
+     },
+     {
+      "source": "media",
+      "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports"
+     },
+     {
+      "source": "media",
+      "title": "U.S. Arrests Man for Smuggling Nvidia Chips to China"
+     }
+    ],
+    "expected": 0.7,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 7.25,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia chips",
+    "voices": 6,
+    "z": 4.83
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Catscan: Visualizing Pipelines of CPU Performance Simulation"
+     },
+     {
+      "source": "hn",
+      "title": "CPU Performance Engineering"
+     },
+     {
+      "source": "arxiv",
+      "title": "Catscan: Visualizing Pipelines of CPU Performance Simulation"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "cpu performance",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 35,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China"
+     },
+     {
+      "source": "media",
+      "title": "RBI sees no signs of expropriation of Russian business, CEO says"
+     },
+     {
+      "source": "media",
+      "title": "BP has no plans to shy away from the Middle East, CEO says"
+     }
+    ],
+    "expected": 2.72,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 4.1,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ceo says",
+    "voices": 5,
+    "z": 2.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia/OpenShell: Safe, private runtime for autonomous AI agents"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia OpenShell"
+     },
+     {
+      "source": "hn",
+      "title": "The machine layer under Nvidia OpenShell: why containment is not safety"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia openshell",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD buys World Labs for $8.2B"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "labs for 8.2b",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 18,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google admits not every Android app runs great on Intel Googlebooks"
+     },
+     {
+      "source": "hn",
+      "title": "Can an Android app without the INTERNET permission phone home?"
+     },
+     {
+      "source": "hn",
+      "title": "Criticker Android App: Movie Recommendations That Predict Your Rating"
+     }
+    ],
+    "expected": 1.4,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 2.52,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "android app",
+    "voices": 4,
+    "z": 1.68
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Agentic GPU Programming for MLSys"
+     },
+     {
+      "source": "hn",
+      "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming"
+     },
+     {
+      "source": "hn",
+      "title": "Teaching GPU programming in p5.js: now with compute shaders"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 2.49,
+    "sources": [
+     "hn"
+    ],
+    "term": "gpu programming",
+    "voices": 3,
+    "z": 2.49
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Gatekeeper – Persuade a 34MB Jev-like model to let you into the castle"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Bongard-mini – An open-weight Jev-like model built on T5"
+     },
+     {
+      "source": "hn",
+      "title": "Stanford and Nvidia's open Jev-like model"
+     }
+    ],
+    "expected": 0.31,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 2.35,
+    "sources": [
+     "hn"
+    ],
+    "term": "jev-like model",
+    "voices": 3,
+    "z": 2.35
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia DGX Spark 64GB Launched and Big 128GB GB10 Price Increases"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI"
+     },
+     {
+      "source": "hn",
+      "title": "The (Nvidia) DGX Spark Handbook"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.22,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia dgx spark",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B"
+     },
+     {
+      "source": "hn",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 11,
+    "recent": 3,
+    "score": 2.22,
+    "sources": [
+     "hn"
+    ],
+    "term": "amd acquires",
+    "voices": 3,
+    "z": 2.22
+   }
+  ]
+ },
+ "recent_days": 7
+}

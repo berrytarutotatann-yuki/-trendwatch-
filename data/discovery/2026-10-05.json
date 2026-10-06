@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-05",
  "docs_baseline": 111943,
- "docs_recent": 9056,
+ "docs_recent": 10436,
  "fields": {
   "ai": [
    {
@@ -45,27 +45,57 @@
      },
      {
       "source": "hn",
-      "title": "Decision 2.0: our newest decision models"
+      "title": "Show HN: Decision models remove training, not production ML Engineering"
      },
      {
       "source": "hn",
-      "title": "Decision Models vs. ML Classification"
+      "title": "Show HN: Jiwo - Small decision models topping decision index leaderboard"
      }
     ],
     "expected": 1.01,
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 15,
-    "score": 19.73,
+    "recent": 17,
+    "score": 22.55,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "decision models",
+    "voices": 17,
+    "z": 11.27
+   },
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Gutsy, subsecond decision model inference on CPU (Jev Style), no API"
+     },
+     {
+      "source": "hn",
+      "title": "Cloudflare's decision model \"Clef\" playing Balatro"
+     },
+     {
+      "source": "hn",
+      "title": "d1: The most capable decision model, now with vision"
+     }
+    ],
+    "expected": 1.56,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 16,
+    "score": 13.55,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision model",
     "voices": 15,
-    "z": 9.86
+    "z": 9.04
    },
    {
     "baseline": 2,
@@ -86,7 +116,7 @@
     "expected": 0.16,
     "field": "ai",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 8,
     "score": 10.95,
     "sources": [
@@ -98,34 +128,34 @@
     "z": 7.3
    },
    {
-    "baseline": 20,
+    "baseline": 0,
     "examples": [
      {
-      "source": "hn",
-      "title": "Show HN: Wazn-2B – decision model with separate encoding and competition"
+      "source": "media",
+      "title": "What Are OpenAI Dots And Do You Need Them?"
+     },
+     {
+      "source": "media",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch"
      },
      {
       "source": "hn",
-      "title": "Training an open decision model to replace a closed one, in shadow on prod"
-     },
-     {
-      "source": "hn",
-      "title": "JevWorks: Self hosted decision model playing a procedural game live"
+      "title": "Using OpenAI Dots as an agent swarm to prove new math, for free (Lean verified)"
      }
     ],
-    "expected": 1.56,
+    "expected": 0.0,
     "field": "ai",
-    "is_new": false,
-    "rank": 4,
-    "recent": 13,
-    "score": 10.74,
+    "is_new": true,
+    "rank": 5,
+    "recent": 7,
+    "score": 10.5,
     "sources": [
-     "arxiv",
-     "hn"
+     "hn",
+     "media"
     ],
-    "term": "decision model",
-    "voices": 13,
-    "z": 7.16
+    "term": "openai dots",
+    "voices": 7,
+    "z": 7.0
    },
    {
     "baseline": 1,
@@ -146,7 +176,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 7,
     "score": 10.0,
     "sources": [
@@ -156,36 +186,6 @@
     "term": "openai devday",
     "voices": 7,
     "z": 6.67
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "What Are OpenAI Dots And Do You Need Them?"
-     },
-     {
-      "source": "media",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch"
-     },
-     {
-      "source": "hn",
-      "title": "The $10B AI Assistant Challenging Meta's Muse, Grok's Bots, and OpenAI's Dots [video]"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 6,
-    "recent": 6,
-    "score": 9.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "openai dots",
-    "voices": 6,
-    "z": 6.0
    },
    {
     "baseline": 11,
@@ -248,6 +248,35 @@
     "z": 5.7
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "What Is Perplexity's Decisions API?"
+     },
+     {
+      "source": "hn",
+      "title": "TypeSafe AI's Jev vs. Perplexity's Decisions API"
+     },
+     {
+      "source": "hn",
+      "title": "Explore decision models in one place with Decisions API"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 9,
+    "recent": 8,
+    "score": 8.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "decisions api",
+    "voices": 6,
+    "z": 8.0
+   },
+   {
     "baseline": 37,
     "examples": [
      {
@@ -266,7 +295,7 @@
     "expected": 2.88,
     "field": "ai",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 13,
     "score": 7.71,
     "sources": [
@@ -296,7 +325,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 10,
+    "rank": 11,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -306,6 +335,37 @@
     "term": "gpt-6.1 sol",
     "voices": 4,
     "z": 5.0
+   },
+   {
+    "baseline": 1053,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Agents Will Need Money: Why Stablecoins Could Become The Native Payment Layer For AI"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Are Offering to Run Your Life. Should You Let Them?"
+     },
+     {
+      "source": "media",
+      "title": "Your AI Agents Can Write Code. Can They Understand Your Business?"
+     }
+    ],
+    "expected": 81.9,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 115,
+    "score": 7.27,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai agents",
+    "voices": 101,
+    "z": 3.64
    },
    {
     "baseline": 1,
@@ -326,7 +386,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 13,
     "recent": 5,
     "score": 7.11,
     "sources": [
@@ -356,7 +416,7 @@
     "expected": 0.47,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 14,
     "recent": 6,
     "score": 6.85,
     "sources": [
@@ -368,93 +428,35 @@
     "z": 4.57
    },
    {
-    "baseline": 4,
+    "baseline": 567,
     "examples": [
      {
       "source": "media",
-      "title": "The Morning Risk Report: New AI Czar Unveils Goals, Members of White House Task Force"
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account"
      },
      {
       "source": "media",
-      "title": "New AI Czar Unveils Goals, Members of White House Task Force"
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’"
      },
      {
       "source": "media",
-      "title": "Trump Expected to Name ODNI’s Jay Clayton as AI Czar"
+      "title": "Brand AI Agent Vs Personal Agent, How Meta Muse And ChatGPT Dots Shop"
      }
     ],
-    "expected": 0.31,
+    "expected": 44.1,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
-    "recent": 5,
-    "score": 6.14,
+    "rank": 15,
+    "recent": 67,
+    "score": 6.82,
     "sources": [
+     "arxiv",
      "hn",
      "media"
     ],
-    "term": "ai czar",
-    "voices": 3,
-    "z": 4.09
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Context language models explained"
-     },
-     {
-      "source": "hn",
-      "title": "Context Language Models"
-     },
-     {
-      "source": "hn",
-      "title": "Context Language Models (CLMs)"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 14,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "context language models",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Explore decision models in one place with Decisions API"
-     },
-     {
-      "source": "hn",
-      "title": "The OpenAI Decisions API needs a confidence you can trust"
-     },
-     {
-      "source": "hn",
-      "title": "What Is OpenAI's Decisions API?"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 15,
-    "recent": 6,
-    "score": 6.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "decisions api",
-    "voices": 6,
-    "z": 6.0
+    "term": "ai agent",
+    "voices": 59,
+    "z": 3.41
    }
   ],
   "other": [
@@ -508,15 +510,45 @@
     "field": "other",
     "is_new": false,
     "rank": 2,
-    "recent": 5,
-    "score": 7.11,
+    "recent": 6,
+    "score": 8.56,
     "sources": [
      "hn",
      "media"
     ],
     "term": "fuel prices",
-    "voices": 3,
-    "z": 4.74
+    "voices": 4,
+    "z": 5.7
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trio Awarded Nobel Prize in Physiology or Medicine for Neuroscience Discoveries"
+     },
+     {
+      "source": "hn",
+      "title": "Nobel Prize in Physiology or Medicine 2026"
+     },
+     {
+      "source": "hn",
+      "title": "Nobel Prize in Physiology or Medicine 2026"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "prize in physiology",
+    "voices": 5,
+    "z": 5.0
    },
    {
     "baseline": 6,
@@ -537,7 +569,7 @@
     "expected": 0.47,
     "field": "other",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 6,
     "score": 6.85,
     "sources": [
@@ -567,7 +599,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 5,
     "score": 6.76,
     "sources": [
@@ -577,66 +609,6 @@
     "term": "oil pipeline",
     "voices": 3,
     "z": 4.51
-   },
-   {
-    "baseline": 8,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video"
-     },
-     {
-      "source": "media",
-      "title": "Apple Smart Home “HomePad” Set To Launch October 13"
-     },
-     {
-      "source": "media",
-      "title": "Apple Plans Aggressive New Push Into Smart Home"
-     }
-    ],
-    "expected": 0.62,
-    "field": "other",
-    "is_new": false,
-    "rank": 5,
-    "recent": 6,
-    "score": 6.33,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "smart home",
-    "voices": 6,
-    "z": 4.22
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "US Benchmark Yield Hits Highest Since 2002"
-     },
-     {
-      "source": "media",
-      "title": "‘Deadlock’ Hits Highest Player Count Ever Following Major Patch"
-     },
-     {
-      "source": "media",
-      "title": "German inflation hits highest level in almost 3 years"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 6,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "hits highest",
-    "voices": 4,
-    "z": 3.78
    },
    {
     "baseline": 17,
@@ -657,16 +629,136 @@
     "expected": 1.32,
     "field": "other",
     "is_new": false,
-    "rank": 7,
-    "recent": 7,
-    "score": 5.59,
+    "rank": 6,
+    "recent": 8,
+    "score": 6.57,
     "sources": [
      "hn",
      "media"
     ],
     "term": "warner bros",
+    "voices": 7,
+    "z": 4.38
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video"
+     },
+     {
+      "source": "media",
+      "title": "Apple Smart Home “HomePad” Set To Launch October 13"
+     },
+     {
+      "source": "media",
+      "title": "Apple Plans Aggressive New Push Into Smart Home"
+     }
+    ],
+    "expected": 0.62,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 6,
+    "score": 6.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "smart home",
     "voices": 6,
-    "z": 3.73
+    "z": 4.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Dozens quarantined in Siberia after plague institute lab worker dies"
+     },
+     {
+      "source": "hn",
+      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague"
+     },
+     {
+      "source": "hn",
+      "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "lab worker",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EU's emergency diesel stocks are mainly in Germany and France"
+     },
+     {
+      "source": "media",
+      "title": "EU's emergency diesel stocks are mainly in Germany and France"
+     },
+     {
+      "source": "hn",
+      "title": "Germany and France Are Proposing a New Weapon to Counter Flood of Chinese Goods"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "germany and france",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Benchmark Yield Hits Highest Since 2002"
+     },
+     {
+      "source": "media",
+      "title": "‘Deadlock’ Hits Highest Player Count Ever Following Major Patch"
+     },
+     {
+      "source": "media",
+      "title": "German inflation hits highest level in almost 3 years"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "hits highest",
+    "voices": 4,
+    "z": 3.78
    },
    {
     "baseline": 2,
@@ -687,7 +779,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 8,
+    "rank": 11,
     "recent": 4,
     "score": 5.36,
     "sources": [
@@ -717,7 +809,7 @@
     "expected": 0.62,
     "field": "other",
     "is_new": false,
-    "rank": 9,
+    "rank": 12,
     "recent": 5,
     "score": 5.16,
     "sources": [
@@ -747,7 +839,7 @@
     "expected": 0.23,
     "field": "other",
     "is_new": false,
-    "rank": 10,
+    "rank": 13,
     "recent": 4,
     "score": 5.09,
     "sources": [
@@ -777,7 +869,7 @@
     "expected": 0.39,
     "field": "other",
     "is_new": false,
-    "rank": 11,
+    "rank": 14,
     "recent": 4,
     "score": 4.6,
     "sources": [
@@ -807,7 +899,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 15,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -817,95 +909,6 @@
     "term": "faa says",
     "voices": 3,
     "z": 3.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Gears of War: E-Day is a great game launching at a terrible time"
-     },
-     {
-      "source": "media",
-      "title": "The ‘Gears Of War: E-Day’ Metacritic Review Score Is In, And It’s Great"
-     },
-     {
-      "source": "hn",
-      "title": "Advanced Shader Delivery Available for Gears of War"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 13,
-    "recent": 3,
-    "score": 4.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "gears of war",
-    "voices": 3,
-    "z": 3.0
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "From ‘Harry Potter’ To ‘Game Of Thrones,’ Every IP David Ellison’s Skydance Now Owns"
-     },
-     {
-      "source": "media",
-      "title": "David Ellison's appointment of Kreiz brings cost-cutter to Paramount-Warner Bros Discovery"
-     },
-     {
-      "source": "hn",
-      "title": "David Ellison on Paramount and Warner Bros. rename: \"Together, we are Skydance.\""
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 14,
-    "recent": 3,
-    "score": 4.22,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "david ellison",
-    "voices": 3,
-    "z": 2.81
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Rust for CPython (Python Language Summit 2026)"
-     },
-     {
-      "source": "hn",
-      "title": "Spicycrab (Python Language Summit 2026) – Python Insider"
-     },
-     {
-      "source": "hn",
-      "title": "Free-Threaded Python Post-Era (Python Language Summit 2026) – Python Insider"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 15,
-    "recent": 4,
-    "score": 4.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "python language summit",
-    "voices": 3,
-    "z": 4.0
    }
   ],
   "power": [
@@ -940,6 +943,66 @@
     "z": 5.0
    },
    {
+    "baseline": 25,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Middle East oil exports top pre-war levels for part of September but tanker attacks increase"
+     },
+     {
+      "source": "media",
+      "title": "Middle East war sharpens focus on ASEAN energy security plans"
+     },
+     {
+      "source": "media",
+      "title": "Horizons Middle East & Africa 10/5/2026 (Video)"
+     }
+    ],
+    "expected": 1.94,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 9,
+    "score": 6.17,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "middle east",
+    "voices": 3,
+    "z": 4.11
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Schneider Electric to buy US software firm PTC in $22.6 billion deal"
+     },
+     {
+      "source": "media",
+      "title": "Fashion brands partner with Schneider Electric to expand renewables"
+     },
+     {
+      "source": "hn",
+      "title": "Schneider Electric to buy industrial software group PTC for $23.7B"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "schneider electric",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -958,7 +1021,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 2,
+    "rank": 4,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -988,7 +1051,7 @@
     "expected": 0.08,
     "field": "power",
     "is_new": false,
-    "rank": 3,
+    "rank": 5,
     "recent": 3,
     "score": 4.22,
     "sources": [
@@ -998,6 +1061,66 @@
     "term": "fusion energy",
     "voices": 3,
     "z": 2.81
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cities, states sue EPA over power plant emissions rollback"
+     },
+     {
+      "source": "media",
+      "title": "World’s first enhanced geothermal power plant completed in just 23 months"
+     },
+     {
+      "source": "arxiv",
+      "title": "Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?"
+     }
+    ],
+    "expected": 1.63,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 5,
+    "score": 4.15,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "power plant",
+    "voices": 5,
+    "z": 2.07
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "PicoSputnik: 1M picosputniks in Solar System and beyond"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data"
+     },
+     {
+      "source": "hn",
+      "title": "Radio signal detected for the first time from a planet outside our solar system"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 6,
+    "score": 4.06,
+    "sources": [
+     "hn"
+    ],
+    "term": "solar system",
+    "voices": 6,
+    "z": 4.06
    },
    {
     "baseline": 2,
@@ -1018,7 +1141,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 4,
+    "rank": 8,
     "recent": 3,
     "score": 3.97,
     "sources": [
@@ -1028,36 +1151,6 @@
     "term": "energy price",
     "voices": 3,
     "z": 2.65
-   },
-   {
-    "baseline": 19,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy"
-     },
-     {
-      "source": "hn",
-      "title": "Surviving 3 Years in North Korea as a Foreign Diplomat"
-     },
-     {
-      "source": "hn",
-      "title": "The Dangers of North Korea's Nuclear Status Quo"
-     }
-    ],
-    "expected": 1.48,
-    "field": "power",
-    "is_new": false,
-    "rank": 5,
-    "recent": 5,
-    "score": 3.36,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "north korea",
-    "voices": 5,
-    "z": 2.24
    },
    {
     "baseline": 301,
@@ -1078,45 +1171,105 @@
     "expected": 23.41,
     "field": "power",
     "is_new": false,
-    "rank": 6,
-    "recent": 33,
-    "score": 2.91,
+    "rank": 9,
+    "recent": 35,
+    "score": 3.52,
     "sources": [
      "hn",
      "media"
     ],
     "term": "data center",
-    "voices": 22,
-    "z": 1.94
+    "voices": 24,
+    "z": 2.35
    },
    {
-    "baseline": 9,
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy"
+     },
+     {
+      "source": "hn",
+      "title": "Surviving 3 Years in North Korea as a Foreign Diplomat"
+     },
+     {
+      "source": "hn",
+      "title": "The Dangers of North Korea's Nuclear Status Quo"
+     }
+    ],
+    "expected": 1.48,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 3.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "north korea",
+    "voices": 5,
+    "z": 2.24
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Holding the Cold: Retention-Aware Inventory Control for Industrial Refrigeration"
+     },
+     {
+      "source": "arxiv",
+      "title": "Towards Optimal Inventory Control under Censored Demand: A Biased Sample-Average Approximation Approach"
+     },
+     {
+      "source": "arxiv",
+      "title": "Information Limits of Multistage Inventory Control: Learning, Valuation, and Censoring"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 11,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "inventory control",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 7,
     "examples": [
      {
       "source": "hn",
-      "title": "Radio signal detected for the first time from a planet outside our solar system"
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon"
+     },
+     {
+      "source": "arxiv",
+      "title": "Adaptive control of pool-type research nuclear reactors: theory limits, pragmatic actuation constraints, and realized performance and adaptation"
      },
      {
       "source": "hn",
-      "title": "Our Solar System Is Terminally Unstable"
-     },
-     {
-      "source": "hn",
-      "title": "Radio signal detected for first time from a planet outside our solar system"
+      "title": "Dozens of dead nuclear reactors orbit Earth (2016)"
      }
     ],
-    "expected": 0.7,
+    "expected": 0.54,
     "field": "power",
     "is_new": false,
-    "rank": 7,
-    "recent": 4,
-    "score": 2.53,
+    "rank": 12,
+    "recent": 3,
+    "score": 2.96,
     "sources": [
+     "arxiv",
      "hn"
     ],
-    "term": "solar system",
-    "voices": 4,
-    "z": 2.53
+    "term": "nuclear reactors",
+    "voices": 3,
+    "z": 1.98
    },
    {
     "baseline": 11,
@@ -1137,7 +1290,7 @@
     "expected": 0.86,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 13,
     "recent": 3,
     "score": 2.36,
     "sources": [
@@ -1147,36 +1300,6 @@
     "term": "jane street",
     "voices": 3,
     "z": 1.57
-   },
-   {
-    "baseline": 21,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Cities, states sue EPA over power plant emissions rollback"
-     },
-     {
-      "source": "media",
-      "title": "World’s first enhanced geothermal power plant completed in just 23 months"
-     },
-     {
-      "source": "hn",
-      "title": "The unfinished solar power plant in El Médano – Tenerife part 01"
-     }
-    ],
-    "expected": 1.63,
-    "field": "power",
-    "is_new": false,
-    "rank": 9,
-    "recent": 4,
-    "score": 2.19,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "power plant",
-    "voices": 4,
-    "z": 1.46
    }
   ],
   "semiconductor": [
@@ -1200,15 +1323,16 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 8,
-    "score": 7.39,
+    "recent": 9,
+    "score": 11.27,
     "sources": [
+     "arxiv",
      "hn",
      "media"
     ],
     "term": "chip design",
-    "voices": 4,
-    "z": 4.93
+    "voices": 5,
+    "z": 5.63
    },
    {
     "baseline": 9,

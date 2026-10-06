@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-05",
  "docs_baseline": 111943,
- "docs_recent": 9052,
+ "docs_recent": 9055,
  "fields": {
   "ai": [
    {
@@ -1241,6 +1241,36 @@
     "z": 4.83
    },
    {
+    "baseline": 35,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China"
+     },
+     {
+      "source": "media",
+      "title": "World of disruption creates opportunities, TotalEnergies CEO says"
+     },
+     {
+      "source": "media",
+      "title": "RBI sees no signs of expropriation of Russian business, CEO says"
+     }
+    ],
+    "expected": 2.72,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 9,
+    "score": 4.88,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ceo says",
+    "voices": 5,
+    "z": 3.25
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -1259,7 +1289,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 3,
+    "rank": 4,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1269,36 +1299,6 @@
     "term": "cpu performance",
     "voices": 3,
     "z": 3.0
-   },
-   {
-    "baseline": 35,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China"
-     },
-     {
-      "source": "media",
-      "title": "RBI sees no signs of expropriation of Russian business, CEO says"
-     },
-     {
-      "source": "media",
-      "title": "BP has no plans to shy away from the Middle East, CEO says"
-     }
-    ],
-    "expected": 2.72,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 4,
-    "recent": 8,
-    "score": 4.1,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ceo says",
-    "voices": 5,
-    "z": 2.74
    },
    {
     "baseline": 0,

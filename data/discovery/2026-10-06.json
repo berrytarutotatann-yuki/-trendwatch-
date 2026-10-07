@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-06",
  "docs_baseline": 112543,
- "docs_recent": 8789,
+ "docs_recent": 10316,
  "fields": {
   "ai": [
    {
@@ -19,23 +19,23 @@
      },
      {
       "source": "hn",
-      "title": "Show HN: Decision models remove training, not production ML Engineering"
+      "title": "Jiwo 0.8B – Pushing the sub 1B decision models leaderboard"
      }
     ],
     "expected": 1.17,
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 16,
-    "score": 20.15,
+    "recent": 18,
+    "score": 22.87,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "decision models",
-    "voices": 15,
-    "z": 10.08
+    "voices": 16,
+    "z": 11.44
    },
    {
     "baseline": 13,
@@ -72,30 +72,91 @@
     "examples": [
      {
       "source": "hn",
-      "title": "Show HN: Gutsy, subsecond decision model inference on CPU (Jev Style), no API"
+      "title": "Show HN: TOD,a universal Decision model based on Task Oriented Design"
+     },
+     {
+      "source": "arxiv",
+      "title": "SanSi: A Looped Typed Decision Model for System 1.5 Thinking"
      },
      {
       "source": "hn",
       "title": "Cloudflare's decision model \"Clef\" playing Balatro"
-     },
-     {
-      "source": "hn",
-      "title": "d1: The most capable decision model, now with vision"
      }
     ],
     "expected": 1.79,
     "field": "ai",
     "is_new": false,
     "rank": 3,
-    "recent": 14,
-    "score": 10.97,
+    "recent": 15,
+    "score": 11.87,
     "sources": [
      "arxiv",
      "hn"
     ],
     "term": "decision model",
+    "voices": 15,
+    "z": 7.91
+   },
+   {
+    "baseline": 39,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet'"
+     },
+     {
+      "source": "media",
+      "title": "Brand AI Agent Vs Personal Agent, How Meta Muse And ChatGPT Dots Shop"
+     },
+     {
+      "source": "media",
+      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints"
+     }
+    ],
+    "expected": 3.03,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 16,
+    "score": 9.68,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta muse",
     "voices": 13,
-    "z": 7.31
+    "z": 6.46
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Brand AI Agent Vs Personal Agent, How Meta Muse And ChatGPT Dots Shop"
+     },
+     {
+      "source": "hn",
+      "title": "Personal Agent Protocol"
+     },
+     {
+      "source": "arxiv",
+      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own"
+     }
+    ],
+    "expected": 0.47,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.49,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "personal agent",
+    "voices": 5,
+    "z": 3.74
    },
    {
     "baseline": 35,
@@ -116,7 +177,7 @@
     "expected": 2.72,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
+    "rank": 6,
     "recent": 12,
     "score": 7.21,
     "sources": [
@@ -146,7 +207,7 @@
     "expected": 0.47,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 7,
     "recent": 6,
     "score": 6.85,
     "sources": [
@@ -158,34 +219,124 @@
     "z": 4.57
    },
    {
-    "baseline": 39,
+    "baseline": 17,
     "examples": [
      {
       "source": "media",
-      "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet'"
+      "title": "Power, Memory And Packaging, Not Transistors, Now Limit AI Chips"
      },
      {
       "source": "media",
-      "title": "Brand AI Agent Vs Personal Agent, How Meta Muse And ChatGPT Dots Shop"
+      "title": "DeepSeek Open-Sources Software Tools for Huawei AI Chips"
      },
      {
-      "source": "media",
-      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints"
+      "source": "hn",
+      "title": "Ed Zitron: Microsoft Has $80B of AI Chips It Can't Plug in [video]"
      }
     ],
-    "expected": 3.03,
+    "expected": 1.32,
     "field": "ai",
     "is_new": false,
-    "rank": 6,
-    "recent": 12,
-    "score": 6.7,
+    "rank": 8,
+    "recent": 8,
+    "score": 6.57,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "meta muse",
+    "term": "ai chips",
+    "voices": 8,
+    "z": 4.38
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What Are OpenAI Dots And Do You Need Them?"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI Dots: The New Always-On AI Agents from OpenAI"
+     },
+     {
+      "source": "hn",
+      "title": "Using OpenAI Dots as an agent swarm to prove new math, for free (Lean verified)"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 5,
+    "score": 6.44,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai dots",
+    "voices": 5,
+    "z": 4.29
+   },
+   {
+    "baseline": 58,
+    "examples": [
+     {
+      "source": "media",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: What brings you back to personal AI agents like Instinct and Muse?"
+     },
+     {
+      "source": "hn",
+      "title": "Hark Pro – Personal AI that can use the web and get things done for you"
+     }
+    ],
+    "expected": 4.51,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 12,
+    "score": 6.38,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "personal ai",
     "voices": 11,
-    "z": 4.46
+    "z": 3.19
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Decisions API is in public beta"
+     },
+     {
+      "source": "hn",
+      "title": "What Is Perplexity's Decisions API?"
+     },
+     {
+      "source": "hn",
+      "title": "TypeSafe AI's Jev vs. Perplexity's Decisions API"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 7,
+    "score": 6.37,
+    "sources": [
+     "hn"
+    ],
+    "term": "decisions api",
+    "voices": 5,
+    "z": 6.37
    },
    {
     "baseline": 4,
@@ -206,7 +357,7 @@
     "expected": 0.31,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
+    "rank": 12,
     "recent": 5,
     "score": 6.14,
     "sources": [
@@ -216,6 +367,37 @@
     "term": "ai czar",
     "voices": 3,
     "z": 4.09
+   },
+   {
+    "baseline": 1060,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The next hurdle for AI agents: getting websites to let them in"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Will Need Money: Why Stablecoins Could Become The Native Payment Layer For AI"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Are Offering to Run Your Life. Should You Let Them?"
+     }
+    ],
+    "expected": 82.44,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 110,
+    "score": 6.03,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai agents",
+    "voices": 96,
+    "z": 3.02
    },
    {
     "baseline": 0,
@@ -236,7 +418,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 8,
+    "rank": 14,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -266,7 +448,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 9,
+    "rank": 15,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -276,216 +458,38 @@
     "term": "lend anthropic",
     "voices": 4,
     "z": 4.0
-   },
-   {
-    "baseline": 16,
-    "examples": [
-     {
-      "source": "arxiv",
-      "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models"
-     },
-     {
-      "source": "arxiv",
-      "title": "RealtimeWAM: One-Step Asynchronous World Action Models"
-     },
-     {
-      "source": "arxiv",
-      "title": "Future Anchored Verification and Online Recovery for World Action Models"
-     }
-    ],
-    "expected": 1.24,
-    "field": "ai",
-    "is_new": false,
-    "rank": 10,
-    "recent": 7,
-    "score": 5.76,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "action models",
-    "voices": 7,
-    "z": 3.84
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk"
-     },
-     {
-      "source": "media",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
-     },
-     {
-      "source": "hn",
-      "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 11,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "disk access",
-    "voices": 4,
-    "z": 3.78
-   },
-   {
-    "baseline": 17,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Power, Memory And Packaging, Not Transistors, Now Limit AI Chips"
-     },
-     {
-      "source": "media",
-      "title": "DeepSeek Open-Sources Software Tools for Huawei AI Chips"
-     },
-     {
-      "source": "hn",
-      "title": "TSMC eyes a multibillion-dollar Texas campus for more AI chips"
-     }
-    ],
-    "expected": 1.32,
-    "field": "ai",
-    "is_new": false,
-    "rank": 12,
-    "recent": 7,
-    "score": 5.59,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai chips",
-    "voices": 7,
-    "z": 3.73
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "What Is Perplexity's Decisions API?"
-     },
-     {
-      "source": "hn",
-      "title": "TypeSafe AI's Jev vs. Perplexity's Decisions API"
-     },
-     {
-      "source": "hn",
-      "title": "Explore decision models in one place with Decisions API"
-     }
-    ],
-    "expected": 0.16,
-    "field": "ai",
-    "is_new": false,
-    "rank": 13,
-    "recent": 6,
-    "score": 5.44,
-    "sources": [
-     "hn"
-    ],
-    "term": "decisions api",
-    "voices": 4,
-    "z": 5.44
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "192GB Framework Desktop open for pre-order"
-     },
-     {
-      "source": "hn",
-      "title": "Framework Desktop with 192GB Ryzen AI Max 400 released for pre-order"
-     },
-     {
-      "source": "hn",
-      "title": "What 192GB Changes for Local AI on the Framework Desktop"
-     }
-    ],
-    "expected": 0.16,
-    "field": "ai",
-    "is_new": false,
-    "rank": 14,
-    "recent": 6,
-    "score": 5.44,
-    "sources": [
-     "hn"
-    ],
-    "term": "framework desktop",
-    "voices": 6,
-    "z": 5.44
-   },
-   {
-    "baseline": 7,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
-     },
-     {
-      "source": "media",
-      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints"
-     },
-     {
-      "source": "hn",
-      "title": "Apple says it's tightening macOS privacy controls amid the rise of AI agents"
-     }
-    ],
-    "expected": 0.54,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 5,
-    "score": 5.38,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "apple says",
-    "voices": 5,
-    "z": 3.59
    }
   ],
   "other": [
    {
-    "baseline": 2,
+    "baseline": 9,
     "examples": [
      {
       "source": "media",
-      "title": "France Floats Diesel, Crude Release Amid US Export Ban Risk"
+      "title": "Trio Awarded Nobel Prize in Physiology or Medicine for Neuroscience Discoveries"
      },
      {
-      "source": "media",
-      "title": "Trump: not going to be doing diesel export ban"
+      "source": "hn",
+      "title": "Nobel Prize in Physics Is Awarded to Francis Halzen"
      },
      {
-      "source": "media",
-      "title": "Russia will consider partial lifting of diesel export ban in case of overproduction, Novak says"
+      "source": "hn",
+      "title": "Press release: Nobel Prize in Physics 2026"
      }
     ],
-    "expected": 0.16,
+    "expected": 0.7,
     "field": "other",
     "is_new": false,
     "rank": 1,
-    "recent": 8,
-    "score": 10.95,
+    "recent": 15,
+    "score": 16.45,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "export ban",
-    "voices": 3,
-    "z": 7.3
+    "term": "nobel prize",
+    "voices": 15,
+    "z": 10.97
    },
    {
     "baseline": 17,
@@ -507,15 +511,45 @@
     "field": "other",
     "is_new": false,
     "rank": 2,
-    "recent": 11,
-    "score": 9.53,
+    "recent": 17,
+    "score": 15.43,
     "sources": [
      "hn",
      "media"
     ],
     "term": "warner bros",
-    "voices": 7,
-    "z": 6.35
+    "voices": 13,
+    "z": 10.29
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "France Floats Diesel, Crude Release Amid US Export Ban Risk"
+     },
+     {
+      "source": "media",
+      "title": "Trump: not going to be doing diesel export ban"
+     },
+     {
+      "source": "media",
+      "title": "Russia will consider partial lifting of diesel export ban in case of overproduction, Novak says"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 8,
+    "score": 10.95,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "export ban",
+    "voices": 3,
+    "z": 7.3
    },
    {
     "baseline": 8,
@@ -536,16 +570,76 @@
     "expected": 0.62,
     "field": "other",
     "is_new": false,
-    "rank": 3,
-    "recent": 7,
-    "score": 7.51,
+    "rank": 4,
+    "recent": 9,
+    "score": 9.87,
     "sources": [
      "hn",
      "media"
     ],
     "term": "smart home",
-    "voices": 6,
-    "z": 5.01
+    "voices": 8,
+    "z": 6.58
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ray Dalio Warns of US Debt Crisis Within Three Years"
+     },
+     {
+      "source": "media",
+      "title": "Ray Dalio Warns of US Debt Crisis Within 3 Years"
+     },
+     {
+      "source": "media",
+      "title": "Full Interview: Why Ray Dalio Sees Risk of US Debt Crisis"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "debt crisis",
+    "voices": 3,
+    "z": 6.37
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Former German spy chief arrested for attempted treason, obtaining state secrets"
+     },
+     {
+      "source": "hn",
+      "title": "Former German spy chief arrested for treason and espionage"
+     },
+     {
+      "source": "hn",
+      "title": "Germany: Ex-spy chief arrested for espionage"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chief arrested",
+    "voices": 5,
+    "z": 5.0
    },
    {
     "baseline": 0,
@@ -566,7 +660,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 4,
+    "rank": 7,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -596,7 +690,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 5,
+    "rank": 8,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -626,7 +720,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 9,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -635,36 +729,6 @@
     ],
     "term": "germany and france",
     "voices": 4,
-    "z": 5.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Trio Awarded Nobel Prize in Physiology or Medicine for Neuroscience Discoveries"
-     },
-     {
-      "source": "hn",
-      "title": "Nobel Prize in Physiology or Medicine 2026"
-     },
-     {
-      "source": "hn",
-      "title": "Nobel Prize in Physiology or Medicine 2026"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 7,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "prize in physiology",
-    "voices": 5,
     "z": 5.0
    },
    {
@@ -686,7 +750,7 @@
     "expected": 0.47,
     "field": "other",
     "is_new": false,
-    "rank": 8,
+    "rank": 10,
     "recent": 6,
     "score": 6.85,
     "sources": [
@@ -716,7 +780,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 5,
     "score": 6.76,
     "sources": [
@@ -746,7 +810,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 10,
+    "rank": 12,
     "recent": 5,
     "score": 6.76,
     "sources": [
@@ -776,7 +840,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 11,
+    "rank": 13,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -806,7 +870,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 12,
+    "rank": 14,
     "recent": 4,
     "score": 5.67,
     "sources": [
@@ -836,7 +900,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 13,
+    "rank": 15,
     "recent": 4,
     "score": 5.36,
     "sources": [
@@ -846,66 +910,6 @@
     "term": "job growth",
     "voices": 3,
     "z": 3.58
-   },
-   {
-    "baseline": 5,
-    "examples": [
-     {
-      "source": "media",
-      "title": "US Justice Department files complaint against Minnesota judges who gave interviews about immigration surge"
-     },
-     {
-      "source": "hn",
-      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal"
-     },
-     {
-      "source": "hn",
-      "title": "Decades After Watergate, Justice Department Reviews Whether Nixon Got a Raw Deal"
-     }
-    ],
-    "expected": 0.39,
-    "field": "other",
-    "is_new": false,
-    "rank": 14,
-    "recent": 4,
-    "score": 4.6,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "justice department",
-    "voices": 4,
-    "z": 3.06
-   },
-   {
-    "baseline": 11,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Hungary to open Communist-era informer files in reckoning with Cold War past"
-     },
-     {
-      "source": "media",
-      "title": "Polish city reopens Cold War shelter as Russian attacks in Ukraine intensify"
-     },
-     {
-      "source": "hn",
-      "title": "Cold War spy satellite named after Farrah Fawcett just exploded in space"
-     }
-    ],
-    "expected": 0.86,
-    "field": "other",
-    "is_new": false,
-    "rank": 15,
-    "recent": 5,
-    "score": 4.56,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "cold war",
-    "voices": 4,
-    "z": 3.04
    }
   ],
   "power": [
@@ -940,36 +944,6 @@
     "z": 5.86
    },
    {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Factory Orders Edge Higher; G7 to Release Diesel, Crude"
-     },
-     {
-      "source": "media",
-      "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say"
-     },
-     {
-      "source": "media",
-      "title": "Pressure Is Piling Up for Europe to Release Diesel"
-     }
-    ],
-    "expected": 0.0,
-    "field": "power",
-    "is_new": true,
-    "rank": 2,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "release diesel",
-    "voices": 3,
-    "z": 5.0
-   },
-   {
     "baseline": 8,
     "examples": [
      {
@@ -988,16 +962,106 @@
     "expected": 0.62,
     "field": "power",
     "is_new": false,
-    "rank": 3,
-    "recent": 6,
-    "score": 6.33,
+    "rank": 2,
+    "recent": 7,
+    "score": 7.51,
     "sources": [
      "hn",
      "media"
     ],
     "term": "minister says",
+    "voices": 4,
+    "z": 5.01
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Factory Orders Edge Higher; G7 to Release Diesel, Crude"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: US tells France and Germany to release diesel stocks or face US export ban, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Pressure Is Piling Up for Europe to Release Diesel"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "release diesel",
     "voices": 3,
-    "z": 4.22
+    "z": 5.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google, Constellation Energy Strike Nuclear Power Deal"
+     },
+     {
+      "source": "media",
+      "title": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal"
+     },
+     {
+      "source": "media",
+      "title": "Google, Constellation Energy Deal; SpaceX Rises on Talks with NASA | Stock Movers"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "constellation energy",
+    "voices": 4,
+    "z": 4.74
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google, Constellation Energy Strike Nuclear Power Deal"
+     },
+     {
+      "source": "media",
+      "title": "Google enters massive 3.6-GW power deal with Constellation Energy"
+     },
+     {
+      "source": "media",
+      "title": "Constellation, Amazon sign 20-year power deal to support Maryland nuclear plant"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "power deal",
+    "voices": 3,
+    "z": 3.78
    },
    {
     "baseline": 21,
@@ -1018,7 +1082,7 @@
     "expected": 1.63,
     "field": "power",
     "is_new": false,
-    "rank": 4,
+    "rank": 6,
     "recent": 6,
     "score": 5.38,
     "sources": [
@@ -1049,7 +1113,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 5,
+    "rank": 7,
     "recent": 4,
     "score": 5.36,
     "sources": [
@@ -1079,7 +1143,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 6,
+    "rank": 8,
     "recent": 4,
     "score": 5.36,
     "sources": [
@@ -1109,7 +1173,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 7,
+    "rank": 9,
     "recent": 4,
     "score": 5.36,
     "sources": [
@@ -1133,22 +1197,22 @@
      },
      {
       "source": "hn",
-      "title": "Surviving 3 Years in North Korea as a Foreign Diplomat"
+      "title": "Show HN: An open-source map and data hub on North Korea"
      }
     ],
     "expected": 1.48,
     "field": "power",
     "is_new": false,
-    "rank": 8,
-    "recent": 6,
-    "score": 4.31,
+    "rank": 10,
+    "recent": 7,
+    "score": 5.26,
     "sources": [
      "hn",
      "media"
     ],
     "term": "north korea",
-    "voices": 5,
-    "z": 2.87
+    "voices": 6,
+    "z": 3.51
    },
    {
     "baseline": 3,
@@ -1169,7 +1233,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 5,
     "score": 4.29,
     "sources": [
@@ -1198,45 +1262,76 @@
     "expected": 23.49,
     "field": "power",
     "is_new": false,
-    "rank": 10,
-    "recent": 36,
-    "score": 3.79,
+    "rank": 12,
+    "recent": 37,
+    "score": 4.1,
     "sources": [
      "hn",
      "media"
     ],
     "term": "data center",
-    "voices": 23,
-    "z": 2.53
+    "voices": 24,
+    "z": 2.73
    },
    {
-    "baseline": 1,
+    "baseline": 15,
     "examples": [
      {
       "source": "media",
-      "title": "Google, Constellation Energy Strike Nuclear Power Deal"
+      "title": "Maryland nets 440 MW/1,760 MWh in first bulk energy storage procurement"
      },
      {
-      "source": "media",
-      "title": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal"
+      "source": "arxiv",
+      "title": "Robust Scenario-Based Data-Enabled Predictive Control of a Battery Energy Storage System: An Experimental Study"
      },
      {
-      "source": "media",
-      "title": "Google, Constellation Energy Deal; SpaceX Rises on Talks with NASA | Stock Movers"
+      "source": "arxiv",
+      "title": "Optimal Coordination of Heat Pump Demand Flexibility and Battery Energy Storage Considering the Operation of Distribution Networks"
      }
     ],
-    "expected": 0.08,
+    "expected": 1.17,
     "field": "power",
     "is_new": false,
-    "rank": 11,
-    "recent": 4,
-    "score": 3.78,
+    "rank": 13,
+    "recent": 5,
+    "score": 3.91,
     "sources": [
+     "arxiv",
      "media"
     ],
-    "term": "constellation energy",
+    "term": "energy storage",
+    "voices": 5,
+    "z": 2.6
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Black Hills plans $1.8 billion investment to power Google's data center"
+     },
+     {
+      "source": "hn",
+      "title": "Finland orders halt to work on two Google data centres"
+     },
+     {
+      "source": "hn",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 14,
+    "recent": 3,
+    "score": 3.74,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "google data",
     "voices": 3,
-    "z": 3.78
+    "z": 2.49
    },
    {
     "baseline": 10,
@@ -1257,7 +1352,7 @@
     "expected": 0.78,
     "field": "power",
     "is_new": false,
-    "rank": 12,
+    "rank": 15,
     "recent": 5,
     "score": 3.17,
     "sources": [
@@ -1266,66 +1361,6 @@
     "term": "solar system",
     "voices": 5,
     "z": 3.17
-   },
-   {
-    "baseline": 6,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Superpowers Race to Put Nuclear Reactors on the Moon"
-     },
-     {
-      "source": "arxiv",
-      "title": "Adaptive control of pool-type research nuclear reactors: theory limits, pragmatic actuation constraints, and realized performance and adaptation"
-     },
-     {
-      "source": "hn",
-      "title": "Dozens of dead nuclear reactors orbit Earth (2016)"
-     }
-    ],
-    "expected": 0.47,
-    "field": "power",
-    "is_new": false,
-    "rank": 13,
-    "recent": 3,
-    "score": 3.14,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "nuclear reactors",
-    "voices": 3,
-    "z": 2.09
-   },
-   {
-    "baseline": 11,
-    "examples": [
-     {
-      "source": "media",
-      "title": "The Elusive Power Players Behind the Rise of Jane Street"
-     },
-     {
-      "source": "hn",
-      "title": "Results from the Jane Street hardware puzzle"
-     },
-     {
-      "source": "hn",
-      "title": "The Elusive Leaders Behind Jane Street's Wall Street Rise"
-     }
-    ],
-    "expected": 0.86,
-    "field": "power",
-    "is_new": false,
-    "rank": 14,
-    "recent": 3,
-    "score": 2.36,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "jane street",
-    "voices": 3,
-    "z": 1.57
    }
   ],
   "semiconductor": [
@@ -1380,15 +1415,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 8,
-    "score": 8.4,
+    "recent": 9,
+    "score": 9.55,
     "sources": [
      "hn",
      "media"
     ],
     "term": "nvidia chips",
-    "voices": 6,
-    "z": 5.6
+    "voices": 7,
+    "z": 6.37
    },
    {
     "baseline": 0,
@@ -1449,6 +1484,64 @@
     "term": "android app",
     "voices": 4,
     "z": 1.68
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Local Quantization and Multi-Back End Deployment with AMD Quark on Strix Halo"
+     },
+     {
+      "source": "hn",
+      "title": "Gufo-Qwen3.6-35B-A3B-Q6dense – 3095tok/s prefill; 190 tok/s decode on Strix Halo"
+     },
+     {
+      "source": "hn",
+      "title": "Halogen – Fastest Way to Run Qwen3.8-Flash-Next on AMD Strix Halo"
+     }
+    ],
+    "expected": 0.31,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 2.35,
+    "sources": [
+     "hn"
+    ],
+    "term": "strix halo",
+    "voices": 3,
+    "z": 2.35
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Fighting the chip shortage with old school cooperative multitasking on GPUs"
+     },
+     {
+      "source": "hn",
+      "title": "Old School RuneScape mod explains cause of bug that broke a fletching knife"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: An old school forum on an open protocol – your identity is a keypair"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 2.22,
+    "sources": [
+     "hn"
+    ],
+    "term": "old school",
+    "voices": 3,
+    "z": 2.22
    }
   ]
  },

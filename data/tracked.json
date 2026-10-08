@@ -5,6 +5,18 @@
   "origin": "auto",
   "score_at_add": 11.27
  },
+ "constellation energy": {
+  "added": "2026-10-08",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 8.56
+ },
+ "decision model": {
+  "added": "2026-10-08",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 15.46
+ },
  "decision models": {
   "added": "2026-10-01",
   "field": "ai",

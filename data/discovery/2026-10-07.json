@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-07",
  "docs_baseline": 113116,
- "docs_recent": 8696,
+ "docs_recent": 8698,
  "fields": {
   "ai": [
    {
@@ -110,22 +110,22 @@
      },
      {
       "source": "media",
-      "title": "Mideast Oil Flows Are Near 80% of Prewar Levels, Shell CEO Says"
+      "title": "Revolut will cover costs for customers hit by data hack, Western Europe CEO says"
      }
     ],
     "expected": 2.72,
     "field": "ai",
     "is_new": false,
     "rank": 4,
-    "recent": 13,
-    "score": 7.99,
+    "recent": 14,
+    "score": 8.77,
     "sources": [
      "hn",
      "media"
     ],
     "term": "ceo says",
     "voices": 5,
-    "z": 5.33
+    "z": 5.85
    },
    {
     "baseline": 18,

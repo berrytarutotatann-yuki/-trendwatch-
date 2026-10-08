@@ -263,6 +263,17 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXROelUwcHdCUVJoTU05MjU0bDkyTHp0SWx3dWlrQjc5eXNhdEVYS3VoX1k2OG9fSmdYc2tZdk1JMmdrUHNCcU5yaG1XM2x2d015STZCWVc5dXFWOHo3OTBFeV92aTFTVFc0dHFHMVU0OXk1OWtBT2ZnRDVRalUyY3ZRSmRVY201N1ItOFJlWktfZE5NM3BQcUZfbmRObHNDQjBZaGtZck9mRlNnRU12OW9GY3pqeWJ6S3VrTnRFcFdXaWJXU2o3ejZ3",
    "voice": "reuters"
   },
+  "media:025d5c4f9cee67bc6890418b": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:025d5c4f9cee67bc6890418b",
+   "published": "2026-10-08T01:25:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Oil rises as Middle East supply concerns persist amid shipping attacks",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz",
+   "voice": "reuters"
+  },
   "media:0267407282bf224b68af3789": {
    "date": "2026-10-01",
    "fields": [],
@@ -339,6 +350,17 @@
    "title": "Panmure Liberum forecasts S&P 500 falling to 5,000, warns bull run nearing end",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHNwMURMMFJ3ek5yWWJWRkUwY3h0N0ZPbC1sTDFfYU5mNVFKWjBiajdNc2lBcmFfTGdYaGNSUkl6aWtJSXo4UGtPemFCaFFmRjZJNGtnaUxEVFFWTUc2OE1kQjBrSXZQcG93S0xfdjhYdHY0b3hSd2dmNVVfRUF4VXNta3NlVFdJX24xT09LSFlYWHE2Y1BJdFYxdktCaEVPZmdMZjNhZTUxekRZWmVvWERwWmZYNE5L",
    "voice": "reuters"
+  },
+  "media:031d99731a65de5772e8d937": {
+   "date": "2026-10-07",
+   "fields": [],
+   "id": "media:031d99731a65de5772e8d937",
+   "published": "2026-10-07T09:40:15+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Kioxia Shares Up on $13 Billion Inflow Hope After JPX Review",
+   "url": "https://bloomberg.com/news/articles/2026-10-07/kioxia-s-weighting-on-topix-index-to-rise-after-jpx-review",
+   "voice": "bloomberg"
   },
   "media:0391eaf4149e7c45552a8f89": {
    "date": "2026-10-07",
@@ -4754,14 +4776,13 @@
   "media:2a6aa4ba22d4c098d3bbdc04": {
    "date": "2026-10-07",
    "fields": [
-    "ai",
-    "semiconductor"
+    "ai"
    ],
    "id": "media:2a6aa4ba22d4c098d3bbdc04",
-   "published": "2026-10-07T23:12:45+00:00",
+   "published": "2026-10-07T22:48:00+00:00",
    "publisher": "reuters",
    "source": "media",
-   "title": "Samsung Q3 profit jumps nearly nine-fold as AI memory boom lifts chip earnings",
+   "title": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM00tZmVPZWtsRV9qcGV1VEtMajUtWXVxZlZVdU9HblZLWHBTZjNtQ0NuZHBJRjFOX2ktN0VkUmFERDBwNnhySHNPNTZ6bmZnZ08tTTN6WlhsMi1vR1Fnb2NBa2ZCZXNlcjRPOE1SVERxYnhJeGZmN0s1V0ZWWW4wSU45Z3gxRTBXZGVwRVpDX2F5Vm1aMzhDODI5cDFXU2RhX0pBOHpfeFNqNjg",
    "voice": "reuters"
   },
@@ -6084,7 +6105,7 @@
    "date": "2026-10-07",
    "fields": [],
    "id": "media:35d270110d9a5f1b584b59bd",
-   "published": "2026-10-07T22:18:13+00:00",
+   "published": "2026-10-07T17:05:00+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Tropical Storm Isaias forecast to hit US Gulf coast as hurricane early Saturday",
@@ -6337,7 +6358,7 @@
    "published": "2026-10-07T22:03:17+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Asian Stocks Drop on Inflation Concerns, Oil Gains: Markets Wrap",
+   "title": "Stocks Fall on Inflation Worries, Brent Tops $102: Markets Wrap",
    "url": "https://bloomberg.com/news/articles/2026-10-07/stock-market-today-dow-s-p-live-updates",
    "voice": "bloomberg"
   },
@@ -7072,7 +7093,7 @@
    "published": "2026-10-07T22:02:55+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Latest Oil Market News and Analysis for DATE",
+   "title": "Latest Oil Market News and Analysis for Oct. 8",
    "url": "https://bloomberg.com/news/articles/2026-10-07/latest-oil-market-news-and-analysis-for-date",
    "voice": "bloomberg"
   },
@@ -7191,6 +7212,17 @@
    "title": "All the AI agents that can live in your text messages",
    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
    "voice": "techcrunch"
+  },
+  "media:3fe6fe55339b0d9b45ea832b": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:3fe6fe55339b0d9b45ea832b",
+   "published": "2026-10-08T01:16:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Amazon makes fresh job cuts, mainly in retail division",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXBaTUxRTVRaaEh2ajRtZWxDekFLVElmbi1oVEw1eFJyUDg4NG5TNGxTZGw1eUFSTWhTbHVERXU2R2p1YlBFRnZhcUFXSG9vQWhPcVFxN21jdDJaMFRLY0lSU0x0YUtBREl3UXBYaVFXZmNtNmdfVGhkUmt5bnZJOTg3eTBOdjlUdTNaRTlFSGQ5YTdLcjVwWnVkLUREN2dLSkhoaEhlMHQ0U2YwWWc",
+   "voice": "reuters"
   },
   "media:4008593cf11ef6607d123847": {
    "date": "2026-09-28",
@@ -9212,6 +9244,17 @@
    "url": "https://theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
    "voice": "verge"
   },
+  "media:51b806cf7da6925290e9ae50": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:51b806cf7da6925290e9ae50",
+   "published": "2026-10-08T02:03:35+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Singapore Bank Stocks Drop as High Bond Yields May Hit Earnings",
+   "url": "https://bloomberg.com/news/articles/2026-10-08/singapore-banks-hot-rally-stutters-over-surging-bond-yields",
+   "voice": "bloomberg"
+  },
   "media:521a24e21dd8971d73af42ad": {
    "date": "2026-09-30",
    "fields": [
@@ -9904,6 +9947,17 @@
    "url": "https://wsj.com/world/openai-halts-new-model-over-safety-worries-e0b12abb",
    "voice": "wsj"
   },
+  "media:576f7cf33e360146bddb1b92": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:576f7cf33e360146bddb1b92",
+   "published": "2026-10-08T02:30:16+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Rupee Nears Record Low Even as RBI Signals Further Tightening",
+   "url": "https://bloomberg.com/news/newsletters/2026-10-08/rupee-nears-record-low-even-as-rbi-signals-further-tightening",
+   "voice": "bloomberg"
+  },
   "media:576f921f15a04e32ea0b5651": {
    "date": "2026-10-07",
    "fields": [
@@ -10409,6 +10463,17 @@
    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
    "voice": "techcrunch"
+  },
+  "media:5b9800ea697716abb1f6047c": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:5b9800ea697716abb1f6047c",
+   "published": "2026-10-08T00:49:35+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Today’s Wordle #1937: Hints, Clues And Answer For Thursday October 8",
+   "url": "https://forbes.com/sites/erikkain/2026/10/07/wordle-hints-clues-answer-thursday-october-8",
+   "voice": "forbes"
   },
   "media:5bb08e661166fe1afe74869e": {
    "date": "2026-10-06",
@@ -11047,7 +11112,7 @@
    "published": "2026-10-07T22:46:37+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Fortescue Says Dispute With China’s CMRG Hits Iron Ore Sales",
+   "title": "Fortescue Warns China Dispute Is Weighing on Iron Ore Sales",
    "url": "https://bloomberg.com/news/articles/2026-10-07/fortescue-flags-lower-iron-ore-sales-as-china-dispute-drags-on",
    "voice": "bloomberg"
   },
@@ -13494,7 +13559,7 @@
    "published": "2026-10-07T23:58:55+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "LG Energy Profit Beats Estimates on Energy-Storage System Demand",
+   "title": "LG Energy Posts Best-Ever Quarterly Result on Storage Demand",
    "url": "https://bloomberg.com/news/articles/2026-10-07/lg-energy-profit-beats-estimates-on-energy-storage-system-demand",
    "voice": "bloomberg"
   },
@@ -13926,7 +13991,7 @@
    "published": "2026-10-07T23:37:27+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Gold Near Nine-Week Low on Prospects for Rate Hike by Year-End",
+   "title": "Gold Edges Higher as Traders Weigh Prospects for Fed Rate Hike",
    "url": "https://bloomberg.com/news/articles/2026-10-07/gold-near-nine-week-low-on-prospects-for-rate-hike-by-year-end",
    "voice": "bloomberg"
   },
@@ -15660,6 +15725,17 @@
    "source": "media",
    "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZZY2dhLWxWUXFIc0VnMTc3OHRvUWk2MzUyX3VIU0JFbW1MMjlUX3JCLUIyVGhDZm4zT3RCWTJpcGl6UTdPd2FWaTBBNC1zMkJDR29YXzRuak84cWIxeW5HLWJaTkR4anltMUUzdUpWS3ZkMWRxUTFodWs5SlhFLWU4ODBrUDJEbVVSUmp5Q1ZiWXVWZUVrMEk4VUEwb0MxM3YtNWFyVFNyN29lZEJlb0ctaV94MGxmNmJRVHZKOHhTUDlZSkxCR2xvQkVCUQ",
+   "voice": "reuters"
+  },
+  "media:8b8a16ed8ec380d93b7c5ff4": {
+   "date": "2026-10-07",
+   "fields": [],
+   "id": "media:8b8a16ed8ec380d93b7c5ff4",
+   "published": "2026-10-07T22:10:19+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Levi Strauss lifts annual profit outlook on tariff refunds, holiday demand",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcGpPcWtGSUU1NVZlY1p6bnBmNnhqQ3owekVzTGpsMWxvSkM5c0trLVFVZUtySS1TcVRZZGFuWUpSR0JTaUgyWE5HNzJjbUNvd1Bma2RURkdMUFliaUw1Q3BPbHlMTm9aR05uUV9aZV9TV1k4T1Y3OW80Q0cteDFpM0Z0aVJwbFF6YUF1RExIdUlPRWtRb1YtQk1lWXIyZnBLT0lnSTRMTm1NejdSOEpTcGtCYy1HZWk2a3dMS0tka2FkdmE5b3Q4STcxSQ",
    "voice": "reuters"
   },
   "media:8b930114bb1bac978379b828": {
@@ -19701,6 +19777,17 @@
    "url": "https://bloomberg.com/news/videos/2026-10-06/sushi-restaurants-put-on-tuna-carving-dinner-shows",
    "voice": "bloomberg"
   },
+  "media:b0369c654a682aaad39363b2": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:b0369c654a682aaad39363b2",
+   "published": "2026-10-08T02:23:06+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Copper Gains with Other Metals as China Returns in Positive Mood",
+   "url": "https://bloomberg.com/news/articles/2026-10-08/copper-gains-with-other-metals-as-china-returns-in-positive-mood",
+   "voice": "bloomberg"
+  },
   "media:b037bbeeaa30e0cbbe41384d": {
    "date": "2026-10-05",
    "fields": [],
@@ -21852,7 +21939,7 @@
    "date": "2026-10-07",
    "fields": [],
    "id": "media:c0ea678e02a2a0b08aad159e",
-   "published": "2026-10-07T20:46:16+00:00",
+   "published": "2026-10-07T15:03:00+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Spanish unions call general strike for November 11, weeks before snap election",
@@ -22835,6 +22922,17 @@
    "title": "US Supreme Court won't hear Zillow's bid to escape investor class action",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUhQZk15YXg1bUlmYkZaakhmX2FYeTI2OHhYWDlJQlRfSUVnbXk4elo5LXB1ZEJWUm9tdWJadVRmLWVrS1hFWGRMZU5YcDQ4OHFyUUM1dEliWkluSklaMHM0LXJVZExnSGk1M3d2NW9NNmRUZDBEcHl3UG1sbHlKMTV1Q2lEaHJQSTRlRVkwSXNndUNyWGR5MGFfcUV6bVg1cFFqWkR1T05pN2FiU0VheWhR",
    "voice": "reuters"
+  },
+  "media:c8e9674959a114041fdecd11": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:c8e9674959a114041fdecd11",
+   "published": "2026-10-08T03:33:12+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "How China’s 25 Trillion-Yuan Infrastructure Plan Could Offset Weaknesses",
+   "url": "https://bloomberg.com/news/videos/2026-10-08/how-china-s-25-trillion-yuan-plan-could-offset-weakness-video",
+   "voice": "bloomberg"
   },
   "media:c8f3a32310f7766c03561cc2": {
    "date": "2026-09-30",
@@ -25263,6 +25361,17 @@
    "url": "https://forbes.com/councils/forbestechcouncil/2026/09/29/the-next-challenge-in-autonomous-enterprise-systems-isnt-intelligence-its-coordination",
    "voice": "forbes"
   },
+  "media:dcd85439168dd6d6d0bc63fa": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:dcd85439168dd6d6d0bc63fa",
+   "published": "2026-10-08T01:59:41+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "New Zealand’s Central Bank Chief Breman Overhauls Top Leadership",
+   "url": "https://bloomberg.com/news/articles/2026-10-08/new-zealand-s-central-bank-chief-breman-overhauls-top-leadership",
+   "voice": "bloomberg"
+  },
   "media:dce0077f4ec245f7eaff41b2": {
    "date": "2026-10-01",
    "fields": [],
@@ -27590,6 +27699,17 @@
    "url": "https://bloomberg.com/news/articles/2026-10-06/paulsen-sees-a-15-s-p-500-drop-as-oil-rates-and-dollar-rise",
    "voice": "bloomberg"
   },
+  "media:efe1c2477f0bf8296aa9e9d4": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:efe1c2477f0bf8296aa9e9d4",
+   "published": "2026-10-08T01:39:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "US grants Aurora exemption for self-driving trucks safety feature",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONnE4aU1ld3FwRG93N0JmVUhpT1AzcWx0cDkwWXRzbG81VmNGTE9GTHh1ZHVsajZmTDZGUXJockJMLXV5ZFN4emtGZE8yTFU3T2UzU2VkdWVXZGgyX2ZETmdTamhZa1pZbmVjNk9jUU9YRmNTelpfZVBoNDY4Y0xqM3FBSTFMUTgzMWFlaVVVaW5lWHVWN1J6bXRUeEd0eU5HM0o1T1BvcnRTUQ",
+   "voice": "reuters"
+  },
   "media:efe554df99be1685e7d24a1d": {
    "date": "2026-09-30",
    "fields": [],
@@ -28623,6 +28743,17 @@
    "url": "https://bloomberg.com/news/articles/2026-09-29/paramount-kicks-off-high-grade-bond-sale-for-warner-bros-deal",
    "voice": "bloomberg"
   },
+  "media:f83e884795bb92d9e281d57e": {
+   "date": "2026-10-08",
+   "fields": [],
+   "id": "media:f83e884795bb92d9e281d57e",
+   "published": "2026-10-08T02:30:16+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "EU Is Taking Harder Line on China’s Trade Gap as Talks Kick Off",
+   "url": "https://bloomberg.com/news/articles/2026-10-08/eu-is-taking-harder-line-on-china-s-trade-gap-as-talks-kick-off",
+   "voice": "bloomberg"
+  },
   "media:f841018d454f0183049ff13e": {
    "date": "2026-10-01",
    "fields": [],
@@ -29267,7 +29398,7 @@
  },
  "publishers": {
   "bloomberg": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "covered",
@@ -29283,13 +29414,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
-   "latest": "2026-10-08T00:31:40+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
+   "latest": "2026-10-08T03:33:12+00:00",
    "received": 20,
    "status": "ok"
   },
   "forbes": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -29304,13 +29435,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
-   "latest": "2026-10-08T00:41:45+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
+   "latest": "2026-10-08T00:49:35+00:00",
    "received": 25,
    "status": "ok"
   },
   "ieee_spectrum": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-08": "partial",
     "2026-09-09": "covered",
@@ -29346,13 +29477,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
    "latest": "2026-10-07T18:00:02+00:00",
    "received": 27,
    "status": "ok"
   },
   "information": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -29368,13 +29499,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
    "latest": "2026-10-08T00:20:52+00:00",
    "received": 20,
    "status": "ok"
   },
   "reuters": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-25": "partial",
     "2026-09-26": "partial",
@@ -29393,13 +29524,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
-   "latest": "2026-10-07T23:42:13+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
+   "latest": "2026-10-08T01:39:00+00:00",
    "received": 100,
    "status": "ok"
   },
   "semiconductor_engineering": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -29419,13 +29550,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
    "latest": "2026-10-07T19:47:59+00:00",
    "received": 10,
    "status": "ok"
   },
   "techcrunch": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -29441,13 +29572,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
    "latest": "2026-10-07T23:36:57+00:00",
    "received": 20,
    "status": "ok"
   },
   "utility_dive": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -29467,13 +29598,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
    "latest": "2026-10-07T14:37:43+00:00",
    "received": 10,
    "status": "ok"
   },
   "verge": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -29488,13 +29619,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
    "latest": "2026-10-07T22:01:00+00:00",
    "received": 10,
    "status": "ok"
   },
   "wsj": {
-   "checked_at": "2026-10-08T00:46:17.674480+00:00",
+   "checked_at": "2026-10-08T03:36:21.755563+00:00",
    "coverage": {
     "2026-09-16": "partial",
     "2026-09-17": "covered",
@@ -29522,9 +29653,9 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-08T00:46:17.674480+00:00",
+   "last_success": "2026-10-08T03:36:21.755563+00:00",
    "latest": "2026-10-08T00:00:00+00:00",
-   "received": 35,
+   "received": 34,
    "status": "ok"
   }
  }

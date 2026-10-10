@@ -1640,7 +1640,7 @@
     "ai"
    ],
    "id": "media:0b164e68f523f390c4c27087",
-   "published": "2026-10-07T07:01:48+00:00",
+   "published": "2026-10-07T04:23:23+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "HSBC plans job cuts across UK wealth business in AI push, FT reports",
@@ -3770,7 +3770,7 @@
    "date": "2026-10-09",
    "fields": [],
    "id": "media:1991d211ac0215357b627b37",
-   "published": "2026-10-09T17:45:38+00:00",
+   "published": "2026-10-09T08:58:00+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector",
@@ -12852,7 +12852,7 @@
    "date": "2026-10-09",
    "fields": [],
    "id": "media:5a1ecd095a94e7de9a5dd309",
-   "published": "2026-10-09T19:40:34+00:00",
+   "published": "2026-10-09T14:31:00+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "How the US plan to livestream an execution compares with global practice",
@@ -13745,6 +13745,19 @@
    "title": "US Inches Closer to Breaking Permit Logjam for Key Energy Projects",
    "url": "https://bloomberg.com/news/newsletters/2026-10-02/us-inches-closer-to-breaking-permit-logjam-for-key-energy-projects",
    "voice": "bloomberg"
+  },
+  "media:5f05379386a5a6f980f34586": {
+   "date": "2026-10-10",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:5f05379386a5a6f980f34586",
+   "published": "2026-10-10T09:30:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "The U.S. Army’s Desert Tech Test Shows Long Road to AI Warfare",
+   "url": "https://wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e",
+   "voice": "wsj"
   },
   "media:5f062a5a1dc5effde077c96b": {
    "date": "2026-10-08",
@@ -15733,6 +15746,19 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0NqZ21uMlhWeGNNdGY3R2R6M0ZHOEdCc3ktc0ZtcmRwQjB1dHdKdzZxOV9NUWVqc3FwaVZnSzAzMHFlbnlLLUl1SENrUGhvM3gzVnVWMks0TVFhaFJJVEM1WDY4aUJ4ak1QbjhCY0RDMEN4RXpXcWtXMnZaTzFoc2FJNFJRQXB1SHNSd1VqVkdzSmhUbzJfQ183VmVpM25WVkVFeTIzTWFKdHc",
    "voice": "reuters"
   },
+  "media:6e64a30b8f7ec26a006b4901": {
+   "date": "2026-10-10",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:6e64a30b8f7ec26a006b4901",
+   "published": "2026-10-10T07:00:00+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "My brief romance with an AI bird feeder",
+   "url": "https://theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+   "voice": "verge"
+  },
   "media:6e77ffbb7b00d86db98f9947": {
    "date": "2026-10-06",
    "fields": [
@@ -16599,7 +16625,7 @@
    "published": "2026-10-10T03:23:21+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "India Detains Protest Leaders as Delhi Curbs Limit Movement",
+   "title": "India Detains Sudent Leaders in Major Crackdown on Protests",
    "url": "https://bloomberg.com/news/articles/2026-10-10/india-masses-police-in-new-delhi-as-cockroach-protest-looms",
    "voice": "bloomberg"
   },
@@ -19109,6 +19135,17 @@
    "url": "https://bloomberg.com/news/videos/2026-10-02/pimco-s-stracke-on-credit-risks-yield-shock-ahead-video",
    "voice": "bloomberg"
   },
+  "media:85db2ad625fd37bbe6c1e521": {
+   "date": "2026-10-10",
+   "fields": [],
+   "id": "media:85db2ad625fd37bbe6c1e521",
+   "published": "2026-10-10T06:34:32+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "WWE Money In The Bank Has 5 Confirmed Matches, 2 Title Bouts — Here's How You Can Watch",
+   "url": "https://forbes.com/sites/brianmazique/2026/10/10/wwe-money-in-the-bank-has-5-confirmed-matches-2-title-bouts---heres-how-you-can-watch",
+   "voice": "forbes"
+  },
   "media:85f7e8943636b92d536a9019": {
    "date": "2026-10-06",
    "fields": [],
@@ -20686,7 +20723,7 @@
    "published": "2026-10-09T14:27:49+00:00",
    "publisher": "utility_dive",
    "source": "media",
-   "title": "PJM approves fast-track interconnection for 2.1 GW from Engie, LS Power",
+   "title": "Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM",
    "url": "https://utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613",
    "voice": "utility_dive"
   },
@@ -25507,7 +25544,7 @@
    "date": "2026-10-09",
    "fields": [],
    "id": "media:b435db684fed56e264e91c77",
-   "published": "2026-10-09T06:05:00+00:00",
+   "published": "2026-10-09T22:15:00+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Apple cuts iPhone 18 Pro orders due to soft demand, Nikkei Asia reports",
@@ -26317,6 +26354,17 @@
    "title": "OpenAI Scraps Release of New AI Model Over Safety Concerns",
    "url": "https://wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
    "voice": "wsj"
+  },
+  "media:b97869180fb35a337b22ff7b": {
+   "date": "2026-10-10",
+   "fields": [],
+   "id": "media:b97869180fb35a337b22ff7b",
+   "published": "2026-10-10T06:39:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Russian attack on Ukraine's Zaporizhzhia kills seven, governor says",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXFuRXk1Sm4ydlg5Tng2TklTSDlLUlhUXy12UldndXpmdWN1cnNYSmhZaFRwRTlSM0pUZWVtZjdicXdNbVlSMUxNYk5YYVhncjczY2FuLThrRlk4MTFPUU8ySVM5bHRlaGdfX19VTHQxQU9ZTXQwazF2MXhKYlUzVTFUMEZ2cjdQSTZGVEN5QWRPMlhPQnZTNElXeTY5QzZJb2NMcENHTUhSUXVVMU1kYjdoN2ZJZGdoTllBMkRvenZ4aU0",
+   "voice": "reuters"
   },
   "media:b9b83bfe02984fa73d8e965b": {
    "date": "2026-10-08",
@@ -27893,6 +27941,17 @@
    "url": "https://forbes.com/sites/erikkain/2026/10/06/nyt-strands-hints-clues-answers-wednesday-october-7",
    "voice": "forbes"
   },
+  "media:c352a4d416adcf009214b19d": {
+   "date": "2026-10-10",
+   "fields": [],
+   "id": "media:c352a4d416adcf009214b19d",
+   "published": "2026-10-10T08:00:00+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Europe’s Indebted Nations Are Starting to Blink at Market Wrath",
+   "url": "https://bloomberg.com/news/articles/2026-10-10/europe-s-indebted-nations-are-starting-to-blink-at-market-wrath",
+   "voice": "bloomberg"
+  },
   "media:c38ac489f4e50d3ba766a993": {
    "date": "2026-10-02",
    "fields": [
@@ -27969,7 +28028,7 @@
    "date": "2026-10-09",
    "fields": [],
    "id": "media:c4088b26c9c8a8cb57586de7",
-   "published": "2026-10-09T05:03:00+00:00",
+   "published": "2026-10-09T05:09:22+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "China's tax crackdown piles pressure on luxury brands as US spending falters",
@@ -32601,7 +32660,7 @@
    "published": "2026-10-10T03:14:34+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "India Central Bank Announces Measures to Support Plunging Rupee",
+   "title": "India Announces Emergency Steps to Support Plunging Currency",
    "url": "https://bloomberg.com/news/articles/2026-10-10/rbi-announces-special-oil-window-regulatory-steps-for-rupee",
    "voice": "bloomberg"
   },
@@ -36721,6 +36780,17 @@
    "url": "https://wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
    "voice": "wsj"
   },
+  "media:fbf97bf54045556945d6fafd": {
+   "date": "2026-10-09",
+   "fields": [],
+   "id": "media:fbf97bf54045556945d6fafd",
+   "published": "2026-10-09T22:34:06+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Christian-conservative wireless provider Patriot Mobile files for US IPO",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTcxa1IxNnpUcVpuMDZ0d1FhNU1fUTNUMHNydHd3VlVOWXVURHUzSkUzZmNOZ2x1cW5teUJSOVh3blNWR2xpamZpUWtwVGtHS2RiMng0WlVKZXVIYk5oYV9jWU9uRklBRDc4UzBwQkdOaUlYRzRNTFJsbFpsTngwRE5tZVhwNWZWR1AzREJyR2Z1RTdNUmtSWFdPRm1PaGNPdURmWXhReHVOT0xpS0lOcUxnbw",
+   "voice": "reuters"
+  },
   "media:fc38588f4a5aa1b7274b53f3": {
    "date": "2026-10-02",
    "fields": [],
@@ -36731,6 +36801,17 @@
    "title": "UK’s South East Water Asks to Curb Non-Essential Use Due to Drought",
    "url": "https://bloomberg.com/news/articles/2026-10-02/uk-s-south-east-water-asks-to-curb-non-essential-use-due-to-drought",
    "voice": "bloomberg"
+  },
+  "media:fc69a7a5c9a6d6bfc412c855": {
+   "date": "2026-10-10",
+   "fields": [],
+   "id": "media:fc69a7a5c9a6d6bfc412c855",
+   "published": "2026-10-10T01:49:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Isaias weakens to post-tropical cyclone after Florida landfall, NHC says",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUXd4cU9kTnZkUXpiWnZCSUFrVXVqRDVVRWNsakotTU1aMTNkZjBra3lkaktVMGtUcnpORW40N1JMemk4WkREeFJGNnFibFBBRTdQMi10dDNlX2hua2pSZVVSWnNpRDZOblhrMW9CbS1vZTd3S0ktU2pSNGtfNWZyVGduR3YzNU52dEpMQkx3UXZYUmxPaGFoZVhSZ2lzNml0bFlZX3gzSTRrWEthTHZrd1lNaEcxRW8yeEVweTNIcVhKYUJTc2Qw",
+   "voice": "reuters"
   },
   "media:fca5d245f74de6d8ab18f66d": {
    "date": "2026-10-08",
@@ -37187,7 +37268,7 @@
  },
  "publishers": {
   "bloomberg": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "covered",
@@ -37205,13 +37286,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
-   "latest": "2026-10-10T06:00:00+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
+   "latest": "2026-10-10T08:00:00+00:00",
    "received": 20,
    "status": "ok"
   },
   "forbes": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -37228,13 +37309,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
-   "latest": "2026-10-10T04:53:42+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
+   "latest": "2026-10-10T06:34:32+00:00",
    "received": 25,
    "status": "ok"
   },
   "ieee_spectrum": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-08": "partial",
     "2026-09-09": "covered",
@@ -37272,13 +37353,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
    "latest": "2026-10-09T18:00:02+00:00",
    "received": 27,
    "status": "ok"
   },
   "information": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -37296,13 +37377,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
    "latest": "2026-10-10T06:00:31+00:00",
    "received": 20,
    "status": "ok"
   },
   "reuters": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-25": "partial",
     "2026-09-26": "partial",
@@ -37321,15 +37402,15 @@
     "2026-10-09": "partial",
     "2026-10-10": "partial"
    },
-   "error": "応答なし",
+   "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T03:35:51.077365+00:00",
-   "latest": "2026-10-10T00:02:00+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
+   "latest": "2026-10-10T06:39:00+00:00",
    "received": 100,
-   "status": "error"
+   "status": "ok"
   },
   "semiconductor_engineering": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -37351,13 +37432,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
    "latest": "2026-10-09T07:01:17+00:00",
    "received": 10,
    "status": "ok"
   },
   "techcrunch": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -37375,13 +37456,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
    "latest": "2026-10-10T03:10:06+00:00",
    "received": 20,
    "status": "ok"
   },
   "utility_dive": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -37403,13 +37484,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
    "latest": "2026-10-09T14:27:49+00:00",
    "received": 10,
    "status": "ok"
   },
   "verge": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -37426,13 +37507,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
-   "latest": "2026-10-09T21:50:00+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
+   "latest": "2026-10-10T07:00:00+00:00",
    "received": 10,
    "status": "ok"
   },
   "wsj": {
-   "checked_at": "2026-10-10T06:40:53.099766+00:00",
+   "checked_at": "2026-10-10T09:34:03.646349+00:00",
    "coverage": {
     "2026-09-16": "partial",
     "2026-09-17": "covered",
@@ -37462,8 +37543,8 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-10T06:40:53.099766+00:00",
-   "latest": "2026-10-10T03:34:00+00:00",
+   "last_success": "2026-10-10T09:34:03.646349+00:00",
+   "latest": "2026-10-10T09:30:00+00:00",
    "received": 34,
    "status": "ok"
   }

@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-09",
  "docs_baseline": 114453,
- "docs_recent": 9201,
+ "docs_recent": 10048,
  "fields": {
   "ai": [
    {
@@ -15,27 +15,87 @@
      },
      {
       "source": "hn",
-      "title": "Can Decision Models Abstain?"
+      "title": "Liquid AI d1: open decision models that answer in one forward pass"
      },
      {
       "source": "hn",
-      "title": "Show HN: Jevman – AI decision models play Pac-Man"
+      "title": "Train your own decision models with Unsloth"
      }
     ],
     "expected": 2.02,
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 18,
-    "score": 18.38,
+    "recent": 22,
+    "score": 22.98,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "decision models",
-    "voices": 16,
-    "z": 9.19
+    "voices": 20,
+    "z": 11.49
+   },
+   {
+    "baseline": 31,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft Launched Microsoft-Decision-1 decision model"
+     },
+     {
+      "source": "hn",
+      "title": "THX-01: An Open-Source Decision Model That Runs on Your Phone and Beats Jev"
+     }
+    ],
+    "expected": 2.41,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 20,
+    "score": 14.29,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 15,
+    "z": 9.52
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Opinion | Unintelligence on Super Intelligence"
+     },
+     {
+      "source": "media",
+      "title": "Trump Announces ‘Super Intelligence Force’ That Raises Super-Sized Questions About The Future Of AI"
+     },
+     {
+      "source": "media",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?"
+     }
+    ],
+    "expected": 1.71,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 15,
+    "score": 12.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "super intelligence",
+    "voices": 13,
+    "z": 8.07
    },
    {
     "baseline": 1,
@@ -56,7 +116,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 2,
+    "rank": 4,
     "recent": 8,
     "score": 11.45,
     "sources": [
@@ -86,7 +146,7 @@
     "expected": 0.47,
     "field": "ai",
     "is_new": false,
-    "rank": 3,
+    "rank": 5,
     "recent": 9,
     "score": 10.57,
     "sources": [
@@ -116,7 +176,7 @@
     "expected": 2.8,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
+    "rank": 6,
     "recent": 16,
     "score": 10.16,
     "sources": [
@@ -146,7 +206,7 @@
     "expected": 0.54,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 7,
     "recent": 6,
     "score": 8.78,
     "sources": [
@@ -157,96 +217,6 @@
     "term": "personal agent",
     "voices": 6,
     "z": 4.39
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect"
-     },
-     {
-      "source": "media",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’"
-     },
-     {
-      "source": "media",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm"
-     }
-    ],
-    "expected": 0.16,
-    "field": "ai",
-    "is_new": false,
-    "rank": 6,
-    "recent": 6,
-    "score": 8.16,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "openai safety",
-    "voices": 5,
-    "z": 5.44
-   },
-   {
-    "baseline": 31,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Liquid AI releases Pareto-frontier, multimodal decision model for the edge"
-     },
-     {
-      "source": "hn",
-      "title": "Strands Decider 2B: a small, open-source, decision model"
-     },
-     {
-      "source": "hn",
-      "title": "Competitive and tiny decision model from Danger Labs"
-     }
-    ],
-    "expected": 2.41,
-    "field": "ai",
-    "is_new": false,
-    "rank": 7,
-    "recent": 12,
-    "score": 7.79,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "decision model",
-    "voices": 11,
-    "z": 5.19
-   },
-   {
-    "baseline": 22,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Opinion | Unintelligence on Super Intelligence"
-     },
-     {
-      "source": "media",
-      "title": "Trump Announces ‘Super Intelligence Force’ That Raises Super-Sized Questions About The Future Of AI"
-     },
-     {
-      "source": "media",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?"
-     }
-    ],
-    "expected": 1.71,
-    "field": "ai",
-    "is_new": false,
-    "rank": 8,
-    "recent": 10,
-    "score": 7.55,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "super intelligence",
-    "voices": 8,
-    "z": 5.03
    },
    {
     "baseline": 0,
@@ -267,7 +237,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 9,
+    "rank": 8,
     "recent": 7,
     "score": 7.0,
     "sources": [
@@ -296,7 +266,7 @@
     "expected": 4.67,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
+    "rank": 9,
     "recent": 13,
     "score": 7.0,
     "sources": [
@@ -307,6 +277,36 @@
     "term": "personal ai",
     "voices": 12,
     "z": 3.5
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’"
+     },
+     {
+      "source": "media",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai safety",
+    "voices": 4,
+    "z": 4.51
    },
    {
     "baseline": 14,
@@ -339,6 +339,36 @@
     "z": 4.09
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet"
+     },
+     {
+      "source": "hn",
+      "title": "Several major bugs in OpenAI's Math release"
+     },
+     {
+      "source": "hn",
+      "title": "An index of the OpenAI/math collection"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai math",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
     "baseline": 5,
     "examples": [
      {
@@ -357,7 +387,7 @@
     "expected": 0.39,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 5,
     "score": 5.87,
     "sources": [
@@ -387,7 +417,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 4,
     "score": 5.67,
     "sources": [
@@ -417,7 +447,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 5.67,
     "sources": [
@@ -427,35 +457,6 @@
     "term": "ai personal",
     "voices": 3,
     "z": 3.78
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Pure Math Research Ideas: AI X Physics"
-     },
-     {
-      "source": "hn",
-      "title": "Pure Math Research Ideas: Graph Theory X Physics"
-     },
-     {
-      "source": "hn",
-      "title": "Pure Math Research Ideas: Topology X Physics"
-     }
-    ],
-    "expected": 0.16,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 6,
-    "score": 5.44,
-    "sources": [
-     "hn"
-    ],
-    "term": "pure math",
-    "voices": 4,
-    "z": 5.44
    }
   ],
   "other": [
@@ -490,6 +491,36 @@
     "z": 18.64
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers"
+     },
+     {
+      "source": "hn",
+      "title": "The Trump administration Is Suspending Microsoft from a Green Card Program"
+     },
+     {
+      "source": "hn",
+      "title": "Vance Says U.S. Will Suspend Microsoft and Other Firms from Green Card Program"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "green card program",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
     "baseline": 2,
     "examples": [
      {
@@ -508,7 +539,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 2,
+    "rank": 3,
     "recent": 8,
     "score": 10.95,
     "sources": [
@@ -518,36 +549,6 @@
     "term": "social reckoning",
     "voices": 5,
     "z": 7.3
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers"
-     },
-     {
-      "source": "hn",
-      "title": "Vance Says U.S. Will Suspend Microsoft and Other Firms from Green Card Program"
-     },
-     {
-      "source": "hn",
-      "title": "Microsoft Suspended from Green Card Program"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 3,
-    "recent": 7,
-    "score": 10.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "green card program",
-    "voices": 7,
-    "z": 7.0
    },
    {
     "baseline": 23,
@@ -614,6 +615,36 @@
     "examples": [
      {
       "source": "media",
+      "title": "US plans livestream of execution by firing squad"
+     },
+     {
+      "source": "hn",
+      "title": "Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad"
+     },
+     {
+      "source": "hn",
+      "title": "US Military will livestream the firing squad execution of Fort Hood shooter"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "firing squad",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "Former German spy chief had contacts with Chinese official, Spiegel reports"
      },
      {
@@ -628,7 +659,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -638,6 +669,35 @@
     "term": "german spy",
     "voices": 4,
     "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code"
+     },
+     {
+      "source": "hn",
+      "title": "Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died"
+     },
+     {
+      "source": "hn",
+      "title": "Margaret Hamilton, whose software helped land Apollo astronauts on the moon"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 8,
+    "score": 8.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "margaret hamilton",
+    "voices": 8,
+    "z": 8.0
    },
    {
     "baseline": 1,
@@ -658,7 +718,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 7,
+    "rank": 9,
     "recent": 5,
     "score": 7.11,
     "sources": [
@@ -668,6 +728,35 @@
     "term": "lab worker",
     "voices": 4,
     "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "US Military will livestream the firing squad execution of Fort Hood shooter"
+     },
+     {
+      "source": "hn",
+      "title": "Fort Hood shooter's execution will be live-streamed, Defense Dept. says"
+     },
+     {
+      "source": "hn",
+      "title": "Public will be able to watch Fort Hood shooter's execution, Hegseth says"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "fort hood",
+    "voices": 7,
+    "z": 7.0
    },
    {
     "baseline": 0,
@@ -688,7 +777,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 8,
+    "rank": 11,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -697,36 +786,6 @@
     "term": "anne carson",
     "voices": 5,
     "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "US plans livestream of execution by firing squad"
-     },
-     {
-      "source": "hn",
-      "title": "Pentagon to execute convicted Fort Hood mass shooter Nidal Hasan by firing squad"
-     },
-     {
-      "source": "hn",
-      "title": "Fort Hood attacker's execution by firing squad will be livestreamed"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 9,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "firing squad",
-    "voices": 4,
-    "z": 4.0
    },
    {
     "baseline": 0,
@@ -747,7 +806,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 12,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -755,35 +814,6 @@
     ],
     "term": "hurricane isaias",
     "voices": 3,
-    "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Margaret Hamilton, whose software helped land Apollo astronauts on the moon"
-     },
-     {
-      "source": "hn",
-      "title": "Margaret Hamilton, whose software powered Apollo 11 moon landing, dies at 90"
-     },
-     {
-      "source": "hn",
-      "title": "Scene at MIT: Margaret Hamilton's Apollo Code (2016)"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 11,
-    "recent": 6,
-    "score": 6.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "margaret hamilton",
-    "voices": 6,
     "z": 6.0
    },
    {
@@ -805,7 +835,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 13,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -835,7 +865,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 13,
+    "rank": 14,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -847,64 +877,34 @@
     "z": 4.0
    },
    {
-    "baseline": 11,
+    "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More"
+      "title": "White House Suspends Visa Program for Microsoft, Other Tech Firms"
      },
      {
       "source": "media",
-      "title": "Apple TV Adds Dolby Vision And Dolby Atmos To Its Formula 1 Coverage"
-     },
-     {
-      "source": "media",
-      "title": "Apple TV’s great year continues with Small Prophets"
-     }
-    ],
-    "expected": 0.86,
-    "field": "other",
-    "is_new": false,
-    "rank": 14,
-    "recent": 6,
-    "score": 5.66,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "apple tv",
-    "voices": 4,
-    "z": 3.78
-   },
-   {
-    "baseline": 4,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Amazon’s new Kids Tablets let parents manage access to the Google Play store"
-     },
-     {
-      "source": "media",
-      "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access"
+      "title": "Trump administration says Microsoft ‘abused’ worker visa program and is cutting off access"
      },
      {
       "source": "hn",
-      "title": "Tekken 7 and 8 now on Play Store /s"
+      "title": "US Bars Microsoft, Indian Firms from Visa Program in Blow"
      }
     ],
-    "expected": 0.31,
+    "expected": 0.0,
     "field": "other",
-    "is_new": false,
+    "is_new": true,
     "rank": 15,
     "recent": 4,
-    "score": 4.83,
+    "score": 6.0,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "play store",
+    "term": "visa program",
     "voices": 4,
-    "z": 3.22
+    "z": 4.0
    }
   ],
   "power": [
@@ -999,36 +999,6 @@
     "z": 3.78
    },
    {
-    "baseline": 11,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
-     },
-     {
-      "source": "media",
-      "title": "Musk says TSMC won't run Terafab AI chip complex"
-     },
-     {
-      "source": "media",
-      "title": "Musk says he will rename SpaceXAI to SpaceXSI"
-     }
-    ],
-    "expected": 0.86,
-    "field": "power",
-    "is_new": false,
-    "rank": 4,
-    "recent": 5,
-    "score": 4.56,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "musk says",
-    "voices": 4,
-    "z": 3.04
-   },
-   {
     "baseline": 14,
     "examples": [
      {
@@ -1047,16 +1017,77 @@
     "expected": 1.09,
     "field": "power",
     "is_new": false,
-    "rank": 5,
-    "recent": 5,
-    "score": 4.06,
+    "rank": 4,
+    "recent": 6,
+    "score": 5.1,
     "sources": [
      "hn",
      "media"
     ],
     "term": "south africa",
-    "voices": 3,
-    "z": 2.71
+    "voices": 4,
+    "z": 3.4
+   },
+   {
+    "baseline": 23,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Smart thermostat aggregator rebrands, launches ‘whole-home’ virtual power plant"
+     },
+     {
+      "source": "media",
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034"
+     },
+     {
+      "source": "hn",
+      "title": "AI Assistants Transform Nuclear Power Plant Work"
+     }
+    ],
+    "expected": 1.79,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 5.04,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "power plant",
+    "voices": 6,
+    "z": 2.52
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
+     },
+     {
+      "source": "media",
+      "title": "Musk says TSMC won't run Terafab AI chip complex"
+     },
+     {
+      "source": "media",
+      "title": "Musk says he will rename SpaceXAI to SpaceXSI"
+     }
+    ],
+    "expected": 0.86,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 5,
+    "score": 4.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk says",
+    "voices": 4,
+    "z": 3.04
    },
    {
     "baseline": 0,
@@ -1077,7 +1108,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1106,7 +1137,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1115,6 +1146,35 @@
     "term": "smart lock",
     "voices": 3,
     "z": 4.0
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Mass Driver: Solar system routing mini-game"
+     },
+     {
+      "source": "hn",
+      "title": "PicoSputnik: 1M picosputniks in Solar System and beyond"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data"
+     }
+    ],
+    "expected": 0.78,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 3.92,
+    "sources": [
+     "hn"
+    ],
+    "term": "solar system",
+    "voices": 6,
+    "z": 3.92
    },
    {
     "baseline": 37,
@@ -1135,7 +1195,7 @@
     "expected": 2.88,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 10,
     "recent": 8,
     "score": 3.9,
     "sources": [
@@ -1145,37 +1205,6 @@
     "term": "grok bot",
     "voices": 8,
     "z": 2.6
-   },
-   {
-    "baseline": 23,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Smart thermostat aggregator rebrands, launches ‘whole-home’ virtual power plant"
-     },
-     {
-      "source": "media",
-      "title": "Type One Energy raised $200M to build a fusion power plant by 2034"
-     },
-     {
-      "source": "hn",
-      "title": "First enhanced geothermal power plant completed in just 23 months"
-     }
-    ],
-    "expected": 1.79,
-    "field": "power",
-    "is_new": false,
-    "rank": 9,
-    "recent": 5,
-    "score": 3.85,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "power plant",
-    "voices": 5,
-    "z": 1.92
    },
    {
     "baseline": 3,
@@ -1196,7 +1225,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 3,
     "score": 3.74,
     "sources": [
@@ -1226,7 +1255,7 @@
     "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 3,
     "score": 3.52,
     "sources": [
@@ -1238,33 +1267,63 @@
     "z": 2.35
    },
    {
-    "baseline": 10,
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "PepsiCo slashes forecast, deepens cost cuts as North America recovery drags"
+     },
+     {
+      "source": "media",
+      "title": "Daimler Truck's Q3 sales rise 26% as North America and Europe grow"
+     },
+     {
+      "source": "media",
+      "title": "Hidden capacity: The overlooked opportunity in North America’s race for power"
+     }
+    ],
+    "expected": 0.86,
+    "field": "power",
+    "is_new": false,
+    "rank": 13,
+    "recent": 4,
+    "score": 3.46,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "north america",
+    "voices": 3,
+    "z": 2.31
+   },
+   {
+    "baseline": 3,
     "examples": [
      {
       "source": "hn",
-      "title": "PicoSputnik: 1M picosputniks in Solar System and beyond"
+      "title": "Iran's drones hit America's Achilles heel"
      },
      {
       "source": "hn",
-      "title": "Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data"
+      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
      },
      {
       "source": "hn",
-      "title": "Radio signal detected for the first time from a planet outside our solar system"
+      "title": "Drones hit Yandex site in first major attack on Russian data hub"
      }
     ],
-    "expected": 0.78,
+    "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 12,
-    "recent": 5,
-    "score": 3.17,
+    "rank": 14,
+    "recent": 4,
+    "score": 3.39,
     "sources": [
      "hn"
     ],
-    "term": "solar system",
-    "voices": 5,
-    "z": 3.17
+    "term": "drones hit",
+    "voices": 4,
+    "z": 3.39
    },
    {
     "baseline": 6,
@@ -1285,7 +1344,7 @@
     "expected": 0.47,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 15,
     "recent": 3,
     "score": 3.14,
     "sources": [
@@ -1295,64 +1354,6 @@
     "term": "nuclear reactors",
     "voices": 3,
     "z": 2.09
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "arxiv",
-      "title": "CSF: Contextual Safety Filtering for Motion Generators"
-     },
-     {
-      "source": "arxiv",
-      "title": "Convex Safety Filtering via Spectral Selection for Nonconvex Safe Sets"
-     },
-     {
-      "source": "arxiv",
-      "title": "Context-Conditioned Hamilton-Jacobi Reachability for Adaptive Safety Filtering"
-     }
-    ],
-    "expected": 0.16,
-    "field": "power",
-    "is_new": false,
-    "rank": 14,
-    "recent": 3,
-    "score": 2.65,
-    "sources": [
-     "arxiv"
-    ],
-    "term": "safety filtering",
-    "voices": 3,
-    "z": 2.65
-   },
-   {
-    "baseline": 3,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
-     },
-     {
-      "source": "hn",
-      "title": "Drones hit Yandex site in first major attack on Russian data hub"
-     },
-     {
-      "source": "hn",
-      "title": "Drones hit two ships off coast of Bulgaria, sinking one"
-     }
-    ],
-    "expected": 0.23,
-    "field": "power",
-    "is_new": false,
-    "rank": 15,
-    "recent": 3,
-    "score": 2.49,
-    "sources": [
-     "hn"
-    ],
-    "term": "drones hit",
-    "voices": 3,
-    "z": 2.49
    }
   ],
   "semiconductor": [
@@ -1429,7 +1430,7 @@
      },
      {
       "source": "hn",
-      "title": "Nvidia RTX Spark Pre-Orders Open: N1X Runs 45 to 80W Laptops, 140W Desktops"
+      "title": "Nvidia RTX Spark Pre-Orders Open: N1X Runs 45-80W in Laptops, 140W in Desktops"
      }
     ],
     "expected": 0.31,
@@ -1455,7 +1456,7 @@
      },
      {
       "source": "hn",
-      "title": "Nvidia RTX Spark Pre-Orders Open: N1X Runs 45 to 80W Laptops, 140W Desktops"
+      "title": "Nvidia RTX Spark Pre-Orders Open: N1X Runs 45-80W in Laptops, 140W in Desktops"
      },
      {
       "source": "hn",
@@ -1473,6 +1474,35 @@
      "media"
     ],
     "term": "nvidia rtx",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Autonomous engineering built, validated ROCm Windows runtime fix on Strix Halo"
+     },
+     {
+      "source": "hn",
+      "title": "Local Quantization and Multi-Back End Deployment with AMD Quark on Strix Halo"
+     },
+     {
+      "source": "hn",
+      "title": "Gufo-Qwen3.6-35B-A3B-Q6dense – 3095tok/s prefill; 190 tok/s decode on Strix Halo"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 2.22,
+    "sources": [
+     "hn"
+    ],
+    "term": "strix halo",
     "voices": 3,
     "z": 2.22
    }

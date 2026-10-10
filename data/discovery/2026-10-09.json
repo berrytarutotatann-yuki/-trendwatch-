@@ -1,0 +1,1482 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-09",
+ "docs_baseline": 114453,
+ "docs_recent": 9195,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 26,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How AI decision models could change content moderation"
+     },
+     {
+      "source": "hn",
+      "title": "Can Decision Models Abstain?"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man"
+     }
+    ],
+    "expected": 2.02,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 18,
+    "score": 18.38,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "decision models",
+    "voices": 16,
+    "z": 9.19
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging"
+     },
+     {
+      "source": "media",
+      "title": "The Surface Laptop Ultra finally has a release date — and a starting price of $2,599"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 8,
+    "score": 11.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "surface laptop ultra",
+    "voices": 5,
+    "z": 7.63
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI’s Ultrafast And Decisions API Shift AI Race To Speed, Cost"
+     },
+     {
+      "source": "hn",
+      "title": "Practical use cases for OpenAI's Decisions API"
+     },
+     {
+      "source": "hn",
+      "title": "Classifying Emails with Jev and the OpenAI Decisions API"
+     }
+    ],
+    "expected": 0.47,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 9,
+    "score": 10.57,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "decisions api",
+    "voices": 6,
+    "z": 7.05
+   },
+   {
+    "baseline": 36,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Revolut aims to become global tech company beyond banking, CEO says"
+     },
+     {
+      "source": "media",
+      "title": "Stellantis CEO says Wayve tie-up can cut self-driving costs, development time"
+     },
+     {
+      "source": "media",
+      "title": "Revolut favors US primary listing for potential IPO, CEO says"
+     }
+    ],
+    "expected": 2.8,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 16,
+    "score": 10.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ceo says",
+    "voices": 4,
+    "z": 6.77
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Brand AI Agent Vs Personal Agent, How Meta Muse And ChatGPT Dots Shop"
+     },
+     {
+      "source": "hn",
+      "title": "NanoMuse: An Open-Source Personal Agent for Every Device You Own"
+     },
+     {
+      "source": "hn",
+      "title": "Personal Agent Protocol: A Way for Businesses and Agents to Work Together"
+     }
+    ],
+    "expected": 0.54,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 8.78,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "personal agent",
+    "voices": 6,
+    "z": 4.39
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’"
+     },
+     {
+      "source": "media",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai safety",
+    "voices": 5,
+    "z": 5.44
+   },
+   {
+    "baseline": 31,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Liquid AI releases Pareto-frontier, multimodal decision model for the edge"
+     },
+     {
+      "source": "hn",
+      "title": "Strands Decider 2B: a small, open-source, decision model"
+     },
+     {
+      "source": "hn",
+      "title": "Competitive and tiny decision model from Danger Labs"
+     }
+    ],
+    "expected": 2.41,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 12,
+    "score": 7.79,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 11,
+    "z": 5.19
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Opinion | Unintelligence on Super Intelligence"
+     },
+     {
+      "source": "media",
+      "title": "Trump Announces ‘Super Intelligence Force’ That Raises Super-Sized Questions About The Future Of AI"
+     },
+     {
+      "source": "media",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?"
+     }
+    ],
+    "expected": 1.71,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 10,
+    "score": 7.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "super intelligence",
+    "voices": 8,
+    "z": 5.03
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Mistral Large 4 Preview: Intelligence, Performance and Price Analysis"
+     },
+     {
+      "source": "hn",
+      "title": "Mistral Large 4: Is It a Failure? [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Mistral Large 4: \"Le Chonk\""
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 9,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "mistral large",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 60,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Personal AI Agents Are Great—Until They Share Your Bank Statement in the Work Chat"
+     },
+     {
+      "source": "media",
+      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation"
+     },
+     {
+      "source": "media",
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI"
+     }
+    ],
+    "expected": 4.67,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 13,
+    "score": 7.0,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "personal ai",
+    "voices": 12,
+    "z": 3.5
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P 500 Nears Record High; OpenAI in $30B Funding Talks with UAE, BlackRock"
+     },
+     {
+      "source": "media",
+      "title": "US trade balance sinks deeper into the red as imports hit record high despite tariffs"
+     },
+     {
+      "source": "media",
+      "title": "S&P 500 Climbs to Record High on Earnings Optimism: Markets Wrap"
+     }
+    ],
+    "expected": 1.09,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 7,
+    "score": 6.13,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "record high",
+    "voices": 3,
+    "z": 4.09
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models"
+     },
+     {
+      "source": "hn",
+      "title": "Base Models Can Reason by Taking a Cue from Training Data"
+     },
+     {
+      "source": "hn",
+      "title": "Base Models Can Reason by Taking a Cue from Training Data"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 5.87,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "base models",
+    "voices": 5,
+    "z": 3.91
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "South Korean Banks Were Hacked Using Chinese AI Agent, Researchers Say"
+     },
+     {
+      "source": "media",
+      "title": "Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk"
+     },
+     {
+      "source": "hn",
+      "title": "Allegedly a student using AI behind South Korean banks cyberattack"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "south korean banks",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Personal Assistants Are Finally Having Their Moment"
+     },
+     {
+      "source": "media",
+      "title": "Hark releases an AI personal assistant with a focus on privacy"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: The first ever competition of AI personal agents on the internet"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai personal",
+    "voices": 3,
+    "z": 3.78
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Pure Math Research Ideas: AI X Physics"
+     },
+     {
+      "source": "hn",
+      "title": "Pure Math Research Ideas: Graph Theory X Physics"
+     },
+     {
+      "source": "hn",
+      "title": "Pure Math Research Ideas: Topology X Physics"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 6,
+    "score": 5.44,
+    "sources": [
+     "hn"
+    ],
+    "term": "pure math",
+    "voices": 4,
+    "z": 5.44
+   }
+  ],
+  "other": [
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trio Awarded Nobel Prize in Physiology or Medicine for Neuroscience Discoveries"
+     },
+     {
+      "source": "hn",
+      "title": "Anne Carson wins Nobel Prize in literature 2026"
+     },
+     {
+      "source": "hn",
+      "title": "The Nobel Prize in Literature for 2026 Is Awarded to Anne Carson"
+     }
+    ],
+    "expected": 0.7,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 25,
+    "score": 27.96,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nobel prize",
+    "voices": 24,
+    "z": 18.64
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘The Social Reckoning’ Rotten Tomatoes Review Score Drops Sharply On Release"
+     },
+     {
+      "source": "media",
+      "title": "Frances Haugen hopes The Social Reckoning will inspire more whistleblowers"
+     },
+     {
+      "source": "media",
+      "title": "‘The Social Reckoning’ Rotten Tomatoes Review Score Is Just Okay"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 8,
+    "score": 10.95,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "social reckoning",
+    "voices": 5,
+    "z": 7.3
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers"
+     },
+     {
+      "source": "hn",
+      "title": "Vance Says U.S. Will Suspend Microsoft and Other Firms from Green Card Program"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft Suspended from Green Card Program"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "green card program",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 23,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ellison-Controlled Skydance Completes Warner Bros. Discovery Acquisition"
+     },
+     {
+      "source": "media",
+      "title": "Paramount and Warner Bros. Discovery complete $110 billion media megamerger"
+     },
+     {
+      "source": "media",
+      "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance"
+     }
+    ],
+    "expected": 1.79,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 12,
+    "score": 9.17,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "warner bros",
+    "voices": 12,
+    "z": 6.11
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Former German spy chief arrested for attempted treason, obtaining state secrets"
+     },
+     {
+      "source": "hn",
+      "title": "German ex-spy chief arrested for treason: What we know"
+     },
+     {
+      "source": "hn",
+      "title": "Former German spy chief arrested for treason and espionage"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chief arrested",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Former German spy chief had contacts with Chinese official, Spiegel reports"
+     },
+     {
+      "source": "media",
+      "title": "Azerbaijan denies report of link to German spy scandal"
+     },
+     {
+      "source": "media",
+      "title": "Former German spy chief arrested for attempted treason, obtaining state secrets"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "german spy",
+    "voices": 4,
+    "z": 6.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What do we know so far about plague institute lab worker's death in Russia?"
+     },
+     {
+      "source": "media",
+      "title": "Dozens quarantined in Siberia after plague institute lab worker dies"
+     },
+     {
+      "source": "hn",
+      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "lab worker",
+    "voices": 4,
+    "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Anne Carson wins Nobel Prize in literature 2026"
+     },
+     {
+      "source": "hn",
+      "title": "The Nobel Prize in Literature for 2026 Is Awarded to Anne Carson"
+     },
+     {
+      "source": "hn",
+      "title": "Anne Carson wins Nobel Prize for Literature 2026"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "anne carson",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US plans livestream of execution by firing squad"
+     },
+     {
+      "source": "hn",
+      "title": "Pentagon to execute convicted Fort Hood mass shooter Nidal Hasan by firing squad"
+     },
+     {
+      "source": "hn",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "firing squad",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Hurricane Isaias Reaches Category 3 as It Nears Florida"
+     },
+     {
+      "source": "media",
+      "title": "Hurricane Isaias On The Verge Of Becoming A Major Hurricane"
+     },
+     {
+      "source": "media",
+      "title": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "media"
+    ],
+    "term": "hurricane isaias",
+    "voices": 3,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Margaret Hamilton, whose software helped land Apollo astronauts on the moon"
+     },
+     {
+      "source": "hn",
+      "title": "Margaret Hamilton, whose software powered Apollo 11 moon landing, dies at 90"
+     },
+     {
+      "source": "hn",
+      "title": "Scene at MIT: Margaret Hamilton's Apollo Code (2016)"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "margaret hamilton",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What to Know About Suspected Plague Case in Siberia"
+     },
+     {
+      "source": "hn",
+      "title": "White House monitors suspected plague outbreak in Russia"
+     },
+     {
+      "source": "hn",
+      "title": "Russia's response to suspected plague outbreak under scrutiny"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "suspected plague",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Trump Mobile breach may have exposed data of more than 3,600 people"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Mobile customers' data dumped – and some never even received their device"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Mobile Allegedly Tells Ransomware Group 'We Have No Team to Handle This'"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump mobile",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More"
+     },
+     {
+      "source": "media",
+      "title": "Apple TV Adds Dolby Vision And Dolby Atmos To Its Formula 1 Coverage"
+     },
+     {
+      "source": "media",
+      "title": "Apple TV’s great year continues with Small Prophets"
+     }
+    ],
+    "expected": 0.86,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 6,
+    "score": 5.66,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple tv",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon’s new Kids Tablets let parents manage access to the Google Play store"
+     },
+     {
+      "source": "media",
+      "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access"
+     },
+     {
+      "source": "hn",
+      "title": "Tekken 7 and 8 now on Play Store /s"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "play store",
+    "voices": 4,
+    "z": 3.22
+   }
+  ],
+  "power": [
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Australian uranium miners rally after Google's power deal with Constellation Energy"
+     },
+     {
+      "source": "media",
+      "title": "Google, Constellation Energy Strike Nuclear Power Deal"
+     },
+     {
+      "source": "media",
+      "title": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "constellation energy",
+    "voices": 4,
+    "z": 5.7
+   },
+   {
+    "baseline": 29,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption"
+     },
+     {
+      "source": "media",
+      "title": "India Shuns Costly Russian Oil as Middle East Flows Recover"
+     },
+     {
+      "source": "media",
+      "title": "Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict"
+     }
+    ],
+    "expected": 2.26,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 11,
+    "score": 7.27,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "middle east",
+    "voices": 4,
+    "z": 4.85
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Port of Los Angeles sets September volume record, executive director says"
+     },
+     {
+      "source": "media",
+      "title": "CDC sees low plague risk, monitors Siberia arrivals after worker death, director says"
+     },
+     {
+      "source": "media",
+      "title": "Rising interest rates challenge utility financing plans, US Bank managing director says"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "director says",
+    "voices": 3,
+    "z": 3.78
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
+     },
+     {
+      "source": "media",
+      "title": "Musk says TSMC won't run Terafab AI chip complex"
+     },
+     {
+      "source": "media",
+      "title": "Musk says he will rename SpaceXAI to SpaceXSI"
+     }
+    ],
+    "expected": 0.86,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 5,
+    "score": 4.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk says",
+    "voices": 4,
+    "z": 3.04
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "media",
+      "title": "South Africa to prioritise battery storage and gas-to-power projects, says energy minister"
+     },
+     {
+      "source": "media",
+      "title": "Investors Pounce on South Africa’s Bonds at Weekly Auction"
+     },
+     {
+      "source": "media",
+      "title": "South Africa Gasoline Prices Hit Record High After Oil Shock"
+     }
+    ],
+    "expected": 1.09,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 4.06,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "south africa",
+    "voices": 3,
+    "z": 2.71
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "The nuclear clock has begun ticking"
+     },
+     {
+      "source": "hn",
+      "title": "A nuclear clock synchronized to 229Th"
+     },
+     {
+      "source": "hn",
+      "title": "A thorium-229 optical nuclear clock with feedback loop"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 6,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nuclear clock",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ring’s First Smart Lock Generates Its Own Emergency Power"
+     },
+     {
+      "source": "media",
+      "title": "Ring’s first smart lock can be hand-cranked when its battery dies"
+     },
+     {
+      "source": "media",
+      "title": "Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "media"
+    ],
+    "term": "smart lock",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
+     },
+     {
+      "source": "hn",
+      "title": "Muse and Grok bot are a privacy nightmare,so I created a self-hosted alternative"
+     },
+     {
+      "source": "hn",
+      "title": "Grok Bot will use Opus 5.5, Midjourney"
+     }
+    ],
+    "expected": 2.88,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 8,
+    "score": 3.9,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "grok bot",
+    "voices": 8,
+    "z": 2.6
+   },
+   {
+    "baseline": 23,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Smart thermostat aggregator rebrands, launches ‘whole-home’ virtual power plant"
+     },
+     {
+      "source": "media",
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034"
+     },
+     {
+      "source": "hn",
+      "title": "First enhanced geothermal power plant completed in just 23 months"
+     }
+    ],
+    "expected": 1.79,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 5,
+    "score": 3.85,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "power plant",
+    "voices": 5,
+    "z": 1.92
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Black Hills plans $1.8 billion investment to power Google's data center"
+     },
+     {
+      "source": "hn",
+      "title": "Finland orders halt to work on two Google data centres"
+     },
+     {
+      "source": "hn",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 3.74,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "google data",
+    "voices": 3,
+    "z": 2.49
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Adaptive dynamic programming using Lyapunov function constraints"
+     },
+     {
+      "source": "arxiv",
+      "title": "Safe Receding-Horizon Control of Fixed-Wing Aircraft Using Constrained Approximate Dynamic Programming"
+     },
+     {
+      "source": "hn",
+      "title": "Compiling dynamic programming languages (2018)"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 11,
+    "recent": 3,
+    "score": 3.52,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "dynamic programming",
+    "voices": 3,
+    "z": 2.35
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "PicoSputnik: 1M picosputniks in Solar System and beyond"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data"
+     },
+     {
+      "source": "hn",
+      "title": "Radio signal detected for the first time from a planet outside our solar system"
+     }
+    ],
+    "expected": 0.78,
+    "field": "power",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 3.17,
+    "sources": [
+     "hn"
+    ],
+    "term": "solar system",
+    "voices": 5,
+    "z": 3.17
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon"
+     },
+     {
+      "source": "arxiv",
+      "title": "Adaptive control of pool-type research nuclear reactors: theory limits, pragmatic actuation constraints, and realized performance and adaptation"
+     },
+     {
+      "source": "hn",
+      "title": "Dozens of dead nuclear reactors orbit Earth (2016)"
+     }
+    ],
+    "expected": 0.47,
+    "field": "power",
+    "is_new": false,
+    "rank": 13,
+    "recent": 3,
+    "score": 3.14,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "nuclear reactors",
+    "voices": 3,
+    "z": 2.09
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "CSF: Contextual Safety Filtering for Motion Generators"
+     },
+     {
+      "source": "arxiv",
+      "title": "Convex Safety Filtering via Spectral Selection for Nonconvex Safe Sets"
+     },
+     {
+      "source": "arxiv",
+      "title": "Context-Conditioned Hamilton-Jacobi Reachability for Adaptive Safety Filtering"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 14,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "arxiv"
+    ],
+    "term": "safety filtering",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
+     },
+     {
+      "source": "hn",
+      "title": "Drones hit Yandex site in first major attack on Russian data hub"
+     },
+     {
+      "source": "hn",
+      "title": "Drones hit two ships off coast of Bulgaria, sinking one"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 2.49,
+    "sources": [
+     "hn"
+    ],
+    "term": "drones hit",
+    "voices": 3,
+    "z": 2.49
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips"
+     },
+     {
+      "source": "media",
+      "title": "Stock Rally Fades on Higher Oil Prices; SpaceX in Talks to Buy Nvidia Chips"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX Seeks to Raise $40 Billion From Apollo to Buy Nvidia Chips"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 1,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "buy nvidia chips",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX Seeks to Raise $40 Billion From Apollo to Buy Nvidia Chips"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX seeks $40 billion financing to buy Nvidia chips, sources say"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX seeks approval for Florida gas pipeline to support Cape Canaveral launches"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 2,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex seeks",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000"
+     },
+     {
+      "source": "media",
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia RTX Spark Pre-Orders Open: N1X Runs 45 to 80W Laptops, 140W Desktops"
+     }
+    ],
+    "expected": 0.31,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "rtx spark",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia RTX Spark Pre-Orders Open: N1X Runs 45 to 80W Laptops, 140W Desktops"
+     },
+     {
+      "source": "hn",
+      "title": "Ghost.ai's new personal AI computer, Nvidia RTX PRO 4000 Blackwell"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.32,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia rtx",
+    "voices": 3,
+    "z": 2.22
+   }
+  ]
+ },
+ "recent_days": 7
+}

@@ -4180,7 +4180,7 @@
    "published": "2026-10-10T15:03:27+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Jefferies Says It Found Fraud in $900 Million of Radiant Deals",
+   "title": "Jefferies Says Found Fraud in $900 Million of Radiant Deals",
    "url": "https://bloomberg.com/news/articles/2026-10-10/jefferies-says-it-found-fraud-in-900-million-of-radiant-deals",
    "voice": "bloomberg"
   },
@@ -4902,6 +4902,17 @@
    "source": "media",
    "title": "Denmark says Russia has attempted acts of sabotage against its defence firms",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONEdMa2pKZE5hbUt4S1RoWVlyTm5Zbkc3NlRtTlhmejR6WWdpc2dOZ00xV0RvNmZnckNCX1B2OW5XMDRlT0RnamV2WjJGTm5DZHNoR20wQjU2REMyTkxCYmlGdFpEempBTmszN210R2wyNWhJTnhqMHU1WjZCeERkOUhvME56TFhGdXR0QW9yY2J5cmFIMXpLY1RFdmZITUwtTHR5anpvRzc0aVNhZHpkUFpEMk5JbGZONVdtZjJIQWYxbGFYQzN5MmdVNm5CSnZDeTJfWjZn",
+   "voice": "reuters"
+  },
+  "media:213be6da695f60521b36b8f5": {
+   "date": "2026-10-11",
+   "fields": [],
+   "id": "media:213be6da695f60521b36b8f5",
+   "published": "2026-10-11T06:07:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "World Bank in talks with dozens of countries about crisis aid, Banga says",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUk05OEhXNFVFX2p1ck9TcEpMa0pFUjYzN2xqVUNhLTY1OV9PSnMtTWp6cE84cUhodjMtUUdzb3BtYjU5cEcydW1aYVNNR1AtRXhVdkpiQ1UxSnZYNkdvMHFUTkQtX3pvOW9NVG1EREZqRFl0UDdPeHhFUzJCQUoyMndqX1BXbDFaMlRUUGNDd2tjUjBJWDdvcWRRMXBmM2hXSzZWc2Vxd0VJU21GR1ZrZlpGQmpUa2JEQVNn",
    "voice": "reuters"
   },
   "media:214efd1d8787738849bc6c24": {
@@ -7145,6 +7156,19 @@
    "title": "‘Muramasa: Revenant Blades’ Is The Remaster We’ve All Been Waiting For",
    "url": "https://forbes.com/sites/olliebarder/2026/10/08/muramasa-revenant-blades-is-the-remaster-weve-all-been-waiting-for",
    "voice": "forbes"
+  },
+  "media:30cf7f528f195073c7943451": {
+   "date": "2026-10-11",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:30cf7f528f195073c7943451",
+   "published": "2026-10-11T09:30:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "AI Has a God Problem Stretching From the Vatican to the Baptist Pulpit",
+   "url": "https://wsj.com/tech/ai/ai-has-a-god-problem-stretching-from-the-vatican-to-the-baptist-pulpit-f417b2fd",
+   "voice": "wsj"
   },
   "media:30d4b8eb6fee327e9a9ea89f": {
    "date": "2026-10-08",
@@ -10866,6 +10890,17 @@
    "title": "Surging Measles Outbreaks May Fuel Mumps And Other Infections",
    "url": "https://forbes.com/sites/judystone/2026/10/06/surging-measles-outbreaks-may-fuel-mumps-and-other-infections",
    "voice": "forbes"
+  },
+  "media:4af569a99ea73999bc2536df": {
+   "date": "2026-10-11",
+   "fields": [],
+   "id": "media:4af569a99ea73999bc2536df",
+   "published": "2026-10-11T07:31:04+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ",
+   "voice": "reuters"
   },
   "media:4afacf5cc7da79e386a9cf93": {
    "date": "2026-10-06",
@@ -33636,6 +33671,17 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWFYZU9aMFBWYnZnMWVubE5TTlVVUW5sa2JSbkpQM2dnbTctV3VUeGtVTG9rVE8yR0E0aW5pWlYwR0JMRTEtWDFqTzIxZVFLbS1tZFhPTjlLQ0V5UFZqX2Roa1puV1lTUHpXSnJUODcxRURHUEFEVWMwakFWcVJ2bHZTR1N0X0NBN0Q1WXdRLUdFZUtrenVEcGlBbFNkWG5ZYUVtTUU4M3V1aS1CaE9F",
    "voice": "reuters"
   },
+  "media:e150f0fa15b703942d1bd5e2": {
+   "date": "2026-10-11",
+   "fields": [],
+   "id": "media:e150f0fa15b703942d1bd5e2",
+   "published": "2026-10-11T08:41:18+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Northern Lights Could Return Sunday To 28 States After Epic Displays",
+   "url": "https://forbes.com/sites/jamiecartereurope/2026/10/11/northern-lights-could-return-sunday-to-28-states-after-epic-displays",
+   "voice": "forbes"
+  },
   "media:e15c94ebef0dfe945a06d526": {
    "date": "2026-10-02",
    "fields": [
@@ -38270,7 +38316,7 @@
  },
  "publishers": {
   "bloomberg": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "covered",
@@ -38289,13 +38335,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
    "latest": "2026-10-11T06:00:00+00:00",
    "received": 20,
    "status": "ok"
   },
   "forbes": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -38313,13 +38359,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
-   "latest": "2026-10-11T03:50:39+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
+   "latest": "2026-10-11T08:41:18+00:00",
    "received": 25,
    "status": "ok"
   },
   "ieee_spectrum": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-08": "partial",
     "2026-09-09": "covered",
@@ -38358,13 +38404,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
    "latest": "2026-10-09T18:00:02+00:00",
    "received": 27,
    "status": "ok"
   },
   "information": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -38383,13 +38429,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
    "latest": "2026-10-10T15:01:08+00:00",
    "received": 20,
    "status": "ok"
   },
   "reuters": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-25": "partial",
     "2026-09-26": "partial",
@@ -38411,13 +38457,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
-   "latest": "2026-10-11T03:40:00+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
+   "latest": "2026-10-11T07:31:04+00:00",
    "received": 100,
    "status": "ok"
   },
   "semiconductor_engineering": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -38440,13 +38486,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
    "latest": "2026-10-09T07:01:17+00:00",
    "received": 10,
    "status": "ok"
   },
   "techcrunch": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -38465,13 +38511,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
    "latest": "2026-10-10T21:47:51+00:00",
    "received": 20,
    "status": "ok"
   },
   "utility_dive": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -38494,13 +38540,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
    "latest": "2026-10-09T14:27:49+00:00",
    "received": 10,
    "status": "ok"
   },
   "verge": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -38518,13 +38564,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
    "latest": "2026-10-10T22:10:17+00:00",
    "received": 10,
    "status": "ok"
   },
   "wsj": {
-   "checked_at": "2026-10-11T06:42:00.181218+00:00",
+   "checked_at": "2026-10-11T09:35:12.109321+00:00",
    "coverage": {
     "2026-09-16": "partial",
     "2026-09-17": "covered",
@@ -38555,8 +38601,8 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-11T06:42:00.181218+00:00",
-   "latest": "2026-10-11T00:57:00+00:00",
+   "last_success": "2026-10-11T09:35:12.109321+00:00",
+   "latest": "2026-10-11T09:30:00+00:00",
    "received": 33,
    "status": "ok"
   }

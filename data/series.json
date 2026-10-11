@@ -2,8 +2,8 @@
  "HBM4": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -45,7 +45,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -721,14 +721,14 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "buy nvidia chips": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -754,7 +754,7 @@
     }
    },
    "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -1722,8 +1722,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "chip design": {
@@ -1839,14 +1839,10 @@
     }
    },
    "fetched_from": "2026-06-08",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
-    "2026-06-12": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-06-13": {
      "count": 2,
      "voices": 2
@@ -2110,10 +2106,14 @@
     "2026-10-07": {
      "count": 2,
      "voices": 2
+    },
+    "2026-10-10": {
+     "count": 2,
+     "voices": 2
     }
    },
    "fetched_from": "2026-06-08",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -3074,10 +3074,14 @@
     "2026-10-09": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-10": {
+     "count": 2,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "qiita": {
    "days": {
@@ -3091,7 +3095,7 @@
     }
    },
    "fetched_from": "2026-06-08",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "co-packaged optics": {
@@ -3131,7 +3135,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -3145,7 +3149,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -4151,14 +4155,14 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "constellation energy": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -4176,7 +4180,7 @@
     }
    },
    "fetched_from": "2026-06-10",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -5144,8 +5148,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "decision model": {
@@ -5329,7 +5333,7 @@
     }
    },
    "fetched_from": "2026-06-10",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -5428,10 +5432,14 @@
     "2026-10-09": {
      "count": 17,
      "voices": 12
+    },
+    "2026-10-10": {
+     "count": 11,
+     "voices": 11
     }
    },
    "fetched_from": "2026-06-10",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -6124,10 +6132,14 @@
     "2026-10-08": {
      "count": 1,
      "voices": 1
+    },
+    "2026-10-10": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-10",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "decision models": {
@@ -6311,7 +6323,7 @@
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -6394,10 +6406,14 @@
     "2026-10-09": {
      "count": 17,
      "voices": 16
+    },
+    "2026-10-10": {
+     "count": 13,
+     "voices": 13
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -7424,17 +7440,21 @@
     "2026-10-08": {
      "count": 1,
      "voices": 1
+    },
+    "2026-10-10": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "fire tv stick": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -7460,7 +7480,7 @@
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -8462,14 +8482,14 @@
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "force majeure": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -8543,7 +8563,7 @@
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -9543,8 +9563,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "gpt-6 astra": {
@@ -9680,7 +9700,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -9842,7 +9862,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -10835,10 +10855,14 @@
     "2026-10-09": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-10": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "qiita": {
    "days": {
@@ -10997,10 +11021,14 @@
     "2026-10-09": {
      "count": 5,
      "voices": 4
+    },
+    "2026-10-10": {
+     "count": 4,
+     "voices": 3
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "harness engineering": {
@@ -11104,14 +11132,10 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
-    "2026-06-12": {
-     "count": 2,
-     "voices": 2
-    },
     "2026-06-13": {
      "count": 2,
      "voices": 2
@@ -11398,7 +11422,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -12394,10 +12418,6 @@
   },
   "qiita": {
    "days": {
-    "2026-06-12": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-06-14": {
      "count": 1,
      "voices": 1
@@ -12681,17 +12701,21 @@
     "2026-10-09": {
      "count": 2,
      "voices": 1
+    },
+    "2026-10-10": {
+     "count": 3,
+     "voices": 2
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "li world labs": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -12705,7 +12729,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -13685,8 +13709,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "middle east": {
@@ -13742,14 +13766,10 @@
     }
    },
    "fetched_from": "2026-06-08",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
-    "2026-06-12": {
-     "count": 5,
-     "voices": 5
-    },
     "2026-06-13": {
      "count": 10,
      "voices": 10
@@ -14221,10 +14241,14 @@
     "2026-10-09": {
      "count": 8,
      "voices": 8
+    },
+    "2026-10-10": {
+     "count": 5,
+     "voices": 5
     }
    },
    "fetched_from": "2026-06-08",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -15200,10 +15224,6 @@
   },
   "qiita": {
    "days": {
-    "2026-06-12": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-06-13": {
      "count": 1,
      "voices": 1
@@ -15627,17 +15647,21 @@
     "2026-10-09": {
      "count": 1,
      "voices": 1
+    },
+    "2026-10-10": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-08",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "minister says": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -15687,7 +15711,7 @@
     }
    },
    "fetched_from": "2026-06-09",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -16655,15 +16679,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "nvidia chips": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -16910,10 +16934,14 @@
     "2026-10-08": {
      "count": 1,
      "voices": 1
+    },
+    "2026-10-10": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-08",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -17881,15 +17909,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "nvidia launches": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -17923,7 +17951,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -18920,10 +18948,18 @@
     "2026-10-08": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-09": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-10-10": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-08"
+   "fetched_to": "2026-10-10"
   },
   "qiita": {
    "days": {
@@ -18941,16 +18977,12 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "on-policy distillation": {
   "arxiv": {
    "days": {
-    "2026-06-12": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-06-13": {
      "count": 1,
      "voices": 1
@@ -19381,7 +19413,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -19419,7 +19451,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -20433,14 +20465,14 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "release diesel": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -20462,7 +20494,7 @@
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -21455,22 +21487,26 @@
     "2026-10-09": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-10": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "slop ui": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -21504,7 +21540,7 @@
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -22118,8 +22154,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "small modular reactor": {
@@ -22143,7 +22179,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -22169,7 +22205,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -23162,22 +23198,30 @@
     "2026-10-08": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-09": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-10-10": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-08"
+   "fetched_to": "2026-10-10"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "spacex seeks": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -23187,7 +23231,7 @@
     }
    },
    "fetched_from": "2026-06-11",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -23801,15 +23845,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "spacex starship": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -23859,7 +23903,7 @@
     }
    },
    "fetched_from": "2026-06-04",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -24847,8 +24891,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-06-12",
-   "fetched_to": "2026-10-09"
+   "fetched_from": "2026-06-13",
+   "fetched_to": "2026-10-10"
   }
  },
  "super intelligence": {
@@ -24860,14 +24904,10 @@
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
-    "2026-06-12": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-06-13": {
      "count": 1,
      "voices": 1
@@ -25235,10 +25275,14 @@
     "2026-10-09": {
      "count": 39,
      "voices": 36
+    },
+    "2026-10-10": {
+     "count": 5,
+     "voices": 5
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -26229,10 +26273,14 @@
     "2026-07-21": {
      "count": 1,
      "voices": 1
+    },
+    "2026-10-10": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-06",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  },
  "system one model": {
@@ -26300,7 +26348,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "hn": {
    "days": {
@@ -26378,7 +26426,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   },
   "media": {
    "days": {
@@ -27367,10 +27415,22 @@
     "2026-10-07": {
      "count": 0,
      "voices": null
+    },
+    "2026-10-08": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-10-09": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-10-10": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-10-07"
+   "fetched_to": "2026-10-10"
   },
   "qiita": {
    "days": {
@@ -27439,12 +27499,12 @@
      "voices": 1
     },
     "2026-10-09": {
-     "count": 2,
-     "voices": 2
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-10-09"
+   "fetched_to": "2026-10-10"
   }
  }
 }

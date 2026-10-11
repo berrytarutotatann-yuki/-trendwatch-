@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-10",
  "docs_baseline": 114393,
- "docs_recent": 9425,
+ "docs_recent": 10049,
  "fields": {
   "ai": [
    {
@@ -15,11 +15,11 @@
      },
      {
       "source": "hn",
-      "title": "Liquid AI d1: open decision models that answer in one forward pass"
+      "title": "Integrating Decision Models into Agent Harnesses"
      },
      {
       "source": "hn",
-      "title": "Train your own decision models with Unsloth"
+      "title": "Liquid AI d1: open decision models that answer in one forward pass"
      }
     ],
     "expected": 2.02,
@@ -42,30 +42,30 @@
     "examples": [
      {
       "source": "hn",
-      "title": "Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model"
+      "title": "Build your own decision model"
      },
      {
       "source": "hn",
-      "title": "Microsoft Launched Microsoft-Decision-1 decision model"
+      "title": "Cloudflare puts audio and video into its decision model with Clef-Omni"
      },
      {
       "source": "hn",
-      "title": "THX-01: An Open-Source Decision Model That Runs on Your Phone and Beats Jev"
+      "title": "Microsoft skipped OpenAI's decision model and built its own on Alibaba's Qwen"
      }
     ],
     "expected": 2.41,
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 19,
-    "score": 13.47,
+    "recent": 25,
+    "score": 18.35,
     "sources": [
      "arxiv",
      "hn"
     ],
     "term": "decision model",
-    "voices": 14,
-    "z": 8.98
+    "voices": 20,
+    "z": 12.23
    },
    {
     "baseline": 1,
@@ -147,44 +147,15 @@
     "field": "ai",
     "is_new": false,
     "rank": 5,
-    "recent": 12,
-    "score": 8.98,
+    "recent": 13,
+    "score": 9.86,
     "sources": [
      "hn",
      "media"
     ],
     "term": "super intelligence",
-    "voices": 11,
-    "z": 5.98
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Mistral Large 4 Preview: Intelligence, Performance and Price Analysis"
-     },
-     {
-      "source": "hn",
-      "title": "Mistral Large 4: Is It a Failure? [video]"
-     },
-     {
-      "source": "hn",
-      "title": "Mistral Large 4: \"Le Chonk\""
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 6,
-    "recent": 7,
-    "score": 7.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "mistral large",
-    "voices": 7,
-    "z": 7.0
+    "voices": 12,
+    "z": 6.58
    },
    {
     "baseline": 60,
@@ -205,17 +176,17 @@
     "expected": 4.67,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
-    "recent": 13,
-    "score": 7.0,
+    "rank": 6,
+    "recent": 15,
+    "score": 8.68,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "personal ai",
-    "voices": 12,
-    "z": 3.5
+    "voices": 14,
+    "z": 4.34
    },
    {
     "baseline": 8,
@@ -226,27 +197,116 @@
      },
      {
       "source": "hn",
-      "title": "NanoMuse: An Open-Source Personal Agent for Every Device You Own"
+      "title": "Blackcat – Yet Another Personal Agent"
      },
      {
       "source": "hn",
-      "title": "Personal Agent Protocol: A Way for Businesses and Agents to Work Together"
+      "title": "NanoMuse: An Open-Source Personal Agent for Every Device You Own"
      }
     ],
     "expected": 0.62,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
-    "recent": 5,
-    "score": 6.87,
+    "rank": 7,
+    "recent": 6,
+    "score": 8.44,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "personal agent",
+    "voices": 6,
+    "z": 4.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
+     },
+     {
+      "source": "media",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+     },
+     {
+      "source": "hn",
+      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "philadelphia police",
     "voices": 5,
-    "z": 3.44
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports"
+     },
+     {
+      "source": "media",
+      "title": "Reflection AI Announces First Open Source Model, Beam"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 9,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "reflection ai",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Mistral Large 4 Preview: Intelligence, Performance and Price Analysis"
+     },
+     {
+      "source": "hn",
+      "title": "Mistral Large 4: Is It a Failure? [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Mistral Large 4: \"Le Chonk\""
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "mistral large",
+    "voices": 7,
+    "z": 7.0
    },
    {
     "baseline": 14,
@@ -267,7 +327,7 @@
     "expected": 1.09,
     "field": "ai",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 7,
     "score": 6.13,
     "sources": [
@@ -277,6 +337,96 @@
     "term": "record high",
     "voices": 3,
     "z": 4.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s Rogue AI Filled Out U.S. Visa Forms, Gave False Homicide Tip to Police"
+     },
+     {
+      "source": "media",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Model Submitted a False Homicide Tip to Philadelphia Police"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "false homicide tip",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic bans users from needless abusive or cruel behavior towards Claude"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic bans users from being 'cruel' to its AI systems"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic bans",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic bans users from needless abusive or cruel behavior towards Claude"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cruel behavior",
+    "voices": 4,
+    "z": 4.0
    },
    {
     "baseline": 0,
@@ -297,7 +447,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 10,
+    "rank": 15,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -307,155 +457,6 @@
     "term": "openai math",
     "voices": 4,
     "z": 4.0
-   },
-   {
-    "baseline": 5,
-    "examples": [
-     {
-      "source": "arxiv",
-      "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models"
-     },
-     {
-      "source": "hn",
-      "title": "Base Models Can Reason by Taking a Cue from Training Data"
-     },
-     {
-      "source": "hn",
-      "title": "Base Models Can Reason by Taking a Cue from Training Data"
-     }
-    ],
-    "expected": 0.39,
-    "field": "ai",
-    "is_new": false,
-    "rank": 11,
-    "recent": 5,
-    "score": 5.87,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "base models",
-    "voices": 5,
-    "z": 3.91
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "South Korean Banks Were Hacked Using Chinese AI Agent, Researchers Say"
-     },
-     {
-      "source": "media",
-      "title": "Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk"
-     },
-     {
-      "source": "hn",
-      "title": "Allegedly a student using AI behind South Korean banks cyberattack"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 12,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "south korean banks",
-    "voices": 4,
-    "z": 3.78
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "AI Personal Assistants Are Finally Having Their Moment"
-     },
-     {
-      "source": "media",
-      "title": "Hark releases an AI personal assistant with a focus on privacy"
-     },
-     {
-      "source": "hn",
-      "title": "Show HN: The first ever competition of AI personal agents on the internet"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 13,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai personal",
-    "voices": 3,
-    "z": 3.78
-   },
-   {
-    "baseline": 6,
-    "examples": [
-     {
-      "source": "media",
-      "title": "OpenAI’s ChatGPT for Teens Poses ‘Unacceptable Risk,’ Nonprofit Says"
-     },
-     {
-      "source": "media",
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media"
-     },
-     {
-      "source": "media",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises"
-     }
-    ],
-    "expected": 0.47,
-    "field": "ai",
-    "is_new": false,
-    "rank": 14,
-    "recent": 5,
-    "score": 5.61,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "chatgpt for teens",
-    "voices": 5,
-    "z": 3.74
-   },
-   {
-    "baseline": 38,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Revolut aims to become global tech company beyond banking, CEO says"
-     },
-     {
-      "source": "media",
-      "title": "Stellantis CEO says Wayve tie-up can cut self-driving costs, development time"
-     },
-     {
-      "source": "media",
-      "title": "Revolut favors US primary listing for potential IPO, CEO says"
-     }
-    ],
-    "expected": 2.96,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 14,
-    "score": 5.55,
-    "sources": [
-     "media"
-    ],
-    "term": "ceo says",
-    "voices": 3,
-    "z": 5.55
    }
   ],
   "other": [
@@ -490,6 +491,36 @@
     "z": 18.64
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Hurricane Isaias May Cost Insurers Billions"
+     },
+     {
+      "source": "media",
+      "title": "Hurricane Isaias Slams Florida Panhandle"
+     },
+     {
+      "source": "media",
+      "title": "Hurricane Isaias Reaches Category 3 as It Nears Florida"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "hurricane isaias",
+    "voices": 4,
+    "z": 9.0
+   },
+   {
     "baseline": 2,
     "examples": [
      {
@@ -508,7 +539,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 2,
+    "rank": 3,
     "recent": 9,
     "score": 12.34,
     "sources": [
@@ -538,7 +569,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 3,
+    "rank": 4,
     "recent": 8,
     "score": 12.0,
     "sources": [
@@ -568,7 +599,7 @@
     "expected": 1.79,
     "field": "other",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 13,
     "score": 10.07,
     "sources": [
@@ -598,7 +629,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 5,
+    "rank": 6,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -628,7 +659,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -658,7 +689,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -673,34 +704,9 @@
     "baseline": 0,
     "examples": [
      {
-      "source": "media",
-      "title": "Hurricane Isaias May Cost Insurers Billions"
+      "source": "hn",
+      "title": "Women in Tech / Margaret Hamilton"
      },
-     {
-      "source": "media",
-      "title": "Hurricane Isaias Slams Florida Panhandle"
-     },
-     {
-      "source": "media",
-      "title": "Hurricane Isaias Reaches Category 3 as It Nears Florida"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 8,
-    "recent": 8,
-    "score": 8.0,
-    "sources": [
-     "media"
-    ],
-    "term": "hurricane isaias",
-    "voices": 3,
-    "z": 8.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
      {
       "source": "hn",
       "title": "Before Computer Science Became a Boys' Club, Margaret Hamilton Wrote the Code"
@@ -708,24 +714,20 @@
      {
       "source": "hn",
       "title": "Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died"
-     },
-     {
-      "source": "hn",
-      "title": "Margaret Hamilton, whose software helped land Apollo astronauts on the moon"
      }
     ],
     "expected": 0.0,
     "field": "other",
     "is_new": true,
     "rank": 9,
-    "recent": 8,
-    "score": 8.0,
+    "recent": 9,
+    "score": 9.0,
     "sources": [
      "hn"
     ],
     "term": "margaret hamilton",
-    "voices": 8,
-    "z": 8.0
+    "voices": 9,
+    "z": 9.0
    },
    {
     "baseline": 1,
@@ -791,6 +793,35 @@
     "examples": [
      {
       "source": "hn",
+      "title": "Elisha Wiesel: The Death of the Nobel Peace Prize"
+     },
+     {
+      "source": "hn",
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize"
+     },
+     {
+      "source": "hn",
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nobel peace prize",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
       "title": "Anne Carson wins Nobel Prize in literature 2026"
      },
      {
@@ -805,7 +836,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 13,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -834,7 +865,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 13,
+    "rank": 14,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -864,36 +895,6 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 14,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "russian diesel",
-    "voices": 3,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "What to Know About Suspected Plague Case in Siberia"
-     },
-     {
-      "source": "hn",
-      "title": "White House monitors suspected plague outbreak in Russia"
-     },
-     {
-      "source": "hn",
-      "title": "Russia's response to suspected plague outbreak under scrutiny"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
     "rank": 15,
     "recent": 4,
     "score": 6.0,
@@ -901,7 +902,7 @@
      "hn",
      "media"
     ],
-    "term": "suspected plague",
+    "term": "russian diesel",
     "voices": 3,
     "z": 4.0
    }
@@ -957,45 +958,15 @@
     "field": "power",
     "is_new": false,
     "rank": 2,
-    "recent": 11,
-    "score": 7.27,
+    "recent": 12,
+    "score": 8.1,
     "sources": [
      "hn",
      "media"
     ],
     "term": "middle east",
-    "voices": 4,
-    "z": 4.85
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Port of Los Angeles sets September volume record, executive director says"
-     },
-     {
-      "source": "media",
-      "title": "CDC sees low plague risk, monitors Siberia arrivals after worker death, director says"
-     },
-     {
-      "source": "media",
-      "title": "Rising interest rates challenge utility financing plans, US Bank managing director says"
-     }
-    ],
-    "expected": 0.08,
-    "field": "power",
-    "is_new": false,
-    "rank": 3,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "director says",
-    "voices": 3,
-    "z": 3.78
+    "voices": 5,
+    "z": 5.4
    },
    {
     "baseline": 14,
@@ -1016,16 +987,46 @@
     "expected": 1.09,
     "field": "power",
     "is_new": false,
-    "rank": 4,
-    "recent": 6,
-    "score": 5.1,
+    "rank": 3,
+    "recent": 7,
+    "score": 6.13,
     "sources": [
      "hn",
      "media"
     ],
     "term": "south africa",
-    "voices": 4,
-    "z": 3.4
+    "voices": 5,
+    "z": 4.09
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Port of Los Angeles sets September volume record, executive director says"
+     },
+     {
+      "source": "media",
+      "title": "CDC sees low plague risk, monitors Siberia arrivals after worker death, director says"
+     },
+     {
+      "source": "media",
+      "title": "Rising interest rates challenge utility financing plans, US Bank managing director says"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "director says",
+    "voices": 3,
+    "z": 3.78
    },
    {
     "baseline": 11,
@@ -1176,37 +1177,6 @@
     "z": 2.49
    },
    {
-    "baseline": 24,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Smart thermostat aggregator rebrands, launches ‘whole-home’ virtual power plant"
-     },
-     {
-      "source": "media",
-      "title": "Type One Energy raised $200M to build a fusion power plant by 2034"
-     },
-     {
-      "source": "hn",
-      "title": "AI Assistants Transform Nuclear Power Plant Work"
-     }
-    ],
-    "expected": 1.87,
-    "field": "power",
-    "is_new": false,
-    "rank": 10,
-    "recent": 5,
-    "score": 3.7,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "power plant",
-    "voices": 5,
-    "z": 1.85
-   },
-   {
     "baseline": 11,
     "examples": [
      {
@@ -1225,7 +1195,7 @@
     "expected": 0.86,
     "field": "power",
     "is_new": false,
-    "rank": 11,
+    "rank": 10,
     "recent": 4,
     "score": 3.46,
     "sources": [
@@ -1255,7 +1225,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 12,
+    "rank": 11,
     "recent": 4,
     "score": 3.39,
     "sources": [
@@ -1284,7 +1254,7 @@
     "expected": 0.39,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 12,
     "recent": 3,
     "score": 3.32,
     "sources": [
@@ -1294,6 +1264,35 @@
     "term": "nuclear reactors",
     "voices": 3,
     "z": 2.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Sigenergy Unveils the Latest Energy Solutions at Malaysia IGEM 2026"
+     },
+     {
+      "source": "news",
+      "title": "Sigenergy Unveils the Latest Energy Solutions at Malaysia IGEM 2026"
+     },
+     {
+      "source": "news",
+      "title": "Sigenergy Unveils the Latest Energy Solutions at Malaysia IGEM 2026"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 13,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "news"
+    ],
+    "term": "latest energy solutions",
+    "voices": 3,
+    "z": 3.0
    },
    {
     "baseline": 0,

@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-11",
  "docs_baseline": 113858,
- "docs_recent": 9369,
+ "docs_recent": 9370,
  "fields": {
   "ai": [
    {
@@ -968,6 +968,36 @@
     "z": 5.7
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil dips after Trump announcements on Russian diesel, Ukraine energy ceasefire"
+     },
+     {
+      "source": "media",
+      "title": "Russian Diesel Deal Unlikely to Lower US Prices"
+     },
+     {
+      "source": "media",
+      "title": "Trump's Russian Diesel Deal Draws Ukraine Criticism"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian diesel",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
     "baseline": 14,
     "examples": [
      {
@@ -986,7 +1016,7 @@
     "expected": 1.09,
     "field": "power",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 7,
     "score": 6.13,
     "sources": [
@@ -1016,7 +1046,7 @@
     "expected": 0.93,
     "field": "power",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 5,
     "score": 4.39,
     "sources": [
@@ -1046,7 +1076,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 5,
+    "rank": 6,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1075,7 +1105,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1104,7 +1134,7 @@
     "expected": 2.88,
     "field": "power",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 8,
     "score": 3.9,
     "sources": [
@@ -1134,7 +1164,7 @@
     "expected": 0.86,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 4,
     "score": 3.46,
     "sources": [
@@ -1164,7 +1194,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 4,
     "score": 3.39,
     "sources": [
@@ -1193,7 +1223,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 10,
+    "rank": 11,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1222,7 +1252,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 11,
+    "rank": 12,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1251,7 +1281,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1280,7 +1310,7 @@
     "expected": 1.87,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 4,
     "score": 2.52,
     "sources": [

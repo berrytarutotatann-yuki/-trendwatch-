@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-11",
  "docs_baseline": 113858,
- "docs_recent": 9370,
+ "docs_recent": 10031,
  "fields": {
   "ai": [
    {
@@ -15,57 +15,57 @@
      },
      {
       "source": "hn",
-      "title": "Integrating Decision Models into Agent Harnesses"
+      "title": "Show HN: BeelineBench – How well do decision models solve multi-step problems?"
      },
      {
       "source": "hn",
-      "title": "Liquid AI d1: open decision models that answer in one forward pass"
+      "title": "Integrating Decision Models into Agent Harnesses"
      }
     ],
     "expected": 2.1,
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 19,
-    "score": 19.2,
+    "recent": 20,
+    "score": 20.33,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "decision models",
-    "voices": 17,
-    "z": 9.6
+    "voices": 18,
+    "z": 10.17
    },
    {
     "baseline": 32,
     "examples": [
      {
       "source": "hn",
+      "title": "Show HN: THX-01 – Open-source decision model, free API, 60M+ tokens processed"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: THX-01 – Free API for our open-source decision model"
+     },
+     {
+      "source": "hn",
       "title": "Build your own decision model"
-     },
-     {
-      "source": "hn",
-      "title": "Cloudflare puts audio and video into its decision model with Clef-Omni"
-     },
-     {
-      "source": "hn",
-      "title": "Microsoft skipped OpenAI's decision model and built its own on Alibaba's Qwen"
      }
     ],
     "expected": 2.49,
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 24,
-    "score": 17.27,
+    "recent": 26,
+    "score": 18.88,
     "sources": [
      "arxiv",
      "hn"
     ],
     "term": "decision model",
     "voices": 19,
-    "z": 11.52
+    "z": 12.59
    },
    {
     "baseline": 1,
@@ -87,15 +87,15 @@
     "field": "ai",
     "is_new": false,
     "rank": 3,
-    "recent": 8,
-    "score": 11.45,
+    "recent": 9,
+    "score": 12.89,
     "sources": [
      "hn",
      "media"
     ],
     "term": "surface laptop ultra",
-    "voices": 5,
-    "z": 7.63
+    "voices": 6,
+    "z": 8.59
    },
    {
     "baseline": 6,
@@ -194,6 +194,36 @@
     "examples": [
      {
       "source": "media",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic bans users from needless abusive or cruel behavior towards Claude"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic bans",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
      },
      {
@@ -208,7 +238,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -238,7 +268,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -248,6 +278,36 @@
     "term": "reflection ai",
     "voices": 5,
     "z": 5.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "South Korean Banks Were Hacked Using Chinese AI Agent, Researchers Say"
+     },
+     {
+      "source": "media",
+      "title": "Hackers Use Chinese AI Tool to Hit South Korean Banks, Exposing New Risk"
+     },
+     {
+      "source": "hn",
+      "title": "Artex AI, Claude agents used in cyberattacks on South Korean banks"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "south korean banks",
+    "voices": 5,
+    "z": 4.74
    },
    {
     "baseline": 0,
@@ -268,7 +328,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 9,
+    "rank": 11,
     "recent": 7,
     "score": 7.0,
     "sources": [
@@ -297,7 +357,7 @@
     "expected": 2.18,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
+    "rank": 12,
     "recent": 10,
     "score": 6.58,
     "sources": [
@@ -307,6 +367,36 @@
     "term": "super intelligence",
     "voices": 10,
     "z": 4.39
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers"
+     },
+     {
+      "source": "media",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 6.44,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "safety researchers",
+    "voices": 5,
+    "z": 4.29
    },
    {
     "baseline": 38,
@@ -327,7 +417,7 @@
     "expected": 2.96,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 14,
     "recent": 15,
     "score": 6.06,
     "sources": [
@@ -356,96 +446,6 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 12,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "false homicide tip",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic bans users from needless abusive or cruel behavior towards Claude"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic bans users from being 'cruel' to its AI systems"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 13,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "anthropic bans",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic bans users from needless abusive or cruel behavior towards Claude"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 14,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "cruel behavior",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet"
-     },
-     {
-      "source": "hn",
-      "title": "Several major bugs in OpenAI's Math release"
-     },
-     {
-      "source": "hn",
-      "title": "An index of the OpenAI/math collection"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
     "rank": 15,
     "recent": 4,
     "score": 6.0,
@@ -453,7 +453,7 @@
      "hn",
      "media"
     ],
-    "term": "openai math",
+    "term": "false homicide tip",
     "voices": 4,
     "z": 4.0
    }
@@ -759,6 +759,36 @@
     "z": 5.08
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Justice Department probes TV networks over Trump pool boycott"
+     },
+     {
+      "source": "media",
+      "title": "FCC chief defers to Pentagon on airing US execution on TV networks"
+     },
+     {
+      "source": "media",
+      "title": "Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tv networks",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
     "baseline": 1,
     "examples": [
      {
@@ -777,7 +807,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 5,
     "score": 7.11,
     "sources": [
@@ -807,7 +837,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 13,
     "recent": 7,
     "score": 7.0,
     "sources": [
@@ -836,7 +866,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 13,
+    "rank": 14,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -865,7 +895,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 14,
+    "rank": 15,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -874,36 +904,6 @@
     "term": "anne carson",
     "voices": 5,
     "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Russia Plague Scare Raises Public Health Questions"
-     },
-     {
-      "source": "hn",
-      "title": "Russia Plague Tracker"
-     },
-     {
-      "source": "hn",
-      "title": "Do you support shutting down air travel for 2 months to control Russia plague?"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 15,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "russia plague",
-    "voices": 4,
-    "z": 4.0
    }
   ],
   "power": [
@@ -968,6 +968,36 @@
     "z": 5.7
    },
    {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
+     },
+     {
+      "source": "hn",
+      "title": "Impersonating Grok Bot for Fun and (No) Profit"
+     },
+     {
+      "source": "hn",
+      "title": "Tune-Up – a Grok bot that reviews and fixes your other Grok bots"
+     }
+    ],
+    "expected": 2.88,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 11,
+    "score": 6.19,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "grok bot",
+    "voices": 11,
+    "z": 4.12
+   },
+   {
     "baseline": 14,
     "examples": [
      {
@@ -986,7 +1016,7 @@
     "expected": 1.09,
     "field": "power",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 7,
     "score": 6.13,
     "sources": [
@@ -1016,7 +1046,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 4,
+    "rank": 5,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1046,7 +1076,7 @@
     "expected": 0.93,
     "field": "power",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 5,
     "score": 4.39,
     "sources": [
@@ -1056,6 +1086,35 @@
     "term": "musk says",
     "voices": 5,
     "z": 2.92
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Drones Hit Third Yandex Data Center Disrupting over 80 Services"
+     },
+     {
+      "source": "hn",
+      "title": "Iran's drones hit America's Achilles heel"
+     },
+     {
+      "source": "hn",
+      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 5,
+    "score": 4.29,
+    "sources": [
+     "hn"
+    ],
+    "term": "drones hit",
+    "voices": 4,
+    "z": 4.29
    },
    {
     "baseline": 0,
@@ -1076,7 +1135,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 6,
+    "rank": 8,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1105,7 +1164,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 7,
+    "rank": 9,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1116,34 +1175,34 @@
     "z": 4.0
    },
    {
-    "baseline": 37,
+    "baseline": 4,
     "examples": [
      {
       "source": "media",
-      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
+      "title": "Black Hills plans $1.8 billion investment to power Google's data center"
      },
      {
       "source": "hn",
-      "title": "Muse and Grok bot are a privacy nightmare,so I created a self-hosted alternative"
+      "title": "Google Data Centers around the world"
      },
      {
       "source": "hn",
-      "title": "Grok Bot will use Opus 5.5, Midjourney"
+      "title": "Finland orders halt to work on two Google data centres"
      }
     ],
-    "expected": 2.88,
+    "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 8,
-    "recent": 8,
-    "score": 3.9,
+    "rank": 10,
+    "recent": 3,
+    "score": 3.52,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "grok bot",
-    "voices": 8,
-    "z": 2.6
+    "term": "google data",
+    "voices": 3,
+    "z": 2.35
    },
    {
     "baseline": 11,
@@ -1164,7 +1223,7 @@
     "expected": 0.86,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 4,
     "score": 3.46,
     "sources": [
@@ -1174,35 +1233,6 @@
     "term": "north america",
     "voices": 3,
     "z": 2.31
-   },
-   {
-    "baseline": 3,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Iran's drones hit America's Achilles heel"
-     },
-     {
-      "source": "hn",
-      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
-     },
-     {
-      "source": "hn",
-      "title": "Drones hit Yandex site in first major attack on Russian data hub"
-     }
-    ],
-    "expected": 0.23,
-    "field": "power",
-    "is_new": false,
-    "rank": 10,
-    "recent": 4,
-    "score": 3.39,
-    "sources": [
-     "hn"
-    ],
-    "term": "drones hit",
-    "voices": 4,
-    "z": 3.39
    },
    {
     "baseline": 0,
@@ -1223,7 +1253,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 11,
+    "rank": 12,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1238,27 +1268,27 @@
     "examples": [
      {
       "source": "hn",
-      "title": "Ukraine expands drone strikes on data centres owned by Russia's Yandex"
+      "title": "Drones Hit Third Yandex Data Center Disrupting over 80 Services"
+     },
+     {
+      "source": "hn",
+      "title": "Ukraine strikes Yandex data centres"
      },
      {
       "source": "hn",
       "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
-     },
-     {
-      "source": "hn",
-      "title": "Russia's Yandex datacenter destroyed by Ukrainian drone strike"
      }
     ],
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 12,
+    "rank": 13,
     "recent": 3,
     "score": 3.0,
     "sources": [
      "hn"
     ],
-    "term": "russia yandex",
+    "term": "yandex data",
     "voices": 3,
     "z": 3.0
    },
@@ -1281,7 +1311,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1310,7 +1340,7 @@
     "expected": 1.87,
     "field": "power",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 2.52,
     "sources": [
@@ -1355,6 +1385,36 @@
     "z": 6.0
    },
    {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000"
+     },
+     {
+      "source": "media",
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft Launches Surface Laptop Ultra, Surface RTX Spark Dev Box"
+     }
+    ],
+    "expected": 0.31,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 5,
+    "score": 6.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "rtx spark",
+    "voices": 4,
+    "z": 4.09
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -1373,7 +1433,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 2,
+    "rank": 3,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -1383,36 +1443,6 @@
     "term": "spacex seeks",
     "voices": 3,
     "z": 4.0
-   },
-   {
-    "baseline": 4,
-    "examples": [
-     {
-      "source": "media",
-      "title": "The first Nvidia RTX Spark laptops cost up to $7,000"
-     },
-     {
-      "source": "media",
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999"
-     },
-     {
-      "source": "hn",
-      "title": "Nvidia RTX Spark Pre-Orders Open: N1X Runs 45-80W in Laptops, 140W in Desktops"
-     }
-    ],
-    "expected": 0.31,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 3,
-    "recent": 4,
-    "score": 4.83,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "rtx spark",
-    "voices": 3,
-    "z": 3.22
    },
    {
     "baseline": 5,

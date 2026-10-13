@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-12",
  "docs_baseline": 114131,
- "docs_recent": 8603,
+ "docs_recent": 8604,
  "fields": {
   "ai": [
    {
@@ -756,36 +756,6 @@
     "z": 5.0
    },
    {
-    "baseline": 33,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Horizons Middle East & Africa 10/12/2026 (Video)"
-     },
-     {
-      "source": "media",
-      "title": "Gold Holds Drop as Middle East Fighting Stokes Inflation Fears"
-     },
-     {
-      "source": "media",
-      "title": "Oil Advances on Threats to Supply From Russia to Middle East"
-     }
-    ],
-    "expected": 2.57,
-    "field": "other",
-    "is_new": false,
-    "rank": 11,
-    "recent": 12,
-    "score": 7.49,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "middle east",
-    "voices": 4,
-    "z": 4.99
-   },
-   {
     "baseline": 0,
     "examples": [
      {
@@ -804,7 +774,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 11,
     "recent": 7,
     "score": 7.0,
     "sources": [
@@ -813,6 +783,36 @@
     "term": "fort hood",
     "voices": 7,
     "z": 7.0
+   },
+   {
+    "baseline": 33,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Horizons Middle East & Africa 10/12/2026 (Video)"
+     },
+     {
+      "source": "media",
+      "title": "Oil Advances on Threats to Supply From Russia to Middle East"
+     },
+     {
+      "source": "media",
+      "title": "Saudi Airport Attack Raises Middle East War Risks"
+     }
+    ],
+    "expected": 2.57,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 11,
+    "score": 6.7,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "middle east",
+    "voices": 4,
+    "z": 4.47
    },
    {
     "baseline": 0,

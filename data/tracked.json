@@ -47,6 +47,12 @@
   "origin": "auto",
   "score_at_add": 16.0
  },
+ "hurricane isaias": {
+  "added": "2026-10-13",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 15.0
+ },
  "li world labs": {
   "added": "2026-09-30",
   "field": "semiconductor",

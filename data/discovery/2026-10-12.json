@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-12",
  "docs_baseline": 114131,
- "docs_recent": 8608,
+ "docs_recent": 9580,
  "fields": {
   "ai": [
    {
@@ -19,53 +19,53 @@
      },
      {
       "source": "hn",
-      "title": "Show HN: BeelineBench – How well do decision models solve multi-step problems?"
+      "title": "Decision 3.0: open, multimodal SOTA decision models from 0.6B to 27B"
      }
     ],
     "expected": 2.26,
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 19,
-    "score": 18.56,
+    "recent": 22,
+    "score": 21.89,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "decision models",
-    "voices": 18,
-    "z": 9.28
+    "voices": 20,
+    "z": 10.94
    },
    {
     "baseline": 35,
     "examples": [
      {
       "source": "hn",
+      "title": "Introducing SubQ Snap: A Long-Context Decision Model"
+     },
+     {
+      "source": "hn",
+      "title": "Local decision model as memory search reranker"
+     },
+     {
+      "source": "hn",
       "title": "Show HN: THX-01 – Open-source decision model, free API, 60M+ tokens processed"
-     },
-     {
-      "source": "hn",
-      "title": "Show HN: THX-01 – Free API for our open-source decision model"
-     },
-     {
-      "source": "hn",
-      "title": "Build your own decision model"
      }
     ],
     "expected": 2.72,
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 24,
-    "score": 16.54,
+    "recent": 26,
+    "score": 18.1,
     "sources": [
      "arxiv",
      "hn"
     ],
     "term": "decision model",
-    "voices": 17,
-    "z": 11.03
+    "voices": 19,
+    "z": 12.07
    },
    {
     "baseline": 1,
@@ -165,6 +165,36 @@
       "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
      },
      {
+      "source": "hn",
+      "title": "Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip"
+     },
+     {
+      "source": "hn",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fake tip",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
+     },
+     {
       "source": "media",
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
      },
@@ -176,7 +206,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -206,7 +236,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 5,
     "score": 7.11,
     "sources": [
@@ -236,7 +266,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 7,
     "score": 7.0,
     "sources": [
@@ -265,7 +295,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 5,
     "score": 6.44,
     "sources": [
@@ -275,6 +305,66 @@
     "term": "safety researchers",
     "voices": 5,
     "z": 4.29
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Dutch firm uses AI to help drone systems 'talk' on Ukraine's battlefield"
+     },
+     {
+      "source": "media",
+      "title": "Experimental approach uses AI to eliminate cold storage for mRNA vaccines"
+     },
+     {
+      "source": "hn",
+      "title": "Website uses AI to generate northern Indigenous news 'correspondents'"
+     }
+    ],
+    "expected": 1.09,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 7,
+    "score": 6.13,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "uses ai",
+    "voices": 6,
+    "z": 4.09
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Personal Agent Proxy (Open Source)"
+     },
+     {
+      "source": "hn",
+      "title": "Blackcat – Yet Another Personal Agent"
+     },
+     {
+      "source": "hn",
+      "title": "NanoMuse: An Open-Source Personal Agent for Every Device You Own"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 6,
+    "score": 6.1,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "personal agent",
+    "voices": 6,
+    "z": 4.06
    },
    {
     "baseline": 0,
@@ -295,7 +385,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 10,
+    "rank": 13,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -325,7 +415,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 11,
+    "rank": 14,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -341,122 +431,62 @@
     "examples": [
      {
       "source": "media",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
+      "title": "IMF says hedge funds' market footprint growing, merits closer scrutiny"
      },
      {
       "source": "hn",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case"
+      "title": "IMF says AI investment keeps global growth around 3%"
      },
      {
       "source": "hn",
-      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents"
+      "title": "AI boom keeps global growth near 3 percent despite energy shock, IMF says"
      }
     ],
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 12,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "fake tip",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet"
-     },
-     {
-      "source": "hn",
-      "title": "Several major bugs in OpenAI's Math release"
-     },
-     {
-      "source": "hn",
-      "title": "An index of the OpenAI/math collection"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 13,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "openai math",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip"
-     },
-     {
-      "source": "hn",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case"
-     },
-     {
-      "source": "hn",
-      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 14,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "unsolved murder",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Auto Research: Integer multiplication below n log n"
-     },
-     {
-      "source": "hn",
-      "title": "Beyond n log n: Integer multiplication"
-     },
-     {
-      "source": "hn",
-      "title": "Improving OpenAI's bound on the exact discrete Fourier transform below n log n"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
     "rank": 15,
-    "recent": 6,
-    "score": 5.7,
+    "recent": 4,
+    "score": 6.0,
     "sources": [
-     "hn"
+     "hn",
+     "media"
     ],
-    "term": "n log n",
+    "term": "imf says",
     "voices": 4,
-    "z": 5.7
+    "z": 4.0
    }
   ],
   "other": [
+   {
+    "baseline": 16,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "How to Win a Nobel Prize"
+     },
+     {
+      "source": "hn",
+      "title": "Nobel Prize for economics awarded to Hall and Woodford"
+     },
+     {
+      "source": "hn",
+      "title": "Anne Carson Was in Iceland Listening to the Wind When the Nobel Prize Called"
+     }
+    ],
+    "expected": 1.24,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 24,
+    "score": 15.19,
+    "sources": [
+     "hn"
+    ],
+    "term": "nobel prize",
+    "voices": 22,
+    "z": 15.19
+   },
    {
     "baseline": 4,
     "examples": [
@@ -476,7 +506,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 1,
+    "rank": 2,
     "recent": 10,
     "score": 12.69,
     "sources": [
@@ -506,7 +536,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 2,
+    "rank": 3,
     "recent": 8,
     "score": 12.0,
     "sources": [
@@ -516,35 +546,6 @@
     "term": "green card program",
     "voices": 8,
     "z": 8.0
-   },
-   {
-    "baseline": 16,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Anne Carson wins Nobel Prize in literature 2026"
-     },
-     {
-      "source": "hn",
-      "title": "The Nobel Prize in Literature for 2026 Is Awarded to Anne Carson"
-     },
-     {
-      "source": "hn",
-      "title": "Anne Carson wins Nobel Prize for Literature 2026"
-     }
-    ],
-    "expected": 1.24,
-    "field": "other",
-    "is_new": false,
-    "rank": 3,
-    "recent": 18,
-    "score": 11.18,
-    "sources": [
-     "hn"
-    ],
-    "term": "nobel prize",
-    "voices": 17,
-    "z": 11.18
    },
    {
     "baseline": 24,
@@ -577,6 +578,36 @@
     "z": 6.58
    },
    {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What To Watch This Week: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More"
+     },
+     {
+      "source": "media",
+      "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More"
+     },
+     {
+      "source": "media",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker"
+     }
+    ],
+    "expected": 0.93,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 10,
+    "score": 9.78,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple tv",
+    "voices": 5,
+    "z": 6.52
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -595,7 +626,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 5,
+    "rank": 6,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -625,7 +656,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -655,7 +686,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -685,7 +716,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 9,
     "score": 9.0,
     "sources": [
@@ -696,34 +727,64 @@
     "z": 9.0
    },
    {
-    "baseline": 12,
+    "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "What To Watch This Week: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More"
+      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food"
      },
      {
-      "source": "media",
-      "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More"
+      "source": "hn",
+      "title": "Hackers heat French supermarket fridges, sparking fires and food losses"
      },
      {
-      "source": "media",
-      "title": "The new Apple TV could have a built-in mic and a remote with a speaker"
+      "source": "hn",
+      "title": "French supermarket chains say cyberattack forced refrigerator shutdown"
      }
     ],
-    "expected": 0.93,
+    "expected": 0.0,
     "field": "other",
-    "is_new": false,
-    "rank": 9,
-    "recent": 9,
-    "score": 8.7,
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "apple tv",
-    "voices": 4,
-    "z": 5.8
+    "term": "french supermarket",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Trump Mobile breach may have exposed data of more than 3,600 people"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Mobile customers' data dumped – and some never even received their device"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump mobile",
+    "voices": 5,
+    "z": 5.0
    },
    {
     "baseline": 0,
@@ -744,7 +805,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 12,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -754,6 +815,35 @@
     "term": "tv networks",
     "voices": 4,
     "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Anne Carson Was in Iceland Listening to the Wind When the Nobel Prize Called"
+     },
+     {
+      "source": "hn",
+      "title": "Anne Carson wins Nobel Prize in literature 2026"
+     },
+     {
+      "source": "hn",
+      "title": "The Nobel Prize in Literature for 2026 Is Awarded to Anne Carson"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "anne carson",
+    "voices": 6,
+    "z": 7.0
    },
    {
     "baseline": 0,
@@ -774,7 +864,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 11,
+    "rank": 14,
     "recent": 7,
     "score": 7.0,
     "sources": [
@@ -803,7 +893,7 @@
     "expected": 2.57,
     "field": "other",
     "is_new": false,
-    "rank": 12,
+    "rank": 15,
     "recent": 11,
     "score": 6.7,
     "sources": [
@@ -813,94 +903,6 @@
     "term": "middle east",
     "voices": 4,
     "z": 4.47
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Elisha Wiesel: The Death of the Nobel Peace Prize"
-     },
-     {
-      "source": "hn",
-      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize"
-     },
-     {
-      "source": "hn",
-      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 13,
-    "recent": 6,
-    "score": 6.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "nobel peace prize",
-    "voices": 6,
-    "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Anne Carson wins Nobel Prize in literature 2026"
-     },
-     {
-      "source": "hn",
-      "title": "The Nobel Prize in Literature for 2026 Is Awarded to Anne Carson"
-     },
-     {
-      "source": "hn",
-      "title": "Anne Carson wins Nobel Prize for Literature 2026"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 14,
-    "recent": 6,
-    "score": 6.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "anne carson",
-    "voices": 5,
-    "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Russian Diesel Deal Unlikely to Lower US Prices"
-     },
-     {
-      "source": "media",
-      "title": "Trump's Russian Diesel Deal Draws Ukraine Criticism"
-     },
-     {
-      "source": "hn",
-      "title": "Trump lifts sanctions on Russian diesel"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 15,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "russian diesel",
-    "voices": 3,
-    "z": 4.0
    }
   ],
   "power": [
@@ -969,29 +971,59 @@
     "examples": [
      {
       "source": "hn",
+      "title": "Drones Hit Yandex So Cloudflare Kept the Russians Online"
+     },
+     {
+      "source": "hn",
       "title": "Drones Hit Third Yandex Data Center Disrupting over 80 Services"
      },
      {
       "source": "hn",
       "title": "Iran's drones hit America's Achilles heel"
-     },
-     {
-      "source": "hn",
-      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
      }
     ],
     "expected": 0.16,
     "field": "power",
     "is_new": false,
     "rank": 3,
-    "recent": 5,
-    "score": 4.51,
+    "recent": 6,
+    "score": 5.44,
     "sources": [
      "hn"
     ],
     "term": "drones hit",
+    "voices": 5,
+    "z": 5.44
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Black Hills plans $1.8 billion investment to power Google's data center"
+     },
+     {
+      "source": "hn",
+      "title": "How to back up your Google data"
+     },
+     {
+      "source": "hn",
+      "title": "Google Data Centers around the world"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "google data",
     "voices": 4,
-    "z": 4.51
+    "z": 3.22
    },
    {
     "baseline": 0,
@@ -1012,7 +1044,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 4,
+    "rank": 5,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1042,7 +1074,7 @@
     "expected": 3.03,
     "field": "power",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 9,
     "score": 4.46,
     "sources": [
@@ -1072,7 +1104,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1101,7 +1133,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1112,34 +1144,63 @@
     "z": 4.0
    },
    {
-    "baseline": 4,
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Ukrainian strikes on Yandex data centres caused Russian bot activity to plummet?"
+     },
+     {
+      "source": "hn",
+      "title": "Drones Hit Third Yandex Data Center Disrupting over 80 Services"
+     },
+     {
+      "source": "hn",
+      "title": "Ukraine strikes Yandex data centres"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "yandex data",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 2,
     "examples": [
      {
       "source": "media",
-      "title": "Black Hills plans $1.8 billion investment to power Google's data center"
+      "title": "Indian states seek extra power to avoid outages as nighttime supply tightens, officials say"
      },
      {
       "source": "hn",
-      "title": "Google Data Centers around the world"
+      "title": "Elon Musk's PAC is spreading inaccurate voting info, election officials say"
      },
      {
       "source": "hn",
-      "title": "Finland orders halt to work on two Google data centres"
+      "title": "Flood damaged EVs pose fire risk even after water recedes, fire officials say"
      }
     ],
-    "expected": 0.31,
+    "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 10,
     "recent": 3,
-    "score": 3.52,
+    "score": 3.97,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "google data",
+    "term": "officials say",
     "voices": 3,
-    "z": 2.35
+    "z": 2.65
    },
    {
     "baseline": 13,
@@ -1160,7 +1221,7 @@
     "expected": 1.01,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 4,
     "score": 3.16,
     "sources": [
@@ -1190,7 +1251,7 @@
     "expected": 0.47,
     "field": "power",
     "is_new": false,
-    "rank": 10,
+    "rank": 12,
     "recent": 3,
     "score": 3.14,
     "sources": [
@@ -1220,42 +1281,13 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 11,
+    "rank": 13,
     "recent": 3,
     "score": 3.0,
     "sources": [
      "news"
     ],
     "term": "latest energy solutions",
-    "voices": 3,
-    "z": 3.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Drones Hit Third Yandex Data Center Disrupting over 80 Services"
-     },
-     {
-      "source": "hn",
-      "title": "Ukraine strikes Yandex data centres"
-     },
-     {
-      "source": "hn",
-      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
-     }
-    ],
-    "expected": 0.0,
-    "field": "power",
-    "is_new": true,
-    "rank": 12,
-    "recent": 3,
-    "score": 3.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "yandex data",
     "voices": 3,
     "z": 3.0
    },
@@ -1278,7 +1310,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1307,7 +1339,7 @@
     "expected": 1.32,
     "field": "power",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 2.64,
     "sources": [
@@ -1317,36 +1349,6 @@
     "term": "south africa",
     "voices": 4,
     "z": 1.76
-   },
-   {
-    "baseline": 36,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Delta Delays Nonstop Service to Saudi Arabia Amid Conflict"
-     },
-     {
-      "source": "media",
-      "title": "Saudi Arabia Fends off Fresh Strikes After Deadly Airport Attacks"
-     },
-     {
-      "source": "media",
-      "title": "Saudi Arabia eyes raising its pipeline oil export capacity to 10 million bpd, energy minister says"
-     }
-    ],
-    "expected": 2.8,
-    "field": "power",
-    "is_new": false,
-    "rank": 15,
-    "recent": 6,
-    "score": 2.46,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "saudi arabia",
-    "voices": 3,
-    "z": 1.64
    }
   ],
   "semiconductor": [
@@ -1393,22 +1395,82 @@
      },
      {
       "source": "hn",
-      "title": "Microsoft Launches Surface Laptop Ultra, Surface RTX Spark Dev Box"
+      "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents"
      }
     ],
     "expected": 0.31,
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 5,
-    "score": 6.14,
+    "recent": 6,
+    "score": 7.45,
     "sources": [
      "hn",
      "media"
     ],
     "term": "rtx spark",
-    "voices": 4,
-    "z": 4.09
+    "voices": 5,
+    "z": 4.97
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia-Backed Firmus IPO Collapses"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia-Backed Firmus Scraps $5 Billion Australia IPO as Markets Wobble"
+     },
+     {
+      "source": "hn",
+      "title": "A failed initial public offering from Nvidia-backed Firmus"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia-backed firmus",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs"
+     },
+     {
+      "source": "hn",
+      "title": "Dgxtop v2: A Terminal Monitor for Nvidia GPUs on Linux and DGX Spark"
+     },
+     {
+      "source": "hn",
+      "title": "GPGPU-SIM – Cycle-Level Simulator for Nvidia GPUs with CUDA or OpenCL Workloads"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 2.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia gpus",
+    "voices": 3,
+    "z": 1.87
    }
   ]
  },

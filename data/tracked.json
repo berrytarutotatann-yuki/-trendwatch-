@@ -29,6 +29,12 @@
   "origin": "auto",
   "score_at_add": 17.32
  },
+ "drones hit": {
+  "added": "2026-10-14",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 7.79
+ },
  "fire tv stick": {
   "added": "2026-10-01",
   "field": "power",
@@ -46,6 +52,12 @@
   "field": "ai",
   "origin": "auto",
   "score_at_add": 16.0
+ },
+ "homepod mini": {
+  "added": "2026-10-14",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 7.5
  },
  "hurricane isaias": {
   "added": "2026-10-13",

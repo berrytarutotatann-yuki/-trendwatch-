@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-13",
  "docs_baseline": 114065,
- "docs_recent": 8031,
+ "docs_recent": 9631,
  "fields": {
   "ai": [
    {
@@ -15,31 +15,35 @@
      },
      {
       "source": "hn",
-      "title": "Decision 3.0: open, multimodal SOTA decision models from 0.6B to 27B"
+      "title": "Type-Safe Is Not Error-Free: Typed Decision Models Follow the Option Name"
      },
      {
       "source": "hn",
-      "title": "Can Decision Models (Like Jev) Plan Ahead?"
+      "title": "Ask HN: Anyone using Jev / other decision models? What for?"
      }
     ],
     "expected": 2.49,
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 19,
-    "score": 17.68,
+    "recent": 24,
+    "score": 23.03,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "decision models",
-    "voices": 17,
-    "z": 8.84
+    "voices": 22,
+    "z": 11.52
    },
    {
     "baseline": 36,
     "examples": [
+     {
+      "source": "hn",
+      "title": "SubQ Snap – First Long-Context Decision Model for Real Enterprise Work"
+     },
      {
       "source": "hn",
       "title": "Introducing SubQ Snap: A Long-Context Decision Model"
@@ -47,55 +51,21 @@
      {
       "source": "hn",
       "title": "Local decision model as memory search reranker"
-     },
-     {
-      "source": "hn",
-      "title": "Show HN: THX-01 – Open-source decision model, free API, 60M+ tokens processed"
      }
     ],
     "expected": 2.8,
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 24,
-    "score": 16.31,
+    "recent": 25,
+    "score": 17.08,
     "sources": [
      "arxiv",
      "hn"
     ],
     "term": "decision model",
-    "voices": 17,
-    "z": 10.88
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event"
-     },
-     {
-      "source": "media",
-      "title": "Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging"
-     },
-     {
-      "source": "media",
-      "title": "The Surface Laptop Ultra finally has a release date — and a starting price of $2,599"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 3,
-    "recent": 9,
-    "score": 12.89,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "surface laptop ultra",
-    "voices": 6,
-    "z": 8.59
+    "voices": 18,
+    "z": 11.39
    },
    {
     "baseline": 14,
@@ -116,16 +86,196 @@
     "expected": 1.09,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
-    "recent": 12,
-    "score": 11.32,
+    "rank": 3,
+    "recent": 14,
+    "score": 13.4,
     "sources": [
      "hn",
      "media"
     ],
     "term": "apple tv",
-    "voices": 5,
-    "z": 7.55
+    "voices": 6,
+    "z": 8.93
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging"
+     },
+     {
+      "source": "media",
+      "title": "The Surface Laptop Ultra finally has a release date — and a starting price of $2,599"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 9,
+    "score": 12.89,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "surface laptop ultra",
+    "voices": 6,
+    "z": 8.59
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple’s HomeView display is now available to preorder"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s HomeView ad is confusing to everyone except parents"
+     },
+     {
+      "source": "media",
+      "title": "Apple HomeView Revealed: $299 Smart Display Features Personalized Privacy And Siri AI"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 5,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple homeview",
+    "voices": 6,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta releases its first frontier model, Muse Wonder"
+     },
+     {
+      "source": "media",
+      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI"
+     },
+     {
+      "source": "hn",
+      "title": "Muse Wonder: Zuckerberg and Wang's $100B AI"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "muse wonder",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Fortnite’s Epic Games Goes All In On AI, Saying The Quiet Part Out Loud"
+     },
+     {
+      "source": "hn",
+      "title": "Epic Games asks developers to use more AI"
+     },
+     {
+      "source": "hn",
+      "title": "Epic Games delays Disney game and tells developers to go \"AI first\""
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "epic games",
+    "voices": 6,
+    "z": 6.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
+     },
+     {
+      "source": "media",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "philadelphia police",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers"
+     },
+     {
+      "source": "media",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI Fires Three Safety Researchers"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "safety researchers",
+    "voices": 6,
+    "z": 5.19
    },
    {
     "baseline": 0,
@@ -146,7 +296,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 5,
+    "rank": 10,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -154,6 +304,36 @@
      "media"
     ],
     "term": "anthropic bans",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI engineer arrested in bugging of executive conference room"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "conference room",
     "voices": 5,
     "z": 5.0
    },
@@ -176,7 +356,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 6,
+    "rank": 12,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -192,90 +372,60 @@
     "examples": [
      {
       "source": "media",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
-     },
-     {
-      "source": "media",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
      },
      {
       "source": "hn",
-      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say"
+      "title": "Detecting a Covert Recording Device with Nzyme"
+     },
+     {
+      "source": "hn",
+      "title": "Saudi national charged with planting recording device in OpenAI office"
      }
     ],
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 7,
+    "rank": 13,
     "recent": 5,
     "score": 7.5,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "philadelphia police",
+    "term": "recording device",
     "voices": 5,
     "z": 5.0
    },
    {
-    "baseline": 3,
+    "baseline": 4,
     "examples": [
      {
       "source": "media",
-      "title": "Fortnite’s Epic Games Goes All In On AI, Saying The Quiet Part Out Loud"
+      "title": "​Modern Warfare Runs On Code That Can't Be Trusted By Default"
      },
      {
-      "source": "hn",
-      "title": "Epic Games reportedly orders staff to implement 'AI-first' development"
+      "source": "media",
+      "title": "Call Of Duty: Modern Warfare 4 Is Almost Here — 10 Things To Know Before Launch"
      },
      {
-      "source": "hn",
-      "title": "Epic Games tells employees to use AI to get Disney game done"
+      "source": "media",
+      "title": "Call Of Duty: Modern Warfare 4 Has A Release Date — Here's How To Pre-Order And Which Edition To Get"
      }
     ],
-    "expected": 0.23,
+    "expected": 0.31,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
-    "recent": 5,
-    "score": 6.44,
+    "rank": 14,
+    "recent": 6,
+    "score": 7.45,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "epic games",
+    "term": "modern warfare",
     "voices": 4,
-    "z": 4.29
-   },
-   {
-    "baseline": 3,
-    "examples": [
-     {
-      "source": "media",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers"
-     },
-     {
-      "source": "media",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect"
-     },
-     {
-      "source": "hn",
-      "title": "OpenAI fires 3 safety researchers in dispute over AI risks"
-     }
-    ],
-    "expected": 0.23,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 5,
-    "score": 6.44,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "safety researchers",
-    "voices": 5,
-    "z": 4.29
+    "z": 4.97
    },
    {
     "baseline": 9,
@@ -296,7 +446,7 @@
     "expected": 0.7,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
+    "rank": 15,
     "recent": 6,
     "score": 6.1,
     "sources": [
@@ -306,156 +456,6 @@
     "term": "decisions api",
     "voices": 5,
     "z": 4.06
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic’s Rogue AI Filled Out U.S. Visa Forms, Gave False Homicide Tip to Police"
-     },
-     {
-      "source": "media",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic Model Submitted a False Homicide Tip to Philadelphia Police"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 11,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "false homicide tip",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic bans users from needless abusive or cruel behavior towards Claude"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 12,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "cruel behavior",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Meta releases its first frontier model, Muse Wonder"
-     },
-     {
-      "source": "media",
-      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI"
-     },
-     {
-      "source": "hn",
-      "title": "Muse Wonder Full: A new Fable level model on artificial analysis"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 13,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "muse wonder",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip"
-     },
-     {
-      "source": "hn",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case"
-     },
-     {
-      "source": "hn",
-      "title": "AI model submitted false tip about unsolved murder, Philadelphia police say"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 14,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "unsolved murder",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 10,
-    "examples": [
-     {
-      "source": "media",
-      "title": "EXCLUSIVE: LSEG in talks to buy Permira-owned Octus data group for about $3.5 billion"
-     },
-     {
-      "source": "media",
-      "title": "LSEG in Talks to Buy Permira-Owned Credit Firm Octus"
-     },
-     {
-      "source": "media",
-      "title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports"
-     }
-    ],
-    "expected": 0.78,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 6,
-    "score": 5.88,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "talks to buy",
-    "voices": 4,
-    "z": 3.92
    }
   ],
   "other": [
@@ -524,6 +524,95 @@
     "examples": [
      {
       "source": "media",
+      "title": "Cyberattack affected 80 stores of French supermarket chain Co-Operative U"
+     },
+     {
+      "source": "media",
+      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food"
+     },
+     {
+      "source": "hn",
+      "title": "Investigators hunt French supermarket fridge hackers, no claim of responsibility"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "french supermarket",
+    "voices": 7,
+    "z": 8.0
+   },
+   {
+    "baseline": 23,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Robert E. Hall and Michael Woodford Win the 2026 Nobel Prize in Economics"
+     },
+     {
+      "source": "hn",
+      "title": "Why the Nobel Prize in Economics Went to Robert Hall and Michael Woodford"
+     },
+     {
+      "source": "hn",
+      "title": "Berry, Bresnahan, and Pakes (Maybe) Win the Nobel Prize"
+     }
+    ],
+    "expected": 1.79,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 19,
+    "score": 10.31,
+    "sources": [
+     "hn"
+    ],
+    "term": "nobel prize",
+    "voices": 18,
+    "z": 10.31
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "My First Impressions of Apple’s New Smart Home Display"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s Smart Home Comeback Now Official With New HomeView, Apple TV And More"
+     },
+     {
+      "source": "media",
+      "title": "Apple makes another push into the smart home market with HomeView"
+     }
+    ],
+    "expected": 1.17,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 11,
+    "score": 10.02,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "smart home",
+    "voices": 8,
+    "z": 6.68
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "US plans livestream of execution by firing squad"
      },
      {
@@ -538,7 +627,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 3,
+    "rank": 6,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -547,36 +636,6 @@
     ],
     "term": "firing squad",
     "voices": 6,
-    "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Cyberattack affected 80 stores of French supermarket chain Co-Operative U"
-     },
-     {
-      "source": "media",
-      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food"
-     },
-     {
-      "source": "hn",
-      "title": "Hackers heat French supermarket fridges, sparking fires and food losses"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 4,
-    "recent": 6,
-    "score": 9.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "french supermarket",
-    "voices": 5,
     "z": 6.0
    },
    {
@@ -598,7 +657,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 5,
+    "rank": 7,
     "recent": 9,
     "score": 9.0,
     "sources": [
@@ -609,63 +668,34 @@
     "z": 9.0
    },
    {
-    "baseline": 23,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "How to Win a Nobel Prize"
-     },
-     {
-      "source": "hn",
-      "title": "Nobel Prize for economics awarded to Hall and Woodford"
-     },
-     {
-      "source": "hn",
-      "title": "Anne Carson Was in Iceland Listening to the Wind When the Nobel Prize Called"
-     }
-    ],
-    "expected": 1.79,
-    "field": "other",
-    "is_new": false,
-    "rank": 6,
-    "recent": 16,
-    "score": 8.51,
-    "sources": [
-     "hn"
-    ],
-    "term": "nobel prize",
-    "voices": 15,
-    "z": 8.51
-   },
-   {
-    "baseline": 15,
+    "baseline": 2,
     "examples": [
      {
       "source": "media",
-      "title": "My First Impressions of Apple’s New Smart Home Display"
+      "title": "Getty Images is going private after failed Shutterstock merger"
      },
      {
       "source": "media",
-      "title": "Apple’s Smart Home Comeback Now Official With New HomeView, Apple TV And More"
+      "title": "Koch, Getty Families Team Up to Take Getty Images Private in Bankruptcy Deal"
      },
      {
       "source": "media",
-      "title": "Apple makes another push into the smart home market with HomeView"
+      "title": "Getty Images plans bankruptcy filing, to go private"
      }
     ],
-    "expected": 1.17,
+    "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 7,
-    "recent": 9,
-    "score": 7.98,
+    "rank": 8,
+    "recent": 6,
+    "score": 8.16,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "smart home",
+    "term": "getty images",
     "voices": 6,
-    "z": 5.32
+    "z": 5.44
    },
    {
     "baseline": 0,
@@ -686,7 +716,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -716,7 +746,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 9,
+    "rank": 10,
     "recent": 7,
     "score": 7.0,
     "sources": [
@@ -745,7 +775,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 11,
     "recent": 7,
     "score": 7.0,
     "sources": [
@@ -754,36 +784,6 @@
     "term": "fort hood",
     "voices": 7,
     "z": 7.0
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Getty Images is going private after failed Shutterstock merger"
-     },
-     {
-      "source": "media",
-      "title": "Koch, Getty Families Team Up to Take Getty Images Private in Bankruptcy Deal"
-     },
-     {
-      "source": "media",
-      "title": "Getty Images plans bankruptcy filing, to go private"
-     }
-    ],
-    "expected": 0.16,
-    "field": "other",
-    "is_new": false,
-    "rank": 11,
-    "recent": 5,
-    "score": 6.76,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "getty images",
-    "voices": 5,
-    "z": 4.51
    },
    {
     "baseline": 0,
@@ -970,6 +970,125 @@
     "examples": [
      {
       "source": "media",
+      "title": "The Yandex outage probably didn’t blitz Russian bots"
+     },
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     },
+     {
+      "source": "hn",
+      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian bots",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     },
+     {
+      "source": "hn",
+      "title": "Ukrainian strikes on Yandex data centres caused Russian bot activity to plummet?"
+     },
+     {
+      "source": "hn",
+      "title": "Drones Hit Third Yandex Data Center Disrupting over 80 Services"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 4,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "yandex data",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Battery storage is scaling fast. Here’s how utilities can trust it to perform."
+     },
+     {
+      "source": "media",
+      "title": "South Africa to prioritise battery storage and gas-to-power projects, says energy minister"
+     },
+     {
+      "source": "hn",
+      "title": "India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "battery storage",
+    "voices": 4,
+    "z": 3.06
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine’s Drone Makers Now Come With A Silicon Valley Price Tag"
+     },
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ukraine drone",
+    "voices": 4,
+    "z": 3.06
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "Oil prices rise on Saudi Arabia attacks, overshadowing Trump's diesel deal"
      },
      {
@@ -984,7 +1103,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 3,
+    "rank": 7,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -994,6 +1113,66 @@
     "term": "trump diesel",
     "voices": 3,
     "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
+     },
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     },
+     {
+      "source": "hn",
+      "title": "Ukrainian strikes on Yandex data centres caused Russian bot activity to plummet?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 8,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strikes on yandex",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 40,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
+     },
+     {
+      "source": "hn",
+      "title": "One plan now covers Cursor, Grok, Grok Bot, and X"
+     },
+     {
+      "source": "hn",
+      "title": "Impersonating Grok Bot for Fun and (No) Profit"
+     }
+    ],
+    "expected": 3.11,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 9,
+    "score": 4.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "grok bot",
+    "voices": 9,
+    "z": 2.9
    },
    {
     "baseline": 0,
@@ -1014,7 +1193,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 4,
+    "rank": 10,
     "recent": 4,
     "score": 4.0,
     "sources": [
@@ -1025,33 +1204,36 @@
     "z": 4.0
    },
    {
-    "baseline": 0,
+    "baseline": 276,
     "examples": [
      {
-      "source": "hn",
-      "title": "Ukrainian strikes on Yandex data centres caused Russian bot activity to plummet?"
+      "source": "media",
+      "title": "Goldman CEO watching for election-driven volatility around data centers"
      },
      {
-      "source": "hn",
-      "title": "Drones Hit Third Yandex Data Center Disrupting over 80 Services"
+      "source": "media",
+      "title": "US panel approves PJM's registry of data centers, rejects plan to curtail power to them"
      },
      {
-      "source": "hn",
-      "title": "Ukraine strikes Yandex data centres"
+      "source": "media",
+      "title": "Dominion-NextEra merger hearing focused on rates, data centers"
      }
     ],
-    "expected": 0.0,
+    "expected": 21.47,
     "field": "power",
-    "is_new": true,
-    "rank": 5,
-    "recent": 4,
-    "score": 4.0,
+    "is_new": false,
+    "rank": 11,
+    "recent": 29,
+    "score": 3.97,
     "sources": [
-     "hn"
+     "arxiv",
+     "hn",
+     "media",
+     "news"
     ],
-    "term": "yandex data",
-    "voices": 4,
-    "z": 4.0
+    "term": "data centers",
+    "voices": 22,
+    "z": 1.59
    },
    {
     "baseline": 1,
@@ -1072,7 +1254,7 @@
     "expected": 0.08,
     "field": "power",
     "is_new": false,
-    "rank": 6,
+    "rank": 12,
     "recent": 4,
     "score": 3.78,
     "sources": [
@@ -1081,36 +1263,6 @@
     "term": "smart lock",
     "voices": 3,
     "z": 3.78
-   },
-   {
-    "baseline": 40,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
-     },
-     {
-      "source": "hn",
-      "title": "Impersonating Grok Bot for Fun and (No) Profit"
-     },
-     {
-      "source": "hn",
-      "title": "Tune-Up – a Grok bot that reviews and fixes your other Grok bots"
-     }
-    ],
-    "expected": 3.11,
-    "field": "power",
-    "is_new": false,
-    "rank": 7,
-    "recent": 8,
-    "score": 3.62,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "grok bot",
-    "voices": 8,
-    "z": 2.41
    },
    {
     "baseline": 4,
@@ -1131,7 +1283,7 @@
     "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 13,
     "recent": 3,
     "score": 3.52,
     "sources": [
@@ -1146,29 +1298,29 @@
     "baseline": 5,
     "examples": [
      {
-      "source": "media",
-      "title": "Battery storage is scaling fast. Here’s how utilities can trust it to perform."
-     },
-     {
-      "source": "media",
-      "title": "South Africa to prioritise battery storage and gas-to-power projects, says energy minister"
+      "source": "arxiv",
+      "title": "Towards Green AI: Evaluating Energy Efficiency for Quantized LLM Inference"
      },
      {
       "source": "hn",
-      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe"
+      "title": "Chip-hex:cost-benefit, energy efficiency and hexagonal"
+     },
+     {
+      "source": "arxiv",
+      "title": "Cooperative Dueling DQN SAC Learning for Energy Efficiency in Dynamic OWC Networks"
      }
     ],
     "expected": 0.39,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 14,
     "recent": 3,
     "score": 3.32,
     "sources": [
-     "hn",
-     "media"
+     "arxiv",
+     "hn"
     ],
-    "term": "battery storage",
+    "term": "energy efficiency",
     "voices": 3,
     "z": 2.22
    },
@@ -1191,7 +1343,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 10,
+    "rank": 15,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1200,65 +1352,6 @@
     "term": "latest energy solutions",
     "voices": 3,
     "z": 3.0
-   },
-   {
-    "baseline": 5,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Ukrainian Drones Strike Russia's Lukoil Refinery 1,700 Km Away"
-     },
-     {
-      "source": "hn",
-      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers"
-     },
-     {
-      "source": "hn",
-      "title": "Ukrainian drones swarmed Moscow last night"
-     }
-    ],
-    "expected": 0.39,
-    "field": "power",
-    "is_new": false,
-    "rank": 11,
-    "recent": 3,
-    "score": 2.22,
-    "sources": [
-     "hn"
-    ],
-    "term": "ukrainian drones",
-    "voices": 3,
-    "z": 2.22
-   },
-   {
-    "baseline": 13,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Musk Says SpaceX Will Sometimes Use Rival Models to Power Grok Bot"
-     },
-     {
-      "source": "media",
-      "title": "Musk says TSMC won't run Terafab AI chip complex"
-     },
-     {
-      "source": "hn",
-      "title": "Elon Musk Says Quebec, Alberta and Saskatchewan Should Separate from Canada"
-     }
-    ],
-    "expected": 1.01,
-    "field": "power",
-    "is_new": false,
-    "rank": 12,
-    "recent": 3,
-    "score": 2.1,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "musk says",
-    "voices": 3,
-    "z": 1.4
    }
   ],
   "semiconductor": [
@@ -1275,22 +1368,22 @@
      },
      {
       "source": "hn",
-      "title": "Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents"
+      "title": "Nvidia Nemotron 3.5 Bolt: open 74B MoE for local agents on RTX Spark"
      }
     ],
     "expected": 0.31,
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 6,
-    "score": 7.45,
+    "recent": 7,
+    "score": 8.76,
     "sources": [
      "hn",
      "media"
     ],
     "term": "rtx spark",
-    "voices": 5,
-    "z": 4.97
+    "voices": 6,
+    "z": 5.84
    },
    {
     "baseline": 0,
@@ -1312,15 +1405,15 @@
     "field": "semiconductor",
     "is_new": true,
     "rank": 2,
-    "recent": 4,
-    "score": 6.0,
+    "recent": 5,
+    "score": 7.5,
     "sources": [
      "hn",
      "media"
     ],
     "term": "homepod mini",
-    "voices": 3,
-    "z": 4.0
+    "voices": 4,
+    "z": 5.0
    },
    {
     "baseline": 2,
@@ -1353,6 +1446,36 @@
     "z": 3.58
    },
    {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector"
+     },
+     {
+      "source": "hn",
+      "title": "Chip stocks slide after Broadcom boss likens AI investing to 'casino'"
+     },
+     {
+      "source": "hn",
+      "title": "Tech stocks slide; Wall Street chip rout spreads. SK Hynix, SoftBank, ASML slump"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "stocks slide",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
     "baseline": 1,
     "examples": [
      {
@@ -1371,7 +1494,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 3,
     "score": 4.22,
     "sources": [
@@ -1401,7 +1524,7 @@
     "expected": 2.57,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 7,
     "score": 3.52,
     "sources": [
@@ -1411,6 +1534,36 @@
     "term": "trump says",
     "voices": 4,
     "z": 2.35
+   },
+   {
+    "baseline": 29,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P 500 Wavers Before Earnings as Chip Stocks Fall: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "S&P 500, Nasdaq end lower as crude prices jump, chip stocks weigh"
+     },
+     {
+      "source": "media",
+      "title": "AI Hot Potato Is Meta’s for Now, But Chip Stocks Are the Winners"
+     }
+    ],
+    "expected": 2.26,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 6,
+    "score": 3.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip stocks",
+    "voices": 5,
+    "z": 2.08
    },
    {
     "baseline": 8,
@@ -1431,7 +1584,7 @@
     "expected": 0.62,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 6,
+    "rank": 8,
     "recent": 3,
     "score": 2.8,
     "sources": [
@@ -1461,7 +1614,7 @@
     "expected": 0.78,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 7,
+    "rank": 9,
     "recent": 3,
     "score": 2.5,
     "sources": [
@@ -1471,6 +1624,35 @@
     "term": "price tag",
     "voices": 3,
     "z": 1.67
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Synthwave-Tinted Hyprland Desktop for Apple Silicon Macs and Fedora Asahi Remix"
+     },
+     {
+      "source": "hn",
+      "title": "Gbos-VM: Run Googlebook OS in a GPU-Accelerated VM on Apple Silicon Macs"
+     },
+     {
+      "source": "hn",
+      "title": "Mac.apk – Run Android Apps Natively on Apple Silicon Macs"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.49,
+    "sources": [
+     "hn"
+    ],
+    "term": "apple silicon macs",
+    "voices": 3,
+    "z": 2.49
    }
   ]
  },

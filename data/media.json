@@ -564,7 +564,7 @@
    "published": "2026-10-14T23:33:01+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Gold Holds Loss as Hot Inflation Lifts October Rate-Hike Bets",
+   "title": "Gold Rises as Treasury Yields Erase Gain After Inflation Data",
    "url": "https://bloomberg.com/news/articles/2026-10-14/gold-holds-loss-as-hot-inflation-lifts-october-rate-hike-bets",
    "voice": "bloomberg"
   },
@@ -679,6 +679,17 @@
    "title": "Fed says household income, wealth, debt stress increased from 2022 to 2025",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpCcDBIZElDdktNOUtwQ2NHVVh0WHZkYkJhV0t1T0sxWS1ON0Frb1pqUFFEbWtnWWI0d0IzYVBqck1MSExMc0ExNHozUEdUMHV2MDV5YjE0U0FVbnVFd01tdXFZakpxYnZ2MFZjTEdGWENyNkxaRlZNVWUtUEFhRmM1OFcwblktYVdzTTFpYjQ2bFhybGMyNlpLUndSdkZod2VoX3Ryc0stNVBRQnhpeERR",
    "voice": "reuters"
+  },
+  "media:038d00e1c36b27f6f9d0a8e8": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:038d00e1c36b27f6f9d0a8e8",
+   "published": "2026-10-15T03:14:33+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Bonds Pay the Price for India’s Rupee Defense as Rate Bets Build",
+   "url": "https://bloomberg.com/news/articles/2026-10-15/bonds-pay-the-price-for-india-s-rupee-defense-as-rate-bets-build",
+   "voice": "bloomberg"
   },
   "media:0391eaf4149e7c45552a8f89": {
    "date": "2026-10-07",
@@ -2421,7 +2432,7 @@
    "published": "2026-10-14T17:43:06+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Inflation Jolt Raises Stakes for Warsh’s Final Word in Bangkok",
+   "title": "Inflation Raises Stakes for Warsh’s Final Word in Bangkok",
    "url": "https://bloomberg.com/news/articles/2026-10-14/fed-s-warsh-to-get-final-word-in-bangkok-as-inflation-roars-back",
    "voice": "bloomberg"
   },
@@ -2495,7 +2506,7 @@
    "published": "2026-10-15T00:27:03+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Treasuries Extend Gains as Equities Selloff Dents Risk Sentiment",
+   "title": "Treasury Haven Trade Bounces Back as Stocks Sink, Yields Entice",
    "url": "https://bloomberg.com/news/articles/2026-10-15/treasuries-extend-gains-as-equities-selloff-dents-risk-sentiment",
    "voice": "bloomberg"
   },
@@ -3963,6 +3974,19 @@
    "title": "David Benavidez Just Made A Crucial Weight Decision Ahead Of His Next Fight",
    "url": "https://forbes.com/sites/brianmazique/2026/10/01/david-benavidez-just-made-a-crucial-weight-decision-ahead-of-his-next-fight",
    "voice": "forbes"
+  },
+  "media:13f57a1a4b5767db20b440c6": {
+   "date": "2026-10-15",
+   "fields": [
+    "power"
+   ],
+   "id": "media:13f57a1a4b5767db20b440c6",
+   "published": "2026-10-15T02:56:18+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Lithium Extends Deep Slump as Battery Demand Concerns Mount",
+   "url": "https://bloomberg.com/news/articles/2026-10-15/lithium-extends-deep-slump-as-battery-demand-concerns-mount",
+   "voice": "bloomberg"
   },
   "media:141738ef1bd76bcfecf547ee": {
    "date": "2026-10-01",
@@ -7120,6 +7144,17 @@
    "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials",
    "voice": "semiconductor_engineering"
   },
+  "media:24afb2c7b5965abfb147eeed": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:24afb2c7b5965abfb147eeed",
+   "published": "2026-10-15T01:34:08+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "India Top Court to Hear Election Challenge, Delhi Protest Cases",
+   "url": "https://bloomberg.com/news/articles/2026-10-15/india-top-court-to-hear-election-challenge-delhi-protest-cases",
+   "voice": "bloomberg"
+  },
   "media:24c4867402fb401561a2550a": {
    "date": "2026-10-12",
    "fields": [],
@@ -8660,6 +8695,19 @@
    "url": "https://theinformation.com/articles/google-paying-100-digital-publishers-ai-overviews",
    "voice": "information"
   },
+  "media:2d6a52ad3ba62cc32bf0720b": {
+   "date": "2026-10-15",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:2d6a52ad3ba62cc32bf0720b",
+   "published": "2026-10-15T01:41:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Bloomberg Doubles Down on Conversational AI",
+   "url": "https://wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94",
+   "voice": "wsj"
+  },
   "media:2d6e946fdf5411c6a8c0edbc": {
    "date": "2026-10-08",
    "fields": [],
@@ -9947,6 +9995,19 @@
    "url": "https://semiengineering.com/the-faast-track-enabling-advanced-packaging-through-electrical-process-control",
    "voice": "semiconductor_engineering"
   },
+  "media:33f0829980ed4506e5405782": {
+   "date": "2026-10-15",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:33f0829980ed4506e5405782",
+   "published": "2026-10-15T03:21:25+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Anthropic Results May Aid IPO but Not AI Trade, Analysts Say",
+   "url": "https://bloomberg.com/news/articles/2026-10-15/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say",
+   "voice": "bloomberg"
+  },
   "media:33fa0c16c30cb0fc99c4d923": {
    "date": "2026-09-30",
    "fields": [
@@ -10046,6 +10107,17 @@
    "source": "media",
    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
    "url": "https://bloomberg.com/news/videos/2026-10-10/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+   "voice": "bloomberg"
+  },
+  "media:3450fde9e641f01460b29158": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:3450fde9e641f01460b29158",
+   "published": "2026-10-15T01:52:10+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "JPMorgan's Dimon Says Federal Debt May Lead to Bond Volatility, Higher Rates",
+   "url": "https://bloomberg.com/news/videos/2026-10-15/dimon-says-federal-debt-may-lead-to-bond-volatility-video",
    "voice": "bloomberg"
   },
   "media:345620ef2c8147a38f75a7ce": {
@@ -16123,7 +16195,7 @@
    "date": "2026-10-14",
    "fields": [],
    "id": "media:5412c6a4dbc2efcd2f22fbc4",
-   "published": "2026-10-14T20:50:43+00:00",
+   "published": "2026-10-14T11:19:00+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Ukraine says SpaceX hampers drones for attack and defence, as US ties fray",
@@ -16371,6 +16443,17 @@
    "source": "media",
    "title": "We're Back to Normal Rates, Says Ed Yardeni",
    "url": "https://bloomberg.com/news/videos/2026-10-13/we-re-back-to-normal-rates-says-ed-yardeni-video",
+   "voice": "bloomberg"
+  },
+  "media:5524107079a8c6d5e6f21595": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:5524107079a8c6d5e6f21595",
+   "published": "2026-10-15T02:10:20+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Singapore DPM: Must Work Faster to Vie With Wealth Hubs",
+   "url": "https://bloomberg.com/news/videos/2026-10-15/singapore-dpm-must-work-faster-to-vie-with-wealth-hubs-video",
    "voice": "bloomberg"
   },
   "media:552bdd8643f8332e11d565c8": {
@@ -19663,6 +19746,17 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1IxbHBjUGNtaG5yNDRWZGFSZ19FeURma0t3Tk9uZ3BQOTZoMFhHNkhkd0J0cTVpRU85Y2pUeGNpVjd5MzdjOEphWkJOYTVLMzYwWG1BT01qbl9wVFhGTzkydE1SV01WckhBVG85SE1FQ2YxajByOXExNVBiWXhhZExTWXV0Ql9iSGwxWUtsbDZZUGVFMTJTc1BKSVZYVXFaLWk3V29QVlBFdTVDM2dlSkxyekU4ckk",
    "voice": "reuters"
   },
+  "media:649a2f6791dc8a53bfbcece8": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:649a2f6791dc8a53bfbcece8",
+   "published": "2026-10-15T03:22:28+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Iron Ore Trades Below $90 a Ton for First Time Since 2024",
+   "url": "https://bloomberg.com/news/articles/2026-10-15/iron-ore-trades-below-90-a-ton-for-first-time-since-2024",
+   "voice": "bloomberg"
+  },
   "media:64b7ea3fbcbb2546546436fc": {
    "date": "2026-10-03",
    "fields": [],
@@ -19689,7 +19783,7 @@
    "date": "2026-10-14",
    "fields": [],
    "id": "media:64fe5a8e5f91a3bb3b0d67e2",
-   "published": "2026-10-14T19:00:21+00:00",
+   "published": "2026-10-14T19:00:00+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Bond trading weakens for US banks as interest rate volatility affects investors",
@@ -19828,6 +19922,20 @@
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQnFycjVqMnlCdHd3TDVQMVB6S1BDVEc2bUJoUUdFUUM1dTVZUGtYNTl6dFF0V1ZNWTl0YWJ4WGhOejZfQ1VBX0h1Z2JQQVdwR3E3R1VSWlNEWHdzYmRVRzNCOFM0blNCS0pmSkxkSm9EdHpjNEZ4OTM3TG4xdzVaVmZOUmk4S2VaWUR5dExNQk00dkFEa0R3RnNNU3FFTWNCX1o0Q0lxZld4V2hUV29tbXNacTRVQnYzbDZwYUFwTng3TnQ3NUIxTWVUbkNoaU9rcHV1bUItTQ",
    "voice": "reuters"
   },
+  "media:65c10941da7ccdcf6b7ecc8f": {
+   "date": "2026-10-15",
+   "fields": [
+    "ai",
+    "semiconductor"
+   ],
+   "id": "media:65c10941da7ccdcf6b7ecc8f",
+   "published": "2026-10-15T01:01:32+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+   "voice": "techcrunch"
+  },
   "media:65f74a176bdd1b45209c4ff1": {
    "date": "2026-10-09",
    "fields": [],
@@ -19963,7 +20071,7 @@
     "ai"
    ],
    "id": "media:66a946a5639e0f1faa99887f",
-   "published": "2026-10-14T17:12:05+00:00",
+   "published": "2026-10-14T15:21:00+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
@@ -24074,6 +24182,17 @@
    "url": "https://forbes.com/sites/kevinholdenplatt/2026/10/14/from-bunker-hideaways-putin-spins-tales-of-glorious-military-triumphs",
    "voice": "forbes"
   },
+  "media:7bdf6b1e9d32fce3140c3ab6": {
+   "date": "2026-10-14",
+   "fields": [],
+   "id": "media:7bdf6b1e9d32fce3140c3ab6",
+   "published": "2026-10-14T21:51:44+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Rocket Lab pushes Neutron rocket's debut flight to 2027, shares fall",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRU1rLTNKMnhFSW9Za3NhZDVQZFlOM3JMU0pXMGpGNGhtWXdURzIyNGpUNW54ZWxaSUVzaVFVMXdDUno2bGstYnVIRkt5Q3NiVDYwdEFTZXdCUDF2azhLR2E3SHJ1ZjN3ZWpBS3Y2c2NtXzM5TkpJZF94a21DeWJJenBVVldQc1VLN3RBNDNaMVpmNHdsMjd1M1V4bWwwM1kzSkJDb0NpMUpLdGpDT2FCTC1xbVBpVm83V09uQVdhUE5FOEoz",
+   "voice": "reuters"
+  },
   "media:7be980b1d551ccab67bf9236": {
    "date": "2026-10-06",
    "fields": [
@@ -25010,6 +25129,17 @@
    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
    "url": "https://theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
    "voice": "verge"
+  },
+  "media:7fae1d3c323a3c99345f0774": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:7fae1d3c323a3c99345f0774",
+   "published": "2026-10-15T02:18:06+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Philippine Peso Declines Past 63 Per Dollar for First Time",
+   "url": "https://bloomberg.com/news/articles/2026-10-15/philippine-peso-declines-past-63-per-dollar-for-first-time",
+   "voice": "bloomberg"
   },
   "media:7fca7d46337556df24ebc5cd": {
    "date": "2026-10-08",
@@ -26917,6 +27047,19 @@
    "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters",
    "voice": "techcrunch"
   },
+  "media:8a2643953a3ce260bee9f2a4": {
+   "date": "2026-10-15",
+   "fields": [
+    "power"
+   ],
+   "id": "media:8a2643953a3ce260bee9f2a4",
+   "published": "2026-10-15T03:18:19+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Indonesia Swaps Out Electricity Chief After Huge Batam Blackout",
+   "url": "https://bloomberg.com/news/articles/2026-10-15/indonesia-swaps-out-electricity-chief-after-huge-batam-blackout",
+   "voice": "bloomberg"
+  },
   "media:8a3a2b54af2c77fd863ceed9": {
    "date": "2026-10-01",
    "fields": [],
@@ -27005,7 +27148,7 @@
    "published": "2026-10-14T22:04:59+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Stock Selloff Extends to Asia as Chip Rout Deepens: Markets Wrap",
+   "title": "Stock Losses Deepen on Chip Rout, Treasuries Rise: Markets Wrap",
    "url": "https://bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
    "voice": "bloomberg"
   },
@@ -28915,10 +29058,10 @@
     "ai"
    ],
    "id": "media:9472c4b9d808bd885c415c23",
-   "published": "2026-10-14T23:02:55+00:00",
+   "published": "2026-10-14T22:27:00+00:00",
    "publisher": "reuters",
    "source": "media",
-   "title": "Anthropic's Q3 revenue surges 45% to nearly $17 billion",
+   "title": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHl4NDlfRl9CaVdHZzdFMUYzM3Rka2RvbXlYcXR4ZGEwWGt5LS1rSlZmUkx0SFhxMnlCb1AtSElVcWJoT29UX19jcnRlMFpQOW0zOXQ1cXd0eHNpeFZKdkdxM2JCMjZrOXRXTmhWRExOZHY5OGpxcmY1MHJ5QlVRc2hDejdubVcydi1oYmJRc2RKaWRBOWFLbFREY2VEblZ4SVRpdQ",
    "voice": "reuters"
   },
@@ -28950,7 +29093,7 @@
    "date": "2026-10-13",
    "fields": [],
    "id": "media:9488fbfd7a3e0d5258773dcc",
-   "published": "2026-10-13T05:01:00+00:00",
+   "published": "2026-10-13T13:11:28+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Europe's carmakers turn back time to rival Chinese EVs",
@@ -30851,6 +30994,17 @@
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVNGMnNGZVI2RG1rMVlsaUhacllsSFBtN0hvNnEyREViTjBaRjE4TUVrNnUyQkliWGRWSXlMdWQzSnNVSE1pR0cyQ1JqN0FtNW1pTzNoa2JpblJndkpzeVNYQUFURXNWanlzdi1seTRpTWoxUERxZHhOdW40a29uNDJpYXVmaFhfd2x5OTNWOWxQejc4bWR4cGhmcWhmNzN0REtZLTN3b3Y0VlZ2bVMtaTdoTVlLNTVseFFiQ3NSZ3lGWEpNTURtSUNRRlg1ckhTdGp5NFV0RjRVQQ",
    "voice": "reuters"
   },
+  "media:9dd75a89bee67a0201339322": {
+   "date": "2026-10-14",
+   "fields": [],
+   "id": "media:9dd75a89bee67a0201339322",
+   "published": "2026-10-14T21:00:00+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "MUFG Wades Back Into Japanese Bonds With Eye on Policy Risks",
+   "url": "https://bloomberg.com/news/articles/2026-10-14/mufg-wades-back-into-japanese-bonds-with-eye-on-policy-risks",
+   "voice": "bloomberg"
+  },
   "media:9ddb79bfa2a1aaa05991ee6d": {
    "date": "2026-10-07",
    "fields": [],
@@ -31077,6 +31231,17 @@
    "title": "A redesigned Play Store is coming to cars with Google built-in",
    "url": "https://theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
    "voice": "verge"
+  },
+  "media:9ef629751002d7c235c2d739": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:9ef629751002d7c235c2d739",
+   "published": "2026-10-15T02:31:04+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "India’s Bond Market Shows Bets Building for More RBI Rate Hikes",
+   "url": "https://bloomberg.com/news/newsletters/2026-10-15/india-s-bond-market-shows-bets-building-for-more-rbi-rate-hikes",
+   "voice": "bloomberg"
   },
   "media:9f14222573245685498418b3": {
    "date": "2026-09-30",
@@ -33868,6 +34033,19 @@
    "url": "https://forbes.com/councils/forbestechcouncil/2026/10/05/from-productivity-to-capability-rethinking-ai-value",
    "voice": "forbes"
   },
+  "media:af49499384faca9f0773b044": {
+   "date": "2026-10-15",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:af49499384faca9f0773b044",
+   "published": "2026-10-15T02:57:56+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment",
+   "url": "https://bloomberg.com/news/articles/2026-10-15/taiwan-dollar-won-slump-as-chip-stock-selloff-hurts-sentiment",
+   "voice": "bloomberg"
+  },
   "media:af6cd194485ad52b5cde5481": {
    "date": "2026-09-19",
    "fields": [],
@@ -34866,7 +35044,7 @@
    "published": "2026-10-14T22:36:28+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "777 Partners’ Co-Founder Wander Set to Change Plea",
+   "title": "777 Partners’ Co-Founder Josh Wander Set to Change Plea",
    "url": "https://bloomberg.com/news/articles/2026-10-14/777-partners-co-founder-wander-signals-guilty-plea-in-filing",
    "voice": "bloomberg"
   },
@@ -37128,6 +37306,17 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSF9YbjhTWXpyMThsQkFTb2Jjb3JrTzJtOU9GMjRKekRZMHBnbllCT1FObm5uRDBzY1p2NWs1N1hkSGd3ZXgzVXVfd2tEX0UyOTZ3RldFQW0xbFlRWkFrc1NRTDJLUXgyMWRjcnlOb19pSm13Tk9WSUxfUmNDcVRHbi1Gak51ME9ySHRjRUxDWDV4UnNPVFlpM3ZkSHkwcHFQOW5laXFXbmFaSHh5cUV6c09UOVRZVmp3M3ZXWmtPdjl3Mk1TWFdXQ3hzUWZnQUpzWHZrUGQ4VGF3d0U",
    "voice": "reuters"
   },
+  "media:bebb58d526c96ac55d83ef35": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:bebb58d526c96ac55d83ef35",
+   "published": "2026-10-15T01:30:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Oil prices fall as investors weigh supply outlook, Middle East tensions",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ",
+   "voice": "reuters"
+  },
   "media:bebc7e2fd5ad16f23808d447": {
    "date": "2026-10-02",
    "fields": [],
@@ -37629,6 +37818,19 @@
    "title": "Japanese Rivals Study Bids for TK Elevator’s European Assets",
    "url": "https://bloomberg.com/news/articles/2026-10-05/japanese-rivals-study-bids-for-tk-elevator-s-european-assets",
    "voice": "bloomberg"
+  },
+  "media:c10d8d9779009284bf6d82b8": {
+   "date": "2026-10-15",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:c10d8d9779009284bf6d82b8",
+   "published": "2026-10-15T01:52:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "AI Companies Play Cat-and-Mouse With Secret-Stealing Spies",
+   "url": "https://wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b",
+   "voice": "wsj"
   },
   "media:c11eb0f4d16d4393f9c3d6f6": {
    "date": "2026-09-28",
@@ -41889,7 +42091,7 @@
    "published": "2026-10-15T00:08:40+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Chip Rout Deepens as Rate Fears Collide With AI Funding Woes",
+   "title": "Kospi Drops 8% as Samsung, SK Hynix Shares Plunge on AI and Rate Fears",
    "url": "https://bloomberg.com/news/articles/2026-10-15/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt",
    "voice": "bloomberg"
   },
@@ -44459,6 +44661,19 @@
    "title": "Altice International Creditors Sue Firm Over Asset Transfer",
    "url": "https://bloomberg.com/news/articles/2026-10-13/altice-international-creditors-sue-company-over-asset-transfer",
    "voice": "bloomberg"
+  },
+  "media:e026e0ddf8de03c4fdf43d41": {
+   "date": "2026-10-15",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:e026e0ddf8de03c4fdf43d41",
+   "published": "2026-10-15T02:27:17+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation",
+   "url": "https://theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation",
+   "voice": "information"
   },
   "media:e0399938009429819568469d": {
    "date": "2026-10-05",
@@ -49114,6 +49329,17 @@
    "url": "https://bloomberg.com/news/articles/2026-10-09/dollar-s-longest-winning-streak-since-early-2025-keeps-going",
    "voice": "bloomberg"
   },
+  "media:f78141d69295f95553c60de8": {
+   "date": "2026-10-15",
+   "fields": [],
+   "id": "media:f78141d69295f95553c60de8",
+   "published": "2026-10-15T02:15:46+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "IMF APAC Chief Warns of Rising Market Risks",
+   "url": "https://bloomberg.com/news/videos/2026-10-15/imf-apac-chief-warns-of-rising-market-risks-video",
+   "voice": "bloomberg"
+  },
   "media:f7934c3badf1079abe00d054": {
    "date": "2026-10-02",
    "fields": [],
@@ -50538,7 +50764,7 @@
  },
  "publishers": {
   "bloomberg": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "covered",
@@ -50561,13 +50787,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
-   "latest": "2026-10-15T00:53:06+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
+   "latest": "2026-10-15T03:22:28+00:00",
    "received": 20,
    "status": "ok"
   },
   "forbes": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -50589,13 +50815,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
    "latest": "2026-10-15T00:05:35+00:00",
    "received": 25,
    "status": "ok"
   },
   "ieee_spectrum": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-08": "partial",
     "2026-09-09": "covered",
@@ -50638,13 +50864,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
    "latest": "2026-10-14T18:00:03+00:00",
    "received": 27,
    "status": "ok"
   },
   "information": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -50667,13 +50893,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
-   "latest": "2026-10-15T00:28:54+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
+   "latest": "2026-10-15T02:27:17+00:00",
    "received": 20,
    "status": "ok"
   },
   "reuters": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-25": "partial",
     "2026-09-26": "partial",
@@ -50699,13 +50925,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
-   "latest": "2026-10-14T23:33:39+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
+   "latest": "2026-10-15T01:30:00+00:00",
    "received": 100,
    "status": "ok"
   },
   "semiconductor_engineering": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -50732,13 +50958,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
    "latest": "2026-10-14T17:44:17+00:00",
    "received": 10,
    "status": "ok"
   },
   "techcrunch": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -50761,13 +50987,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
-   "latest": "2026-10-15T00:49:31+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
+   "latest": "2026-10-15T01:01:32+00:00",
    "received": 20,
    "status": "ok"
   },
   "utility_dive": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -50794,13 +51020,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
    "latest": "2026-10-14T14:55:47+00:00",
    "received": 10,
    "status": "ok"
   },
   "verge": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -50822,13 +51048,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
    "latest": "2026-10-14T22:53:31+00:00",
    "received": 10,
    "status": "ok"
   },
   "wsj": {
-   "checked_at": "2026-10-15T00:59:54.749952+00:00",
+   "checked_at": "2026-10-15T03:52:42.992471+00:00",
    "coverage": {
     "2026-09-16": "partial",
     "2026-09-17": "covered",
@@ -50863,8 +51089,8 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-15T00:59:54.749952+00:00",
-   "latest": "2026-10-15T00:17:00+00:00",
+   "last_success": "2026-10-15T03:52:42.992471+00:00",
+   "latest": "2026-10-15T01:52:00+00:00",
    "received": 33,
    "status": "ok"
   }

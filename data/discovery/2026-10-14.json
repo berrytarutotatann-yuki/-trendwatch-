@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-14",
  "docs_baseline": 114473,
- "docs_recent": 8200,
+ "docs_recent": 8204,
  "fields": {
   "ai": [
    {
@@ -1241,30 +1241,30 @@
     "examples": [
      {
       "source": "media",
+      "title": "Stocks Slide as AI Rout Drives Investors to Bonds: Markets Wrap"
+     },
+     {
+      "source": "media",
       "title": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector"
      },
      {
       "source": "hn",
       "title": "Chip stocks slide after Broadcom boss likens AI investing to 'casino'"
-     },
-     {
-      "source": "hn",
-      "title": "Tech stocks slide; Wall Street chip rout spreads. SK Hynix, SoftBank, ASML slump"
      }
     ],
     "expected": 0.16,
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 4,
-    "score": 5.36,
+    "recent": 5,
+    "score": 6.76,
     "sources": [
      "hn",
      "media"
     ],
     "term": "stocks slide",
-    "voices": 4,
-    "z": 3.58
+    "voices": 5,
+    "z": 4.51
    },
    {
     "baseline": 6,

@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-15",
  "docs_baseline": 114175,
- "docs_recent": 8230,
+ "docs_recent": 9777,
  "fields": {
   "ai": [
    {
@@ -15,27 +15,27 @@
      },
      {
       "source": "hn",
-      "title": "Show HN: Decision Models in a Game"
+      "title": "Testing Jev and other decision models on search-related tasks"
      },
      {
       "source": "hn",
-      "title": "Fine-tuning decision models – Server Logs and IoT Fleets"
+      "title": "Beyond the leaderboard. Decision models in a real workflow"
      }
     ],
     "expected": 3.27,
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 22,
-    "score": 18.14,
+    "recent": 25,
+    "score": 21.04,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "decision models",
-    "voices": 21,
-    "z": 9.07
+    "voices": 24,
+    "z": 10.52
    },
    {
     "baseline": 3,
@@ -46,26 +46,26 @@
      },
      {
       "source": "hn",
-      "title": "Epic Games Launcher Preview"
+      "title": "Epic Games to Improve Easy Anti-Cheat on Linux Anti-Cheat Systemd Service eBPF"
      },
      {
       "source": "hn",
-      "title": "Epic Games is bragging about their new store being vibe-coded"
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam"
      }
     ],
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 12,
-    "score": 15.89,
+    "recent": 14,
+    "score": 18.59,
     "sources": [
      "hn",
      "media"
     ],
     "term": "epic games",
-    "voices": 11,
-    "z": 10.6
+    "voices": 13,
+    "z": 12.4
    },
    {
     "baseline": 15,
@@ -87,15 +87,15 @@
     "field": "ai",
     "is_new": false,
     "rank": 3,
-    "recent": 15,
-    "score": 14.1,
+    "recent": 16,
+    "score": 15.12,
     "sources": [
      "hn",
      "media"
     ],
     "term": "apple tv",
-    "voices": 6,
-    "z": 9.4
+    "voices": 7,
+    "z": 10.08
    },
    {
     "baseline": 0,
@@ -117,15 +117,45 @@
     "field": "ai",
     "is_new": true,
     "rank": 4,
-    "recent": 9,
-    "score": 13.5,
+    "recent": 10,
+    "score": 15.0,
     "sources": [
      "hn",
      "media"
     ],
     "term": "apple homeview",
-    "voices": 6,
-    "z": 9.0
+    "voices": 7,
+    "z": 10.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
+     },
+     {
+      "source": "hn",
+      "title": "Saudi National Arrested for Installing Surreptitious Recording Device at OpenAI"
+     },
+     {
+      "source": "hn",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 5,
+    "recent": 10,
+    "score": 15.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "recording device",
+    "voices": 10,
+    "z": 10.0
    },
    {
     "baseline": 0,
@@ -146,36 +176,6 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 5,
-    "recent": 9,
-    "score": 13.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "openai employee",
-    "voices": 9,
-    "z": 9.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
-     },
-     {
-      "source": "hn",
-      "title": "Man charged with planting 'sophisticated' recording device in OpenAI office"
-     },
-     {
-      "source": "hn",
-      "title": "OpenAI employee arrested after recording device found in office"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
     "rank": 6,
     "recent": 9,
     "score": 13.5,
@@ -183,7 +183,7 @@
      "hn",
      "media"
     ],
-    "term": "recording device",
+    "term": "openai employee",
     "voices": 9,
     "z": 9.0
    },
@@ -248,65 +248,6 @@
     "z": 7.0
    },
    {
-    "baseline": 41,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Show HN: Eevo – Consequential Decision Model"
-     },
-     {
-      "source": "hn",
-      "title": "Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection"
-     },
-     {
-      "source": "hn",
-      "title": "SubQ Snap – First Long-Context Decision Model for Real Enterprise Work"
-     }
-    ],
-    "expected": 3.19,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 22,
-    "score": 9.19,
-    "sources": [
-     "hn"
-    ],
-    "term": "decision model",
-    "voices": 16,
-    "z": 9.19
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
-     },
-     {
-      "source": "media",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 10,
-    "recent": 6,
-    "score": 9.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "philadelphia police",
-    "voices": 6,
-    "z": 6.0
-   },
-   {
     "baseline": 37,
     "examples": [
      {
@@ -325,16 +266,45 @@
     "expected": 2.88,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
-    "recent": 13,
-    "score": 7.71,
+    "rank": 9,
+    "recent": 15,
+    "score": 9.23,
     "sources": [
      "hn",
      "media"
     ],
     "term": "saudi arabia",
-    "voices": 5,
-    "z": 5.14
+    "voices": 7,
+    "z": 6.16
+   },
+   {
+    "baseline": 41,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "SubQ Snap: A Long-Context Decision Model for Enterprise Agents"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Eevo – Consequential Decision Model"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection"
+     }
+    ],
+    "expected": 3.19,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 22,
+    "score": 9.19,
+    "sources": [
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 16,
+    "z": 9.19
    },
    {
     "baseline": 0,
@@ -355,16 +325,76 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 12,
-    "recent": 5,
-    "score": 7.5,
+    "rank": 11,
+    "recent": 6,
+    "score": 9.0,
     "sources": [
      "hn",
      "media"
     ],
     "term": "character.ai files",
-    "voices": 5,
-    "z": 5.0
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
+     },
+     {
+      "source": "media",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "philadelphia police",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room"
+     },
+     {
+      "source": "hn",
+      "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI engineer booked one-way Saudi flight before arrest"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai engineer",
+    "voices": 6,
+    "z": 5.44
    },
    {
     "baseline": 0,
@@ -385,7 +415,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 13,
+    "rank": 14,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -415,7 +445,7 @@
     "expected": 0.7,
     "field": "ai",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 7,
     "score": 7.25,
     "sources": [
@@ -425,36 +455,6 @@
     "term": "bank of america",
     "voices": 6,
     "z": 4.83
-   },
-   {
-    "baseline": 5,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Modern Warfare 4’s Campaign Unlocks Early On Oct. 16 — Here’s When You Can Play"
-     },
-     {
-      "source": "media",
-      "title": "​Modern Warfare Runs On Code That Can't Be Trusted By Default"
-     },
-     {
-      "source": "media",
-      "title": "Call Of Duty: Modern Warfare 4 Is Almost Here — 10 Things To Know Before Launch"
-     }
-    ],
-    "expected": 0.39,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 6,
-    "score": 7.14,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "modern warfare",
-    "voices": 4,
-    "z": 4.76
    }
   ],
   "other": [
@@ -613,6 +613,35 @@
     "examples": [
      {
       "source": "hn",
+      "title": "Hegseth church allies backed plan for 'public' execution of Fort Hood shooter"
+     },
+     {
+      "source": "hn",
+      "title": "US Military will livestream the firing squad execution of Fort Hood shooter"
+     },
+     {
+      "source": "hn",
+      "title": "Fort Hood shooter's execution will be live-streamed, Defense Dept. says"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "fort hood shooter",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
       "title": "Elisha Wiesel: The Death of the Nobel Peace Prize"
      },
      {
@@ -627,7 +656,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -656,7 +685,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -665,36 +694,6 @@
     "term": "french supermarkets",
     "voices": 6,
     "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Epic’s new games launcher is ‘vibe coded’"
-     },
-     {
-      "source": "hn",
-      "title": "Epic Games Launcher Preview"
-     },
-     {
-      "source": "hn",
-      "title": "Epic Games Launcher and Fortnite with Anti-Cheat on Linux"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 8,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "games launcher",
-    "voices": 4,
-    "z": 4.0
    },
    {
     "baseline": 0,
@@ -851,6 +850,36 @@
     "examples": [
      {
       "source": "media",
+      "title": "Governments are hacking people with ‘zero-click’ spyware by showing them online ads"
+     },
+     {
+      "source": "hn",
+      "title": "'Nightmare Scenario': Zero-Click Spyware Is Infecting Phones via Targeted Ads"
+     },
+     {
+      "source": "hn",
+      "title": "New 'zero-click' spyware hacked phones using targeted ads"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "zero-click spyware",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe"
      },
      {
@@ -865,7 +894,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -875,36 +904,6 @@
     "term": "driving in europe",
     "voices": 4,
     "z": 4.0
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Bumble in Talks to Go Private With Sequoia Partner Gupta’s New Venture"
-     },
-     {
-      "source": "media",
-      "title": "Dating app Bumble in advanced talks to go private at $1 billion valuation, source says"
-     },
-     {
-      "source": "media",
-      "title": "Getty Images plans bankruptcy filing, to go private"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 15,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "go private",
-    "voices": 3,
-    "z": 3.78
    }
   ],
   "power": [
@@ -1089,6 +1088,38 @@
     "z": 3.58
    },
    {
+    "baseline": 272,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
+     },
+     {
+      "source": "media",
+      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption"
+     }
+    ],
+    "expected": 21.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 31,
+    "score": 5.23,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data centers",
+    "voices": 24,
+    "z": 2.09
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -1107,7 +1138,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1137,7 +1168,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1167,7 +1198,7 @@
     "expected": 0.08,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 4,
     "score": 3.78,
     "sources": [
@@ -1178,36 +1209,33 @@
     "z": 3.78
    },
    {
-    "baseline": 272,
+    "baseline": 4,
     "examples": [
      {
-      "source": "media",
-      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny"
+      "source": "hn",
+      "title": "Ukraine strikes fourth Russian data center Sberbank's Balakovo in Saratov region"
      },
      {
-      "source": "media",
-      "title": "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
+      "source": "hn",
+      "title": "Ukraine strikes didn't blow up Russian disinformation on social"
      },
      {
-      "source": "media",
-      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption"
+      "source": "hn",
+      "title": "Yandex: Ukraine strikes data centre in third attack on Russian tech giant"
      }
     ],
-    "expected": 21.16,
+    "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 10,
-    "recent": 28,
-    "score": 3.64,
+    "rank": 11,
+    "recent": 4,
+    "score": 3.22,
     "sources": [
-     "arxiv",
-     "hn",
-     "media",
-     "news"
+     "hn"
     ],
-    "term": "data centers",
-    "voices": 22,
-    "z": 1.45
+    "term": "ukraine strikes",
+    "voices": 4,
+    "z": 3.22
    },
    {
     "baseline": 0,
@@ -1228,7 +1256,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 11,
+    "rank": 12,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1237,6 +1265,97 @@
     "term": "latest energy solutions",
     "voices": 3,
     "z": 3.0
+   },
+   {
+    "baseline": 16,
+    "examples": [
+     {
+      "source": "media",
+      "title": "India wastes 4% of solar power amid power shortages in July, August, report shows"
+     },
+     {
+      "source": "hn",
+      "title": "The still unregulated solar power clouds"
+     },
+     {
+      "source": "arxiv",
+      "title": "PING: physics informed graph neural network for advection-diffusion processes with applications to solar power forecasting"
+     }
+    ],
+    "expected": 1.24,
+    "field": "power",
+    "is_new": false,
+    "rank": 13,
+    "recent": 3,
+    "score": 2.34,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "solar power",
+    "voices": 3,
+    "z": 1.17
+   },
+   {
+    "baseline": 311,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Data Center Moratoriums Show America Built AI Infrastructure Before It Built The Rules."
+     },
+     {
+      "source": "media",
+      "title": "The AI Data Center Race Is A Strategic Contest, Not An IT Project"
+     },
+     {
+      "source": "media",
+      "title": "India's NIIF Eyes $800M Data Center Investment"
+     }
+    ],
+    "expected": 24.19,
+    "field": "power",
+    "is_new": false,
+    "rank": 14,
+    "recent": 30,
+    "score": 2.32,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "data center",
+    "voices": 21,
+    "z": 1.16
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "The Solar System could die one billion times earlier than thought"
+     },
+     {
+      "source": "hn",
+      "title": "Terminal Instability of the Solar System Triggered by Stochastic Solar Mass Loss"
+     },
+     {
+      "source": "hn",
+      "title": "First detection of variable water clouds outside of our solar system"
+     }
+    ],
+    "expected": 1.09,
+    "field": "power",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 2.01,
+    "sources": [
+     "hn"
+    ],
+    "term": "solar system",
+    "voices": 3,
+    "z": 2.01
    }
   ],
   "semiconductor": [
@@ -1331,6 +1450,36 @@
     "z": 4.22
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US"
+     },
+     {
+      "source": "media",
+      "title": "Applied And Lam Are Overlooked Chip Equipment Stocks"
+     },
+     {
+      "source": "hn",
+      "title": "SK Hynix conditions new US factory on more US chip equipment exports to China"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 4,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip equipment",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
     "baseline": 1,
     "examples": [
      {
@@ -1349,7 +1498,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 3,
     "score": 4.22,
     "sources": [
@@ -1359,6 +1508,35 @@
     "term": "nvidia-backed firmus",
     "voices": 3,
     "z": 2.81
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Bolt 74B-A9B"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL 120B A12B"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 5,
+    "score": 3.44,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia nemotron",
+    "voices": 5,
+    "z": 3.44
    },
    {
     "baseline": 35,
@@ -1379,7 +1557,7 @@
     "expected": 2.72,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
+    "rank": 7,
     "recent": 7,
     "score": 3.33,
     "sources": [
@@ -1389,6 +1567,65 @@
     "term": "trump says",
     "voices": 3,
     "z": 2.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Expands Nemotron Family with Highest Efficiency Super VL and Bolt Models"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL 120B A12B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "super vl",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 31,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US chip stocks set to wipe out $2 trillion after latest selloff"
+     },
+     {
+      "source": "media",
+      "title": "S&P 500 Wavers Before Earnings as Chip Stocks Fall: Markets Wrap"
+     },
+     {
+      "source": "hn",
+      "title": "Asia chip stocks fall, AI funding worries"
+     }
+    ],
+    "expected": 2.41,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 2.91,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip stocks",
+    "voices": 6,
+    "z": 1.94
    },
    {
     "baseline": 8,
@@ -1409,7 +1646,7 @@
     "expected": 0.62,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 6,
+    "rank": 10,
     "recent": 3,
     "score": 2.8,
     "sources": [
@@ -1439,7 +1676,7 @@
     "expected": 0.16,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 7,
+    "rank": 11,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1468,7 +1705,7 @@
     "expected": 0.78,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 8,
+    "rank": 12,
     "recent": 3,
     "score": 2.5,
     "sources": [
@@ -1498,7 +1735,7 @@
     "expected": 0.23,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 9,
+    "rank": 13,
     "recent": 3,
     "score": 2.49,
     "sources": [
@@ -1507,36 +1744,6 @@
     "term": "apple silicon macs",
     "voices": 3,
     "z": 2.49
-   },
-   {
-    "baseline": 31,
-    "examples": [
-     {
-      "source": "media",
-      "title": "US chip stocks set to wipe out $2 trillion after latest selloff"
-     },
-     {
-      "source": "media",
-      "title": "S&P 500 Wavers Before Earnings as Chip Stocks Fall: Markets Wrap"
-     },
-     {
-      "source": "hn",
-      "title": "Chip stocks slide after Broadcom boss likens AI investing to 'casino'"
-     }
-    ],
-    "expected": 2.41,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 10,
-    "recent": 5,
-    "score": 2.1,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "chip stocks",
-    "voices": 5,
-    "z": 1.4
    },
    {
     "baseline": 22,
@@ -1557,7 +1764,7 @@
     "expected": 1.71,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 11,
+    "rank": 14,
     "recent": 4,
     "score": 2.09,
     "sources": [

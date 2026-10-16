@@ -1,0 +1,1574 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-15",
+ "docs_baseline": 114174,
+ "docs_recent": 8225,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 42,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Decisions, Decisions: A Guide To The New Wave Of AI Decision Models Besides Jev"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Decision Models in a Game"
+     },
+     {
+      "source": "hn",
+      "title": "Fine-tuning decision models – Server Logs and IoT Fleets"
+     }
+    ],
+    "expected": 3.27,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 22,
+    "score": 18.14,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "decision models",
+    "voices": 21,
+    "z": 9.07
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Fortnite’s Epic Games Goes All In On AI, Saying The Quiet Part Out Loud"
+     },
+     {
+      "source": "hn",
+      "title": "Epic Games Launcher Preview"
+     },
+     {
+      "source": "hn",
+      "title": "Epic Games is bragging about their new store being vibe-coded"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 12,
+    "score": 15.89,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "epic games",
+    "voices": 11,
+    "z": 10.6
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s new Find My-compatible remote will also work with your old Apple TV"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s Smart Home Comeback Now Official With New HomeView, Apple TV And More"
+     }
+    ],
+    "expected": 1.17,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 15,
+    "score": 14.1,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple tv",
+    "voices": 6,
+    "z": 9.4
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The best feature of Apple’s HomeView might be its simplicity"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s HomeView display is now available to preorder"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s HomeView ad is confusing to everyone except parents"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 4,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple homeview",
+    "voices": 6,
+    "z": 9.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Employee Arrested For Allegedly Installing Office Listening Device"
+     },
+     {
+      "source": "media",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 5,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai employee",
+    "voices": 9,
+    "z": 9.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
+     },
+     {
+      "source": "hn",
+      "title": "Man charged with planting 'sophisticated' recording device in OpenAI office"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI employee arrested after recording device found in office"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "recording device",
+    "voices": 9,
+    "z": 9.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Unpacking Meta Muse Wonder And Muse Wonder Full"
+     },
+     {
+      "source": "media",
+      "title": "Meta releases its first frontier model, Muse Wonder"
+     },
+     {
+      "source": "media",
+      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "muse wonder",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room"
+     },
+     {
+      "source": "media",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "conference room",
+    "voices": 6,
+    "z": 7.0
+   },
+   {
+    "baseline": 41,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Eevo – Consequential Decision Model"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection"
+     },
+     {
+      "source": "hn",
+      "title": "SubQ Snap – First Long-Context Decision Model for Real Enterprise Work"
+     }
+    ],
+    "expected": 3.19,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 22,
+    "score": 9.19,
+    "sources": [
+     "hn"
+    ],
+    "term": "decision model",
+    "voices": 16,
+    "z": 9.19
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
+     },
+     {
+      "source": "media",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "philadelphia police",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Attacks in Saudi Arabia prompt finance firms to let staff work from home, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers"
+     },
+     {
+      "source": "media",
+      "title": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks"
+     }
+    ],
+    "expected": 2.88,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 13,
+    "score": 7.71,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "saudi arabia",
+    "voices": 5,
+    "z": 5.14
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"
+     },
+     {
+      "source": "media",
+      "title": "Character.AI files for bankruptcy"
+     },
+     {
+      "source": "media",
+      "title": "Character.ai Files For Bankruptcy, Citing Costs and Litigation"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "character.ai files",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip"
+     },
+     {
+      "source": "hn",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 13,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fake tip",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Breaking Down Bank of America’s Third-Quarter Earnings"
+     },
+     {
+      "source": "media",
+      "title": "Bank of America Fined More Than $1.2 Billion for Money-Laundering"
+     },
+     {
+      "source": "hn",
+      "title": "Bank of America fined $1.2B for money laundering and sanctions violations"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 7,
+    "score": 7.25,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bank of america",
+    "voices": 6,
+    "z": 4.83
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Modern Warfare 4’s Campaign Unlocks Early On Oct. 16 — Here’s When You Can Play"
+     },
+     {
+      "source": "media",
+      "title": "​Modern Warfare Runs On Code That Can't Be Trusted By Default"
+     },
+     {
+      "source": "media",
+      "title": "Call Of Duty: Modern Warfare 4 Is Almost Here — 10 Things To Know Before Launch"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 6,
+    "score": 7.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "modern warfare",
+    "voices": 4,
+    "z": 4.76
+   }
+  ],
+  "other": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food"
+     },
+     {
+      "source": "media",
+      "title": "Cyberattack affected 80 stores of French supermarket chain Co-Operative U"
+     },
+     {
+      "source": "hn",
+      "title": "Investigators hunt French supermarket fridge hackers, no claim of responsibility"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 1,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "french supermarket",
+    "voices": 7,
+    "z": 8.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Getty Images is going private after failed Shutterstock merger"
+     },
+     {
+      "source": "media",
+      "title": "Koch, Getty Families Team Up to Take Getty Images Private in Bankruptcy Deal"
+     },
+     {
+      "source": "media",
+      "title": "Getty Images plans bankruptcy filing, to go private"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "getty images",
+    "voices": 6,
+    "z": 5.44
+   },
+   {
+    "baseline": 16,
+    "examples": [
+     {
+      "source": "media",
+      "title": "My First Impressions of Apple’s New Smart Home Display"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s Smart Home Comeback Now Official With New HomeView, Apple TV And More"
+     },
+     {
+      "source": "media",
+      "title": "Apple makes another push into the smart home market with HomeView"
+     }
+    ],
+    "expected": 1.24,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 9,
+    "score": 7.77,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "smart home",
+    "voices": 7,
+    "z": 5.18
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Justice Department probes TV networks over Trump pool boycott"
+     },
+     {
+      "source": "media",
+      "title": "FCC chief defers to Pentagon on airing US execution on TV networks"
+     },
+     {
+      "source": "media",
+      "title": "Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tv networks",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ukraine says it damaged six Russian military jets in missile strike on airfield"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine says SpaceX hampers drones for attack and defence, as US ties fray"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine says it frees more territory in Donetsk region counteroffensive"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 6.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ukraine says",
+    "voices": 3,
+    "z": 4.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Elisha Wiesel: The Death of the Nobel Peace Prize"
+     },
+     {
+      "source": "hn",
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize"
+     },
+     {
+      "source": "hn",
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nobel peace prize",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Cyberattack Disrupts Refrigeration Systems at French Supermarkets"
+     },
+     {
+      "source": "hn",
+      "title": "French supermarkets suffer refrigerator shutdown after unprecedented cyberattack"
+     },
+     {
+      "source": "hn",
+      "title": "French supermarkets face food crisis after cyberattack hits refrigerators"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "french supermarkets",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Epic’s new games launcher is ‘vibe coded’"
+     },
+     {
+      "source": "hn",
+      "title": "Epic Games Launcher Preview"
+     },
+     {
+      "source": "hn",
+      "title": "Epic Games Launcher and Fortnite with Anti-Cheat on Linux"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "games launcher",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
+     },
+     {
+      "source": "hn",
+      "title": "Drone Strikes Didn't Take Out Russian Bot Farm, but We Were Primed to Believe It"
+     },
+     {
+      "source": "hn",
+      "title": "Why claims that Ukraine drone attack halted Russian bot traffic don't hold up"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian bot",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian Diesel Deal Unlikely to Lower US Prices"
+     },
+     {
+      "source": "media",
+      "title": "Trump's Russian Diesel Deal Draws Ukraine Criticism"
+     },
+     {
+      "source": "hn",
+      "title": "Trump lifts sanctions on Russian diesel"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian diesel",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Stellantis Q3 shipments fall 1%, weighed down by North America production halt"
+     },
+     {
+      "source": "media",
+      "title": "China smartphone shipments fall for sixth straight quarter - IDC"
+     },
+     {
+      "source": "hn",
+      "title": "PC shipments fall 20.1 percent in \"sharpest decline\" since Q1 2023"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "shipments fall",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food"
+     },
+     {
+      "source": "hn",
+      "title": "Cyber attack on French supermarket fridges raises alarm over food security"
+     },
+     {
+      "source": "hn",
+      "title": "Hackers heat French supermarket fridges, sparking fires and food losses"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "supermarket fridges",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Unprecedented Cyberattack Used Malware Ads To Spy On Journalists, Report Says"
+     },
+     {
+      "source": "hn",
+      "title": "French supermarkets suffer refrigerator shutdown after unprecedented cyberattack"
+     },
+     {
+      "source": "hn",
+      "title": "French supermarkets suffer refrigerator shutdown after unprecedented cyberattack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "unprecedented cyberattack",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe"
+     },
+     {
+      "source": "media",
+      "title": "Tesla renames 'Full Self-Driving' to 'Assisted Driving' in Europe as it chases clearance for software"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla Renames FSD to 'Assisted Driving' in Europe"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "driving in europe",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Bumble in Talks to Go Private With Sequoia Partner Gupta’s New Venture"
+     },
+     {
+      "source": "media",
+      "title": "Dating app Bumble in advanced talks to go private at $1 billion valuation, source says"
+     },
+     {
+      "source": "media",
+      "title": "Getty Images plans bankruptcy filing, to go private"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "go private",
+    "voices": 3,
+    "z": 3.78
+   }
+  ],
+  "power": [
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Six deaths confirmed in Florida from Hurricane Isaias, governor says"
+     },
+     {
+      "source": "media",
+      "title": "160K customers without power in Southeastern US as Hurricane Isaias recovery enters third day"
+     },
+     {
+      "source": "media",
+      "title": "Hurricane Isaias May Cost Insurers Billions"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 7,
+    "score": 8.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "hurricane isaias",
+    "voices": 5,
+    "z": 5.84
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Why “Concept Of Operations” Is Vital For Ukraine’s Drone Swarms"
+     },
+     {
+      "source": "media",
+      "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine’s Drone Makers Now Come With A Silicon Valley Price Tag"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 7.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ukraine drone",
+    "voices": 5,
+    "z": 4.76
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Fitbit Edge is for folks who don’t want to go totally screenless"
+     },
+     {
+      "source": "media",
+      "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch"
+     },
+     {
+      "source": "media",
+      "title": "Fitbit Edge At $180: Competitive Tech, A Couple Of Missing Features"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 5,
+    "score": 6.44,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fitbit edge",
+    "voices": 4,
+    "z": 4.29
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Yandex outage probably didn’t blitz Russian bots"
+     },
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     },
+     {
+      "source": "hn",
+      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 4,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian bots",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Central Ukrainian region hit by vast drone attack, killing three"
+     },
+     {
+      "source": "media",
+      "title": "Russia builds major new drone attack base in six weeks, satellite images show"
+     },
+     {
+      "source": "hn",
+      "title": "Why claims that Ukraine drone attack halted Russian bot traffic don't hold up"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "drone attack",
+    "voices": 3,
+    "z": 3.58
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
+     },
+     {
+      "source": "hn",
+      "title": "Drone Strikes Didn't Take Out Russian Bot Farm, but We Were Primed to Believe It"
+     },
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "drone strikes",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Europe’s Leaders Lack Tools to Ease War-Driven Energy Shock"
+     },
+     {
+      "source": "hn",
+      "title": "France accuses Elon Musk of 'online harassment' of Europe leaders"
+     },
+     {
+      "source": "hn",
+      "title": "Europe's leaders abandon the race for frontier AI"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 7,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "europe leaders",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
+     },
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     },
+     {
+      "source": "hn",
+      "title": "Ukrainian strikes on Yandex data centres caused Russian bot activity to plummet?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 8,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strikes on yandex",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     },
+     {
+      "source": "hn",
+      "title": "Ukrainian strikes on Yandex data centres caused Russian bot activity to plummet?"
+     },
+     {
+      "source": "hn",
+      "title": "Drones Hit Third Yandex Data Center Disrupting over 80 Services"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 4,
+    "score": 3.78,
+    "sources": [
+     "hn"
+    ],
+    "term": "yandex data",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 272,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
+     },
+     {
+      "source": "media",
+      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption"
+     }
+    ],
+    "expected": 21.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 28,
+    "score": 3.64,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data centers",
+    "voices": 22,
+    "z": 1.45
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Sigenergy Unveils the Latest Energy Solutions at Malaysia IGEM 2026"
+     },
+     {
+      "source": "news",
+      "title": "Sigenergy Unveils the Latest Energy Solutions at Malaysia IGEM 2026"
+     },
+     {
+      "source": "news",
+      "title": "Sigenergy Unveils the Latest Energy Solutions at Malaysia IGEM 2026"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 11,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "news"
+    ],
+    "term": "latest energy solutions",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Here are all the new HomePod Mini 2 colors"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s HomePod Mini 2 is available to preorder"
+     },
+     {
+      "source": "media",
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 1,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "homepod mini",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Stocks Slide as TSMC Outlook Fails to Ease Bubble Fears"
+     },
+     {
+      "source": "media",
+      "title": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector"
+     },
+     {
+      "source": "hn",
+      "title": "Chip stocks slide after Broadcom boss likens AI investing to 'casino'"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "stocks slide",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops"
+     },
+     {
+      "source": "media",
+      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Bolt: open 74B MoE for local agents on RTX Spark"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 6,
+    "score": 6.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "rtx spark",
+    "voices": 5,
+    "z": 4.22
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia-Backed Firmus IPO Collapses"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia-Backed Firmus Scraps $5 Billion Australia IPO as Markets Wobble"
+     },
+     {
+      "source": "hn",
+      "title": "A failed initial public offering from Nvidia-backed Firmus"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia-backed firmus",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 35,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says advanced defense test range to be located in Montana"
+     },
+     {
+      "source": "media",
+      "title": "Taiwan cites progress on Alaska LNG after Trump says it will buy 30% of output"
+     },
+     {
+      "source": "media",
+      "title": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings"
+     }
+    ],
+    "expected": 2.72,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 3.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump says",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs"
+     },
+     {
+      "source": "hn",
+      "title": "Dgxtop v2: A Terminal Monitor for Nvidia GPUs on Linux and DGX Spark"
+     },
+     {
+      "source": "hn",
+      "title": "GPGPU-SIM – Cycle-Level Simulator for Nvidia GPUs with CUDA or OpenCL Workloads"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 2.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia gpus",
+    "voices": 3,
+    "z": 1.87
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Googlebook OS Magisk demo shows root access could be much easier than thought"
+     },
+     {
+      "source": "hn",
+      "title": "Gbos-VM: Run Googlebook OS in a GPU-Accelerated VM on Apple Silicon Macs"
+     },
+     {
+      "source": "hn",
+      "title": "You can now run Googlebook OS on your Mac, unofficially of course"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "hn"
+    ],
+    "term": "googlebook os",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine’s Drone Makers Now Come With A Silicon Valley Price Tag"
+     },
+     {
+      "source": "hn",
+      "title": "Walmart watchtower: Digital price tag patents speak louder than pledges"
+     }
+    ],
+    "expected": 0.78,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 2.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "price tag",
+    "voices": 3,
+    "z": 1.67
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Synthwave-Tinted Hyprland Desktop for Apple Silicon Macs and Fedora Asahi Remix"
+     },
+     {
+      "source": "hn",
+      "title": "Gbos-VM: Run Googlebook OS in a GPU-Accelerated VM on Apple Silicon Macs"
+     },
+     {
+      "source": "hn",
+      "title": "Mac.apk – Run Android Apps Natively on Apple Silicon Macs"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 2.49,
+    "sources": [
+     "hn"
+    ],
+    "term": "apple silicon macs",
+    "voices": 3,
+    "z": 2.49
+   },
+   {
+    "baseline": 31,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US chip stocks set to wipe out $2 trillion after latest selloff"
+     },
+     {
+      "source": "media",
+      "title": "S&P 500 Wavers Before Earnings as Chip Stocks Fall: Markets Wrap"
+     },
+     {
+      "source": "hn",
+      "title": "Chip stocks slide after Broadcom boss likens AI investing to 'casino'"
+     }
+    ],
+    "expected": 2.41,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 2.1,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip stocks",
+    "voices": 5,
+    "z": 1.4
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How Close Are We To Fully Autonomous Chip Design?"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Nvidia and ChipAgents Launch Evaluation For AI-Powered Chip Design"
+     },
+     {
+      "source": "media",
+      "title": "Why Heat Is Becoming A Bigger Chip Design Issue"
+     }
+    ],
+    "expected": 1.71,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 2.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip design",
+    "voices": 3,
+    "z": 1.39
+   }
+  ]
+ },
+ "recent_days": 7
+}

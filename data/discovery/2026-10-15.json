@@ -1391,6 +1391,36 @@
     "z": 2.22
    },
    {
+    "baseline": 31,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chip Stocks Set for Longest Losing Run Since 2008: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "US chip stocks set to wipe out $2 trillion after latest selloff"
+     },
+     {
+      "source": "media",
+      "title": "S&P 500 Wavers Before Earnings as Chip Stocks Fall: Markets Wrap"
+     }
+    ],
+    "expected": 2.41,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 2.91,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip stocks",
+    "voices": 5,
+    "z": 1.94
+   },
+   {
     "baseline": 8,
     "examples": [
      {
@@ -1409,7 +1439,7 @@
     "expected": 0.62,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 6,
+    "rank": 7,
     "recent": 3,
     "score": 2.8,
     "sources": [
@@ -1439,7 +1469,7 @@
     "expected": 0.16,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1468,7 +1498,7 @@
     "expected": 0.78,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 3,
     "score": 2.5,
     "sources": [
@@ -1498,7 +1528,7 @@
     "expected": 0.23,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 3,
     "score": 2.49,
     "sources": [
@@ -1507,36 +1537,6 @@
     "term": "apple silicon macs",
     "voices": 3,
     "z": 2.49
-   },
-   {
-    "baseline": 31,
-    "examples": [
-     {
-      "source": "media",
-      "title": "US chip stocks set to wipe out $2 trillion after latest selloff"
-     },
-     {
-      "source": "media",
-      "title": "S&P 500 Wavers Before Earnings as Chip Stocks Fall: Markets Wrap"
-     },
-     {
-      "source": "hn",
-      "title": "Chip stocks slide after Broadcom boss likens AI investing to 'casino'"
-     }
-    ],
-    "expected": 2.41,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 10,
-    "recent": 5,
-    "score": 2.1,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "chip stocks",
-    "voices": 5,
-    "z": 1.4
    },
    {
     "baseline": 22,

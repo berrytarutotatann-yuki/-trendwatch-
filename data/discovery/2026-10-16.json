@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-16",
  "docs_baseline": 114491,
- "docs_recent": 8907,
+ "docs_recent": 9896,
  "fields": {
   "ai": [
    {
@@ -192,36 +192,6 @@
     "examples": [
      {
       "source": "media",
-      "title": "Unpacking Meta Muse Wonder And Muse Wonder Full"
-     },
-     {
-      "source": "media",
-      "title": "Meta releases its first frontier model, Muse Wonder"
-     },
-     {
-      "source": "media",
-      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 7,
-    "recent": 8,
-    "score": 12.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "muse wonder",
-    "voices": 8,
-    "z": 8.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
       "title": "The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room"
      },
      {
@@ -236,46 +206,46 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 8,
-    "recent": 7,
-    "score": 10.5,
+    "rank": 7,
+    "recent": 8,
+    "score": 12.0,
     "sources": [
      "hn",
      "media"
     ],
     "term": "conference room",
-    "voices": 6,
-    "z": 7.0
+    "voices": 7,
+    "z": 8.0
    },
    {
-    "baseline": 37,
+    "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "Attacks in Saudi Arabia prompt finance firms to let staff work from home, sources say"
+      "title": "Unpacking Meta Muse Wonder And Muse Wonder Full"
      },
      {
       "source": "media",
-      "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers"
+      "title": "Meta releases its first frontier model, Muse Wonder"
      },
      {
       "source": "media",
-      "title": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks"
+      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI"
      }
     ],
-    "expected": 2.88,
+    "expected": 0.0,
     "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 15,
-    "score": 9.23,
+    "is_new": true,
+    "rank": 8,
+    "recent": 8,
+    "score": 12.0,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "saudi arabia",
-    "voices": 7,
-    "z": 6.16
+    "term": "muse wonder",
+    "voices": 8,
+    "z": 8.0
    },
    {
     "baseline": 0,
@@ -296,16 +266,76 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 10,
-    "recent": 6,
-    "score": 9.0,
+    "rank": 9,
+    "recent": 7,
+    "score": 10.5,
     "sources": [
      "hn",
      "media"
     ],
     "term": "character.ai files",
-    "voices": 6,
-    "z": 6.0
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room"
+     },
+     {
+      "source": "hn",
+      "title": "What we know about the arrest of the Saudi OpenAI engineer"
+     },
+     {
+      "source": "hn",
+      "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 7,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai engineer",
+    "voices": 7,
+    "z": 6.37
+   },
+   {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Attacks in Saudi Arabia prompt finance firms to let staff work from home, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Oil prices gain on attacks in Saudi Arabia, Iran's new tactics to target tankers"
+     },
+     {
+      "source": "media",
+      "title": "Aramco Headquarters Hit as Houthis Widen Saudi Arabia Attacks"
+     }
+    ],
+    "expected": 2.88,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 15,
+    "score": 9.23,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "saudi arabia",
+    "voices": 7,
+    "z": 6.16
    },
    {
     "baseline": 9,
@@ -326,7 +356,7 @@
     "expected": 0.7,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 8,
     "score": 8.4,
     "sources": [
@@ -338,34 +368,34 @@
     "z": 5.6
    },
    {
-    "baseline": 2,
+    "baseline": 51,
     "examples": [
      {
       "source": "media",
-      "title": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room"
+      "title": "Replit is no longer working with Anthropic, CEO says"
      },
      {
-      "source": "hn",
-      "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia"
+      "source": "media",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’"
      },
      {
-      "source": "hn",
-      "title": "OpenAI engineer booked one-way Saudi flight before arrest"
+      "source": "media",
+      "title": "US 10-year Treasury yield levels not unprecedented, BNY CEO says"
      }
     ],
-    "expected": 0.16,
+    "expected": 3.97,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
-    "recent": 6,
-    "score": 8.16,
+    "rank": 13,
+    "recent": 15,
+    "score": 7.43,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "openai engineer",
+    "term": "ceo says",
     "voices": 6,
-    "z": 5.44
+    "z": 4.95
    },
    {
     "baseline": 5,
@@ -386,7 +416,7 @@
     "expected": 0.39,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 6,
     "score": 7.14,
     "sources": [
@@ -416,7 +446,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 5,
     "score": 7.11,
     "sources": [
@@ -426,39 +456,39 @@
     "term": "imf says",
     "voices": 5,
     "z": 4.74
-   },
+   }
+  ],
+  "other": [
    {
-    "baseline": 51,
+    "baseline": 4,
     "examples": [
      {
       "source": "media",
-      "title": "Replit is no longer working with Anthropic, CEO says"
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second"
      },
      {
       "source": "media",
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’"
+      "title": "The incredible flying Tesla Roadster is just for show"
      },
      {
       "source": "media",
-      "title": "US 10-year Treasury yield levels not unprecedented, BNY CEO says"
+      "title": "Ross Gerber on Tesla Roadster, Potential SpaceX Merger"
      }
     ],
-    "expected": 3.97,
-    "field": "ai",
+    "expected": 0.31,
+    "field": "other",
     "is_new": false,
-    "rank": 15,
-    "recent": 14,
-    "score": 6.75,
+    "rank": 1,
+    "recent": 16,
+    "score": 20.55,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "ceo says",
-    "voices": 5,
-    "z": 4.5
-   }
-  ],
-  "other": [
+    "term": "tesla roadster",
+    "voices": 14,
+    "z": 13.7
+   },
    {
     "baseline": 0,
     "examples": [
@@ -478,7 +508,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 1,
+    "rank": 2,
     "recent": 8,
     "score": 12.0,
     "sources": [
@@ -508,7 +538,7 @@
     "expected": 1.24,
     "field": "other",
     "is_new": false,
-    "rank": 2,
+    "rank": 3,
     "recent": 10,
     "score": 8.77,
     "sources": [
@@ -520,34 +550,34 @@
     "z": 5.84
    },
    {
-    "baseline": 2,
+    "baseline": 1,
     "examples": [
      {
       "source": "media",
-      "title": "Getty Images is going private after failed Shutterstock merger"
+      "title": "Time is a-changin’: say goodbye to the leap second"
      },
      {
-      "source": "media",
-      "title": "Koch, Getty Families Team Up to Take Getty Images Private in Bankruptcy Deal"
+      "source": "hn",
+      "title": "The leap second is officially dead"
      },
      {
-      "source": "media",
-      "title": "Getty Images plans bankruptcy filing, to go private"
+      "source": "hn",
+      "title": "World time to drop the leap second from May 2027"
      }
     ],
-    "expected": 0.16,
+    "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 6,
-    "score": 8.16,
+    "score": 8.56,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "getty images",
+    "term": "leap second",
     "voices": 6,
-    "z": 5.44
+    "z": 5.7
    },
    {
     "baseline": 48,
@@ -568,46 +598,46 @@
     "expected": 3.73,
     "field": "other",
     "is_new": false,
-    "rank": 4,
-    "recent": 15,
-    "score": 7.77,
+    "rank": 5,
+    "recent": 16,
+    "score": 8.46,
     "sources": [
      "hn",
      "media"
     ],
     "term": "iphone duo",
-    "voices": 3,
-    "z": 5.18
+    "voices": 4,
+    "z": 5.64
    },
    {
-    "baseline": 4,
+    "baseline": 2,
     "examples": [
      {
       "source": "media",
-      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second"
+      "title": "Getty Images is going private after failed Shutterstock merger"
      },
      {
       "source": "media",
-      "title": "The incredible flying Tesla Roadster is just for show"
+      "title": "Koch, Getty Families Team Up to Take Getty Images Private in Bankruptcy Deal"
      },
      {
       "source": "media",
-      "title": "Ross Gerber on Tesla Roadster, Potential SpaceX Merger"
+      "title": "Getty Images plans bankruptcy filing, to go private"
      }
     ],
-    "expected": 0.31,
+    "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 5,
-    "recent": 5,
-    "score": 6.14,
+    "rank": 6,
+    "recent": 6,
+    "score": 8.16,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "tesla roadster",
-    "voices": 3,
-    "z": 4.09
+    "term": "getty images",
+    "voices": 6,
+    "z": 5.44
    },
    {
     "baseline": 4,
@@ -628,7 +658,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 6,
+    "rank": 7,
     "recent": 5,
     "score": 6.14,
     "sources": [
@@ -658,7 +688,7 @@
     "expected": 2.49,
     "field": "other",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 10,
     "score": 6.03,
     "sources": [
@@ -688,7 +718,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -697,6 +727,36 @@
     "term": "french supermarkets",
     "voices": 6,
     "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "An Israeli firm is sending spyware through online ads, researchers say"
+     },
+     {
+      "source": "media",
+      "title": "Governments are hacking people with ‘zero-click’ spyware by showing them online ads"
+     },
+     {
+      "source": "hn",
+      "title": "Israeli firm used online ads to run spy operation, researchers say"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "online ads",
+    "voices": 4,
+    "z": 4.0
    },
    {
     "baseline": 0,
@@ -717,7 +777,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 9,
+    "rank": 11,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -747,7 +807,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 12,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -755,6 +815,36 @@
      "media"
     ],
     "term": "supermarket fridges",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tesla Unveils its Next Generation Roadster in Acrobatic Demo"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla unveils Roadster by launching it off a ramp before flipping in midair"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla unveils 'flying' Roadster with SpaceX thrusters [video]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla unveils",
     "voices": 4,
     "z": 4.0
    },
@@ -777,7 +867,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 11,
+    "rank": 14,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -807,7 +897,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 15,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -817,99 +907,39 @@
     "term": "zero-click spyware",
     "voices": 4,
     "z": 4.0
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Bumble in Talks to Go Private With Sequoia Partner Gupta’s New Venture"
-     },
-     {
-      "source": "media",
-      "title": "Dating app Bumble in advanced talks to go private at $1 billion valuation, source says"
-     },
-     {
-      "source": "media",
-      "title": "Getty Images plans bankruptcy filing, to go private"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 13,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "go private",
-    "voices": 3,
-    "z": 3.78
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Time is a-changin’: say goodbye to the leap second"
-     },
-     {
-      "source": "hn",
-      "title": "Earth's rotation is wobbly: it could alter the fate of the leap second"
-     },
-     {
-      "source": "hn",
-      "title": "The 'leap second' could disappear"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 14,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "leap second",
-    "voices": 4,
-    "z": 3.78
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "media",
-      "title": "China smartphone shipments fall for sixth straight quarter - IDC"
-     },
-     {
-      "source": "media",
-      "title": "Global smartphone shipments record worst third quarter in 14 years amid memory shortage"
-     },
-     {
-      "source": "hn",
-      "title": "Global Smartphone Shipments Hit a New Low with 20% YoY Decline"
-     }
-    ],
-    "expected": 0.16,
-    "field": "other",
-    "is_new": false,
-    "rank": 15,
-    "recent": 4,
-    "score": 5.36,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "smartphone shipments",
-    "voices": 3,
-    "z": 3.58
    }
   ],
   "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Yandex outage probably didn’t blitz Russian bots"
+     },
+     {
+      "source": "hn",
+      "title": "The Russian Bots Went Silent. Or Did They?"
+     },
+     {
+      "source": "hn",
+      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian bots",
+    "voices": 5,
+    "z": 5.0
+   },
    {
     "baseline": 4,
     "examples": [
@@ -929,7 +959,7 @@
     "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 1,
+    "rank": 2,
     "recent": 5,
     "score": 6.14,
     "sources": [
@@ -939,36 +969,6 @@
     "term": "fitbit edge",
     "voices": 4,
     "z": 4.09
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "The Yandex outage probably didn’t blitz Russian bots"
-     },
-     {
-      "source": "hn",
-      "title": "Did Ukraine's drone strikes on Yandex data centers silence Russian bots?"
-     },
-     {
-      "source": "hn",
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?"
-     }
-    ],
-    "expected": 0.0,
-    "field": "power",
-    "is_new": true,
-    "rank": 2,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "russian bots",
-    "voices": 4,
-    "z": 4.0
    },
    {
     "baseline": 6,
@@ -1061,6 +1061,38 @@
     "z": 3.58
    },
    {
+    "baseline": 273,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
+     },
+     {
+      "source": "media",
+      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption"
+     }
+    ],
+    "expected": 21.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 31,
+    "score": 5.18,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data centers",
+    "voices": 25,
+    "z": 2.07
+   },
+   {
     "baseline": 3,
     "examples": [
      {
@@ -1079,7 +1111,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 6,
+    "rank": 7,
     "recent": 4,
     "score": 5.09,
     "sources": [
@@ -1109,7 +1141,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1139,7 +1171,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1149,38 +1181,6 @@
     "term": "strikes on yandex",
     "voices": 3,
     "z": 3.0
-   },
-   {
-    "baseline": 273,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny"
-     },
-     {
-      "source": "media",
-      "title": "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
-     },
-     {
-      "source": "media",
-      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption"
-     }
-    ],
-    "expected": 21.23,
-    "field": "power",
-    "is_new": false,
-    "rank": 9,
-    "recent": 28,
-    "score": 3.59,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "data centers",
-    "voices": 22,
-    "z": 1.44
    },
    {
     "baseline": 0,
@@ -1272,6 +1272,36 @@
     "z": 1.17
    },
    {
+    "baseline": 47,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Samsung Galaxy Smart Glasses Design Range Outed Ahead Of Release"
+     },
+     {
+      "source": "hn",
+      "title": "Meta confirms smart glasses were recording without being activated"
+     },
+     {
+      "source": "hn",
+      "title": "Meta's smart glasses were recording conversations without the wake phrase"
+     }
+    ],
+    "expected": 3.66,
+    "field": "power",
+    "is_new": false,
+    "rank": 13,
+    "recent": 7,
+    "score": 2.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "smart glasses",
+    "voices": 7,
+    "z": 1.55
+   },
+   {
     "baseline": 5,
     "examples": [
      {
@@ -1290,7 +1320,7 @@
     "expected": 0.39,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 3,
     "score": 2.22,
     "sources": [
@@ -1352,15 +1382,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 6,
-    "score": 6.33,
+    "recent": 8,
+    "score": 8.69,
     "sources": [
      "hn",
      "media"
     ],
     "term": "rtx spark",
-    "voices": 4,
-    "z": 4.22
+    "voices": 5,
+    "z": 5.79
    },
    {
     "baseline": 3,
@@ -1511,33 +1541,33 @@
     "z": 3.0
    },
    {
-    "baseline": 3,
+    "baseline": 54,
     "examples": [
      {
       "source": "hn",
-      "title": "Synthwave-Tinted Hyprland Desktop for Apple Silicon Macs and Fedora Asahi Remix"
+      "title": "Kyutai's stream speech recognition on Apple Silicon with MLX"
      },
      {
       "source": "hn",
-      "title": "Gbos-VM: Run Googlebook OS in a GPU-Accelerated VM on Apple Silicon Macs"
+      "title": "Show HN: MacVisor Runs VMs with VLANs and Firewall on Apple Silicon"
      },
      {
       "source": "hn",
-      "title": "Mac.apk – Run Android Apps Natively on Apple Silicon Macs"
+      "title": "Minions: Dynamic, Distributed VGPU Cloud Built on Idle Apple Silicon Devices"
      }
     ],
-    "expected": 0.23,
+    "expected": 4.2,
     "field": "semiconductor",
     "is_new": false,
     "rank": 8,
-    "recent": 3,
-    "score": 2.49,
+    "recent": 10,
+    "score": 2.54,
     "sources": [
      "hn"
     ],
-    "term": "apple silicon macs",
-    "voices": 3,
-    "z": 2.49
+    "term": "apple silicon",
+    "voices": 10,
+    "z": 2.54
    },
    {
     "baseline": 22,

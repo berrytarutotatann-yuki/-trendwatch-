@@ -47,6 +47,12 @@
   "origin": "auto",
   "score_at_add": 4.5
  },
+ "fitbit edge": {
+  "added": "2026-10-17",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 6.14
+ },
  "force majeure": {
   "added": "2026-10-01",
   "field": "power",
@@ -118,6 +124,12 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 6.14
+ },
+ "russian bots": {
+  "added": "2026-10-17",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 7.5
  },
  "spacex seeks": {
   "added": "2026-10-09",

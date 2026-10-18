@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-17",
  "docs_baseline": 114386,
- "docs_recent": 9261,
+ "docs_recent": 9933,
  "fields": {
   "ai": [
    {
@@ -338,6 +338,36 @@
     "z": 6.16
    },
    {
+    "baseline": 49,
+    "examples": [
+     {
+      "source": "media",
+      "title": "iPhone Duo Release Date: Your Final Schedule For The Foldable Phone’s Launch"
+     },
+     {
+      "source": "media",
+      "title": "All the news about the iPhone Duo"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s iPhone Duo Debut Drives 300% Spike In Samsung Galaxy Z Fold8 Searches"
+     }
+    ],
+    "expected": 3.81,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 17,
+    "score": 9.02,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 5,
+    "z": 6.01
+   },
+   {
     "baseline": 51,
     "examples": [
      {
@@ -356,7 +386,7 @@
     "expected": 3.97,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 17,
     "score": 8.77,
     "sources": [
@@ -386,7 +416,7 @@
     "expected": 0.7,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 8,
     "score": 8.4,
     "sources": [
@@ -398,64 +428,33 @@
     "z": 5.6
    },
    {
-    "baseline": 41,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say"
-     },
-     {
-      "source": "media",
-      "title": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say"
-     },
-     {
-      "source": "media",
-      "title": "FAA set to approve Boeing 737 MAX 10 as soon as next week, sources say"
-     }
-    ],
-    "expected": 3.19,
-    "field": "ai",
-    "is_new": false,
-    "rank": 14,
-    "recent": 13,
-    "score": 7.19,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "sources say",
-    "voices": 3,
-    "z": 4.79
-   },
-   {
     "baseline": 1,
     "examples": [
      {
-      "source": "media",
-      "title": "Europe must boost growth or borrow less to keep debt sustainable, IMF says"
-     },
-     {
-      "source": "media",
-      "title": "Surging Bond Yields Are Top Risk to Financial System, IMF Says"
+      "source": "hn",
+      "title": "Show HN: Scalable source control in Rust, inspired by Anthropic's Scion"
      },
      {
       "source": "hn",
-      "title": "IMF says AI investment keeps global growth around 3%"
+      "title": "Sl – A Scalable, User-Friendly Source Control System"
+     },
+     {
+      "source": "hn",
+      "title": "Redesigning Source Control at Anthropic"
      }
     ],
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
     "rank": 15,
-    "recent": 5,
-    "score": 7.11,
+    "recent": 8,
+    "score": 7.63,
     "sources": [
-     "hn",
-     "media"
+     "hn"
     ],
-    "term": "imf says",
-    "voices": 5,
-    "z": 4.74
+    "term": "source control",
+    "voices": 8,
+    "z": 7.63
    }
   ],
   "other": [
@@ -479,15 +478,15 @@
     "field": "other",
     "is_new": false,
     "rank": 1,
-    "recent": 16,
-    "score": 20.55,
+    "recent": 19,
+    "score": 24.48,
     "sources": [
      "hn",
      "media"
     ],
     "term": "tesla roadster",
-    "voices": 14,
-    "z": 13.7
+    "voices": 17,
+    "z": 16.32
    },
    {
     "baseline": 0,
@@ -520,6 +519,36 @@
     "z": 8.0
    },
    {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Time is a-changin’: say goodbye to the leap second"
+     },
+     {
+      "source": "hn",
+      "title": "Leap second to be scrapped from 2017"
+     },
+     {
+      "source": "hn",
+      "title": "The Leap Second Is No More"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 7,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "leap second",
+    "voices": 7,
+    "z": 6.67
+   },
+   {
     "baseline": 16,
     "examples": [
      {
@@ -538,7 +567,7 @@
     "expected": 1.24,
     "field": "other",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 10,
     "score": 8.77,
     "sources": [
@@ -548,66 +577,6 @@
     "term": "smart home",
     "voices": 7,
     "z": 5.84
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Time is a-changin’: say goodbye to the leap second"
-     },
-     {
-      "source": "hn",
-      "title": "The leap second is officially dead"
-     },
-     {
-      "source": "hn",
-      "title": "World time to drop the leap second from May 2027"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 4,
-    "recent": 6,
-    "score": 8.56,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "leap second",
-    "voices": 6,
-    "z": 5.7
-   },
-   {
-    "baseline": 49,
-    "examples": [
-     {
-      "source": "media",
-      "title": "iPhone Duo Release Date: Your Final Schedule For The Foldable Phone’s Launch"
-     },
-     {
-      "source": "media",
-      "title": "All the news about the iPhone Duo"
-     },
-     {
-      "source": "media",
-      "title": "Apple’s iPhone Duo Debut Drives 300% Spike In Samsung Galaxy Z Fold8 Searches"
-     }
-    ],
-    "expected": 3.81,
-    "field": "other",
-    "is_new": false,
-    "rank": 5,
-    "recent": 16,
-    "score": 8.34,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "iphone duo",
-    "voices": 4,
-    "z": 5.56
    },
    {
     "baseline": 2,
@@ -628,7 +597,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 6,
+    "rank": 5,
     "recent": 6,
     "score": 8.16,
     "sources": [
@@ -638,6 +607,35 @@
     "term": "getty images",
     "voices": 6,
     "z": 5.44
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "The Flying Car Must Never Be Built"
+     },
+     {
+      "source": "hn",
+      "title": "Alef Aeronautics Flying Car [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla unveils what it says is a flying car"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 7,
+    "score": 6.37,
+    "sources": [
+     "hn"
+    ],
+    "term": "flying car",
+    "voices": 7,
+    "z": 6.37
    },
    {
     "baseline": 4,
@@ -1060,6 +1058,36 @@
     "z": 3.39
    },
    {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "BOE Chief Says Energy Shock Delays 2% Inflation Target"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Naftogaz chief says Ukraine's gas reserves hit six-year high ahead of winter"
+     },
+     {
+      "source": "media",
+      "title": "Italy State Lender Chief Says MTS Key in Debt Management"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chief says",
+    "voices": 3,
+    "z": 3.06
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -1078,7 +1106,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1108,7 +1136,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1118,6 +1146,37 @@
     "term": "strikes on yandex",
     "voices": 3,
     "z": 3.0
+   },
+   {
+    "baseline": 276,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
+     },
+     {
+      "source": "media",
+      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption"
+     }
+    ],
+    "expected": 21.47,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 28,
+    "score": 2.76,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "data centers",
+    "voices": 23,
+    "z": 1.38
    },
    {
     "baseline": 2,
@@ -1138,7 +1197,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 10,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1167,7 +1226,7 @@
     "expected": 1.24,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 3,
     "score": 2.34,
     "sources": [
@@ -1177,37 +1236,6 @@
     ],
     "term": "solar power",
     "voices": 3,
-    "z": 1.17
-   },
-   {
-    "baseline": 276,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny"
-     },
-     {
-      "source": "media",
-      "title": "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
-     },
-     {
-      "source": "media",
-      "title": "Reliability standards for AI data centers, crypto miners move closer to adoption"
-     }
-    ],
-    "expected": 21.47,
-    "field": "power",
-    "is_new": false,
-    "rank": 10,
-    "recent": 27,
-    "score": 2.33,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "data centers",
-    "voices": 22,
     "z": 1.17
    },
    {
@@ -1229,7 +1257,7 @@
     "expected": 3.66,
     "field": "power",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 7,
     "score": 2.33,
     "sources": [
@@ -1259,7 +1287,7 @@
     "expected": 0.39,
     "field": "power",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 3,
     "score": 2.22,
     "sources": [

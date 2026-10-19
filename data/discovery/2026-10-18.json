@@ -1062,36 +1062,6 @@
     "examples": [
      {
       "source": "media",
-      "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports"
-     },
-     {
-      "source": "hn",
-      "title": "Musk convinced Trump to slow down Starlink for Ukraine, The Telegraph reports"
-     },
-     {
-      "source": "hn",
-      "title": "Musk suggested Trump restrict Ukraine's Starlink service, Telegraph reports"
-     }
-    ],
-    "expected": 0.0,
-    "field": "power",
-    "is_new": true,
-    "rank": 6,
-    "recent": 3,
-    "score": 4.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "telegraph reports",
-    "voices": 3,
-    "z": 3.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
       "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
      },
      {
@@ -1106,7 +1076,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 7,
+    "rank": 6,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1136,7 +1106,7 @@
     "expected": 0.54,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 7,
     "recent": 4,
     "score": 4.17,
     "sources": [
@@ -1166,7 +1136,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 8,
     "recent": 3,
     "score": 3.74,
     "sources": [
@@ -1196,7 +1166,7 @@
     "expected": 1.24,
     "field": "power",
     "is_new": false,
-    "rank": 10,
+    "rank": 9,
     "recent": 3,
     "score": 2.34,
     "sources": [

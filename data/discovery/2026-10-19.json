@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-19",
  "docs_baseline": 113645,
- "docs_recent": 8969,
+ "docs_recent": 10395,
  "fields": {
   "ai": [
    {
@@ -187,34 +187,34 @@
     "z": 8.0
    },
    {
-    "baseline": 0,
+    "baseline": 51,
     "examples": [
      {
-      "source": "media",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"
+      "source": "arxiv",
+      "title": "Teacher Supervision, Fixed Representations and Calibration: Exact Risk Calculations for Candidate-Scoring Decision Models"
      },
      {
-      "source": "media",
-      "title": "Character.AI files for bankruptcy"
+      "source": "arxiv",
+      "title": "Typed Decision Models under Prevalence Shift: Decision Training, Calibration, and Implicit Priors"
      },
      {
-      "source": "media",
-      "title": "Character.ai Files For Bankruptcy, Citing Costs and Litigation"
+      "source": "arxiv",
+      "title": "Decision4Rec: A Jev-Inspired Framework of Decision Models on Knowledge and Active Graphs for Multi-Agent Recommender Systems"
      }
     ],
-    "expected": 0.0,
+    "expected": 3.97,
     "field": "ai",
-    "is_new": true,
+    "is_new": false,
     "rank": 7,
-    "recent": 7,
-    "score": 10.5,
+    "recent": 21,
+    "score": 11.46,
     "sources": [
-     "hn",
-     "media"
+     "arxiv",
+     "hn"
     ],
-    "term": "character.ai files",
-    "voices": 7,
-    "z": 7.0
+    "term": "decision models",
+    "voices": 21,
+    "z": 7.64
    },
    {
     "baseline": 1,
@@ -225,26 +225,26 @@
      },
      {
       "source": "hn",
-      "title": "What we know about the arrest of the Saudi OpenAI engineer"
+      "title": "Ex OpenAI engineer accused of planting bug was in contact with Saudi royals"
      },
      {
       "source": "hn",
-      "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia"
+      "title": "What we know about the arrest of the Saudi OpenAI engineer"
      }
     ],
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
     "rank": 8,
-    "recent": 7,
-    "score": 10.0,
+    "recent": 8,
+    "score": 11.45,
     "sources": [
      "hn",
      "media"
     ],
     "term": "openai engineer",
-    "voices": 7,
-    "z": 6.67
+    "voices": 8,
+    "z": 7.63
    },
    {
     "baseline": 8,
@@ -266,15 +266,45 @@
     "field": "ai",
     "is_new": false,
     "rank": 9,
-    "recent": 9,
-    "score": 9.87,
+    "recent": 10,
+    "score": 11.04,
     "sources": [
      "hn",
      "media"
     ],
     "term": "export controls",
-    "voices": 8,
-    "z": 6.58
+    "voices": 9,
+    "z": 7.36
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"
+     },
+     {
+      "source": "media",
+      "title": "Character.AI files for bankruptcy"
+     },
+     {
+      "source": "media",
+      "title": "Character.ai Files For Bankruptcy, Citing Costs and Litigation"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "character.ai files",
+    "voices": 7,
+    "z": 7.0
    },
    {
     "baseline": 2,
@@ -295,7 +325,7 @@
     "expected": 0.16,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 7,
     "score": 9.55,
     "sources": [
@@ -325,7 +355,7 @@
     "expected": 0.7,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 9,
     "score": 9.55,
     "sources": [
@@ -337,38 +367,12 @@
     "z": 6.37
    },
    {
-    "baseline": 51,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "To Make, or to Buy: The Economics of Decision Models"
-     },
-     {
-      "source": "hn",
-      "title": "Testing Jev and other decision models on search-related tasks"
-     },
-     {
-      "source": "hn",
-      "title": "Beyond the leaderboard. Decision models in a real workflow"
-     }
-    ],
-    "expected": 3.97,
-    "field": "ai",
-    "is_new": false,
-    "rank": 12,
-    "recent": 17,
-    "score": 8.77,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "decision models",
-    "voices": 17,
-    "z": 5.85
-   },
-   {
     "baseline": 2,
     "examples": [
+     {
+      "source": "hn",
+      "title": "Another reason to be excited about Elon Musk's flying car"
+     },
      {
       "source": "hn",
       "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)"
@@ -376,86 +380,113 @@
      {
       "source": "hn",
       "title": "Show HN: Flying Car AI – make your car or your product fly from one photo"
-     },
-     {
-      "source": "hn",
-      "title": "The Flying Car Must Never Be Built"
      }
     ],
     "expected": 0.16,
     "field": "ai",
     "is_new": false,
     "rank": 13,
-    "recent": 9,
-    "score": 8.23,
+    "recent": 10,
+    "score": 9.16,
     "sources": [
      "hn"
     ],
     "term": "flying car",
-    "voices": 9,
-    "z": 8.23
+    "voices": 10,
+    "z": 9.16
    },
    {
-    "baseline": 52,
+    "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "iPhone Duo Pre-Order Catch-Up: Delivery Dates Leap From December To Launch Day"
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
      },
      {
-      "source": "media",
-      "title": "iPhone Duo Release Date: Your Final Schedule For The Foldable Phone’s Launch"
+      "source": "hn",
+      "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing"
      },
      {
-      "source": "media",
-      "title": "All the news about the iPhone Duo"
+      "source": "hn",
+      "title": "Ex OpenAI engineer accused of planting bug was in contact with Saudi royals"
      }
     ],
-    "expected": 4.04,
+    "expected": 0.0,
     "field": "ai",
-    "is_new": false,
+    "is_new": true,
     "rank": 14,
-    "recent": 16,
-    "score": 7.98,
+    "recent": 6,
+    "score": 9.0,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "iphone duo",
+    "term": "accused of planting",
     "voices": 6,
-    "z": 5.32
+    "z": 6.0
    },
    {
-    "baseline": 1,
+    "baseline": 2,
     "examples": [
      {
-      "source": "hn",
-      "title": "Show HN: Scalable source control in Rust, inspired by Anthropic's Scion"
+      "source": "media",
+      "title": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund"
      },
      {
-      "source": "hn",
-      "title": "Sl – A Scalable, User-Friendly Source Control System"
+      "source": "media",
+      "title": "Anthropic Commits At Least 5% of Shares to New Public Benefit Fund"
      },
      {
-      "source": "hn",
-      "title": "Redesigning Source Control at Anthropic"
+      "source": "media",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
      }
     ],
-    "expected": 0.08,
+    "expected": 0.16,
     "field": "ai",
     "is_new": false,
     "rank": 15,
-    "recent": 8,
-    "score": 7.63,
+    "recent": 6,
+    "score": 8.16,
     "sources": [
-     "hn"
+     "hn",
+     "media"
     ],
-    "term": "source control",
-    "voices": 8,
-    "z": 7.63
+    "term": "public benefit",
+    "voices": 6,
+    "z": 5.44
    }
   ],
   "other": [
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Breaks The All-Time IMDb Review Score Record"
+     },
+     {
+      "source": "media",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
+     },
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Sets Rotten Tomatoes, Letterboxd Review Records"
+     }
+    ],
+    "expected": 0.54,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 9,
+    "score": 10.21,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "see everything",
+    "voices": 6,
+    "z": 6.8
+   },
    {
     "baseline": 2,
     "examples": [
@@ -475,7 +506,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 1,
+    "rank": 2,
     "recent": 7,
     "score": 9.55,
     "sources": [
@@ -505,7 +536,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 2,
+    "rank": 3,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -517,34 +548,64 @@
     "z": 6.0
    },
    {
-    "baseline": 7,
+    "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "‘You Can See Everything’ Breaks The All-Time IMDb Review Score Record"
+      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
      },
+     {
+      "source": "media",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares"
+     },
+     {
+      "source": "hn",
+      "title": "I will give one of my SpaceX shares to every kid in America"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "kid in america",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 10,
+    "examples": [
      {
       "source": "media",
       "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
      },
      {
       "source": "media",
-      "title": "‘You Can See Everything’ Sets Rotten Tomatoes, Letterboxd Review Records"
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder"
+     },
+     {
+      "source": "hn",
+      "title": "In 'You Can See Everything,' Elizabeth Holmes Is Still Lying"
      }
     ],
-    "expected": 0.54,
+    "expected": 0.78,
     "field": "other",
     "is_new": false,
-    "rank": 3,
-    "recent": 6,
-    "score": 6.58,
+    "rank": 5,
+    "recent": 7,
+    "score": 7.0,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "see everything",
-    "voices": 3,
-    "z": 4.39
+    "term": "elizabeth holmes",
+    "voices": 6,
+    "z": 4.67
    },
    {
     "baseline": 18,
@@ -565,7 +626,7 @@
     "expected": 1.4,
     "field": "other",
     "is_new": false,
-    "rank": 4,
+    "rank": 6,
     "recent": 8,
     "score": 6.39,
     "sources": [
@@ -595,7 +656,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 5,
+    "rank": 7,
     "recent": 5,
     "score": 6.14,
     "sources": [
@@ -605,6 +666,36 @@
     "term": "ukraine says",
     "voices": 3,
     "z": 4.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk promises to give one SpaceX share to every child in the US"
+     },
+     {
+      "source": "media",
+      "title": "Musk Vows to Give Each U.S. Child a SpaceX Share"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex share",
+    "voices": 4,
+    "z": 4.0
    },
    {
     "baseline": 0,
@@ -625,7 +716,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 9,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -655,7 +746,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 7,
+    "rank": 10,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -685,7 +776,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 8,
+    "rank": 11,
     "recent": 4,
     "score": 5.36,
     "sources": [
@@ -715,7 +806,7 @@
     "expected": 1.01,
     "field": "other",
     "is_new": false,
-    "rank": 9,
+    "rank": 12,
     "recent": 6,
     "score": 5.28,
     "sources": [
@@ -725,6 +816,35 @@
     "term": "phone number",
     "voices": 6,
     "z": 3.52
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Scientists Find a 'Ghostly Green' Star, and That's Not the Only Crazy Color"
+     },
+     {
+      "source": "hn",
+      "title": "Newly identified green star leaves astronomers amazed"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers say they've discovered the first green star"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "green star",
+    "voices": 5,
+    "z": 5.0
    },
    {
     "baseline": 0,
@@ -745,7 +865,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 14,
     "recent": 5,
     "score": 5.0,
     "sources": [
@@ -774,7 +894,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 11,
+    "rank": 15,
     "recent": 5,
     "score": 5.0,
     "sources": [
@@ -783,158 +903,9 @@
     "term": "ukraine starlink",
     "voices": 5,
     "z": 5.0
-   },
-   {
-    "baseline": 4,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food"
-     },
-     {
-      "source": "media",
-      "title": "Cyberattack affected 80 stores of French supermarket chain Co-Operative U"
-     },
-     {
-      "source": "hn",
-      "title": "Investigators hunt French supermarket fridge hackers, no claim of responsibility"
-     }
-    ],
-    "expected": 0.31,
-    "field": "other",
-    "is_new": false,
-    "rank": 12,
-    "recent": 4,
-    "score": 4.83,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "french supermarket",
-    "voices": 3,
-    "z": 3.22
-   },
-   {
-    "baseline": 10,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
-     },
-     {
-      "source": "media",
-      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder"
-     },
-     {
-      "source": "hn",
-      "title": "Is it a lie if you believe it? This Elizabeth Holmes film is a mind-bender"
-     }
-    ],
-    "expected": 0.78,
-    "field": "other",
-    "is_new": false,
-    "rank": 13,
-    "recent": 5,
-    "score": 4.75,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "elizabeth holmes",
-    "voices": 4,
-    "z": 3.17
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "No more leap seconds Timekeeping is officially changing"
-     },
-     {
-      "source": "hn",
-      "title": "October 15, 2026: The world has decided to get rid of leap seconds"
-     },
-     {
-      "source": "hn",
-      "title": "Timekeepers rethink leap seconds to avoid a \"negative second\""
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 14,
-    "recent": 5,
-    "score": 4.74,
-    "sources": [
-     "hn"
-    ],
-    "term": "leap seconds",
-    "voices": 5,
-    "z": 4.74
-   },
-   {
-    "baseline": 5,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Google makes it easier to launch your vibe-coded apps"
-     },
-     {
-      "source": "media",
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android"
-     },
-     {
-      "source": "hn",
-      "title": "I scanned 155 vibe-coded apps from Show HN for leaked keys and missing headers"
-     }
-    ],
-    "expected": 0.39,
-    "field": "other",
-    "is_new": false,
-    "rank": 15,
-    "recent": 4,
-    "score": 4.6,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "vibe-coded apps",
-    "voices": 4,
-    "z": 3.06
    }
   ],
   "power": [
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
-     },
-     {
-      "source": "hn",
-      "title": "Russian Bot Activity Collapses by 84% After Strikes on Yandex Data Centers"
-     },
-     {
-      "source": "hn",
-      "title": "Drone Strikes Didn't Take Out Russian Bot Farm, but We Were Primed to Believe It"
-     }
-    ],
-    "expected": 0.08,
-    "field": "power",
-    "is_new": false,
-    "rank": 1,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "russian bot",
-    "voices": 4,
-    "z": 3.78
-   },
    {
     "baseline": 13,
     "examples": [
@@ -954,16 +925,76 @@
     "expected": 1.01,
     "field": "power",
     "is_new": false,
-    "rank": 2,
-    "recent": 6,
-    "score": 5.28,
+    "rank": 1,
+    "recent": 7,
+    "score": 6.33,
     "sources": [
      "hn",
      "media"
     ],
     "term": "report says",
+    "voices": 5,
+    "z": 4.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft pulls out of UK Nscale data centre deal over power delay"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Pulls Out of Nscale U.K. Data Center Following Delays"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft pulls",
     "voices": 4,
-    "z": 3.52
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"
+     },
+     {
+      "source": "hn",
+      "title": "Russian Bot Activity Collapses by 84% After Strikes on Yandex Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "Drone Strikes Didn't Take Out Russian Bot Farm, but We Were Primed to Believe It"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian bot",
+    "voices": 4,
+    "z": 3.78
    },
    {
     "baseline": 0,
@@ -984,7 +1015,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 3,
+    "rank": 4,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -994,6 +1025,36 @@
     "term": "europe leaders",
     "voices": 3,
     "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Adaptive Long-range UAV Flight Planning using Monte Carlo Search Trees"
+     },
+     {
+      "source": "hn",
+      "title": "Hash-consing MMDB search trees: 31% smaller files, identical lookups"
+     },
+     {
+      "source": "arxiv",
+      "title": "TreeFlex: Agents Navigating Their Own Search Trees"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "search trees",
+    "voices": 3,
+    "z": 2.81
    },
    {
     "baseline": 1,
@@ -1014,7 +1075,7 @@
     "expected": 0.08,
     "field": "power",
     "is_new": false,
-    "rank": 4,
+    "rank": 6,
     "recent": 3,
     "score": 4.22,
     "sources": [
@@ -1044,7 +1105,7 @@
     "expected": 0.54,
     "field": "power",
     "is_new": false,
-    "rank": 5,
+    "rank": 7,
     "recent": 4,
     "score": 4.17,
     "sources": [
@@ -1074,7 +1135,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 6,
+    "rank": 8,
     "recent": 3,
     "score": 3.74,
     "sources": [
@@ -1104,7 +1165,7 @@
     "expected": 2.57,
     "field": "power",
     "is_new": false,
-    "rank": 7,
+    "rank": 9,
     "recent": 7,
     "score": 3.52,
     "sources": [
@@ -1114,35 +1175,6 @@
     "term": "vibe coded",
     "voices": 7,
     "z": 2.35
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues"
-     },
-     {
-      "source": "media",
-      "title": "Microsoft pulls out of UK Nscale data centre deal over power delay"
-     },
-     {
-      "source": "media",
-      "title": "Microsoft Pulls Out of Nscale U.K. Data Center Following Delays"
-     }
-    ],
-    "expected": 0.0,
-    "field": "power",
-    "is_new": true,
-    "rank": 8,
-    "recent": 3,
-    "score": 3.0,
-    "sources": [
-     "media"
-    ],
-    "term": "microsoft pulls",
-    "voices": 3,
-    "z": 3.0
    },
    {
     "baseline": 2,
@@ -1163,7 +1195,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1172,39 +1204,40 @@
     "term": "russian bots",
     "voices": 3,
     "z": 2.65
-   }
-  ],
-  "semiconductor": [
+   },
    {
-    "baseline": 1,
+    "baseline": 277,
     "examples": [
      {
       "source": "media",
-      "title": "Here are all the new HomePod Mini 2 colors"
+      "title": "A Layperson’s Guide To Data Centers And What’s Next For Them"
      },
      {
       "source": "media",
-      "title": "Apple’s HomePod Mini 2 is available to preorder"
+      "title": "Big Tech Is Soft-Launching Data Centers Early, Bracing for Scrutiny"
      },
      {
       "source": "media",
-      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag"
+      "title": "Exclusive: Mueon Raises $65 Million to Rework How Data Centers Are Put Together"
      }
     ],
-    "expected": 0.08,
-    "field": "semiconductor",
+    "expected": 21.54,
+    "field": "power",
     "is_new": false,
-    "rank": 1,
-    "recent": 5,
-    "score": 7.11,
+    "rank": 11,
+    "recent": 27,
+    "score": 2.3,
     "sources": [
+     "arxiv",
      "hn",
      "media"
     ],
-    "term": "homepod mini",
-    "voices": 4,
-    "z": 4.74
-   },
+    "term": "data centers",
+    "voices": 26,
+    "z": 1.15
+   }
+  ],
+  "semiconductor": [
    {
     "baseline": 10,
     "examples": [
@@ -1224,16 +1257,46 @@
     "expected": 0.78,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 2,
-    "recent": 7,
-    "score": 7.0,
+    "rank": 1,
+    "recent": 8,
+    "score": 8.12,
     "sources": [
      "hn",
      "media"
     ],
     "term": "rtx spark",
-    "voices": 5,
-    "z": 4.67
+    "voices": 6,
+    "z": 5.42
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Here are all the new HomePod Mini 2 colors"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s HomePod Mini 2 is available to preorder"
+     },
+     {
+      "source": "media",
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "homepod mini",
+    "voices": 4,
+    "z": 4.74
    },
    {
     "baseline": 3,
@@ -1296,6 +1359,36 @@
     "z": 3.0
    },
    {
+    "baseline": 38,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support"
+     },
+     {
+      "source": "media",
+      "title": "Trump says Google kisses his ass"
+     },
+     {
+      "source": "media",
+      "title": "Trump Says He Didn’t Order Ukraine Starshield Access Limits"
+     }
+    ],
+    "expected": 2.96,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 8,
+    "score": 3.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump says",
+    "voices": 4,
+    "z": 2.54
+   },
+   {
     "baseline": 32,
     "examples": [
      {
@@ -1314,7 +1407,7 @@
     "expected": 2.49,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 7,
     "score": 3.62,
     "sources": [
@@ -1344,7 +1437,7 @@
     "expected": 0.62,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 6,
+    "rank": 7,
     "recent": 5,
     "score": 3.44,
     "sources": [
@@ -1373,7 +1466,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1382,6 +1475,36 @@
     "term": "super vl",
     "voices": 3,
     "z": 3.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Architecting for HW Diversity: Meta's E2E Co-Design for AI Training on AMD GPUs"
+     },
+     {
+      "source": "hn",
+      "title": "KNOD: Offloading Linux network packet processing to AMD GPUs"
+     },
+     {
+      "source": "arxiv",
+      "title": "Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs"
+     }
+    ],
+    "expected": 0.7,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "amd gpus",
+    "voices": 3,
+    "z": 1.76
    },
    {
     "baseline": 21,
@@ -1402,7 +1525,7 @@
     "expected": 1.63,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 8,
+    "rank": 10,
     "recent": 4,
     "score": 2.19,
     "sources": [
@@ -1412,35 +1535,6 @@
     "term": "chip design",
     "voices": 3,
     "z": 1.46
-   },
-   {
-    "baseline": 38,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support"
-     },
-     {
-      "source": "media",
-      "title": "Trump says Google kisses his ass"
-     },
-     {
-      "source": "media",
-      "title": "Trump Says He Didn’t Order Ukraine Starshield Access Limits"
-     }
-    ],
-    "expected": 2.96,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 9,
-    "recent": 7,
-    "score": 2.03,
-    "sources": [
-     "media"
-    ],
-    "term": "trump says",
-    "voices": 3,
-    "z": 2.03
    }
   ]
  },

@@ -1,0 +1,1242 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-20",
+ "docs_baseline": 114167,
+ "docs_recent": 8781,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ferrari CEO hails Tesla Roadster redesign as the bold innovation the industry needs"
+     },
+     {
+      "source": "media",
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second"
+     },
+     {
+      "source": "media",
+      "title": "The incredible flying Tesla Roadster is just for show"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 22,
+    "score": 28.41,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla roadster",
+    "voices": 20,
+    "z": 18.94
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government"
+     },
+     {
+      "source": "media",
+      "title": "China proposes export controls on solar-manufacturing technologies"
+     },
+     {
+      "source": "media",
+      "title": "China Proposes Export Controls on AI Technology"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 10,
+    "score": 11.04,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "export controls",
+    "voices": 9,
+    "z": 7.36
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "IEA oil stocks release timing is up to individual members, chief says"
+     },
+     {
+      "source": "media",
+      "title": "IEA ready to go if further oil stocks release needed, chief says"
+     },
+     {
+      "source": "media",
+      "title": "ASX Chief Says Australia Risks Falling Behind Asian Finance Hubs"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 8,
+    "score": 9.69,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chief says",
+    "voices": 4,
+    "z": 6.46
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Another reason to be excited about Elon Musk's flying car"
+     },
+     {
+      "source": "hn",
+      "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Flying Car AI – make your car or your product fly from one photo"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 10,
+    "score": 9.16,
+    "sources": [
+     "hn"
+    ],
+    "term": "flying car",
+    "voices": 10,
+    "z": 9.16
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Commits At Least 5% of Shares to New Public Benefit Fund"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "public benefit",
+    "voices": 6,
+    "z": 5.44
+   },
+   {
+    "baseline": 55,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says"
+     },
+     {
+      "source": "media",
+      "title": "Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says"
+     },
+     {
+      "source": "media",
+      "title": "Hormuz could be 'redundant' in five years, replaced by new routes, HSBC CEO says"
+     }
+    ],
+    "expected": 4.28,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 16,
+    "score": 7.65,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ceo says",
+    "voices": 7,
+    "z": 5.1
+   },
+   {
+    "baseline": 56,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Teacher Supervision, Fixed Representations and Calibration: Exact Risk Calculations for Candidate-Scoring Decision Models"
+     },
+     {
+      "source": "arxiv",
+      "title": "Typed Decision Models under Prevalence Shift: Decision Training, Calibration, and Implicit Priors"
+     },
+     {
+      "source": "arxiv",
+      "title": "Decision4Rec: A Jev-Inspired Framework of Decision Models on Knowledge and Active Graphs for Multi-Agent Recommender Systems"
+     }
+    ],
+    "expected": 4.36,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 16,
+    "score": 7.55,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision models",
+    "voices": 16,
+    "z": 5.03
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI employee arrested after recording device found in office"
+     },
+     {
+      "source": "hn",
+      "title": "An OpenAI Employee Used a Chatbot to Plant a Recording Device at the Office"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 7.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai employee",
+    "voices": 6,
+    "z": 4.97
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Bank of America Sees Corporate Bonds Sales in Africa Running at Five-Year High"
+     },
+     {
+      "source": "media",
+      "title": "Bank of America Set to Raise $8 Billion in High-Grade Bond Deal"
+     },
+     {
+      "source": "media",
+      "title": "Breaking Down Bank of America’s Third-Quarter Earnings"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 7,
+    "score": 6.77,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bank of america",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "MuscleMemory: Open-source procedural memory gated on passing tests"
+     },
+     {
+      "source": "arxiv",
+      "title": "Procedural Memory for Language Agents: A Neurosymbolic Perspective on Explicit Goal Structure"
+     },
+     {
+      "source": "hn",
+      "title": "Current memory tools can pass a poisoned run on. Procedural memory can stop it"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "procedural memory",
+    "voices": 4,
+    "z": 4.51
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft"
+     },
+     {
+      "source": "media",
+      "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles"
+     },
+     {
+      "source": "media",
+      "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap"
+     }
+    ],
+    "expected": 1.71,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 9,
+    "score": 6.64,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 5,
+    "z": 4.43
+   },
+   {
+    "baseline": 54,
+    "examples": [
+     {
+      "source": "media",
+      "title": "iPhone Duo Pre-Order Catch-Up: Delivery Dates Leap From December To Launch Day"
+     },
+     {
+      "source": "media",
+      "title": "iPhone Duo Release Date: Your Final Schedule For The Foldable Phone’s Launch"
+     },
+     {
+      "source": "media",
+      "title": "All the news about the iPhone Duo"
+     }
+    ],
+    "expected": 4.2,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 14,
+    "score": 6.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 5,
+    "z": 4.3
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Rout Deepens; Anthropic Revenue Hits $16.8B; Warsh to Speak in Bangkok"
+     },
+     {
+      "source": "hn",
+      "title": "The AI doomers are going off on Anthropic's revenue figures"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Revenue Jumps to $16.8B in Quarter Before IPO"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 6.44,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic revenue",
+    "voices": 5,
+    "z": 4.29
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room"
+     },
+     {
+      "source": "hn",
+      "title": "Ex OpenAI engineer accused of planting bug was in contact with Saudi royals"
+     },
+     {
+      "source": "hn",
+      "title": "What we know about the arrest of the Saudi OpenAI engineer"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 6.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai engineer",
+    "voices": 5,
+    "z": 4.09
+   },
+   {
+    "baseline": 44,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks"
+     },
+     {
+      "source": "media",
+      "title": "Saudi Arabia Postpones FII Summit After Houthi Attacks"
+     },
+     {
+      "source": "media",
+      "title": "Britain says it will carry out defensive air missions over Saudi Arabia"
+     }
+    ],
+    "expected": 3.42,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 12,
+    "score": 6.12,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "saudi arabia",
+    "voices": 7,
+    "z": 4.08
+   }
+  ],
+  "other": [
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Breaks The All-Time IMDb Review Score Record"
+     },
+     {
+      "source": "media",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
+     }
+    ],
+    "expected": 0.54,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 10,
+    "score": 11.41,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "see everything",
+    "voices": 6,
+    "z": 7.61
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Time is a-changin’: say goodbye to the leap second"
+     },
+     {
+      "source": "hn",
+      "title": "The Leap Second Has Been Canceled"
+     },
+     {
+      "source": "hn",
+      "title": "World's Timekeepers Vote to Eliminate the Leap Second"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "leap second",
+    "voices": 7,
+    "z": 6.37
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "An Israeli firm is sending spyware through online ads, researchers say"
+     },
+     {
+      "source": "media",
+      "title": "Governments are hacking people with ‘zero-click’ spyware by showing them online ads"
+     },
+     {
+      "source": "hn",
+      "title": "In Age of Online Ads, Supreme Court Weighs Videotape-Era Privacy Law"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "online ads",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "media",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
+     },
+     {
+      "source": "media",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder"
+     }
+    ],
+    "expected": 0.78,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 8.12,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elizabeth holmes",
+    "voices": 7,
+    "z": 5.42
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Epic’s new games launcher is ‘vibe coded’"
+     },
+     {
+      "source": "hn",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam"
+     },
+     {
+      "source": "hn",
+      "title": "Epic Games Launcher Preview"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "games launcher",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
+     },
+     {
+      "source": "media",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares"
+     },
+     {
+      "source": "hn",
+      "title": "I will give one of my SpaceX shares to every kid in America"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "kid in america",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ukraine says it damaged six Russian military jets in missile strike on airfield"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine says SpaceX hampers drones for attack and defence, as US ties fray"
+     },
+     {
+      "source": "media",
+      "title": "Ukraine says it frees more territory in Donetsk region counteroffensive"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 5,
+    "score": 6.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ukraine says",
+    "voices": 3,
+    "z": 4.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk promises to give one SpaceX share to every child in the US"
+     },
+     {
+      "source": "media",
+      "title": "Musk Vows to Give Each U.S. Child a SpaceX Share"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex share",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tesla Unveils its Next Generation Roadster in Acrobatic Demo"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla unveils Roadster by launching it off a ramp before flipping in midair"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla unveils 'flying' Roadster with SpaceX thrusters [video]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla unveils",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Governments are hacking people with ‘zero-click’ spyware by showing them online ads"
+     },
+     {
+      "source": "hn",
+      "title": "Zero-Click Spyware Is Infecting Phones via Targeted Ads"
+     },
+     {
+      "source": "hn",
+      "title": "New 'zero-click' spyware hacked phones using targeted ads"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "zero-click spyware",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says"
+     },
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX, Tesla Have Formed Committees to Explore Merger"
+     },
+     {
+      "source": "media",
+      "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees"
+     }
+    ],
+    "expected": 1.17,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 7,
+    "score": 5.94,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk says",
+    "voices": 6,
+    "z": 3.96
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "iOS 27 iPhone Handoff Guide: How To Use 1 Phone Number On 2 iPhones"
+     },
+     {
+      "source": "hn",
+      "title": "The One Question I Can't Stand at Restaurants (\"What's your phone number?\")"
+     },
+     {
+      "source": "hn",
+      "title": "Is there a temp phone number like temp email?"
+     }
+    ],
+    "expected": 1.01,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 6,
+    "score": 5.28,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "phone number",
+    "voices": 6,
+    "z": 3.52
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Scientists Find a 'Ghostly Green' Star, and That's Not the Only Crazy Color"
+     },
+     {
+      "source": "hn",
+      "title": "Newly identified green star leaves astronomers amazed"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers say they've discovered the first green star"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "green star",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation"
+     },
+     {
+      "source": "hn",
+      "title": "Musk suggested Trump restrict Ukraine's Starlink service, Telegraph reports"
+     },
+     {
+      "source": "hn",
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "ukraine starlink",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "media",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder"
+     },
+     {
+      "source": "hn",
+      "title": "Nathan Fielder and Lance Oppenheim on You Can See Everything [video]"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nathan fielder",
+    "voices": 4,
+    "z": 3.22
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft pulls out of UK Nscale data centre deal over power delay"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Pulls Out of Nscale U.K. Data Center Following Delays"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft pulls",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Healthcare Is Broken: A New Report Says Patient Advocacy Is The Answer"
+     },
+     {
+      "source": "media",
+      "title": "Italy falling behind 2030 energy transition targets, report says"
+     },
+     {
+      "source": "media",
+      "title": "Fairfax’s Watsa Bets On IDBI Payoff As India Booms, Report Says"
+     }
+    ],
+    "expected": 1.17,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 4.93,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "report says",
+    "voices": 5,
+    "z": 3.28
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Europe’s Leaders Lack Tools to Ease War-Driven Energy Shock"
+     },
+     {
+      "source": "hn",
+      "title": "France accuses Elon Musk of 'online harassment' of Europe leaders"
+     },
+     {
+      "source": "hn",
+      "title": "Europe's leaders abandon the race for frontier AI"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "europe leaders",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "arxiv",
+      "title": "Adaptive Long-range UAV Flight Planning using Monte Carlo Search Trees"
+     },
+     {
+      "source": "hn",
+      "title": "Hash-consing MMDB search trees: 31% smaller files, identical lookups"
+     },
+     {
+      "source": "arxiv",
+      "title": "TreeFlex: Agents Navigating Their Own Search Trees"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "search trees",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 33,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Epic’s new games launcher is ‘vibe coded’"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Vibe coded a city builder set in ancient Rome"
+     },
+     {
+      "source": "hn",
+      "title": "I tried the vibe coded Fusion 360 (it's disappointing) [video]"
+     }
+    ],
+    "expected": 2.57,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 3.52,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "vibe coded",
+    "voices": 7,
+    "z": 2.35
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Russian Bot Activity Collapses by 84% After Strikes on Yandex Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "Drone Strikes Didn't Take Out Russian Bot Farm, but We Were Primed to Believe It"
+     },
+     {
+      "source": "hn",
+      "title": "Why claims that Ukraine drone attack halted Russian bot traffic don't hold up"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "hn"
+    ],
+    "term": "russian bot",
+    "voices": 3,
+    "z": 2.65
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops"
+     },
+     {
+      "source": "media",
+      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia RTX Spark N1X Launch Overview: Nvidia Arms Windows"
+     }
+    ],
+    "expected": 0.47,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 6,
+    "score": 6.85,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia rtx",
+    "voices": 5,
+    "z": 4.57
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Expands Nemotron Family with Highest Efficiency Super VL and Bolt Models"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL 120B A12B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 2,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "super vl",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Architecting for HW Diversity: Meta's E2E Co-Design for AI Training on AMD GPUs"
+     },
+     {
+      "source": "hn",
+      "title": "KNOD: Offloading Linux network packet processing to AMD GPUs"
+     },
+     {
+      "source": "arxiv",
+      "title": "Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs"
+     }
+    ],
+    "expected": 0.7,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "amd gpus",
+    "voices": 3,
+    "z": 1.76
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Bolt 74B-A9B"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL 120B A12B"
+     }
+    ],
+    "expected": 0.7,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 2.53,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia nemotron",
+    "voices": 4,
+    "z": 2.53
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How Close Are We To Fully Autonomous Chip Design?"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Nvidia and ChipAgents Launch Evaluation For AI-Powered Chip Design"
+     },
+     {
+      "source": "media",
+      "title": "Why Heat Is Becoming A Bigger Chip Design Issue"
+     }
+    ],
+    "expected": 1.63,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 2.19,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip design",
+    "voices": 3,
+    "z": 1.46
+   }
+  ]
+ },
+ "recent_days": 7
+}

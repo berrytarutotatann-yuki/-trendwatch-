@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-20",
  "docs_baseline": 114167,
- "docs_recent": 8781,
+ "docs_recent": 8785,
  "fields": {
   "ai": [
    {
@@ -186,6 +186,36 @@
     "z": 5.1
    },
    {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Rise With US Futures on AI Trade, Oil Gains: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles"
+     }
+    ],
+    "expected": 1.71,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 10,
+    "score": 7.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 5,
+    "z": 5.03
+   },
+   {
     "baseline": 56,
     "examples": [
      {
@@ -204,7 +234,7 @@
     "expected": 4.36,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 16,
     "score": 7.55,
     "sources": [
@@ -234,7 +264,7 @@
     "expected": 0.31,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 6,
     "score": 7.45,
     "sources": [
@@ -264,7 +294,7 @@
     "expected": 0.86,
     "field": "ai",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 7,
     "score": 6.77,
     "sources": [
@@ -294,7 +324,7 @@
     "expected": 0.16,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 5,
     "score": 6.76,
     "sources": [
@@ -304,36 +334,6 @@
     "term": "procedural memory",
     "voices": 4,
     "z": 4.51
-   },
-   {
-    "baseline": 22,
-    "examples": [
-     {
-      "source": "media",
-      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft"
-     },
-     {
-      "source": "media",
-      "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles"
-     },
-     {
-      "source": "media",
-      "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap"
-     }
-    ],
-    "expected": 1.71,
-    "field": "ai",
-    "is_new": false,
-    "rank": 11,
-    "recent": 9,
-    "score": 6.64,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai trade",
-    "voices": 5,
-    "z": 4.43
    },
    {
     "baseline": 54,
@@ -758,36 +758,6 @@
     "z": 4.0
    },
    {
-    "baseline": 15,
-    "examples": [
-     {
-      "source": "media",
-      "title": "SpaceX will try catching Starship and its booster for first time, Musk says"
-     },
-     {
-      "source": "media",
-      "title": "Musk Says SpaceX, Tesla Have Formed Committees to Explore Merger"
-     },
-     {
-      "source": "media",
-      "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees"
-     }
-    ],
-    "expected": 1.17,
-    "field": "other",
-    "is_new": false,
-    "rank": 11,
-    "recent": 7,
-    "score": 5.94,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "musk says",
-    "voices": 6,
-    "z": 3.96
-   },
-   {
     "baseline": 13,
     "examples": [
      {
@@ -806,7 +776,7 @@
     "expected": 1.01,
     "field": "other",
     "is_new": false,
-    "rank": 12,
+    "rank": 11,
     "recent": 6,
     "score": 5.28,
     "sources": [
@@ -836,7 +806,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 13,
+    "rank": 12,
     "recent": 5,
     "score": 5.0,
     "sources": [
@@ -865,7 +835,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 14,
+    "rank": 13,
     "recent": 5,
     "score": 5.0,
     "sources": [
@@ -894,7 +864,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 15,
+    "rank": 14,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -904,6 +874,35 @@
     "term": "nathan fielder",
     "voices": 4,
     "z": 3.22
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "No more leap seconds Timekeeping is officially changing"
+     },
+     {
+      "source": "hn",
+      "title": "October 15, 2026: The world has decided to get rid of leap seconds"
+     },
+     {
+      "source": "hn",
+      "title": "Timekeepers rethink leap seconds to avoid a \"negative second\""
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 5,
+    "score": 4.74,
+    "sources": [
+     "hn"
+    ],
+    "term": "leap seconds",
+    "voices": 5,
+    "z": 4.74
    }
   ],
   "power": [
@@ -1089,6 +1088,36 @@
   ],
   "semiconductor": [
    {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says"
+     },
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX, Tesla Have Formed Committees to Explore Merger"
+     },
+     {
+      "source": "media",
+      "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees"
+     }
+    ],
+    "expected": 1.17,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 8,
+    "score": 6.96,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk says",
+    "voices": 6,
+    "z": 4.64
+   },
+   {
     "baseline": 6,
     "examples": [
      {
@@ -1107,7 +1136,7 @@
     "expected": 0.47,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 1,
+    "rank": 2,
     "recent": 6,
     "score": 6.85,
     "sources": [
@@ -1137,7 +1166,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 2,
+    "rank": 3,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1166,7 +1195,7 @@
     "expected": 0.7,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1196,7 +1225,7 @@
     "expected": 0.7,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 4,
     "score": 2.53,
     "sources": [
@@ -1225,7 +1254,7 @@
     "expected": 1.63,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 4,
     "score": 2.19,
     "sources": [

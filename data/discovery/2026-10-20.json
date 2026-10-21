@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-20",
  "docs_baseline": 114167,
- "docs_recent": 8792,
+ "docs_recent": 8795,
  "fields": {
   "ai": [
    {
@@ -186,6 +186,36 @@
     "z": 5.1
    },
    {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Climb as SpaceX Results Reignite AI Trade: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles"
+     }
+    ],
+    "expected": 1.71,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 10,
+    "score": 7.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 5,
+    "z": 5.03
+   },
+   {
     "baseline": 56,
     "examples": [
      {
@@ -204,7 +234,7 @@
     "expected": 4.36,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 16,
     "score": 7.55,
     "sources": [
@@ -234,7 +264,7 @@
     "expected": 0.31,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 6,
     "score": 7.45,
     "sources": [
@@ -264,7 +294,7 @@
     "expected": 0.86,
     "field": "ai",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 7,
     "score": 6.77,
     "sources": [
@@ -294,7 +324,7 @@
     "expected": 0.16,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 5,
     "score": 6.76,
     "sources": [
@@ -304,36 +334,6 @@
     "term": "procedural memory",
     "voices": 4,
     "z": 4.51
-   },
-   {
-    "baseline": 22,
-    "examples": [
-     {
-      "source": "media",
-      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft"
-     },
-     {
-      "source": "media",
-      "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles"
-     },
-     {
-      "source": "media",
-      "title": "Nasdaq 100 Climbs on AI Trade Revival After Rout: Markets Wrap"
-     }
-    ],
-    "expected": 1.71,
-    "field": "ai",
-    "is_new": false,
-    "rank": 11,
-    "recent": 9,
-    "score": 6.64,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai trade",
-    "voices": 5,
-    "z": 4.43
    },
    {
     "baseline": 54,

@@ -29,12 +29,6 @@
   "origin": "auto",
   "score_at_add": 15.46
  },
- "decision models": {
-  "added": "2026-10-01",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 17.32
- },
  "drones hit": {
   "added": "2026-10-14",
   "field": "power",
@@ -59,11 +53,11 @@
   "origin": "auto",
   "score_at_add": 6.14
  },
- "force majeure": {
-  "added": "2026-10-01",
-  "field": "power",
+ "google cloud": {
+  "added": "2026-10-22",
+  "field": "ai",
   "origin": "auto",
-  "score_at_add": 9.0
+  "score_at_add": 12.89
  },
  "homepod mini": {
   "added": "2026-10-14",
@@ -142,6 +136,12 @@
   "field": "power",
   "origin": "auto",
   "score_at_add": 7.5
+ },
+ "spacex and tesla": {
+  "added": "2026-10-22",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 8.16
  },
  "spacex seeks": {
   "added": "2026-10-09",

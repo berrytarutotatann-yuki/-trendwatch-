@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-21",
  "docs_baseline": 114746,
- "docs_recent": 8841,
+ "docs_recent": 8840,
  "fields": {
   "ai": [
    {
@@ -216,6 +216,36 @@
     "z": 5.44
    },
    {
+    "baseline": 23,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Trade Stumbles After Tech Earnings, Oil Rallies: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX Results Reignite AI Trade, Meta Results on Deck"
+     },
+     {
+      "source": "media",
+      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft"
+     }
+    ],
+    "expected": 1.79,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 10,
+    "score": 7.38,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 5,
+    "z": 4.92
+   },
+   {
     "baseline": 47,
     "examples": [
      {
@@ -234,7 +264,7 @@
     "expected": 3.66,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 11,
     "score": 6.81,
     "sources": [
@@ -265,7 +295,7 @@
     "expected": 4.43,
     "field": "ai",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 15,
     "score": 6.8,
     "sources": [
@@ -275,36 +305,6 @@
     "term": "ceo says",
     "voices": 7,
     "z": 4.53
-   },
-   {
-    "baseline": 23,
-    "examples": [
-     {
-      "source": "media",
-      "title": "SpaceX Results Reignite AI Trade, Meta Results on Deck"
-     },
-     {
-      "source": "media",
-      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft"
-     },
-     {
-      "source": "media",
-      "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles"
-     }
-    ],
-    "expected": 1.79,
-    "field": "ai",
-    "is_new": false,
-    "rank": 10,
-    "recent": 9,
-    "score": 6.48,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai trade",
-    "voices": 5,
-    "z": 4.32
    },
    {
     "baseline": 122,

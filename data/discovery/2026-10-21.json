@@ -1,0 +1,1156 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-21",
+ "docs_baseline": 114746,
+ "docs_recent": 8833,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ferrari CEO hails Tesla Roadster redesign as the bold innovation the industry needs"
+     },
+     {
+      "source": "media",
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second"
+     },
+     {
+      "source": "media",
+      "title": "The incredible flying Tesla Roadster is just for show"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 21,
+    "score": 26.23,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla roadster",
+    "voices": 20,
+    "z": 17.49
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government"
+     },
+     {
+      "source": "media",
+      "title": "China proposes export controls on solar-manufacturing technologies"
+     },
+     {
+      "source": "media",
+      "title": "China Proposes Export Controls on AI Technology"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 10,
+    "score": 11.04,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "export controls",
+    "voices": 9,
+    "z": 7.36
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Musk's Fake Flying Car and 'CEO Said a Thing ' Journalism"
+     },
+     {
+      "source": "hn",
+      "title": "Another reason to be excited about Elon Musk's flying car"
+     },
+     {
+      "source": "hn",
+      "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 11,
+    "score": 10.09,
+    "sources": [
+     "hn"
+    ],
+    "term": "flying car",
+    "voices": 11,
+    "z": 10.09
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI to Bring Models to Google Cloud"
+     },
+     {
+      "source": "media",
+      "title": "Google Cloud services largely back up in UK"
+     }
+    ],
+    "expected": 1.48,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 12,
+    "score": 10.03,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "google cloud",
+    "voices": 11,
+    "z": 6.68
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "IEA oil stocks release timing is up to individual members, chief says"
+     },
+     {
+      "source": "media",
+      "title": "IEA ready to go if further oil stocks release needed, chief says"
+     },
+     {
+      "source": "media",
+      "title": "ASX Chief Says Australia Risks Falling Behind Asian Finance Hubs"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 8,
+    "score": 9.69,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chief says",
+    "voices": 4,
+    "z": 6.46
+   },
+   {
+    "baseline": 56,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple says it only has ‘limited’ iPhone Duo units for in-store sales"
+     },
+     {
+      "source": "media",
+      "title": "I can’t get enough of the iPhone Duo’s matte inner display"
+     },
+     {
+      "source": "media",
+      "title": "I reviewed the iPhone Duo, ask me anything"
+     }
+    ],
+    "expected": 4.36,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 19,
+    "score": 9.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 7,
+    "z": 6.33
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Commits At Least 5% of Shares to New Public Benefit Fund"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "public benefit",
+    "voices": 6,
+    "z": 5.44
+   },
+   {
+    "baseline": 47,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Scaling Data Movement For Physical AI"
+     },
+     {
+      "source": "media",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving"
+     },
+     {
+      "source": "media",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’"
+     }
+    ],
+    "expected": 3.66,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 11,
+    "score": 6.81,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "physical ai",
+    "voices": 8,
+    "z": 3.4
+   },
+   {
+    "baseline": 57,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Kuwait Petroleum CEO Says Oil Output Tops 2 Million Barrels a Day"
+     },
+     {
+      "source": "media",
+      "title": "Treasuries Losing Luster as Hedge Tool, Citi Australia CEO Says"
+     },
+     {
+      "source": "media",
+      "title": "Half of OVHcloud capacity is available, AI model launching in early 2027, CEO says"
+     }
+    ],
+    "expected": 4.43,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 15,
+    "score": 6.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ceo says",
+    "voices": 7,
+    "z": 4.53
+   },
+   {
+    "baseline": 23,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX Results Reignite AI Trade, Meta Results on Deck"
+     },
+     {
+      "source": "media",
+      "title": "U.S. Sanctions Five Chinese Entities Linked to Google AI Trade Secret Theft"
+     },
+     {
+      "source": "media",
+      "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles"
+     }
+    ],
+    "expected": 1.79,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 9,
+    "score": 6.48,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 5,
+    "z": 4.32
+   },
+   {
+    "baseline": 122,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk Backs Tesla-SpaceX Mega Merger"
+     },
+     {
+      "source": "media",
+      "title": "Opinion | Elon Musk Blunders in the Indian Market"
+     },
+     {
+      "source": "media",
+      "title": "A SpaceX-Tesla Merger? Why Elon Musk Thinks It’s a Good Idea"
+     }
+    ],
+    "expected": 9.49,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 23,
+    "score": 6.26,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elon musk",
+    "voices": 19,
+    "z": 4.17
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband"
+     },
+     {
+      "source": "hn",
+      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system"
+     },
+     {
+      "source": "hn",
+      "title": "Cop Fired for Letting Her ICE Agent Husband Use Her Flock Login"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ice agent husband",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 45,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US set to announce certification of Boeing 737 MAX 10 on Tuesday, sources say"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: PetroChina set for record trading profit as war upends market, sources say"
+     },
+     {
+      "source": "media",
+      "title": "FAA set to approve Boeing 737 MAX 10 as soon as next week, sources say"
+     }
+    ],
+    "expected": 3.5,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 11,
+    "score": 5.3,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "sources say",
+    "voices": 4,
+    "z": 3.54
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF"
+     },
+     {
+      "source": "hn",
+      "title": "Self-hosted workspace where notes, tasks and AI chats are all items"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 5.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai chats",
+    "voices": 5,
+    "z": 3.44
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Promessas bilionárias marcam reta final de Lula e Flávio Bolsonaro"
+     },
+     {
+      "source": "media",
+      "title": "Brasil: euforia por Flávio Bolsonaro oculta crisis de deuda"
+     },
+     {
+      "source": "hn",
+      "title": "Meta AI creates campaign material for Flávio Bolsonaro and blocks Lula content"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 5.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fl vio",
+    "voices": 3,
+    "z": 3.39
+   }
+  ],
+  "other": [
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Just Broke A 20-Year Box Office Record"
+     },
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Breaks The All-Time IMDb Review Score Record"
+     }
+    ],
+    "expected": 0.54,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 12,
+    "score": 13.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "see everything",
+    "voices": 7,
+    "z": 9.22
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Time is a-changin’: say goodbye to the leap second"
+     },
+     {
+      "source": "hn",
+      "title": "The Leap Second Has Been Canceled"
+     },
+     {
+      "source": "hn",
+      "title": "World's Timekeepers Vote to Eliminate the Leap Second"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "leap second",
+    "voices": 7,
+    "z": 6.37
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "media",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’"
+     },
+     {
+      "source": "media",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder"
+     }
+    ],
+    "expected": 0.78,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 9,
+    "score": 9.25,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elizabeth holmes",
+    "voices": 8,
+    "z": 6.17
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "An Israeli firm is sending spyware through online ads, researchers say"
+     },
+     {
+      "source": "media",
+      "title": "Governments are hacking people with ‘zero-click’ spyware by showing them online ads"
+     },
+     {
+      "source": "hn",
+      "title": "In Age of Online Ads, Supreme Court Weighs Videotape-Era Privacy Law"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "online ads",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Rafnix Guzman on the XERJ Corpus Hub"
+     },
+     {
+      "source": "hn",
+      "title": "Ronit Gupta on the XERJ Corpus Hub"
+     },
+     {
+      "source": "hn",
+      "title": "TC Antony on the XERJ Corpus Hub"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 8,
+    "score": 8.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "xerj corpus hub",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "UK to Send Fighter Jets to Defend Saudi Arabia From Houthi Attacks"
+     },
+     {
+      "source": "media",
+      "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks"
+     },
+     {
+      "source": "media",
+      "title": "Saudi Arabia Postpones FII Summit After Houthi Attacks"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "houthi attacks",
+    "voices": 4,
+    "z": 5.19
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A critical PHP vulnerability may take websites down today"
+     },
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "Upcoming Critical PHP Security Release (CVSSv4 score of 9.2)"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "critical php",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
+     },
+     {
+      "source": "media",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares"
+     },
+     {
+      "source": "hn",
+      "title": "I will give one of my SpaceX shares to every kid in America"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "kid in america",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’"
+     },
+     {
+      "source": "media",
+      "title": "Trump Accounts Helping Financial Literacy: Bartolini"
+     },
+     {
+      "source": "media",
+      "title": "Trump Accounts, Bonds Barometer, ‘Dividend Nomads’"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump accounts",
+    "voices": 3,
+    "z": 4.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Newly identified green star leaves astronomers amazed"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers discover the first ever green star"
+     },
+     {
+      "source": "hn",
+      "title": "Scientists Find a 'Ghostly Green' Star, and That's Not the Only Crazy Color"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "green star",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk ordered slowdown of Starlink service used by Ukraine's military, WSJ reports"
+     },
+     {
+      "source": "hn",
+      "title": "Musk ordered slowdown of Starlink in Ukraine"
+     },
+     {
+      "source": "hn",
+      "title": "Musk ordered Starlink slowdown in Ukraine: WSJ"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk ordered",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk promises to give one SpaceX share to every child in the US"
+     },
+     {
+      "source": "media",
+      "title": "Musk Vows to Give Each U.S. Child a SpaceX Share"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex share",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tesla Unveils its Next Generation Roadster in Acrobatic Demo"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla unveils Roadster by launching it off a ramp before flipping in midair"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla unveils 'flying' Roadster with SpaceX thrusters [video]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla unveils",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Governments are hacking people with ‘zero-click’ spyware by showing them online ads"
+     },
+     {
+      "source": "hn",
+      "title": "Zero-Click Spyware Is Infecting Phones via Targeted Ads"
+     },
+     {
+      "source": "hn",
+      "title": "New 'zero-click' spyware hacked phones using targeted ads"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "zero-click spyware",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian Satellite Raises Space Warfare Fears"
+     },
+     {
+      "source": "hn",
+      "title": "Russian Satellite Makes a Menacing Approach to Another Craft in Orbit"
+     },
+     {
+      "source": "hn",
+      "title": "A Russian satellite is stalking a U.S. spacecraft in orbit"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian satellite",
+    "voices": 4,
+    "z": 3.78
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft pulls out of UK Nscale data centre deal over power delay"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Pulls Out of Nscale U.K. Data Center Following Delays"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft pulls",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Summer-peaking states could save big with heat pumps, report says"
+     },
+     {
+      "source": "media",
+      "title": "Healthcare Is Broken: A New Report Says Patient Advocacy Is The Answer"
+     },
+     {
+      "source": "media",
+      "title": "Italy falling behind 2030 energy transition targets, report says"
+     }
+    ],
+    "expected": 1.17,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 5.94,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "report says",
+    "voices": 6,
+    "z": 3.96
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Lithuania to increase security at critical infrastructure, prime minister says"
+     },
+     {
+      "source": "arxiv",
+      "title": "Make the Adversary Spend More Energy: Generative Deception against Language-Model Attackers in Critical Infrastructure"
+     },
+     {
+      "source": "hn",
+      "title": "Matthew Green: \"take down public firmware images for critical infrastructure\""
+     }
+    ],
+    "expected": 0.54,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 3.95,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "critical infrastructure",
+    "voices": 3,
+    "z": 1.98
+   },
+   {
+    "baseline": 40,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says companies should pay 'dividend' to communities to make data centers popular"
+     },
+     {
+      "source": "media",
+      "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support"
+     },
+     {
+      "source": "media",
+      "title": "Trump says Google kisses his ass"
+     }
+    ],
+    "expected": 3.11,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 7,
+    "score": 2.88,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump says",
+    "voices": 4,
+    "z": 1.92
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops"
+     },
+     {
+      "source": "media",
+      "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia RTX Spark N1X Launch Overview: Nvidia Arms Windows"
+     }
+    ],
+    "expected": 0.47,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 6,
+    "score": 6.85,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia rtx",
+    "voices": 5,
+    "z": 4.57
+   },
+   {
+    "baseline": 16,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says"
+     },
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX, Tesla Have Formed Committees to Explore Merger"
+     },
+     {
+      "source": "media",
+      "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees"
+     }
+    ],
+    "expected": 1.24,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 8,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk says",
+    "voices": 6,
+    "z": 4.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Expands Nemotron Family with Highest Efficiency Super VL and Bolt Models"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super VL 120B A12B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "super vl",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Architecting for HW Diversity: Meta's E2E Co-Design for AI Training on AMD GPUs"
+     },
+     {
+      "source": "hn",
+      "title": "KNOD: Offloading Linux network packet processing to AMD GPUs"
+     },
+     {
+      "source": "arxiv",
+      "title": "Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs"
+     }
+    ],
+    "expected": 0.7,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "amd gpus",
+    "voices": 3,
+    "z": 1.76
+   }
+  ]
+ },
+ "recent_days": 7
+}

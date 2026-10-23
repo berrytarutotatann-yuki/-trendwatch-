@@ -1,0 +1,1185 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-22",
+ "docs_baseline": 115464,
+ "docs_recent": 8686,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ferrari CEO hails Tesla Roadster redesign as the bold innovation the industry needs"
+     },
+     {
+      "source": "media",
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second"
+     },
+     {
+      "source": "media",
+      "title": "The incredible flying Tesla Roadster is just for show"
+     }
+    ],
+    "expected": 0.54,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 21,
+    "score": 24.69,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla roadster",
+    "voices": 20,
+    "z": 16.46
+   },
+   {
+    "baseline": 58,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold"
+     },
+     {
+      "source": "media",
+      "title": "Apple launches into foldable market as iPhone Duo sales begin"
+     },
+     {
+      "source": "media",
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’"
+     }
+    ],
+    "expected": 4.51,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 25,
+    "score": 13.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 9,
+    "z": 8.73
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI to Bring Models to Google Cloud"
+     },
+     {
+      "source": "media",
+      "title": "Google Cloud services largely back up in UK"
+     }
+    ],
+    "expected": 1.48,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 15,
+    "score": 12.89,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "google cloud",
+    "voices": 14,
+    "z": 8.59
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government"
+     },
+     {
+      "source": "media",
+      "title": "China proposes export controls on solar-manufacturing technologies"
+     },
+     {
+      "source": "media",
+      "title": "China Proposes Export Controls on AI Technology"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 9,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "export controls",
+    "voices": 8,
+    "z": 6.37
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Commits At Least 5% of Shares to New Public Benefit Fund"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "public benefit",
+    "voices": 7,
+    "z": 6.37
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Musk's Fake Flying Car and 'CEO Said a Thing ' Journalism"
+     },
+     {
+      "source": "hn",
+      "title": "Another reason to be excited about Elon Musk's flying car"
+     },
+     {
+      "source": "hn",
+      "title": "How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 10,
+    "score": 8.79,
+    "sources": [
+     "hn"
+    ],
+    "term": "flying car",
+    "voices": 10,
+    "z": 8.79
+   },
+   {
+    "baseline": 48,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Boston Dynamics Founder On Physical AI Outlook"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Physical AI Startup Tractian Becomes a Unicorn"
+     },
+     {
+      "source": "media",
+      "title": "Scaling Data Movement For Physical AI"
+     }
+    ],
+    "expected": 3.73,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 13,
+    "score": 8.52,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "physical ai",
+    "voices": 9,
+    "z": 4.26
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "IEA oil stocks release timing is up to individual members, chief says"
+     },
+     {
+      "source": "media",
+      "title": "IEA ready to go if further oil stocks release needed, chief says"
+     },
+     {
+      "source": "media",
+      "title": "ASX Chief Says Australia Risks Falling Behind Asian Finance Hubs"
+     }
+    ],
+    "expected": 0.47,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 7,
+    "score": 8.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chief says",
+    "voices": 4,
+    "z": 5.39
+   },
+   {
+    "baseline": 124,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk invests about $1 billion in Skydance, CNBC reports"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise"
+     }
+    ],
+    "expected": 9.64,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 27,
+    "score": 7.98,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elon musk",
+    "voices": 22,
+    "z": 5.32
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Claude Duet app is Anthropic’s bet on agents"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic opens research preview of Claude Duet, a agent for professionals"
+     },
+     {
+      "source": "hn",
+      "title": "Claude Duet"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude duet",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 25,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Barclays to Cut 5K Jobs, AI Trade Stumbles After Tech Earnings"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Fall as Meta and Tesla Earnings Fail to Support AI Trade"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX Results Reignite AI Trade, Meta Results on Deck"
+     }
+    ],
+    "expected": 1.94,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 9,
+    "score": 6.17,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 4,
+    "z": 4.11
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband"
+     },
+     {
+      "source": "hn",
+      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system"
+     },
+     {
+      "source": "hn",
+      "title": "Cop Fired for Letting Her ICE Agent Husband Use Her Flock Login"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ice agent husband",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 67,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "How to Use Decision Models for Evals"
+     },
+     {
+      "source": "hn",
+      "title": "Mammoth-1 and Elephant-1 decision models by Base Labs"
+     },
+     {
+      "source": "hn",
+      "title": "Base Labs releases top-ranked decision models mammoth-1 and and elephant-1"
+     }
+    ],
+    "expected": 5.21,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 14,
+    "score": 5.29,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision models",
+    "voices": 14,
+    "z": 3.53
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF"
+     },
+     {
+      "source": "hn",
+      "title": "Self-hosted workspace where notes, tasks and AI chats are all items"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 5.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai chats",
+    "voices": 5,
+    "z": 3.44
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "MuscleMemory: Open-source procedural memory gated on passing tests"
+     },
+     {
+      "source": "arxiv",
+      "title": "Procedural Memory for Language Agents: A Neurosymbolic Perspective on Explicit Goal Structure"
+     },
+     {
+      "source": "hn",
+      "title": "Current memory tools can pass a poisoned run on. Procedural memory can stop it"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 5.09,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "procedural memory",
+    "voices": 3,
+    "z": 3.39
+   }
+  ],
+  "other": [
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elizabeth Holmes’ Partner’s Blood Testing Startup Has Lost Its CTO"
+     },
+     {
+      "source": "media",
+      "title": "The Wall Street Journal Investigation That Exposed Elizabeth Holmes"
+     },
+     {
+      "source": "media",
+      "title": "Watch Elizabeth Holmes Lie To Forbes About Theranos"
+     }
+    ],
+    "expected": 0.78,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 14,
+    "score": 14.88,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elizabeth holmes",
+    "voices": 10,
+    "z": 9.92
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Just Broke A 20-Year Box Office Record"
+     },
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Breaks The All-Time IMDb Review Score Record"
+     }
+    ],
+    "expected": 0.54,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 12,
+    "score": 13.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "see everything",
+    "voices": 7,
+    "z": 9.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Bugra Akdemir on the XERJ Corpus Hub"
+     },
+     {
+      "source": "hn",
+      "title": "Smallchat (Jev as Judge) on the XERJ Corpus Hub"
+     },
+     {
+      "source": "hn",
+      "title": "Augusto Domingos on the XERJ Corpus Hub"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 11,
+    "score": 11.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "xerj corpus hub",
+    "voices": 11,
+    "z": 11.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A critical PHP vulnerability may take websites down today"
+     },
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "Potential third critical PHP CVE"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "critical php",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case"
+     },
+     {
+      "source": "media",
+      "title": "Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case"
+     },
+     {
+      "source": "media",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta ordered",
+    "voices": 6,
+    "z": 6.67
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears"
+     },
+     {
+      "source": "media",
+      "title": "UK to Send Fighter Jets to Defend Saudi Arabia From Houthi Attacks"
+     },
+     {
+      "source": "media",
+      "title": "Saudi Arabia Delays Flagship Investment Summit to 2027 After Houthi Attacks"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "houthi attacks",
+    "voices": 4,
+    "z": 6.09
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "media",
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder"
+     },
+     {
+      "source": "hn",
+      "title": "I wish you didn't want to see Nathan Fielder's Elizabeth Holmes documentary"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 7,
+    "score": 8.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nathan fielder",
+    "voices": 7,
+    "z": 5.84
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
+     },
+     {
+      "source": "media",
+      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps"
+     },
+     {
+      "source": "hn",
+      "title": "Republican lawmaker vows \"consequences\" for Musk over Ukraine's Starlink access"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ukraine starlink",
+    "voices": 6,
+    "z": 5.44
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Private key compromise of eMudhra Intermediate Certificates"
+     },
+     {
+      "source": "hn",
+      "title": "eMudhra Intermediate Certificates Compromised"
+     },
+     {
+      "source": "hn",
+      "title": "eMudhra Intermediate CA Compromise"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 8,
+    "score": 8.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "emudhra intermediate",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "Today's PHP security release, and how we're strengthening security"
+     },
+     {
+      "source": "hn",
+      "title": "What the PHP2Shell rumors got wrong, from inside the PHP security team"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php security",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A critical PHP vulnerability may take websites down today"
+     },
+     {
+      "source": "hn",
+      "title": "There isn't an easy exploit for this PHP vulnerability"
+     },
+     {
+      "source": "hn",
+      "title": "PHP Vulnerability – Helper Tool"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php vulnerability",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
+     },
+     {
+      "source": "media",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares"
+     },
+     {
+      "source": "hn",
+      "title": "I will give one of my SpaceX shares to every kid in America"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "kid in america",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Time is a-changin’: say goodbye to the leap second"
+     },
+     {
+      "source": "hn",
+      "title": "Removing the Leap Second"
+     },
+     {
+      "source": "hn",
+      "title": "The Leap Second Has Been Canceled"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 6,
+    "score": 7.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "leap second",
+    "voices": 6,
+    "z": 4.97
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says"
+     },
+     {
+      "source": "media",
+      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says"
+     },
+     {
+      "source": "hn",
+      "title": "Elon Musk confirms talks to merge Tesla and SpaceX"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla and spacex",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’"
+     },
+     {
+      "source": "media",
+      "title": "Trump Accounts Helping Financial Literacy: Bartolini"
+     },
+     {
+      "source": "media",
+      "title": "Trump Accounts, Bonds Barometer, ‘Dividend Nomads’"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump accounts",
+    "voices": 3,
+    "z": 4.51
+   }
+  ],
+  "power": [
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘Gears Of War: E-Day’ Cost Xbox $500 Million, Report Says"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
+     },
+     {
+      "source": "media",
+      "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says"
+     }
+    ],
+    "expected": 1.32,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 8,
+    "score": 6.57,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "report says",
+    "voices": 6,
+    "z": 4.38
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft pulls out of UK Nscale data centre deal over power delay"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Pulls Out of Nscale U.K. Data Center Following Delays"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft pulls",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 41,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
+     },
+     {
+      "source": "media",
+      "title": "Trump says companies should pay 'dividend' to communities to make data centers popular"
+     },
+     {
+      "source": "media",
+      "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support"
+     }
+    ],
+    "expected": 3.19,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 8,
+    "score": 3.53,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump says",
+    "voices": 5,
+    "z": 2.35
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Data centers could erase decades of air quality gains"
+     },
+     {
+      "source": "hn",
+      "title": "Texas data center boom could erase decades of progress on air quality"
+     },
+     {
+      "source": "arxiv",
+      "title": "AirMPA: A Meteorology-to-Pollution Adapter for Global Air Quality Forecasting"
+     }
+    ],
+    "expected": 0.78,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.33,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "air quality",
+    "voices": 3,
+    "z": 1.67
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "German Gas Use Hits Nine-Month High as Cold Boosts Power Demand"
+     },
+     {
+      "source": "media",
+      "title": "Utilities turn to AI to manage rising power demand — from AI"
+     },
+     {
+      "source": "media",
+      "title": "Half of India's coal plants run critically low on fuel as power demand surges"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 2.22,
+    "sources": [
+     "media"
+    ],
+    "term": "power demand",
+    "voices": 3,
+    "z": 2.22
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean."
+     },
+     {
+      "source": "media",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX and Tesla boards form special committees to review merger"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 8,
+    "score": 10.95,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex and tesla",
+    "voices": 8,
+    "z": 7.3
+   },
+   {
+    "baseline": 16,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says"
+     },
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX, Tesla Have Formed Committees to Explore Merger"
+     }
+    ],
+    "expected": 1.24,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 11,
+    "score": 9.77,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk says",
+    "voices": 8,
+    "z": 6.51
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops"
+     },
+     {
+      "source": "hn",
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia RTX Spark N1X Launch Overview: Nvidia Arms Windows"
+     }
+    ],
+    "expected": 1.01,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 5,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "rtx spark",
+    "voices": 5,
+    "z": 2.81
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia RTX Spark N1X Launch Overview: Nvidia Arms Windows"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia RTX Spark: AI Platform, Laptop Chip and DLSS 5"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia RTX Spark PCs Released"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 2.65,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia rtx",
+    "voices": 4,
+    "z": 2.65
+   }
+  ]
+ },
+ "recent_days": 7
+}

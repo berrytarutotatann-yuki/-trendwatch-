@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-22",
  "docs_baseline": 115464,
- "docs_recent": 8691,
+ "docs_recent": 8693,
  "fields": {
   "ai": [
    {
@@ -37,36 +37,6 @@
     "z": 16.46
    },
    {
-    "baseline": 58,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold"
-     },
-     {
-      "source": "media",
-      "title": "Apple launches into foldable market as iPhone Duo sales begin"
-     },
-     {
-      "source": "media",
-      "title": "Apple will label apps that are ‘Made for iPhone Duo’"
-     }
-    ],
-    "expected": 4.51,
-    "field": "ai",
-    "is_new": false,
-    "rank": 2,
-    "recent": 25,
-    "score": 13.09,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "iphone duo",
-    "voices": 9,
-    "z": 8.73
-   },
-   {
     "baseline": 19,
     "examples": [
      {
@@ -85,7 +55,7 @@
     "expected": 1.48,
     "field": "ai",
     "is_new": false,
-    "rank": 3,
+    "rank": 2,
     "recent": 15,
     "score": 12.89,
     "sources": [
@@ -95,6 +65,36 @@
     "term": "google cloud",
     "voices": 14,
     "z": 8.59
+   },
+   {
+    "baseline": 58,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold"
+     },
+     {
+      "source": "media",
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’"
+     },
+     {
+      "source": "media",
+      "title": "Delta can turn the iPhone Duo into your favorite folding handheld"
+     }
+    ],
+    "expected": 4.51,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 24,
+    "score": 12.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 9,
+    "z": 8.3
    },
    {
     "baseline": 9,

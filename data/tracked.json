@@ -59,6 +59,12 @@
   "origin": "auto",
   "score_at_add": 12.89
  },
+ "gtc berlin": {
+  "added": "2026-10-23",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 4.5
+ },
  "homepod mini": {
   "added": "2026-10-14",
   "field": "semiconductor",
@@ -107,12 +113,6 @@
   "origin": "auto",
   "score_at_add": 6.85
  },
- "release diesel": {
-  "added": "2026-10-02",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 6.0
- },
  "report says": {
   "added": "2026-10-20",
   "field": "power",
@@ -149,17 +149,17 @@
   "origin": "auto",
   "score_at_add": 6.0
  },
- "spacex starship": {
-  "added": "2026-10-02",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 11.41
- },
  "stocks slide": {
   "added": "2026-10-15",
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 5.36
+ },
+ "strikes on russian": {
+  "added": "2026-10-23",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 31.88
  },
  "super intelligence": {
   "added": "2026-10-04",

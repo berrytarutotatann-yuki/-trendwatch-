@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-22",
  "docs_baseline": 115464,
- "docs_recent": 8693,
+ "docs_recent": 10398,
  "fields": {
   "ai": [
    {
@@ -26,15 +26,15 @@
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 21,
-    "score": 24.69,
+    "recent": 22,
+    "score": 25.9,
     "sources": [
      "hn",
      "media"
     ],
     "term": "tesla roadster",
-    "voices": 20,
-    "z": 16.46
+    "voices": 21,
+    "z": 17.26
    },
    {
     "baseline": 19,
@@ -56,15 +56,46 @@
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 15,
-    "score": 12.89,
+    "recent": 16,
+    "score": 18.45,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "google cloud",
+    "voices": 15,
+    "z": 9.23
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A critical PHP vulnerability may take websites down today"
+     },
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "AI found a critical PHP flaw. The bigger failure began in 2024"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 10,
+    "score": 15.0,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "google cloud",
-    "voices": 14,
-    "z": 8.59
+    "term": "critical php",
+    "voices": 10,
+    "z": 10.0
    },
    {
     "baseline": 58,
@@ -85,7 +116,7 @@
     "expected": 4.51,
     "field": "ai",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 24,
     "score": 12.45,
     "sources": [
@@ -115,16 +146,16 @@
     "expected": 0.7,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
-    "recent": 9,
-    "score": 9.55,
+    "rank": 5,
+    "recent": 10,
+    "score": 10.7,
     "sources": [
      "hn",
      "media"
     ],
     "term": "export controls",
-    "voices": 8,
-    "z": 6.37
+    "voices": 9,
+    "z": 7.13
    },
    {
     "baseline": 2,
@@ -145,7 +176,7 @@
     "expected": 0.16,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 7,
     "score": 9.55,
     "sources": [
@@ -155,6 +186,36 @@
     "term": "public benefit",
     "voices": 7,
     "z": 6.37
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Claude Duet app is Anthropic’s bet on agents"
+     },
+     {
+      "source": "hn",
+      "title": "I built a \"Claude Duet\" by hand a year ago. Here's what Anthropic got right"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic opens research preview of Claude Duet, a agent for professionals"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude duet",
+    "voices": 6,
+    "z": 6.0
    },
    {
     "baseline": 3,
@@ -175,7 +236,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 6,
+    "rank": 8,
     "recent": 10,
     "score": 8.79,
     "sources": [
@@ -204,7 +265,7 @@
     "expected": 3.73,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
+    "rank": 9,
     "recent": 13,
     "score": 8.52,
     "sources": [
@@ -235,7 +296,7 @@
     "expected": 0.47,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
+    "rank": 10,
     "recent": 7,
     "score": 8.09,
     "sources": [
@@ -247,214 +308,156 @@
     "z": 5.39
    },
    {
-    "baseline": 124,
+    "baseline": 1091,
     "examples": [
      {
       "source": "media",
-      "title": "Elon Musk made a $1B investment in Skydance, report says"
+      "title": "1Password Surpasses $500 Million in Revenue as AI Agents Drive Growth"
      },
      {
       "source": "media",
-      "title": "Elon Musk invests about $1 billion in Skydance, CNBC reports"
+      "title": "1Password lets AI agents use your passwords without seeing them"
      },
      {
       "source": "media",
-      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise"
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password"
      }
     ],
-    "expected": 9.64,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 27,
-    "score": 7.98,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "elon musk",
-    "voices": 22,
-    "z": 5.32
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Claude Duet app is Anthropic’s bet on agents"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic opens research preview of Claude Duet, a agent for professionals"
-     },
-     {
-      "source": "hn",
-      "title": "Claude Duet"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 10,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "claude duet",
-    "voices": 5,
-    "z": 5.0
-   },
-   {
-    "baseline": 25,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Barclays to Cut 5K Jobs, AI Trade Stumbles After Tech Earnings"
-     },
-     {
-      "source": "media",
-      "title": "Stocks Fall as Meta and Tesla Earnings Fail to Support AI Trade"
-     },
-     {
-      "source": "media",
-      "title": "SpaceX Results Reignite AI Trade, Meta Results on Deck"
-     }
-    ],
-    "expected": 1.94,
+    "expected": 84.86,
     "field": "ai",
     "is_new": false,
     "rank": 11,
-    "recent": 9,
-    "score": 6.17,
+    "recent": 122,
+    "score": 8.02,
     "sources": [
+     "arxiv",
      "hn",
      "media"
     ],
-    "term": "ai trade",
-    "voices": 4,
-    "z": 4.11
+    "term": "ai agents",
+    "voices": 105,
+    "z": 4.01
    },
    {
     "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "A Savannah police officer gave her Flock login to her ICE agent husband"
+      "title": "China Moves to Prop Up Stocks With Selling Curbs, Buybacks"
      },
      {
-      "source": "hn",
-      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system"
+      "source": "media",
+      "title": "China Moves to Restrict Exports of Some Solar Technologies"
      },
      {
-      "source": "hn",
-      "title": "Cop Fired for Letting Her ICE Agent Husband Use Her Flock Login"
+      "source": "media",
+      "title": "Tesla Showcases Roadster, China Moves to Prop Up Stocks"
      }
     ],
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
     "rank": 12,
-    "recent": 4,
-    "score": 6.0,
+    "recent": 5,
+    "score": 7.5,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "ice agent husband",
+    "term": "china moves",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "CoreWeave debt selloff poses limited risk to global banks, J.P. Morgan says"
+     },
+     {
+      "source": "media",
+      "title": "Insurers Pump Over $740 Million Into CoreWeave Debt Tied to Meta"
+     },
+     {
+      "source": "media",
+      "title": "How CoreWeave’s Debt Binge Brought a Moment of Reckoning"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 13,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "coreweave debt",
     "voices": 4,
-    "z": 4.0
+    "z": 5.0
+   },
+   {
+    "baseline": 66,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft pulls out of UK Nscale data centre deal over power delay"
+     },
+     {
+      "source": "media",
+      "title": "Schneider Electric raises 2026 targets again on booming data centre demand"
+     },
+     {
+      "source": "news",
+      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+     }
+    ],
+    "expected": 5.13,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 14,
+    "score": 7.16,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data centre",
+    "voices": 13,
+    "z": 3.58
    },
    {
     "baseline": 67,
     "examples": [
      {
       "source": "hn",
-      "title": "How to Use Decision Models for Evals"
+      "title": "Mammoth-1 and Elephant-1: frontier decision models"
      },
      {
-      "source": "hn",
-      "title": "Mammoth-1 and Elephant-1 decision models by Base Labs"
+      "source": "arxiv",
+      "title": "How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification"
      },
      {
-      "source": "hn",
-      "title": "Base Labs releases top-ranked decision models mammoth-1 and and elephant-1"
+      "source": "arxiv",
+      "title": "RetiJev: Fast and Source-Grounded Ophthalmic Decision Models"
      }
     ],
     "expected": 5.21,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
-    "recent": 14,
-    "score": 5.29,
+    "rank": 15,
+    "recent": 17,
+    "score": 7.1,
     "sources": [
      "arxiv",
      "hn"
     ],
     "term": "decision models",
-    "voices": 14,
-    "z": 3.53
-   },
-   {
-    "baseline": 8,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web"
-     },
-     {
-      "source": "hn",
-      "title": "Show HN: AIExportHub – bulk export AI chats to Notion, Markdown, and PDF"
-     },
-     {
-      "source": "hn",
-      "title": "Self-hosted workspace where notes, tasks and AI chats are all items"
-     }
-    ],
-    "expected": 0.62,
-    "field": "ai",
-    "is_new": false,
-    "rank": 14,
-    "recent": 5,
-    "score": 5.16,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai chats",
-    "voices": 5,
-    "z": 3.44
-   },
-   {
-    "baseline": 3,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "MuscleMemory: Open-source procedural memory gated on passing tests"
-     },
-     {
-      "source": "arxiv",
-      "title": "Procedural Memory for Language Agents: A Neurosymbolic Perspective on Explicit Goal Structure"
-     },
-     {
-      "source": "hn",
-      "title": "Current memory tools can pass a poisoned run on. Procedural memory can stop it"
-     }
-    ],
-    "expected": 0.23,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 4,
-    "score": 5.09,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "procedural memory",
-    "voices": 3,
-    "z": 3.39
+    "voices": 17,
+    "z": 4.73
    }
   ],
   "other": [
@@ -548,36 +551,6 @@
     "z": 11.0
    },
    {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "A critical PHP vulnerability may take websites down today"
-     },
-     {
-      "source": "media",
-      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
-     },
-     {
-      "source": "hn",
-      "title": "Potential third critical PHP CVE"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 4,
-    "recent": 7,
-    "score": 10.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "critical php",
-    "voices": 7,
-    "z": 7.0
-   },
-   {
     "baseline": 1,
     "examples": [
      {
@@ -596,7 +569,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 5,
+    "rank": 4,
     "recent": 7,
     "score": 10.0,
     "sources": [
@@ -606,6 +579,36 @@
     "term": "meta ordered",
     "voices": 6,
     "z": 6.67
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
+     },
+     {
+      "source": "media",
+      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ukraine starlink",
+    "voices": 7,
+    "z": 6.37
    },
    {
     "baseline": 3,
@@ -638,6 +641,95 @@
     "z": 6.09
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Protecting Firefox Users After eMudhra Intermediate Certificates Compromise"
+     },
+     {
+      "source": "hn",
+      "title": "Explainging the eMudhra Intermediate CAs Compromised – Cycle.io"
+     },
+     {
+      "source": "hn",
+      "title": "Private key compromise of eMudhra Intermediate Certificates"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 9,
+    "score": 9.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "emudhra intermediate",
+    "voices": 9,
+    "z": 9.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "Hetzner: PHP security issues CVE-2026-109618 and CVE-2026-109619"
+     },
+     {
+      "source": "hn",
+      "title": "Today's PHP security release, and how we're strengthening security"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php security",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The disastrous PHP vulnerabilities were exploited days before the patch"
+     },
+     {
+      "source": "hn",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: Have the PHP vulnerabilities been exploited?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php vulnerabilities",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
     "baseline": 4,
     "examples": [
      {
@@ -656,7 +748,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 7,
+    "rank": 10,
     "recent": 7,
     "score": 8.76,
     "sources": [
@@ -668,91 +760,62 @@
     "z": 5.84
    },
    {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
-     },
-     {
-      "source": "media",
-      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps"
-     },
-     {
-      "source": "hn",
-      "title": "Republican lawmaker vows \"consequences\" for Musk over Ukraine's Starlink access"
-     }
-    ],
-    "expected": 0.16,
-    "field": "other",
-    "is_new": false,
-    "rank": 8,
-    "recent": 6,
-    "score": 8.16,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ukraine starlink",
-    "voices": 6,
-    "z": 5.44
-   },
-   {
     "baseline": 0,
     "examples": [
      {
-      "source": "hn",
-      "title": "Private key compromise of eMudhra Intermediate Certificates"
+      "source": "media",
+      "title": "BioWare Was Doomed The Moment EA Bought The ‘Mass Effect’ And ‘Dragon Age’ Studio"
      },
      {
-      "source": "hn",
-      "title": "eMudhra Intermediate Certificates Compromised"
+      "source": "media",
+      "title": "Mass Effect 5 trailer leaks following BioWare shutdown"
      },
      {
-      "source": "hn",
-      "title": "eMudhra Intermediate CA Compromise"
+      "source": "media",
+      "title": "EA Shuts Down BioWare, Cancels ‘Mass Effect 5’ And Ends An Era"
      }
     ],
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 9,
-    "recent": 8,
-    "score": 8.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "emudhra intermediate",
-    "voices": 8,
-    "z": 8.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
-     },
-     {
-      "source": "hn",
-      "title": "Today's PHP security release, and how we're strengthening security"
-     },
-     {
-      "source": "hn",
-      "title": "What the PHP2Shell rumors got wrong, from inside the PHP security team"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 10,
+    "rank": 11,
     "recent": 5,
     "score": 7.5,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "php security",
+    "term": "mass effect",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk ordered slowdown of Starlink service used by Ukraine's military, WSJ reports"
+     },
+     {
+      "source": "hn",
+      "title": "Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump"
+     },
+     {
+      "source": "hn",
+      "title": "Musk ordered slowdown of Starlink in Ukraine"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk ordered",
     "voices": 5,
     "z": 5.0
    },
@@ -775,7 +838,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 11,
+    "rank": 13,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -805,7 +868,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 14,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -835,7 +898,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 13,
+    "rank": 15,
     "recent": 6,
     "score": 7.45,
     "sources": [
@@ -845,69 +908,160 @@
     "term": "leap second",
     "voices": 6,
     "z": 4.97
-   },
+   }
+  ],
+  "power": [
    {
-    "baseline": 1,
+    "baseline": 2,
     "examples": [
      {
       "source": "media",
-      "title": "Tesla and SpaceX are discussing a possible merger, Musk says"
+      "title": "Ukraine's resumption of strikes on Russian refineries is 'disgrace', Trump says"
      },
      {
-      "source": "media",
-      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says"
+      "source": "news",
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research"
      },
      {
-      "source": "hn",
-      "title": "Elon Musk confirms talks to merge Tesla and SpaceX"
+      "source": "news",
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research"
      }
     ],
-    "expected": 0.08,
-    "field": "other",
+    "expected": 0.16,
+    "field": "power",
     "is_new": false,
-    "rank": 14,
-    "recent": 5,
-    "score": 7.11,
+    "rank": 1,
+    "recent": 23,
+    "score": 31.88,
     "sources": [
-     "hn",
-     "media"
+     "media",
+     "news"
     ],
-    "term": "tesla and spacex",
-    "voices": 5,
-    "z": 4.74
+    "term": "strikes on russian",
+    "voices": 22,
+    "z": 21.25
    },
    {
     "baseline": 2,
     "examples": [
      {
       "source": "media",
-      "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’"
+      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean."
      },
      {
       "source": "media",
-      "title": "Trump Accounts Helping Financial Literacy: Bartolini"
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares"
      },
      {
       "source": "media",
-      "title": "Trump Accounts, Bonds Barometer, ‘Dividend Nomads’"
+      "title": "SpaceX and Tesla boards form special committees to review merger"
      }
     ],
     "expected": 0.16,
-    "field": "other",
+    "field": "power",
     "is_new": false,
-    "rank": 15,
-    "recent": 5,
-    "score": 6.76,
+    "rank": 2,
+    "recent": 10,
+    "score": 18.32,
     "sources": [
      "hn",
-     "media"
+     "media",
+     "news"
     ],
-    "term": "trump accounts",
-    "voices": 3,
-    "z": 4.51
-   }
-  ],
-  "power": [
+    "term": "spacex and tesla",
+    "voices": 10,
+    "z": 9.16
+   },
+   {
+    "baseline": 124,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk invests about $1 billion in Skydance, CNBC reports"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise"
+     }
+    ],
+    "expected": 9.64,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 33,
+    "score": 14.32,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "elon musk",
+    "voices": 28,
+    "z": 7.16
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities"
+     },
+     {
+      "source": "news",
+      "title": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities"
+     },
+     {
+      "source": "news",
+      "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 4,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "news"
+    ],
+    "term": "drones downed",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "North Dakota oil companies speed up well completions as prices rise, state regulator says"
+     },
+     {
+      "source": "media",
+      "title": "East European states want more EU fund flexibility to support industry as energy prices rise"
+     },
+     {
+      "source": "news",
+      "title": "Sensex falls over 500 points at open as crude prices rise ; Nifty slips below 22 , 600"
+     }
+    ],
+    "expected": 0.54,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 7.79,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "prices rise",
+    "voices": 6,
+    "z": 5.19
+   },
    {
     "baseline": 17,
     "examples": [
@@ -927,7 +1081,7 @@
     "expected": 1.32,
     "field": "power",
     "is_new": false,
-    "rank": 1,
+    "rank": 6,
     "recent": 8,
     "score": 6.57,
     "sources": [
@@ -937,6 +1091,37 @@
     "term": "report says",
     "voices": 6,
     "z": 4.38
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google supersizes PJM virtual power plant to more than 1 GW"
+     },
+     {
+      "source": "media",
+      "title": "What Google’s virtual power plant in PJM says about the race for electricity"
+     },
+     {
+      "source": "hn",
+      "title": "We are working with Voltus to build a 1-gigawatt virtual power plant"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.44,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "virtual power plant",
+    "voices": 3,
+    "z": 3.22
    },
    {
     "baseline": 0,
@@ -957,7 +1142,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 2,
+    "rank": 8,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -967,67 +1152,6 @@
     "term": "microsoft pulls",
     "voices": 4,
     "z": 4.0
-   },
-   {
-    "baseline": 41,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
-     },
-     {
-      "source": "media",
-      "title": "Trump says companies should pay 'dividend' to communities to make data centers popular"
-     },
-     {
-      "source": "media",
-      "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support"
-     }
-    ],
-    "expected": 3.19,
-    "field": "power",
-    "is_new": false,
-    "rank": 3,
-    "recent": 8,
-    "score": 3.53,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "trump says",
-    "voices": 5,
-    "z": 2.35
-   },
-   {
-    "baseline": 10,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Data centers could erase decades of air quality gains"
-     },
-     {
-      "source": "hn",
-      "title": "Texas data center boom could erase decades of progress on air quality"
-     },
-     {
-      "source": "arxiv",
-      "title": "AirMPA: A Meteorology-to-Pollution Adapter for Global Air Quality Forecasting"
-     }
-    ],
-    "expected": 0.78,
-    "field": "power",
-    "is_new": false,
-    "rank": 4,
-    "recent": 3,
-    "score": 3.33,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "air quality",
-    "voices": 3,
-    "z": 1.67
    },
    {
     "baseline": 5,
@@ -1048,48 +1172,201 @@
     "expected": 0.39,
     "field": "power",
     "is_new": false,
-    "rank": 5,
-    "recent": 3,
-    "score": 2.22,
+    "rank": 9,
+    "recent": 5,
+    "score": 5.87,
     "sources": [
-     "media"
+     "media",
+     "news"
     ],
     "term": "power demand",
-    "voices": 3,
-    "z": 2.22
-   }
-  ],
-  "semiconductor": [
+    "voices": 5,
+    "z": 3.91
+   },
    {
-    "baseline": 2,
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "The mining industry is facing a  grey tsunami  of worker retirements"
+     },
+     {
+      "source": "hn",
+      "title": "Evolution of Gas Sensors in the Mining Industry"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Is Worth 3× the Mining Industry"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 10,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "mining industry",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Government of Canada launches consultations on a new Canadian space act and takes action to strengthen the resiliency of Canada space infrastructure critical for national security"
+     },
+     {
+      "source": "news",
+      "title": "Government of Canada launches consultations on a new Canadian space act and takes action to strengthen the resiliency of Canada space infrastructure critical for national security"
+     },
+     {
+      "source": "hn",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 11,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "space act",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 324,
     "examples": [
      {
       "source": "media",
-      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean."
+      "title": "Korean Data Center Firm Elice Jumps by Limit After Debut Slump"
      },
      {
       "source": "media",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares"
+      "title": "DayOne Said to Weigh Options for US IPO After Data Center Rout"
      },
      {
       "source": "media",
-      "title": "SpaceX and Tesla boards form special committees to review merger"
+      "title": "AI data center projects boost US warehouse demand and rents, real estate company JLL says"
      }
     ],
-    "expected": 0.16,
-    "field": "semiconductor",
+    "expected": 25.2,
+    "field": "power",
     "is_new": false,
-    "rank": 1,
-    "recent": 8,
-    "score": 10.95,
+    "rank": 12,
+    "recent": 34,
+    "score": 4.3,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data center",
+    "voices": 21,
+    "z": 1.72
+   },
+   {
+    "baseline": 41,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
+     },
+     {
+      "source": "media",
+      "title": "Trump says companies should pay 'dividend' to communities to make data centers popular"
+     },
+     {
+      "source": "media",
+      "title": "Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support"
+     }
+    ],
+    "expected": 3.19,
+    "field": "power",
+    "is_new": false,
+    "rank": 13,
+    "recent": 9,
+    "score": 4.26,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "spacex and tesla",
-    "voices": 8,
-    "z": 7.3
+    "term": "trump says",
+    "voices": 6,
+    "z": 2.84
    },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Saudi crude oil exports hit five-month high in August, data shows"
+     },
+     {
+      "source": "news",
+      "title": "Azerbaijan Non - Oil Economy Grows Faster as Non - Oil Exports Climb"
+     },
+     {
+      "source": "hn",
+      "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels"
+     }
+    ],
+    "expected": 0.47,
+    "field": "power",
+    "is_new": false,
+    "rank": 14,
+    "recent": 3,
+    "score": 4.18,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "oil exports",
+    "voices": 3,
+    "z": 2.09
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Bloom Energy Corporation $BE Shares Purchased by Prime Capital Investment Advisors LLC"
+     },
+     {
+      "source": "news",
+      "title": "Bloom Energy vs . Constellation Energy : Which AI Power Stock Is the Better Buy ?"
+     },
+     {
+      "source": "news",
+      "title": "Bloom Energy vs . Constellation Energy : Which AI Power Stock Is the Better Buy ?"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 15,
+    "recent": 6,
+    "score": 4.06,
+    "sources": [
+     "news"
+    ],
+    "term": "bloom energy",
+    "voices": 5,
+    "z": 4.06
+   }
+  ],
+  "semiconductor": [
    {
     "baseline": 16,
     "examples": [
@@ -1109,7 +1386,7 @@
     "expected": 1.24,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 2,
+    "rank": 1,
     "recent": 11,
     "score": 9.77,
     "sources": [
@@ -1119,6 +1396,36 @@
     "term": "musk says",
     "voices": 8,
     "z": 6.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Jensen Huang At GTC Berlin: Nvidia Showcases A Full Stack"
+     },
+     {
+      "source": "hn",
+      "title": "Huang shrugs off protestors to kick off GTC Berlin with DSX Pods, Robots"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Barred Neoclouds Running AMD Chips from GTC Berlin"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 2,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gtc berlin",
+    "voices": 3,
+    "z": 3.0
    },
    {
     "baseline": 13,
@@ -1178,6 +1485,37 @@
     "term": "nvidia rtx",
     "voices": 4,
     "z": 2.65
+   },
+   {
+    "baseline": 28,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins"
+     },
+     {
+      "source": "hn",
+      "title": "'Digital twins' of immune system in pregnancy identify drugs to stop early labor"
+     },
+     {
+      "source": "arxiv",
+      "title": "Large Language Models Meet Bayesian Optimization: Towards Self-evolving Wireless Digital Twins"
+     }
+    ],
+    "expected": 2.18,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 2.04,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "digital twins",
+    "voices": 4,
+    "z": 1.02
    }
   ]
  },

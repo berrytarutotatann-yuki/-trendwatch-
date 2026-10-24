@@ -35942,6 +35942,17 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmFWdUxHc2JSOHl2ellmUXN1WllxX2JacGNQa2dWaXI1NGg0b2taYzNMUmFFbzFOSnhBRXdBNDdva0ZydWxPNW9lTVFiYkFjQ0puTDJhbWRpMjJmSVFsbjF4S2JURGhBbVBEVVI0RXJtcjg0WEIzeWJZeGh3dUNSaWt4U1JFcjhmanZ0U2taR3Y0cEdZNXpFUnFOOFM2ckpUbzJ1U3FCYTdQNGZSTVI5S1MzMkNVaGZqdXRB",
    "voice": "reuters"
   },
+  "media:7450938d74471b6340392ff4": {
+   "date": "2026-10-24",
+   "fields": [],
+   "id": "media:7450938d74471b6340392ff4",
+   "published": "2026-10-24T03:54:47+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "India Regulator Orders Options Trainer Avadhut Sathe to Refund INR 5.46B",
+   "url": "https://bloomberg.com/news/articles/2026-10-24/india-regulator-orders-options-trainer-avadhut-sathe-to-refund-inr-5-46b",
+   "voice": "bloomberg"
+  },
   "media:745e2b64363f5646d5cc8d24": {
    "date": "2026-10-06",
    "fields": [],
@@ -40188,6 +40199,17 @@
    "title": "Why Context Is A Differentiator When Companies Implement AI",
    "url": "https://forbes.com/councils/forbestechcouncil/2026/10/14/why-context-is-a-differentiator-when-companies-implement-ai",
    "voice": "forbes"
+  },
+  "media:825b4b702227fe3cddc58700": {
+   "date": "2026-10-24",
+   "fields": [],
+   "id": "media:825b4b702227fe3cddc58700",
+   "published": "2026-10-24T04:24:04+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "US LNG Project Developer Funded by Russia’s Novatek, FT Says",
+   "url": "https://bloomberg.com/news/articles/2026-10-24/us-lng-project-developer-funded-by-russia-s-novatek-ft-says",
+   "voice": "bloomberg"
   },
   "media:8274e43d899116606ba62e49": {
    "date": "2026-10-11",
@@ -77801,6 +77823,17 @@
    "url": "https://bloomberg.com/news/articles/2026-10-21/ex-brevan-howard-trader-sued-by-quant-who-joined-his-new-fund",
    "voice": "bloomberg"
   },
+  "media:fa266600c00602e79d74f5cb": {
+   "date": "2026-10-24",
+   "fields": [],
+   "id": "media:fa266600c00602e79d74f5cb",
+   "published": "2026-10-24T04:41:29+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Kenya Records Second Ebola Death, a Close Relative of First Case",
+   "url": "https://bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
+   "voice": "bloomberg"
+  },
   "media:fa43a289001ed3d191ec1034": {
    "date": "2026-10-15",
    "fields": [],
@@ -79409,7 +79442,7 @@
  },
  "publishers": {
   "bloomberg": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-07-06": "partial",
     "2026-07-07": "covered",
@@ -79525,13 +79558,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
-   "latest": "2026-10-24T03:20:42+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
+   "latest": "2026-10-24T04:41:29+00:00",
    "received": 20,
    "status": "ok"
   },
   "forbes": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -79562,13 +79595,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
    "latest": "2026-10-23T22:54:28+00:00",
    "received": 25,
    "status": "ok"
   },
   "ieee_spectrum": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-08": "partial",
     "2026-09-09": "covered",
@@ -79620,13 +79653,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
    "latest": "2026-10-23T18:00:03+00:00",
    "received": 27,
    "status": "ok"
   },
   "information": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -79658,13 +79691,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
    "latest": "2026-10-23T22:26:12+00:00",
    "received": 20,
    "status": "ok"
   },
   "reuters": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-25": "partial",
     "2026-09-26": "partial",
@@ -79697,15 +79730,15 @@
     "2026-10-23": "partial",
     "2026-10-24": "partial"
    },
-   "error": null,
+   "error": "応答なし",
    "invalid": 0,
    "last_success": "2026-10-24T03:52:35.560822+00:00",
    "latest": "2026-10-24T02:53:00+00:00",
    "received": 100,
-   "status": "ok"
+   "status": "error"
   },
   "semiconductor_engineering": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -79741,13 +79774,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
    "latest": "2026-10-23T07:01:23+00:00",
    "received": 10,
    "status": "ok"
   },
   "techcrunch": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -79779,13 +79812,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
    "latest": "2026-10-23T23:07:45+00:00",
    "received": 20,
    "status": "ok"
   },
   "utility_dive": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -79821,13 +79854,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
    "latest": "2026-10-23T14:43:56+00:00",
    "received": 10,
    "status": "ok"
   },
   "verge": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -79858,13 +79891,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
    "latest": "2026-10-23T21:39:26+00:00",
    "received": 10,
    "status": "ok"
   },
   "wsj": {
-   "checked_at": "2026-10-24T03:52:35.560822+00:00",
+   "checked_at": "2026-10-24T07:02:28.188832+00:00",
    "coverage": {
     "2026-09-16": "partial",
     "2026-09-17": "covered",
@@ -79908,7 +79941,7 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-24T03:52:35.560822+00:00",
+   "last_success": "2026-10-24T07:02:28.188832+00:00",
    "latest": "2026-10-24T01:00:00+00:00",
    "received": 35,
    "status": "ok"

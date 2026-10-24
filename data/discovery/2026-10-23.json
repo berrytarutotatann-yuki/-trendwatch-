@@ -1,0 +1,1433 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-23",
+ "docs_baseline": 115983,
+ "docs_recent": 9384,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI to Bring Models to Google Cloud"
+     },
+     {
+      "source": "media",
+      "title": "Google Cloud services largely back up in UK"
+     }
+    ],
+    "expected": 1.56,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 15,
+    "score": 16.82,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "google cloud",
+    "voices": 14,
+    "z": 8.41
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A critical PHP vulnerability may take websites down today"
+     },
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "AI found a critical PHP flaw. The bigger failure began in 2024"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 10,
+    "score": 15.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "critical php",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 64,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Our best tips for using the iPhone Duo"
+     },
+     {
+      "source": "media",
+      "title": "No, the iPhone Duo isn’t a small phone"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s iPhone Duo Is on Sale. Good Luck Buying One."
+     }
+    ],
+    "expected": 4.98,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 25,
+    "score": 12.28,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 9,
+    "z": 8.19
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic to Commit 5% of Its Shares to New ‘Public Benefit’ Fund"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Commits At Least 5% of Shares to New Public Benefit Fund"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 7,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "public benefit",
+    "voices": 7,
+    "z": 6.37
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety"
+     },
+     {
+      "source": "media",
+      "title": "National Wealth Tax Could Work: Tilson"
+     },
+     {
+      "source": "media",
+      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "wealth tax",
+    "voices": 5,
+    "z": 6.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Claude Duet app is Anthropic’s bet on agents"
+     },
+     {
+      "source": "hn",
+      "title": "I built a \"Claude Duet\" by hand a year ago. Here's what Anthropic got right"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic opens research preview of Claude Duet, a agent for professionals"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude duet",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 48,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Boston Dynamics Founder On Physical AI Outlook"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Physical AI Startup Tractian Becomes a Unicorn"
+     },
+     {
+      "source": "media",
+      "title": "Scaling Data Movement For Physical AI"
+     }
+    ],
+    "expected": 3.73,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 13,
+    "score": 8.52,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "physical ai",
+    "voices": 9,
+    "z": 4.26
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "CoreWeave debt selloff poses limited risk to global banks, J.P. Morgan says"
+     },
+     {
+      "source": "media",
+      "title": "Insurers Pump Over $740 Million Into CoreWeave Debt Tied to Meta"
+     },
+     {
+      "source": "media",
+      "title": "How CoreWeave’s Debt Binge Brought a Moment of Reckoning"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "coreweave debt",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 67,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Mammoth-1 and Elephant-1: frontier decision models"
+     },
+     {
+      "source": "arxiv",
+      "title": "How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification"
+     },
+     {
+      "source": "arxiv",
+      "title": "RetiJev: Fast and Source-Grounded Ophthalmic Decision Models"
+     }
+    ],
+    "expected": 5.21,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 17,
+    "score": 7.1,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "decision models",
+    "voices": 17,
+    "z": 4.73
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Using LLMs for Text Classification in Production (2026): From Raw Prompts To"
+     },
+     {
+      "source": "arxiv",
+      "title": "How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification"
+     },
+     {
+      "source": "hn",
+      "title": "Your LLM is probably overkill for text classification"
+     }
+    ],
+    "expected": 0.47,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 6,
+    "score": 6.85,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "text classification",
+    "voices": 3,
+    "z": 4.57
+   },
+   {
+    "baseline": 27,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven"
+     },
+     {
+      "source": "media",
+      "title": "AI trade meets the Fed"
+     },
+     {
+      "source": "media",
+      "title": "Barclays to Cut 5K Jobs, AI Trade Stumbles After Tech Earnings"
+     }
+    ],
+    "expected": 2.1,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 10,
+    "score": 6.73,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 4,
+    "z": 4.49
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+     },
+     {
+      "source": "news",
+      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+     },
+     {
+      "source": "news",
+      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+     }
+    ],
+    "expected": 0.54,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 6,
+    "score": 6.58,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "cut ai",
+    "voices": 6,
+    "z": 4.39
+   },
+   {
+    "baseline": 1099,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Agents Are Logging Into Bank Accounts And Banks Can’t Tell"
+     },
+     {
+      "source": "media",
+      "title": "What 40 Years Of Design Automation Can Teach Us About AI Agents"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Created AI Code Slop, But Can They Fix It?"
+     }
+    ],
+    "expected": 85.48,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 115,
+    "score": 6.35,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai agents",
+    "voices": 97,
+    "z": 3.17
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ferrari CEO hails Tesla Roadster redesign as the bold innovation the industry needs"
+     },
+     {
+      "source": "hn",
+      "title": "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra"
+     },
+     {
+      "source": "hn",
+      "title": "Explained: How the Tesla Roadster Flies, Flips, and Sucks"
+     }
+    ],
+    "expected": 1.48,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 8,
+    "score": 6.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla roadster",
+    "voices": 8,
+    "z": 4.14
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Savannah police officer gave her Flock login to her ICE agent husband"
+     },
+     {
+      "source": "hn",
+      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system"
+     },
+     {
+      "source": "hn",
+      "title": "Cop Fired for Letting Her ICE Agent Husband Use Her Flock Login"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ice agent husband",
+    "voices": 4,
+    "z": 4.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elizabeth Holmes’ Partner’s Blood Testing Startup Has Lost Its CTO"
+     },
+     {
+      "source": "media",
+      "title": "The Wall Street Journal Investigation That Exposed Elizabeth Holmes"
+     },
+     {
+      "source": "media",
+      "title": "Watch Elizabeth Holmes Lie To Forbes About Theranos"
+     }
+    ],
+    "expected": 0.86,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 13,
+    "score": 13.37,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elizabeth holmes",
+    "voices": 10,
+    "z": 8.92
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Bugra Akdemir on the XERJ Corpus Hub"
+     },
+     {
+      "source": "hn",
+      "title": "Smallchat (Jev as Judge) on the XERJ Corpus Hub"
+     },
+     {
+      "source": "hn",
+      "title": "Augusto Domingos on the XERJ Corpus Hub"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 11,
+    "score": 11.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "xerj corpus hub",
+    "voices": 11,
+    "z": 11.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Just Broke A 20-Year Box Office Record"
+     },
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "media",
+      "title": "‘You Can See Everything’ Breaks The All-Time IMDb Review Score Record"
+     }
+    ],
+    "expected": 0.7,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 10,
+    "score": 10.7,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "see everything",
+    "voices": 7,
+    "z": 7.13
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April"
+     },
+     {
+      "source": "media",
+      "title": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears"
+     },
+     {
+      "source": "media",
+      "title": "UK to Send Fighter Jets to Defend Saudi Arabia From Houthi Attacks"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "houthi attacks",
+    "voices": 4,
+    "z": 6.99
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case"
+     },
+     {
+      "source": "media",
+      "title": "Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case"
+     },
+     {
+      "source": "media",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta ordered",
+    "voices": 6,
+    "z": 6.67
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Protecting Firefox Users After eMudhra Intermediate Certificates Compromise"
+     },
+     {
+      "source": "hn",
+      "title": "Explainging the eMudhra Intermediate CAs Compromised – Cycle.io"
+     },
+     {
+      "source": "hn",
+      "title": "Private key compromise of eMudhra Intermediate Certificates"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 9,
+    "score": 9.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "emudhra intermediate",
+    "voices": 9,
+    "z": 9.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "After A Great Post-Shutdown ‘Mass Effect 5’ Trailer, Should Xbox Buy The IP?"
+     },
+     {
+      "source": "media",
+      "title": "BioWare Was Doomed The Moment EA Bought The ‘Mass Effect’ And ‘Dragon Age’ Studio"
+     },
+     {
+      "source": "media",
+      "title": "Mass Effect 5 trailer leaks following BioWare shutdown"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "mass effect",
+    "voices": 4,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "Hetzner: PHP security issues CVE-2026-109618 and CVE-2026-109619"
+     },
+     {
+      "source": "hn",
+      "title": "Today's PHP security release, and how we're strengthening security"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php security",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The disastrous PHP vulnerabilities were exploited days before the patch"
+     },
+     {
+      "source": "hn",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: Have the PHP vulnerabilities been exploited?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php vulnerabilities",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk ordered slowdown of Starlink service used by Ukraine's military, WSJ reports"
+     },
+     {
+      "source": "hn",
+      "title": "Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump"
+     },
+     {
+      "source": "hn",
+      "title": "Musk ordered slowdown of Starlink in Ukraine"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk ordered",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A critical PHP vulnerability may take websites down today"
+     },
+     {
+      "source": "hn",
+      "title": "There isn't an easy exploit for this PHP vulnerability"
+     },
+     {
+      "source": "hn",
+      "title": "PHP Vulnerability – Helper Tool"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php vulnerability",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
+     },
+     {
+      "source": "media",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares"
+     },
+     {
+      "source": "hn",
+      "title": "I will give one of my SpaceX shares to every kid in America"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "kid in america",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
+     },
+     {
+      "source": "hn",
+      "title": "I wish you didn't want to see Nathan Fielder's Elizabeth Holmes documentary"
+     },
+     {
+      "source": "hn",
+      "title": "Nathan Fielder Enters Silicon Valley's Vortex of Delusion"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 6,
+    "score": 7.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nathan fielder",
+    "voices": 6,
+    "z": 4.76
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
+     },
+     {
+      "source": "hn",
+      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax"
+     },
+     {
+      "source": "hn",
+      "title": "Meta strikes deal with Zuckerberg to keep him in Calif. over billionaire tax"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strikes deal",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says"
+     },
+     {
+      "source": "media",
+      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says"
+     },
+     {
+      "source": "hn",
+      "title": "Elon Musk confirms talks to merge Tesla and SpaceX"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla and spacex",
+    "voices": 5,
+    "z": 4.74
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research"
+     },
+     {
+      "source": "news",
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research"
+     },
+     {
+      "source": "news",
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 24,
+    "score": 24.0,
+    "sources": [
+     "news"
+    ],
+    "term": "russian data centers",
+    "voices": 23,
+    "z": 24.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean."
+     },
+     {
+      "source": "media",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX and Tesla boards form special committees to review merger"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 10,
+    "score": 18.32,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "spacex and tesla",
+    "voices": 10,
+    "z": 9.16
+   },
+   {
+    "baseline": 127,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk’s dangerous grip on outer space"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk invests about $1 billion in Skydance, CNBC reports"
+     }
+    ],
+    "expected": 9.88,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 29,
+    "score": 11.6,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "elon musk",
+    "voices": 23,
+    "z": 5.8
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities"
+     },
+     {
+      "source": "news",
+      "title": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities"
+     },
+     {
+      "source": "news",
+      "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 4,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "news"
+    ],
+    "term": "drones downed",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "North Dakota oil companies speed up well completions as prices rise, state regulator says"
+     },
+     {
+      "source": "media",
+      "title": "East European states want more EU fund flexibility to support industry as energy prices rise"
+     },
+     {
+      "source": "news",
+      "title": "Sensex falls over 500 points at open as crude prices rise ; Nifty slips below 22 , 600"
+     }
+    ],
+    "expected": 0.54,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 7.79,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "prices rise",
+    "voices": 6,
+    "z": 5.19
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "India's Adani Power quarterly profit doubles on strong power demand, one-off gains"
+     },
+     {
+      "source": "media",
+      "title": "German Gas Use Hits Nine-Month High as Cold Boosts Power Demand"
+     },
+     {
+      "source": "media",
+      "title": "Utilities turn to AI to manage rising power demand — from AI"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 7.14,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "power demand",
+    "voices": 5,
+    "z": 4.76
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘Gears Of War: E-Day’ Cost Xbox $500 Million, Report Says"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
+     },
+     {
+      "source": "media",
+      "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says"
+     }
+    ],
+    "expected": 1.32,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 8,
+    "score": 6.57,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "report says",
+    "voices": 6,
+    "z": 4.38
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google supersizes PJM virtual power plant to more than 1 GW"
+     },
+     {
+      "source": "media",
+      "title": "What Google’s virtual power plant in PJM says about the race for electricity"
+     },
+     {
+      "source": "hn",
+      "title": "We are working with Voltus to build a 1-gigawatt virtual power plant"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.44,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "virtual power plant",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft Pulls out of Nscale U.K. Data-Center Deal Over Power-Supply Issues"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft pulls out of UK Nscale data centre deal over power delay"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Pulls Out of Nscale U.K. Data Center Following Delays"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft pulls",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 67,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft pulls out of UK Nscale data centre deal over power delay"
+     },
+     {
+      "source": "news",
+      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+     },
+     {
+      "source": "news",
+      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+     }
+    ],
+    "expected": 5.21,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 12,
+    "score": 5.45,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data centre",
+    "voices": 12,
+    "z": 2.72
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Bulgaria emerges as a surprise leader in Europe's quest for battery storage"
+     },
+     {
+      "source": "news",
+      "title": "India Rooftop Solar Battery Storage Market 2026 : ₹28 , 000 Crore Subsidy Could Create 25 GWh Capacity – 10 Key Findings"
+     },
+     {
+      "source": "news",
+      "title": "Public Service Commission approves Ameren battery storage , solar project in Audrain County"
+     }
+    ],
+    "expected": 0.62,
+    "field": "power",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 5.16,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "battery storage",
+    "voices": 5,
+    "z": 3.44
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Rogers Beats But Stock Falls With SpaceX Ambitions in Focus"
+     },
+     {
+      "source": "news",
+      "title": "GE Vernova ( NYSE : GEV ) Stock Falls 10 . 9 % – Should You Sell ?"
+     },
+     {
+      "source": "news",
+      "title": "Bloom Energy ( NYSE : BE ) Stock Falls 9 . 2 % – What Next ?"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 12,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "stock falls",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "The mining industry is facing a  grey tsunami  of worker retirements"
+     },
+     {
+      "source": "hn",
+      "title": "Evolution of Gas Sensors in the Mining Industry"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Is Worth 3× the Mining Industry"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 13,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "mining industry",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Government of Canada launches consultations on a new Canadian space act and takes action to strengthen the resiliency of Canada space infrastructure critical for national security"
+     },
+     {
+      "source": "news",
+      "title": "Government of Canada launches consultations on a new Canadian space act and takes action to strengthen the resiliency of Canada space infrastructure critical for national security"
+     },
+     {
+      "source": "hn",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 14,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "space act",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Saudi crude oil exports hit five-month high in August, data shows"
+     },
+     {
+      "source": "news",
+      "title": "Azerbaijan Non - Oil Economy Grows Faster as Non - Oil Exports Climb"
+     },
+     {
+      "source": "hn",
+      "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels"
+     }
+    ],
+    "expected": 0.47,
+    "field": "power",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 4.18,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "oil exports",
+    "voices": 3,
+    "z": 2.09
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 16,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX will try catching Starship and its booster for first time, Musk says"
+     },
+     {
+      "source": "media",
+      "title": "Musk Says SpaceX, Tesla Have Formed Committees to Explore Merger"
+     }
+    ],
+    "expected": 1.24,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 11,
+    "score": 9.77,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk says",
+    "voices": 8,
+    "z": 6.51
+   },
+   {
+    "baseline": 27,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins"
+     },
+     {
+      "source": "hn",
+      "title": "'Digital twins' of immune system in pregnancy identify drugs to stop early labor"
+     },
+     {
+      "source": "arxiv",
+      "title": "Large Language Models Meet Bayesian Optimization: Towards Self-evolving Wireless Digital Twins"
+     }
+    ],
+    "expected": 2.1,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 4,
+    "score": 2.16,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "digital twins",
+    "voices": 4,
+    "z": 1.08
+   }
+  ]
+ },
+ "recent_days": 7
+}

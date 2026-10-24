@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-23",
  "docs_baseline": 115983,
- "docs_recent": 9391,
+ "docs_recent": 10378,
  "fields": {
   "ai": [
    {
@@ -38,36 +38,6 @@
     "z": 8.41
    },
    {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "A critical PHP vulnerability may take websites down today"
-     },
-     {
-      "source": "media",
-      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
-     },
-     {
-      "source": "hn",
-      "title": "AI found a critical PHP flaw. The bigger failure began in 2024"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 2,
-    "recent": 10,
-    "score": 15.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "critical php",
-    "voices": 10,
-    "z": 10.0
-   },
-   {
     "baseline": 64,
     "examples": [
      {
@@ -86,16 +56,77 @@
     "expected": 4.98,
     "field": "ai",
     "is_new": false,
-    "rank": 3,
-    "recent": 25,
-    "score": 12.28,
+    "rank": 2,
+    "recent": 30,
+    "score": 15.35,
     "sources": [
      "hn",
      "media"
     ],
     "term": "iphone duo",
-    "voices": 9,
-    "z": 8.19
+    "voices": 13,
+    "z": 10.23
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A critical PHP vulnerability may take websites down today"
+     },
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "AI found a critical PHP flaw. The bigger failure began in 2024"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 10,
+    "score": 15.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "critical php",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 127,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk’s dangerous grip on outer space"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk invests about $1 billion in Skydance, CNBC reports"
+     }
+    ],
+    "expected": 9.88,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 31,
+    "score": 12.81,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "elon musk",
+    "voices": 25,
+    "z": 6.4
    },
    {
     "baseline": 2,
@@ -116,16 +147,16 @@
     "expected": 0.16,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
-    "recent": 7,
-    "score": 9.55,
+    "rank": 5,
+    "recent": 8,
+    "score": 10.95,
     "sources": [
      "hn",
      "media"
     ],
     "term": "public benefit",
-    "voices": 7,
-    "z": 6.37
+    "voices": 8,
+    "z": 7.3
    },
    {
     "baseline": 3,
@@ -146,7 +177,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 7,
     "score": 9.14,
     "sources": [
@@ -176,7 +207,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -188,185 +219,34 @@
     "z": 6.0
    },
    {
-    "baseline": 48,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Boston Dynamics Founder On Physical AI Outlook"
-     },
-     {
-      "source": "media",
-      "title": "Exclusive: Physical AI Startup Tractian Becomes a Unicorn"
-     },
-     {
-      "source": "media",
-      "title": "Scaling Data Movement For Physical AI"
-     }
-    ],
-    "expected": 3.73,
-    "field": "ai",
-    "is_new": false,
-    "rank": 7,
-    "recent": 13,
-    "score": 8.52,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "physical ai",
-    "voices": 9,
-    "z": 4.26
-   },
-   {
     "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "CoreWeave debt selloff poses limited risk to global banks, J.P. Morgan says"
+      "title": "Moonshot AI Launches New Kimi K3.1 Pro Model"
      },
      {
-      "source": "media",
-      "title": "Insurers Pump Over $740 Million Into CoreWeave Debt Tied to Meta"
+      "source": "hn",
+      "title": "Kimi K3.1 Is Comming"
      },
      {
-      "source": "media",
-      "title": "How CoreWeave’s Debt Binge Brought a Moment of Reckoning"
+      "source": "hn",
+      "title": "Kimi K3.1 Pro puts open-source AI a month behind the best"
      }
     ],
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
     "rank": 8,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "media",
-     "news"
-    ],
-    "term": "coreweave debt",
-    "voices": 4,
-    "z": 5.0
-   },
-   {
-    "baseline": 67,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Mammoth-1 and Elephant-1: frontier decision models"
-     },
-     {
-      "source": "arxiv",
-      "title": "How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification"
-     },
-     {
-      "source": "arxiv",
-      "title": "RetiJev: Fast and Source-Grounded Ophthalmic Decision Models"
-     }
-    ],
-    "expected": 5.21,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 17,
-    "score": 7.1,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "decision models",
-    "voices": 17,
-    "z": 4.73
-   },
-   {
-    "baseline": 6,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Using LLMs for Text Classification in Production (2026): From Raw Prompts To"
-     },
-     {
-      "source": "arxiv",
-      "title": "How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification"
-     },
-     {
-      "source": "hn",
-      "title": "Your LLM is probably overkill for text classification"
-     }
-    ],
-    "expected": 0.47,
-    "field": "ai",
-    "is_new": false,
-    "rank": 10,
     "recent": 6,
-    "score": 6.85,
-    "sources": [
-     "arxiv",
-     "hn"
-    ],
-    "term": "text classification",
-    "voices": 3,
-    "z": 4.57
-   },
-   {
-    "baseline": 27,
-    "examples": [
-     {
-      "source": "media",
-      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven"
-     },
-     {
-      "source": "media",
-      "title": "Take Five: AI trade meets the Fed"
-     },
-     {
-      "source": "media",
-      "title": "Barclays to Cut 5K Jobs, AI Trade Stumbles After Tech Earnings"
-     }
-    ],
-    "expected": 2.1,
-    "field": "ai",
-    "is_new": false,
-    "rank": 11,
-    "recent": 10,
-    "score": 6.73,
+    "score": 9.0,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "ai trade",
-    "voices": 4,
-    "z": 4.49
-   },
-   {
-    "baseline": 7,
-    "examples": [
-     {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
-     },
-     {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
-     },
-     {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
-     }
-    ],
-    "expected": 0.54,
-    "field": "ai",
-    "is_new": false,
-    "rank": 12,
-    "recent": 6,
-    "score": 6.58,
-    "sources": [
-     "hn",
-     "news"
-    ],
-    "term": "cut ai",
-    "voices": 6,
-    "z": 4.39
+    "term": "kimi k3.1",
+    "voices": 5,
+    "z": 6.0
    },
    {
     "baseline": 1099,
@@ -387,17 +267,169 @@
     "expected": 85.48,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
-    "recent": 115,
-    "score": 6.35,
+    "rank": 9,
+    "recent": 127,
+    "score": 8.93,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "ai agents",
-    "voices": 97,
-    "z": 3.17
+    "voices": 109,
+    "z": 4.47
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic strikes deal to launch European consultancy"
+     },
+     {
+      "source": "hn",
+      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strikes deal",
+    "voices": 5,
+    "z": 5.7
+   },
+   {
+    "baseline": 48,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Boston Dynamics Founder On Physical AI Outlook"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Physical AI Startup Tractian Becomes a Unicorn"
+     },
+     {
+      "source": "media",
+      "title": "Scaling Data Movement For Physical AI"
+     }
+    ],
+    "expected": 3.73,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 13,
+    "score": 8.52,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "physical ai",
+    "voices": 9,
+    "z": 4.26
+   },
+   {
+    "baseline": 27,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven"
+     },
+     {
+      "source": "media",
+      "title": "Take Five: AI trade meets the Fed"
+     },
+     {
+      "source": "media",
+      "title": "Barclays to Cut 5K Jobs, AI Trade Stumbles After Tech Earnings"
+     }
+    ],
+    "expected": 2.1,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 11,
+    "score": 7.58,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 5,
+    "z": 5.05
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "CoreWeave debt selloff poses limited risk to global banks, J.P. Morgan says"
+     },
+     {
+      "source": "media",
+      "title": "Insurers Pump Over $740 Million Into CoreWeave Debt Tied to Meta"
+     },
+     {
+      "source": "media",
+      "title": "How CoreWeave’s Debt Binge Brought a Moment of Reckoning"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 13,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "coreweave debt",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull"
+     },
+     {
+      "source": "media",
+      "title": "AI Rights Enter Anthropic’s Terms Of Service As Microsoft Pushes Back"
+     },
+     {
+      "source": "hn",
+      "title": "'VPNs at Risk': Tech Coalition Pushes Back on Piracy Blocking Duties for VPNs"
+     }
+    ],
+    "expected": 0.47,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 7.49,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "pushes back",
+    "voices": 5,
+    "z": 3.74
    },
    {
     "baseline": 19,
@@ -408,56 +440,26 @@
      },
      {
       "source": "hn",
-      "title": "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra"
+      "title": "I Fact-Checked Every Stunt in the Tesla Roadster Reveal [video]"
      },
      {
       "source": "hn",
-      "title": "Explained: How the Tesla Roadster Flies, Flips, and Sucks"
+      "title": "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra"
      }
     ],
     "expected": 1.48,
     "field": "ai",
     "is_new": false,
-    "rank": 14,
-    "recent": 8,
-    "score": 6.22,
+    "rank": 15,
+    "recent": 9,
+    "score": 7.17,
     "sources": [
      "hn",
      "media"
     ],
     "term": "tesla roadster",
-    "voices": 8,
-    "z": 4.14
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "A Savannah police officer gave her Flock login to her ICE agent husband"
-     },
-     {
-      "source": "hn",
-      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system"
-     },
-     {
-      "source": "hn",
-      "title": "Cop Fired for Letting Her ICE Agent Husband Use Her Flock Login"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 15,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ice agent husband",
-    "voices": 4,
-    "z": 4.0
+    "voices": 9,
+    "z": 4.78
    }
   ],
   "other": [
@@ -551,6 +553,36 @@
     "z": 7.13
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "After A Great Post-Shutdown ‘Mass Effect 5’ Trailer, Should Xbox Buy The IP?"
+     },
+     {
+      "source": "media",
+      "title": "BioWare Was Doomed The Moment EA Bought The ‘Mass Effect’ And ‘Dragon Age’ Studio"
+     },
+     {
+      "source": "media",
+      "title": "Mass Effect 5 trailer leaks following BioWare shutdown"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "mass effect",
+    "voices": 5,
+    "z": 7.0
+   },
+   {
     "baseline": 3,
     "examples": [
      {
@@ -569,7 +601,7 @@
     "expected": 0.23,
     "field": "other",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 8,
     "score": 10.49,
     "sources": [
@@ -599,7 +631,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 7,
     "score": 10.0,
     "sources": [
@@ -609,65 +641,6 @@
     "term": "meta ordered",
     "voices": 6,
     "z": 6.67
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Protecting Firefox Users After eMudhra Intermediate Certificates Compromise"
-     },
-     {
-      "source": "hn",
-      "title": "Explainging the eMudhra Intermediate CAs Compromised – Cycle.io"
-     },
-     {
-      "source": "hn",
-      "title": "Private key compromise of eMudhra Intermediate Certificates"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 6,
-    "recent": 9,
-    "score": 9.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "emudhra intermediate",
-    "voices": 9,
-    "z": 9.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "After A Great Post-Shutdown ‘Mass Effect 5’ Trailer, Should Xbox Buy The IP?"
-     },
-     {
-      "source": "media",
-      "title": "BioWare Was Doomed The Moment EA Bought The ‘Mass Effect’ And ‘Dragon Age’ Studio"
-     },
-     {
-      "source": "media",
-      "title": "Mass Effect 5 trailer leaks following BioWare shutdown"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 7,
-    "recent": 6,
-    "score": 9.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "mass effect",
-    "voices": 4,
-    "z": 6.0
    },
    {
     "baseline": 0,
@@ -688,7 +661,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 8,
+    "rank": 7,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -718,7 +691,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 9,
+    "rank": 8,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -728,6 +701,35 @@
     "term": "php vulnerabilities",
     "voices": 6,
     "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Protecting Firefox Users After eMudhra Intermediate Certificates Compromise"
+     },
+     {
+      "source": "hn",
+      "title": "Explainging the eMudhra Intermediate CAs Compromised – Cycle.io"
+     },
+     {
+      "source": "hn",
+      "title": "eMudhra Intermediate CA Compromise"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 8,
+    "score": 8.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "emudhra intermediate",
+    "voices": 8,
+    "z": 8.0
    },
    {
     "baseline": 0,
@@ -854,15 +856,15 @@
     "examples": [
      {
       "source": "media",
-      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
+      "title": "Russian Satellite Raises Space Warfare Fears"
      },
      {
       "source": "hn",
-      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax"
+      "title": "Russian satellite stalked ICEYE spacecraft"
      },
      {
       "source": "hn",
-      "title": "Meta strikes deal with Zuckerberg to keep him in Calif. over billionaire tax"
+      "title": "Russian Satellite Makes a Menacing Approach to Another Craft in Orbit"
      }
     ],
     "expected": 0.08,
@@ -875,7 +877,7 @@
      "hn",
      "media"
     ],
-    "term": "strikes deal",
+    "term": "russian satellite",
     "voices": 5,
     "z": 4.74
    },
@@ -915,8 +917,8 @@
     "baseline": 0,
     "examples": [
      {
-      "source": "news",
-      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research"
+      "source": "hn",
+      "title": "Ukraine is wiping out Russian data centers, setting its AI race back"
      },
      {
       "source": "news",
@@ -932,8 +934,9 @@
     "is_new": true,
     "rank": 1,
     "recent": 24,
-    "score": 24.0,
+    "score": 36.0,
     "sources": [
+     "hn",
      "news"
     ],
     "term": "russian data centers",
@@ -972,37 +975,6 @@
     "z": 9.16
    },
    {
-    "baseline": 127,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Elon Musk’s dangerous grip on outer space"
-     },
-     {
-      "source": "media",
-      "title": "Elon Musk made a $1B investment in Skydance, report says"
-     },
-     {
-      "source": "media",
-      "title": "Elon Musk invests about $1 billion in Skydance, CNBC reports"
-     }
-    ],
-    "expected": 9.88,
-    "field": "power",
-    "is_new": false,
-    "rank": 3,
-    "recent": 29,
-    "score": 11.6,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "elon musk",
-    "voices": 23,
-    "z": 5.8
-   },
-   {
     "baseline": 0,
     "examples": [
      {
@@ -1021,7 +993,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 4,
+    "rank": 3,
     "recent": 10,
     "score": 10.0,
     "sources": [
@@ -1050,7 +1022,7 @@
     "expected": 0.54,
     "field": "power",
     "is_new": false,
-    "rank": 5,
+    "rank": 4,
     "recent": 7,
     "score": 7.79,
     "sources": [
@@ -1080,7 +1052,7 @@
     "expected": 0.39,
     "field": "power",
     "is_new": false,
-    "rank": 6,
+    "rank": 5,
     "recent": 6,
     "score": 7.14,
     "sources": [
@@ -1090,6 +1062,36 @@
     "term": "power demand",
     "voices": 5,
     "z": 4.76
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Alaska's Senate Race Could Be Decided by Salmon"
+     },
+     {
+      "source": "hn",
+      "title": "Trump administration sues to block possible Democratic win in Alaska Senate race"
+     },
+     {
+      "source": "news",
+      "title": "Texa 2026 Senate race : What to know about Ken Paxton vs James Talarico"
+     }
+    ],
+    "expected": 0.47,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 6.85,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "senate race",
+    "voices": 6,
+    "z": 4.57
    },
    {
     "baseline": 17,
@@ -1244,6 +1246,37 @@
     "z": 3.44
    },
    {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Data centers could erase decades of air quality gains"
+     },
+     {
+      "source": "hn",
+      "title": "Ubiquiti's $99 Vape [Air Quality] Detector is pretty good"
+     },
+     {
+      "source": "hn",
+      "title": "Texas data center boom could erase decades of progress on air quality"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 12,
+    "recent": 4,
+    "score": 5.06,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "air quality",
+    "voices": 4,
+    "z": 2.53
+   },
+   {
     "baseline": 4,
     "examples": [
      {
@@ -1262,7 +1295,7 @@
     "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -1272,6 +1305,37 @@
     "term": "stock falls",
     "voices": 3,
     "z": 3.22
+   },
+   {
+    "baseline": 41,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SLB Sees Growth Driven by Middle East Oil Field Recovery"
+     },
+     {
+      "source": "media",
+      "title": "SLB signals stronger 2027 on Middle East rebound, beats estimates"
+     },
+     {
+      "source": "media",
+      "title": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears"
+     }
+    ],
+    "expected": 3.19,
+    "field": "power",
+    "is_new": false,
+    "rank": 14,
+    "recent": 8,
+    "score": 4.7,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "middle east",
+    "voices": 4,
+    "z": 2.35
    },
    {
     "baseline": 0,
@@ -1292,7 +1356,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 13,
+    "rank": 15,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1302,67 +1366,6 @@
     "term": "mining industry",
     "voices": 3,
     "z": 3.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "news",
-      "title": "Government of Canada launches consultations on a new Canadian space act and takes action to strengthen the resiliency of Canada space infrastructure critical for national security"
-     },
-     {
-      "source": "news",
-      "title": "Government of Canada launches consultations on a new Canadian space act and takes action to strengthen the resiliency of Canada space infrastructure critical for national security"
-     },
-     {
-      "source": "hn",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
-     }
-    ],
-    "expected": 0.0,
-    "field": "power",
-    "is_new": true,
-    "rank": 14,
-    "recent": 3,
-    "score": 4.5,
-    "sources": [
-     "hn",
-     "news"
-    ],
-    "term": "space act",
-    "voices": 3,
-    "z": 3.0
-   },
-   {
-    "baseline": 6,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Saudi crude oil exports hit five-month high in August, data shows"
-     },
-     {
-      "source": "news",
-      "title": "Azerbaijan Non - Oil Economy Grows Faster as Non - Oil Exports Climb"
-     },
-     {
-      "source": "hn",
-      "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels"
-     }
-    ],
-    "expected": 0.47,
-    "field": "power",
-    "is_new": false,
-    "rank": 15,
-    "recent": 3,
-    "score": 4.18,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "oil exports",
-    "voices": 3,
-    "z": 2.09
    }
   ],
   "semiconductor": [
@@ -1397,6 +1400,36 @@
     "z": 6.51
    },
    {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Jensen Huang At GTC Berlin: Nvidia Showcases A Full Stack"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia GTC Berlin 2026"
+     },
+     {
+      "source": "hn",
+      "title": "Huang shrugs off protestors to kick off GTC Berlin with DSX Pods, Robots"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gtc berlin",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
     "baseline": 27,
     "examples": [
      {
@@ -1415,7 +1448,7 @@
     "expected": 2.1,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 2,
+    "rank": 3,
     "recent": 4,
     "score": 2.16,
     "sources": [

@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-25",
  "docs_baseline": 115425,
- "docs_recent": 9726,
+ "docs_recent": 9727,
  "fields": {
   "ai": [
    {
@@ -250,6 +250,36 @@
     "z": 5.7
    },
    {
+    "baseline": 30,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Trade Falters in Runup to Earnings, Oil Drops: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels"
+     },
+     {
+      "source": "media",
+      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven"
+     }
+    ],
+    "expected": 2.33,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 12,
+    "score": 7.94,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 7,
+    "z": 5.29
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -268,7 +298,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 9,
+    "rank": 10,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -298,7 +328,7 @@
     "expected": 0.47,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 5,
     "score": 7.49,
     "sources": [
@@ -329,7 +359,7 @@
     "expected": 3.81,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 12,
     "score": 7.47,
     "sources": [
@@ -340,36 +370,6 @@
     "term": "physical ai",
     "voices": 8,
     "z": 3.73
-   },
-   {
-    "baseline": 30,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels"
-     },
-     {
-      "source": "media",
-      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven"
-     },
-     {
-      "source": "media",
-      "title": "Take Five: AI trade meets the Fed"
-     }
-    ],
-    "expected": 2.33,
-    "field": "ai",
-    "is_new": false,
-    "rank": 12,
-    "recent": 11,
-    "score": 7.12,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai trade",
-    "voices": 7,
-    "z": 4.75
    },
    {
     "baseline": 165,

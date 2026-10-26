@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-25",
  "docs_baseline": 115425,
- "docs_recent": 9729,
+ "docs_recent": 10367,
  "fields": {
   "ai": [
    {
@@ -87,16 +87,16 @@
     "field": "ai",
     "is_new": false,
     "rank": 3,
-    "recent": 29,
-    "score": 11.33,
+    "recent": 30,
+    "score": 11.93,
     "sources": [
      "hn",
      "media",
      "news"
     ],
     "term": "elon musk",
-    "voices": 23,
-    "z": 5.67
+    "voices": 24,
+    "z": 5.97
    },
    {
     "baseline": 0,
@@ -208,16 +208,16 @@
     "field": "ai",
     "is_new": false,
     "rank": 7,
-    "recent": 125,
-    "score": 8.71,
+    "recent": 133,
+    "score": 10.43,
     "sources": [
      "arxiv",
      "hn",
      "media"
     ],
     "term": "ai agents",
-    "voices": 107,
-    "z": 4.35
+    "voices": 115,
+    "z": 5.22
    },
    {
     "baseline": 1,
@@ -250,6 +250,37 @@
     "z": 5.7
    },
    {
+    "baseline": 165,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Are AI Data Centers Overvalued?"
+     },
+     {
+      "source": "media",
+      "title": "Why AI data centers are powering a boom in fuel-cell demand"
+     },
+     {
+      "source": "media",
+      "title": "AI Data Centers Don’t Have To Be Hyperscale. New Designs Could Ease Community Costs."
+     }
+    ],
+    "expected": 12.83,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 28,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai data",
+    "voices": 24,
+    "z": 4.08
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -268,7 +299,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 9,
+    "rank": 10,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -298,7 +329,7 @@
     "expected": 0.47,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 5,
     "score": 7.49,
     "sources": [
@@ -329,7 +360,7 @@
     "expected": 3.81,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 12,
     "score": 7.47,
     "sources": [
@@ -360,7 +391,7 @@
     "expected": 2.33,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 11,
     "score": 7.12,
     "sources": [
@@ -372,35 +403,34 @@
     "z": 4.75
    },
    {
-    "baseline": 165,
+    "baseline": 68,
     "examples": [
      {
-      "source": "media",
-      "title": "Are AI Data Centers Overvalued?"
+      "source": "hn",
+      "title": "Decision models in Skills. Saving 70% tokens, going 5 times faster"
      },
      {
-      "source": "media",
-      "title": "Why AI data centers are powering a boom in fuel-cell demand"
+      "source": "hn",
+      "title": "How to Use Decision Models for Evals"
      },
      {
-      "source": "media",
-      "title": "AI Data Centers Don’t Have To Be Hyperscale. New Designs Could Ease Community Costs."
+      "source": "hn",
+      "title": "Mammoth-1 and Elephant-1: frontier decision models"
      }
     ],
-    "expected": 12.83,
+    "expected": 5.29,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
-    "recent": 26,
-    "score": 7.08,
+    "rank": 14,
+    "recent": 17,
+    "score": 7.0,
     "sources": [
-     "hn",
-     "media",
-     "news"
+     "arxiv",
+     "hn"
     ],
-    "term": "ai data",
-    "voices": 22,
-    "z": 3.54
+    "term": "decision models",
+    "voices": 17,
+    "z": 4.67
    },
    {
     "baseline": 6,
@@ -421,7 +451,7 @@
     "expected": 0.47,
     "field": "ai",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 6,
     "score": 6.85,
     "sources": [
@@ -431,36 +461,6 @@
     "term": "text classification",
     "voices": 3,
     "z": 4.57
-   },
-   {
-    "baseline": 7,
-    "examples": [
-     {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
-     },
-     {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
-     },
-     {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
-     }
-    ],
-    "expected": 0.54,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 6,
-    "score": 6.58,
-    "sources": [
-     "hn",
-     "news"
-    ],
-    "term": "cut ai",
-    "voices": 6,
-    "z": 4.39
    }
   ],
   "other": [
@@ -484,15 +484,15 @@
     "field": "other",
     "is_new": false,
     "rank": 1,
-    "recent": 36,
-    "score": 18.53,
+    "recent": 40,
+    "score": 20.94,
     "sources": [
      "hn",
      "media"
     ],
     "term": "iphone duo",
-    "voices": 17,
-    "z": 12.35
+    "voices": 19,
+    "z": 13.96
    },
    {
     "baseline": 0,
@@ -643,6 +643,36 @@
     "z": 6.67
    },
    {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
+     },
+     {
+      "source": "media",
+      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps"
+     },
+     {
+      "source": "hn",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 8,
+    "score": 9.69,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ukraine starlink",
+    "voices": 7,
+    "z": 6.46
+   },
+   {
     "baseline": 15,
     "examples": [
      {
@@ -661,7 +691,7 @@
     "expected": 1.17,
     "field": "other",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 10,
     "score": 9.0,
     "sources": [
@@ -691,7 +721,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -721,7 +751,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 9,
+    "rank": 10,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -751,7 +781,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 11,
     "recent": 8,
     "score": 8.0,
     "sources": [
@@ -780,7 +810,7 @@
     "expected": 0.93,
     "field": "other",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 8,
     "score": 7.62,
     "sources": [
@@ -790,6 +820,36 @@
     "term": "see everything",
     "voices": 6,
     "z": 5.08
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia"
+     },
+     {
+      "source": "media",
+      "title": "Arc browser is shutting down"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: Arc browser being deprecated. Which browser do you use?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "arc browser",
+    "voices": 5,
+    "z": 5.0
    },
    {
     "baseline": 0,
@@ -810,7 +870,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 14,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -840,7 +900,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 13,
+    "rank": 15,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -850,66 +910,6 @@
     "term": "php vulnerability",
     "voices": 5,
     "z": 5.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”"
-     },
-     {
-      "source": "media",
-      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares"
-     },
-     {
-      "source": "hn",
-      "title": "I will give one of my SpaceX shares to every kid in America"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 14,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "kid in america",
-    "voices": 5,
-    "z": 5.0
-   },
-   {
-    "baseline": 5,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Are Elizabeth Holmes And Nathan Fielder Deceiving Us In ‘You Can See Everything’?"
-     },
-     {
-      "source": "hn",
-      "title": "I wish you didn't want to see Nathan Fielder's Elizabeth Holmes documentary"
-     },
-     {
-      "source": "hn",
-      "title": "Nathan Fielder Enters Silicon Valley's Vortex of Delusion"
-     }
-    ],
-    "expected": 0.39,
-    "field": "other",
-    "is_new": false,
-    "rank": 15,
-    "recent": 6,
-    "score": 7.14,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "nathan fielder",
-    "voices": 6,
-    "z": 4.76
    }
   ],
   "power": [
@@ -1125,6 +1125,36 @@
     "z": 4.76
    },
    {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘Gears Of War: E-Day’ Cost Xbox $500 Million, Report Says"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
+     },
+     {
+      "source": "media",
+      "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says"
+     }
+    ],
+    "expected": 1.32,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 8,
+    "score": 6.57,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "report says",
+    "voices": 6,
+    "z": 4.38
+   },
+   {
     "baseline": 4,
     "examples": [
      {
@@ -1143,7 +1173,7 @@
     "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 4,
     "score": 6.44,
     "sources": [
@@ -1174,7 +1204,7 @@
     "expected": 24.5,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 36,
     "score": 5.69,
     "sources": [
@@ -1186,36 +1216,6 @@
     "term": "data center",
     "voices": 22,
     "z": 2.28
-   },
-   {
-    "baseline": 17,
-    "examples": [
-     {
-      "source": "media",
-      "title": "‘Gears Of War: E-Day’ Cost Xbox $500 Million, Report Says"
-     },
-     {
-      "source": "media",
-      "title": "Elon Musk made a $1B investment in Skydance, report says"
-     },
-     {
-      "source": "media",
-      "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says"
-     }
-    ],
-    "expected": 1.32,
-    "field": "power",
-    "is_new": false,
-    "rank": 10,
-    "recent": 7,
-    "score": 5.59,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "report says",
-    "voices": 5,
-    "z": 3.73
    },
    {
     "baseline": 8,
@@ -1390,15 +1390,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 14,
-    "score": 12.77,
+    "recent": 17,
+    "score": 15.78,
     "sources": [
      "hn",
      "media"
     ],
     "term": "musk says",
-    "voices": 10,
-    "z": 8.51
+    "voices": 13,
+    "z": 10.52
    },
    {
     "baseline": 1,
@@ -1431,6 +1431,35 @@
     "z": 2.81
    },
    {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "What will computer chips look like in 2045? [Dwarkesh] [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Intel tour by Dwarkesh: What will computer chips look like in 2045?"
+     },
+     {
+      "source": "hn",
+      "title": "Computer Chips Are the Most Magnificent Things Humanity Has Ever Made"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "computer chips",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
     "baseline": 25,
     "examples": [
      {
@@ -1449,7 +1478,7 @@
     "expected": 1.94,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 4,
     "score": 2.4,
     "sources": [

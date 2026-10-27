@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-26",
  "docs_baseline": 115230,
- "docs_recent": 8949,
+ "docs_recent": 8951,
  "fields": {
   "ai": [
    {
@@ -220,6 +220,36 @@
     "z": 4.56
    },
    {
+    "baseline": 28,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Citadel Securities’ Shah Says AI Trade Has No ‘Margin for Error’"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Advance on AI Trade, Nasdaq Futures Slip: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels"
+     }
+    ],
+    "expected": 2.18,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 13,
+    "score": 9.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 7,
+    "z": 6.07
+   },
+   {
     "baseline": 1,
     "examples": [
      {
@@ -238,7 +268,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 6,
     "score": 8.56,
     "sources": [
@@ -248,36 +278,6 @@
     "term": "strikes deal",
     "voices": 5,
     "z": 5.7
-   },
-   {
-    "baseline": 28,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Citadel Securities’ Shah Says AI Trade Has No ‘Margin for Error’"
-     },
-     {
-      "source": "media",
-      "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels"
-     },
-     {
-      "source": "media",
-      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven"
-     }
-    ],
-    "expected": 2.18,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 12,
-    "score": 8.26,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai trade",
-    "voices": 7,
-    "z": 5.51
    },
    {
     "baseline": 44,

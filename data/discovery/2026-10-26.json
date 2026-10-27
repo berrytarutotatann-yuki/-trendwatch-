@@ -3,9 +3,39 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-26",
  "docs_baseline": 115231,
- "docs_recent": 8953,
+ "docs_recent": 10349,
  "fields": {
   "ai": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to 60,000 employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Offers Buyouts to 60,000 Employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to around 60,000 employees"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 1,
+    "recent": 11,
+    "score": 16.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft offers",
+    "voices": 11,
+    "z": 11.0
+   },
    {
     "baseline": 21,
     "examples": [
@@ -25,7 +55,7 @@
     "expected": 1.63,
     "field": "ai",
     "is_new": false,
-    "rank": 1,
+    "rank": 2,
     "recent": 14,
     "score": 15.24,
     "sources": [
@@ -56,7 +86,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 2,
+    "rank": 3,
     "recent": 10,
     "score": 15.0,
     "sources": [
@@ -66,6 +96,98 @@
     "term": "critical php",
     "voices": 10,
     "z": 10.0
+   },
+   {
+    "baseline": 1090,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Agents Are Changing What Enterprise Control Means"
+     },
+     {
+      "source": "media",
+      "title": "Connection Is Not Comprehension: Why AI Agents Need A Unified Semantic Layer"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Seen Taking Credit Trading Work From Humans Over Time"
+     }
+    ],
+    "expected": 84.78,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 141,
+    "score": 12.14,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai agents",
+    "voices": 118,
+    "z": 6.07
+   },
+   {
+    "baseline": 28,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Citadel Securities’ Shah Says AI Trade Has No ‘Margin for Error’"
+     },
+     {
+      "source": "media",
+      "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels"
+     },
+     {
+      "source": "media",
+      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven"
+     }
+    ],
+    "expected": 2.18,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 13,
+    "score": 12.14,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai trade",
+    "voices": 8,
+    "z": 6.07
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Promises New Scientific Discoveries—And New Threats"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic S-1 Highlights Rising Payment Costs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Takeaways: From Giant Compute Commitments to Complex Lock-Ups"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic s-1",
+    "voices": 7,
+    "z": 8.0
    },
    {
     "baseline": 0,
@@ -86,7 +208,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 3,
+    "rank": 7,
     "recent": 7,
     "score": 10.5,
     "sources": [
@@ -116,7 +238,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 4,
+    "rank": 8,
     "recent": 7,
     "score": 10.5,
     "sources": [
@@ -146,7 +268,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 9,
     "recent": 8,
     "score": 10.49,
     "sources": [
@@ -156,190 +278,6 @@
     "term": "wealth tax",
     "voices": 6,
     "z": 6.99
-   },
-   {
-    "baseline": 40,
-    "examples": [
-     {
-      "source": "media",
-      "title": "HSBC cuts global equities to 'neutral' on Middle East, AI risks"
-     },
-     {
-      "source": "media",
-      "title": "Horizons Middle East & Africa 10/26/2026 (Video)"
-     },
-     {
-      "source": "media",
-      "title": "Brookfield to Open Doha Office to Deepen Middle East Reach"
-     }
-    ],
-    "expected": 3.11,
-    "field": "ai",
-    "is_new": false,
-    "rank": 6,
-    "recent": 13,
-    "score": 9.75,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "middle east",
-    "voices": 5,
-    "z": 4.88
-   },
-   {
-    "baseline": 1090,
-    "examples": [
-     {
-      "source": "media",
-      "title": "AI Agents Are Changing What Enterprise Control Means"
-     },
-     {
-      "source": "media",
-      "title": "Connection Is Not Comprehension: Why AI Agents Need A Unified Semantic Layer"
-     },
-     {
-      "source": "media",
-      "title": "AI Agents Seen Taking Credit Trading Work From Humans Over Time"
-     }
-    ],
-    "expected": 84.78,
-    "field": "ai",
-    "is_new": false,
-    "rank": 7,
-    "recent": 127,
-    "score": 9.12,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "ai agents",
-    "voices": 105,
-    "z": 4.56
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic strikes deal to launch European consultancy"
-     },
-     {
-      "source": "hn",
-      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 8,
-    "recent": 6,
-    "score": 8.56,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "strikes deal",
-    "voices": 5,
-    "z": 5.7
-   },
-   {
-    "baseline": 28,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Citadel Securities’ Shah Says AI Trade Has No ‘Margin for Error’"
-     },
-     {
-      "source": "media",
-      "title": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels"
-     },
-     {
-      "source": "media",
-      "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven"
-     }
-    ],
-    "expected": 2.18,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 12,
-    "score": 8.26,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai trade",
-    "voices": 7,
-    "z": 5.51
-   },
-   {
-    "baseline": 44,
-    "examples": [
-     {
-      "source": "media",
-      "title": "​Will Physical AI Bring A “Coding Agent” To Physical Businesses?"
-     },
-     {
-      "source": "media",
-      "title": "Boston Dynamics Founder On Physical AI Outlook"
-     },
-     {
-      "source": "media",
-      "title": "Exclusive: Physical AI Startup Tractian Becomes a Unicorn"
-     }
-    ],
-    "expected": 3.42,
-    "field": "ai",
-    "is_new": false,
-    "rank": 10,
-    "recent": 12,
-    "score": 8.16,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "physical ai",
-    "voices": 8,
-    "z": 4.08
-   },
-   {
-    "baseline": 137,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Elon Musk’s AI ‘The Odyssey’ Is One Of The Worst Movies I’ve Ever Seen"
-     },
-     {
-      "source": "media",
-      "title": "Elon Musk’s dangerous grip on outer space"
-     },
-     {
-      "source": "media",
-      "title": "Elon Musk made a $1B investment in Skydance, report says"
-     }
-    ],
-    "expected": 10.66,
-    "field": "ai",
-    "is_new": false,
-    "rank": 11,
-    "recent": 24,
-    "score": 7.82,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "elon musk",
-    "voices": 20,
-    "z": 3.91
    },
    {
     "baseline": 28,
@@ -360,106 +298,169 @@
     "expected": 2.18,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
-    "recent": 11,
-    "score": 7.42,
+    "rank": 10,
+    "recent": 14,
+    "score": 9.95,
     "sources": [
      "hn",
      "media"
     ],
     "term": "anthropic ipo",
-    "voices": 8,
-    "z": 4.95
+    "voices": 11,
+    "z": 6.63
    },
    {
-    "baseline": 7,
+    "baseline": 40,
     "examples": [
      {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+      "source": "media",
+      "title": "HSBC cuts global equities to 'neutral' on Middle East, AI risks"
      },
      {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+      "source": "media",
+      "title": "Horizons Middle East & Africa 10/26/2026 (Video)"
      },
      {
-      "source": "news",
-      "title": "Flexible grid connections can cut AI data centre power wait to 2 - 4 years from 5 - 10 years : BCG"
+      "source": "media",
+      "title": "Brookfield to Open Doha Office to Deepen Middle East Reach"
      }
     ],
-    "expected": 0.54,
+    "expected": 3.11,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
-    "recent": 6,
-    "score": 6.58,
+    "rank": 11,
+    "recent": 13,
+    "score": 9.75,
     "sources": [
      "hn",
+     "media",
      "news"
     ],
-    "term": "cut ai",
-    "voices": 6,
-    "z": 4.39
+    "term": "middle east",
+    "voices": 5,
+    "z": 4.88
    },
    {
-    "baseline": 58,
+    "baseline": 137,
     "examples": [
      {
-      "source": "hn",
-      "title": "Borealis: Asahi Linux's Apple Silicon Mesa Vulkan Driver Forked for Vibe Coding"
+      "source": "media",
+      "title": "Elon Musk’s AI ‘The Odyssey’ Is One Of The Worst Movies I’ve Ever Seen"
      },
      {
-      "source": "hn",
-      "title": "Cube – Run FreeBSD ARM64 VMs Natively on Apple Silicon Macs"
+      "source": "media",
+      "title": "Elon Musk’s dangerous grip on outer space"
      },
      {
-      "source": "hn",
-      "title": "Apple Silicon Inference Engine: Kapitsa"
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
      }
     ],
-    "expected": 4.51,
+    "expected": 10.66,
     "field": "ai",
     "is_new": false,
-    "rank": 14,
-    "recent": 14,
-    "score": 6.06,
+    "rank": 12,
+    "recent": 27,
+    "score": 9.57,
     "sources": [
-     "arxiv",
-     "hn"
+     "hn",
+     "media",
+     "news"
     ],
-    "term": "apple silicon",
-    "voices": 12,
-    "z": 4.04
+    "term": "elon musk",
+    "voices": 23,
+    "z": 4.79
    },
    {
     "baseline": 0,
     "examples": [
      {
-      "source": "hn",
-      "title": "A Fix for Softmax and Cross-Entropy"
+      "source": "media",
+      "title": "Anthropic Files for IPO in Global Race to Raise Cash for AI"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap"
      },
      {
       "source": "hn",
-      "title": "All existing implementations of softmax and cross-entropy have a subtle bug"
-     },
-     {
-      "source": "hn",
-      "title": "A Fix for Softmax and Cross-Entropy"
+      "title": "Anthropic Files for IPO That Could Value AI Firm at Up to $2T"
      }
     ],
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
+    "rank": 13,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic files",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic strikes deal to launch European consultancy"
+     },
+     {
+      "source": "hn",
+      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strikes deal",
+    "voices": 5,
+    "z": 5.7
+   },
+   {
+    "baseline": 44,
+    "examples": [
+     {
+      "source": "media",
+      "title": "​Will Physical AI Bring A “Coding Agent” To Physical Businesses?"
+     },
+     {
+      "source": "media",
+      "title": "Boston Dynamics Founder On Physical AI Outlook"
+     },
+     {
+      "source": "media",
+      "title": "Exclusive: Physical AI Startup Tractian Becomes a Unicorn"
+     }
+    ],
+    "expected": 3.42,
+    "field": "ai",
+    "is_new": false,
     "rank": 15,
-    "recent": 4,
-    "score": 6.0,
+    "recent": 12,
+    "score": 8.16,
     "sources": [
      "arxiv",
-     "hn"
+     "hn",
+     "media"
     ],
-    "term": "softmax and cross-entropy",
-    "voices": 4,
-    "z": 4.0
+    "term": "physical ai",
+    "voices": 8,
+    "z": 4.08
    }
   ],
   "other": [
@@ -483,15 +484,15 @@
     "field": "other",
     "is_new": false,
     "rank": 1,
-    "recent": 45,
-    "score": 23.75,
+    "recent": 53,
+    "score": 28.54,
     "sources": [
      "hn",
      "media"
     ],
     "term": "iphone duo",
-    "voices": 19,
-    "z": 15.84
+    "voices": 27,
+    "z": 19.03
    },
    {
     "baseline": 0,
@@ -732,6 +733,66 @@
     "z": 6.0
    },
    {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Soybeans, Coffee, Sugar Slump as Brazil’s Election Hits Currency"
+     },
+     {
+      "source": "media",
+      "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback"
+     },
+     {
+      "source": "media",
+      "title": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 7,
+    "score": 8.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "brazil election",
+    "voices": 6,
+    "z": 5.84
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ukraine says Starlink speed curbs remain despite Trump assurance"
+     },
+     {
+      "source": "media",
+      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps"
+     },
+     {
+      "source": "hn",
+      "title": "Musk says he was behind Starlink speed restriction in Ukraine"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "starlink speed",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -750,7 +811,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 12,
     "recent": 8,
     "score": 8.0,
     "sources": [
@@ -779,7 +840,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 11,
+    "rank": 13,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -809,7 +870,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 12,
+    "rank": 14,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -839,7 +900,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 13,
+    "rank": 15,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -849,66 +910,6 @@
     "term": "php vulnerability",
     "voices": 5,
     "z": 5.0
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Ukraine says Starlink speed curbs remain despite Trump assurance"
-     },
-     {
-      "source": "media",
-      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps"
-     },
-     {
-      "source": "hn",
-      "title": "Elon Musk says he was behind restricting Ukraine's Starlink speed"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 14,
-    "recent": 5,
-    "score": 7.11,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "starlink speed",
-    "voices": 5,
-    "z": 4.74
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Tesla and SpaceX are discussing a possible merger, Musk says"
-     },
-     {
-      "source": "media",
-      "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says"
-     },
-     {
-      "source": "hn",
-      "title": "Elon Musk confirms talks to merge Tesla and SpaceX"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 15,
-    "recent": 5,
-    "score": 7.11,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "tesla and spacex",
-    "voices": 5,
-    "z": 4.74
    }
   ],
   "power": [
@@ -1003,6 +1004,37 @@
     "z": 10.0
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "U.S. Names Helium Critical Material To Develop AI And Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "US designates helium as a critical material"
+     },
+     {
+      "source": "news",
+      "title": "Helium Added to U . S . Department of Energy Critical Material List"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 4,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "critical material",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
     "baseline": 5,
     "examples": [
      {
@@ -1021,7 +1053,7 @@
     "expected": 0.39,
     "field": "power",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 6,
     "score": 7.14,
     "sources": [
@@ -1051,7 +1083,7 @@
     "expected": 0.39,
     "field": "power",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 6,
     "score": 7.14,
     "sources": [
@@ -1081,7 +1113,7 @@
     "expected": 0.62,
     "field": "power",
     "is_new": false,
-    "rank": 6,
+    "rank": 7,
     "recent": 6,
     "score": 6.33,
     "sources": [
@@ -1111,7 +1143,7 @@
     "expected": 0.08,
     "field": "power",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 4,
     "score": 5.67,
     "sources": [
@@ -1141,7 +1173,7 @@
     "expected": 0.62,
     "field": "power",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 5,
     "score": 5.16,
     "sources": [
@@ -1171,7 +1203,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 4,
     "score": 5.09,
     "sources": [
@@ -1201,7 +1233,7 @@
     "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -1231,7 +1263,7 @@
     "expected": 0.78,
     "field": "power",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -1262,7 +1294,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 12,
+    "rank": 13,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1292,7 +1324,7 @@
     "expected": 0.47,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 3,
     "score": 4.18,
     "sources": [
@@ -1323,7 +1355,7 @@
     "expected": 0.7,
     "field": "power",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 6,
     "score": 4.06,
     "sources": [
@@ -1332,37 +1364,6 @@
     "term": "bloom energy",
     "voices": 5,
     "z": 4.06
-   },
-   {
-    "baseline": 16,
-    "examples": [
-     {
-      "source": "media",
-      "title": "How This County Made the Data Center Boom Pay Off"
-     },
-     {
-      "source": "media",
-      "title": "When The Data Center Boom Outruns Demand"
-     },
-     {
-      "source": "news",
-      "title": "AI Data Center Boom : 65 % of Announced Capacity May Never Get Built"
-     }
-    ],
-    "expected": 1.24,
-    "field": "power",
-    "is_new": false,
-    "rank": 15,
-    "recent": 4,
-    "score": 3.68,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "data center boom",
-    "voices": 4,
-    "z": 1.84
    }
   ],
   "semiconductor": [
@@ -1386,15 +1387,45 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 16,
-    "score": 14.77,
+    "recent": 18,
+    "score": 16.78,
     "sources": [
      "hn",
      "media"
     ],
     "term": "musk says",
-    "voices": 12,
-    "z": 9.85
+    "voices": 14,
+    "z": 11.18
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
+     },
+     {
+      "source": "media",
+      "title": "Apple updates the iPad Mini with a larger OLED display"
+     },
+     {
+      "source": "hn",
+      "title": "Caveats of iPad Mini"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipad mini",
+    "voices": 6,
+    "z": 5.44
    },
    {
     "baseline": 19,
@@ -1415,7 +1446,7 @@
     "expected": 1.48,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 2,
+    "rank": 3,
     "recent": 7,
     "score": 5.26,
     "sources": [
@@ -1445,7 +1476,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 3,
     "score": 4.22,
     "sources": [
@@ -1453,6 +1484,35 @@
      "media"
     ],
     "term": "gtc berlin",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     },
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     },
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "news"
+    ],
+    "term": "zealand election",
     "voices": 3,
     "z": 2.81
    },
@@ -1475,7 +1535,7 @@
     "expected": 0.16,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 4,
+    "rank": 6,
     "recent": 3,
     "score": 2.65,
     "sources": [
@@ -1504,7 +1564,7 @@
     "expected": 1.94,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
+    "rank": 7,
     "recent": 4,
     "score": 2.4,
     "sources": [

@@ -11,12 +11,6 @@
   "origin": "auto",
   "score_at_add": 9.0
  },
- "chip design": {
-  "added": "2026-10-06",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 11.27
- },
  "constellation energy": {
   "added": "2026-10-08",
   "field": "power",
@@ -83,23 +77,29 @@
   "origin": "auto",
   "score_at_add": 15.0
  },
+ "ipad mini": {
+  "added": "2026-10-27",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 8.16
+ },
  "iphone duo": {
   "added": "2026-10-24",
   "field": "ai",
   "origin": "auto",
   "score_at_add": 15.35
  },
+ "microsoft offers": {
+  "added": "2026-10-27",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 16.5
+ },
  "microsoft pulls": {
   "added": "2026-10-20",
   "field": "power",
   "origin": "auto",
   "score_at_add": 6.0
- },
- "minister says": {
-  "added": "2026-10-07",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 7.51
  },
  "musk says": {
   "added": "2026-10-21",

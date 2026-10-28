@@ -1,4 +1,16 @@
 {
+ "ai trade": {
+  "added": "2026-10-28",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 13.02
+ },
+ "anthropic ipo": {
+  "added": "2026-10-28",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 16.68
+ },
  "apple homeview": {
   "added": "2026-10-18",
   "field": "ai",
@@ -11,23 +23,11 @@
   "origin": "auto",
   "score_at_add": 9.0
  },
- "constellation energy": {
-  "added": "2026-10-08",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 8.56
- },
  "critical php": {
   "added": "2026-10-25",
   "field": "ai",
   "origin": "auto",
   "score_at_add": 15.0
- },
- "decision model": {
-  "added": "2026-10-08",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 15.46
  },
  "drones hit": {
   "added": "2026-10-14",
@@ -89,6 +89,12 @@
   "origin": "auto",
   "score_at_add": 15.35
  },
+ "macbook pro": {
+  "added": "2026-10-28",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 10.03
+ },
  "microsoft offers": {
   "added": "2026-10-27",
   "field": "ai",
@@ -148,12 +154,6 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 8.16
- },
- "spacex seeks": {
-  "added": "2026-10-09",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 6.0
  },
  "stocks slide": {
   "added": "2026-10-15",

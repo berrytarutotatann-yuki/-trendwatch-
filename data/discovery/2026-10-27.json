@@ -3,39 +3,9 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-27",
  "docs_baseline": 115706,
- "docs_recent": 8763,
+ "docs_recent": 10158,
  "fields": {
   "ai": [
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Microsoft offers buyouts to 60,000 employees"
-     },
-     {
-      "source": "media",
-      "title": "Microsoft Offers Buyouts to 60,000 Employees"
-     },
-     {
-      "source": "media",
-      "title": "Microsoft offers buyouts to around 60,000 employees"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 1,
-    "recent": 11,
-    "score": 16.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "microsoft offers",
-    "voices": 11,
-    "z": 11.0
-   },
    {
     "baseline": 28,
     "examples": [
@@ -55,16 +25,16 @@
     "expected": 2.18,
     "field": "ai",
     "is_new": false,
-    "rank": 2,
-    "recent": 20,
-    "score": 15.0,
+    "rank": 1,
+    "recent": 22,
+    "score": 16.68,
     "sources": [
      "hn",
      "media"
     ],
     "term": "anthropic ipo",
-    "voices": 10,
-    "z": 10.0
+    "voices": 12,
+    "z": 11.12
    },
    {
     "baseline": 29,
@@ -85,7 +55,7 @@
     "expected": 2.26,
     "field": "ai",
     "is_new": false,
-    "rank": 3,
+    "rank": 2,
     "recent": 14,
     "score": 13.02,
     "sources": [
@@ -116,7 +86,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
+    "rank": 3,
     "recent": 9,
     "score": 11.84,
     "sources": [
@@ -146,7 +116,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 4,
     "recent": 9,
     "score": 11.84,
     "sources": [
@@ -156,6 +126,37 @@
     "term": "wealth tax",
     "voices": 7,
     "z": 7.89
+   },
+   {
+    "baseline": 1092,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Agents Need Human Accountability, Not More Oversight"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Cost 10 Times More To Run Than Chatbots And Here’s Why"
+     },
+     {
+      "source": "media",
+      "title": "This $600 Million Startup Is Helping Keep Company Secrets Away From AI Agents"
+     }
+    ],
+    "expected": 84.93,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 138,
+    "score": 11.45,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai agents",
+    "voices": 113,
+    "z": 5.72
    },
    {
     "baseline": 39,
@@ -249,6 +250,37 @@
     "z": 7.0
    },
    {
+    "baseline": 138,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk’s AI ‘The Odyssey’ Is One Of The Worst Movies I’ve Ever Seen"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk’s dangerous grip on outer space"
+     }
+    ],
+    "expected": 10.73,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 28,
+    "score": 10.08,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "elon musk",
+    "voices": 24,
+    "z": 5.04
+   },
+   {
     "baseline": 1,
     "examples": [
      {
@@ -267,7 +299,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 7,
     "score": 10.0,
     "sources": [
@@ -277,6 +309,36 @@
     "term": "anthropic s-1",
     "voices": 6,
     "z": 6.67
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?"
+     },
+     {
+      "source": "hn",
+      "title": "The Exponential Time Hypothesis Is False"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI says its AI disproved the Exponential Time Hypothesis"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 11,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "exponential time hypothesis",
+    "voices": 6,
+    "z": 6.0
    },
    {
     "baseline": 0,
@@ -297,7 +359,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 10,
+    "rank": 12,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -309,35 +371,34 @@
     "z": 6.0
    },
    {
-    "baseline": 138,
+    "baseline": 75,
     "examples": [
      {
-      "source": "media",
-      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service"
+      "source": "hn",
+      "title": "Enabling new use cases for decision models beyond high-volume cheap decisions"
      },
      {
-      "source": "media",
-      "title": "Elon Musk’s AI ‘The Odyssey’ Is One Of The Worst Movies I’ve Ever Seen"
+      "source": "hn",
+      "title": "Show HN: Qev – quake and local decision models"
      },
      {
-      "source": "media",
-      "title": "Elon Musk’s dangerous grip on outer space"
+      "source": "hn",
+      "title": "Show HN: Valen – Open multimodal decision models for text, images and video"
      }
     ],
-    "expected": 10.73,
+    "expected": 5.83,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
-    "recent": 26,
-    "score": 8.91,
+    "rank": 13,
+    "recent": 21,
+    "score": 8.7,
     "sources": [
-     "hn",
-     "media",
-     "news"
+     "arxiv",
+     "hn"
     ],
-    "term": "elon musk",
-    "voices": 22,
-    "z": 4.46
+    "term": "decision models",
+    "voices": 21,
+    "z": 5.8
    },
    {
     "baseline": 1,
@@ -358,7 +419,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 14,
     "recent": 6,
     "score": 8.56,
     "sources": [
@@ -370,98 +431,34 @@
     "z": 5.7
    },
    {
-    "baseline": 1092,
-    "examples": [
-     {
-      "source": "media",
-      "title": "AI Agents Need Human Accountability, Not More Oversight"
-     },
-     {
-      "source": "media",
-      "title": "AI Agents Cost 10 Times More To Run Than Chatbots And Here’s Why"
-     },
-     {
-      "source": "media",
-      "title": "This $600 Million Startup Is Helping Keep Company Secrets Away From AI Agents"
-     }
-    ],
-    "expected": 84.93,
-    "field": "ai",
-    "is_new": false,
-    "rank": 13,
-    "recent": 121,
-    "score": 7.78,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "ai agents",
-    "voices": 98,
-    "z": 3.89
-   },
-   {
-    "baseline": 167,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Are AI Data Centers Overvalued?"
-     },
-     {
-      "source": "media",
-      "title": "Why AI data centers are powering a boom in fuel-cell demand"
-     },
-     {
-      "source": "media",
-      "title": "AI Data Centers Don’t Have To Be Hyperscale. New Designs Could Ease Community Costs."
-     }
-    ],
-    "expected": 12.99,
-    "field": "ai",
-    "is_new": false,
-    "rank": 14,
-    "recent": 23,
-    "score": 6.69,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "ai data",
-    "voices": 21,
-    "z": 2.68
-   },
-   {
     "baseline": 0,
     "examples": [
      {
-      "source": "media",
-      "title": "Orange says network incident disrupts mobile services across France"
-     },
-     {
       "source": "arxiv",
-      "title": "Context Is Not Free: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers"
+      "title": "Property-Based Testing for Robust Softmax and Cross-Entropy"
      },
      {
       "source": "hn",
-      "title": "Network incident disrupts mobile services across France"
+      "title": "A Fix for Softmax and Cross-Entropy"
+     },
+     {
+      "source": "hn",
+      "title": "All existing implementations of softmax and cross-entropy have a subtle bug"
      }
     ],
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
     "rank": 15,
-    "recent": 3,
-    "score": 6.0,
+    "recent": 5,
+    "score": 7.5,
     "sources": [
      "arxiv",
-     "hn",
-     "media"
+     "hn"
     ],
-    "term": "services across",
-    "voices": 3,
-    "z": 3.0
+    "term": "softmax and cross-entropy",
+    "voices": 5,
+    "z": 5.0
    }
   ],
   "other": [
@@ -485,15 +482,45 @@
     "field": "other",
     "is_new": false,
     "rank": 1,
-    "recent": 56,
-    "score": 30.33,
+    "recent": 58,
+    "score": 31.53,
     "sources": [
      "hn",
      "media"
     ],
     "term": "iphone duo",
-    "voices": 27,
-    "z": 20.22
+    "voices": 29,
+    "z": 21.02
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to 60,000 employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Offers Buyouts to 60,000 Employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to around 60,000 employees"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 13,
+    "score": 19.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft offers",
+    "voices": 13,
+    "z": 13.0
    },
    {
     "baseline": 0,
@@ -514,7 +541,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 2,
+    "rank": 3,
     "recent": 8,
     "score": 12.0,
     "sources": [
@@ -544,7 +571,7 @@
     "expected": 1.71,
     "field": "other",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 13,
     "score": 10.28,
     "sources": [
@@ -574,7 +601,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 7,
     "score": 10.0,
     "sources": [
@@ -604,7 +631,7 @@
     "expected": 0.39,
     "field": "other",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 8,
     "score": 9.69,
     "sources": [
@@ -634,7 +661,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -644,6 +671,35 @@
     "term": "php vulnerabilities",
     "voices": 6,
     "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Walter Koenig, actor who played Chekov on original \"Star Trek\" series, dies"
+     },
+     {
+      "source": "hn",
+      "title": "Walter Koenig, the Russian Crewman Chekov on 'Star Trek,' Dies at 90"
+     },
+     {
+      "source": "hn",
+      "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 9,
+    "score": 9.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "walter koenig",
+    "voices": 9,
+    "z": 9.0
    },
    {
     "baseline": 4,
@@ -664,7 +720,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 7,
+    "rank": 9,
     "recent": 7,
     "score": 8.76,
     "sources": [
@@ -694,7 +750,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 8,
+    "rank": 10,
     "recent": 6,
     "score": 8.56,
     "sources": [
@@ -724,7 +780,7 @@
     "expected": 0.62,
     "field": "other",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 7,
     "score": 7.51,
     "sources": [
@@ -754,7 +810,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 12,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -784,7 +840,7 @@
     "expected": 0.86,
     "field": "other",
     "is_new": false,
-    "rank": 11,
+    "rank": 13,
     "recent": 7,
     "score": 6.77,
     "sources": [
@@ -814,7 +870,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 12,
+    "rank": 14,
     "recent": 5,
     "score": 6.76,
     "sources": [
@@ -844,7 +900,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 13,
+    "rank": 15,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -854,65 +910,6 @@
     "term": "cell sites",
     "voices": 3,
     "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach"
-     },
-     {
-      "source": "hn",
-      "title": "Inline Viewer: Quest Diagnostics Incorporated 8-K 2026-10-21"
-     },
-     {
-      "source": "hn",
-      "title": "Quest Diagnostics (Hacked)"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 14,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "quest diagnostics",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Walter Koenig, Chekov in Original 'Star Trek' Series, Dies at 90"
-     },
-     {
-      "source": "hn",
-      "title": "Walter Koenig, Chekov from 'Star Trek,' Has Died"
-     },
-     {
-      "source": "hn",
-      "title": "Walter Koenig, star of Star Trek, dies aged 90"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 15,
-    "recent": 6,
-    "score": 6.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "walter koenig",
-    "voices": 6,
-    "z": 6.0
    }
   ],
   "power": [
@@ -1188,6 +1185,36 @@
     "z": 4.0
    },
    {
+    "baseline": 45,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says he will visit tanker in Texas with first oil from Venezuela deal"
+     },
+     {
+      "source": "media",
+      "title": "Trump Says Decision Nearing on Iran: Deal or ‘Finish It Off’"
+     },
+     {
+      "source": "media",
+      "title": "Trump says he may move White House press corps"
+     }
+    ],
+    "expected": 3.5,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 11,
+    "score": 5.3,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump says",
+    "voices": 7,
+    "z": 3.54
+   },
+   {
     "baseline": 8,
     "examples": [
      {
@@ -1206,7 +1233,7 @@
     "expected": 0.62,
     "field": "power",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 5,
     "score": 5.16,
     "sources": [
@@ -1236,7 +1263,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 4,
     "score": 5.09,
     "sources": [
@@ -1266,7 +1293,7 @@
     "expected": 1.32,
     "field": "power",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 5,
     "score": 4.83,
     "sources": [
@@ -1297,7 +1324,7 @@
     "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -1327,7 +1354,7 @@
     "expected": 0.78,
     "field": "power",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -1338,68 +1365,9 @@
     "term": "virtual power",
     "voices": 4,
     "z": 2.42
-   },
-   {
-    "baseline": 9,
-    "examples": [
-     {
-      "source": "news",
-      "title": "Bloom Energy Corporation $BE Shares Purchased by Prime Capital Investment Advisors LLC"
-     },
-     {
-      "source": "news",
-      "title": "Bloom Energy vs . Constellation Energy : Which AI Power Stock Is the Better Buy ?"
-     },
-     {
-      "source": "news",
-      "title": "Bloom Energy vs . Constellation Energy : Which AI Power Stock Is the Better Buy ?"
-     }
-    ],
-    "expected": 0.7,
-    "field": "power",
-    "is_new": false,
-    "rank": 15,
-    "recent": 6,
-    "score": 4.06,
-    "sources": [
-     "news"
-    ],
-    "term": "bloom energy",
-    "voices": 5,
-    "z": 4.06
    }
   ],
   "semiconductor": [
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
-     },
-     {
-      "source": "media",
-      "title": "Apple updates the iPad Mini with a larger OLED display"
-     },
-     {
-      "source": "hn",
-      "title": "Caveats of iPad Mini"
-     }
-    ],
-    "expected": 0.16,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 1,
-    "recent": 6,
-    "score": 8.16,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ipad mini",
-    "voices": 6,
-    "z": 5.44
-   },
    {
     "baseline": 19,
     "examples": [
@@ -1419,16 +1387,46 @@
     "expected": 1.48,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 2,
-    "recent": 7,
-    "score": 5.26,
+    "rank": 1,
+    "recent": 12,
+    "score": 10.03,
     "sources": [
      "hn",
      "media"
     ],
     "term": "macbook pro",
-    "voices": 5,
-    "z": 3.51
+    "voices": 10,
+    "z": 6.68
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
+     },
+     {
+      "source": "media",
+      "title": "Apple updates the iPad Mini with a larger OLED display"
+     },
+     {
+      "source": "hn",
+      "title": "Caveats of iPad Mini"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipad mini",
+    "voices": 6,
+    "z": 5.44
    },
    {
     "baseline": 1,
@@ -1461,36 +1459,6 @@
     "z": 2.81
    },
    {
-    "baseline": 21,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Volkswagen considers using Chinese software for Europe, report says"
-     },
-     {
-      "source": "media",
-      "title": "‘Gears Of War: E-Day’ Cost Xbox $500 Million, Report Says"
-     },
-     {
-      "source": "media",
-      "title": "Elon Musk made a $1B investment in Skydance, report says"
-     }
-    ],
-    "expected": 1.63,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 4,
-    "recent": 5,
-    "score": 3.11,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "report says",
-    "voices": 4,
-    "z": 2.07
-   },
-   {
     "baseline": 1,
     "examples": [
      {
@@ -1509,7 +1477,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
+    "rank": 4,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1518,6 +1486,35 @@
     "term": "zealand election",
     "voices": 3,
     "z": 2.81
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Glacex: GPU-Rendered UI library built from scratch in Rust"
+     },
+     {
+      "source": "hn",
+      "title": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust"
+     },
+     {
+      "source": "hn",
+      "title": "Building a Custom Microkernel OS from Scratch in Rust"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 2.65,
+    "sources": [
+     "hn"
+    ],
+    "term": "scratch in rust",
+    "voices": 4,
+    "z": 2.65
    },
    {
     "baseline": 25,

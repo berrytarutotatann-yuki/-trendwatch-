@@ -1,0 +1,1556 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-27",
+ "docs_baseline": 115706,
+ "docs_recent": 8756,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to 60,000 employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Offers Buyouts to 60,000 Employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to around 60,000 employees"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 1,
+    "recent": 11,
+    "score": 16.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft offers",
+    "voices": 11,
+    "z": 11.0
+   },
+   {
+    "baseline": 28,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic IPO Reignites AI Trade in Asia"
+     },
+     {
+      "source": "media",
+      "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus"
+     },
+     {
+      "source": "media",
+      "title": "AI Trade Bounces Back as Anthropic IPO Eases Funding Jitters"
+     }
+    ],
+    "expected": 2.18,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 20,
+    "score": 15.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 29,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic IPO Reignites AI Trade in Asia"
+     },
+     {
+      "source": "media",
+      "title": "AI Trade Bounces Back as Anthropic IPO Eases Funding Jitters"
+     },
+     {
+      "source": "media",
+      "title": "Citadel Securities’ Shah Says AI Trade Has No ‘Margin for Error’"
+     }
+    ],
+    "expected": 2.26,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 14,
+    "score": 13.02,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai trade",
+    "voices": 7,
+    "z": 6.51
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US government says hackers are now exploiting critical PHP web bugs"
+     },
+     {
+      "source": "media",
+      "title": "A critical PHP vulnerability may take websites down today"
+     },
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 9,
+    "score": 11.84,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "critical php",
+    "voices": 9,
+    "z": 7.89
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax"
+     },
+     {
+      "source": "media",
+      "title": "Wealth Tax Debate, Midterm Investing, AI Anxiety"
+     },
+     {
+      "source": "media",
+      "title": "National Wealth Tax Could Work: Tilson"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 9,
+    "score": 11.84,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "wealth tax",
+    "voices": 7,
+    "z": 7.89
+   },
+   {
+    "baseline": 39,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil falls almost $2 as Middle East talks help ease supply worries"
+     },
+     {
+      "source": "media",
+      "title": "HSBC cuts global equities to 'neutral' on Middle East, AI risks"
+     },
+     {
+      "source": "media",
+      "title": "Horizons Middle East & Africa 10/26/2026 (Video)"
+     }
+    ],
+    "expected": 3.03,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 14,
+    "score": 10.92,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "middle east",
+    "voices": 5,
+    "z": 5.46
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Claude Duet app is Anthropic’s bet on agents"
+     },
+     {
+      "source": "hn",
+      "title": "Claude Duet Safety, Privacy, and Security"
+     },
+     {
+      "source": "hn",
+      "title": "I built a \"Claude Duet\" by hand a year ago. Here's what Anthropic got right"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude duet",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Moonshot AI Launches New Kimi K3.1 Pro Model"
+     },
+     {
+      "source": "hn",
+      "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published"
+     },
+     {
+      "source": "hn",
+      "title": "Kimi K3.1 Is Comming"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "kimi k3.1",
+    "voices": 5,
+    "z": 7.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Promises New Scientific Discoveries—And New Threats"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic S-1 Highlights Rising Payment Costs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Takeaways: From Giant Compute Commitments to Complex Lock-Ups"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 7,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic s-1",
+    "voices": 6,
+    "z": 6.67
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Files for IPO in Global Race to Raise Cash for AI"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Files for IPO That Could Value AI Firm at Up to $2T"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic files",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 138,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk’s AI ‘The Odyssey’ Is One Of The Worst Movies I’ve Ever Seen"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk’s dangerous grip on outer space"
+     }
+    ],
+    "expected": 10.73,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 26,
+    "score": 8.91,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "elon musk",
+    "voices": 22,
+    "z": 4.46
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic strikes deal to launch European consultancy"
+     },
+     {
+      "source": "hn",
+      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strikes deal",
+    "voices": 5,
+    "z": 5.7
+   },
+   {
+    "baseline": 1092,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Agents Need Human Accountability, Not More Oversight"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Cost 10 Times More To Run Than Chatbots And Here’s Why"
+     },
+     {
+      "source": "media",
+      "title": "This $600 Million Startup Is Helping Keep Company Secrets Away From AI Agents"
+     }
+    ],
+    "expected": 84.93,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 121,
+    "score": 7.78,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai agents",
+    "voices": 98,
+    "z": 3.89
+   },
+   {
+    "baseline": 167,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Are AI Data Centers Overvalued?"
+     },
+     {
+      "source": "media",
+      "title": "Why AI data centers are powering a boom in fuel-cell demand"
+     },
+     {
+      "source": "media",
+      "title": "AI Data Centers Don’t Have To Be Hyperscale. New Designs Could Ease Community Costs."
+     }
+    ],
+    "expected": 12.99,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 23,
+    "score": 6.69,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai data",
+    "voices": 21,
+    "z": 2.68
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Orange says network incident disrupts mobile services across France"
+     },
+     {
+      "source": "arxiv",
+      "title": "Context Is Not Free: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "Network incident disrupts mobile services across France"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 3,
+    "score": 6.0,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "services across",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 68,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke."
+     },
+     {
+      "source": "media",
+      "title": "iPhone Duo Screen Crack Makes Surprise Apple Repair Price Even Worse"
+     },
+     {
+      "source": "media",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen"
+     }
+    ],
+    "expected": 5.29,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 56,
+    "score": 30.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 27,
+    "z": 20.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "New ‘Mass Effect 5’ Details Emerge After Cancellation, And It Sounds Great"
+     },
+     {
+      "source": "media",
+      "title": "After A Great Post-Shutdown ‘Mass Effect 5’ Trailer, Should Xbox Buy The IP?"
+     },
+     {
+      "source": "media",
+      "title": "BioWare Was Doomed The Moment EA Bought The ‘Mass Effect’ And ‘Dragon Age’ Studio"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "mass effect",
+    "voices": 5,
+    "z": 8.0
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service"
+     },
+     {
+      "source": "media",
+      "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise"
+     }
+    ],
+    "expected": 1.71,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 13,
+    "score": 10.28,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk says",
+    "voices": 12,
+    "z": 6.86
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case"
+     },
+     {
+      "source": "media",
+      "title": "Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case"
+     },
+     {
+      "source": "media",
+      "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 7,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "meta ordered",
+    "voices": 6,
+    "z": 6.67
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says Musk restored Ukraine's Starlink access, declines to say if they spoke"
+     },
+     {
+      "source": "media",
+      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps"
+     },
+     {
+      "source": "hn",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 8,
+    "score": 9.69,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ukraine starlink",
+    "voices": 7,
+    "z": 6.46
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The disastrous PHP vulnerabilities were exploited days before the patch"
+     },
+     {
+      "source": "hn",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: Have the PHP vulnerabilities been exploited?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php vulnerabilities",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Soybeans, Coffee, Sugar Slump as Brazil’s Election Hits Currency"
+     },
+     {
+      "source": "media",
+      "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback"
+     },
+     {
+      "source": "media",
+      "title": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 7,
+    "score": 8.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "brazil election",
+    "voices": 6,
+    "z": 5.84
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ukraine says Starlink speed curbs remain despite Trump assurance"
+     },
+     {
+      "source": "media",
+      "title": "Trump Spoke to Musk About Ending Ukraine’s Starlink Speed Caps"
+     },
+     {
+      "source": "hn",
+      "title": "Musk says he was behind Starlink speed restriction in Ukraine"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "starlink speed",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax"
+     },
+     {
+      "source": "media",
+      "title": "Palmer Luckey’s New Weapon: The American-Made Laptop"
+     },
+     {
+      "source": "media",
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech"
+     }
+    ],
+    "expected": 0.62,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 7,
+    "score": 7.51,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "palmer luckey",
+    "voices": 7,
+    "z": 5.01
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia"
+     },
+     {
+      "source": "media",
+      "title": "Arc browser is shutting down"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: Arc browser being deprecated. Which browser do you use?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "arc browser",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple revives the original iPod as an Apple Music easter egg"
+     },
+     {
+      "source": "media",
+      "title": "Apple Music has a new logo"
+     },
+     {
+      "source": "hn",
+      "title": "iPod 25th Anniversary: Apple Music (Interactive)"
+     }
+    ],
+    "expected": 0.86,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 7,
+    "score": 6.77,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple music",
+    "voices": 6,
+    "z": 4.51
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Critical PHP Security Warning Issued—Apply Emergency Patch Today"
+     },
+     {
+      "source": "hn",
+      "title": "Hetzner: PHP security issues CVE-2026-109618 and CVE-2026-109619"
+     },
+     {
+      "source": "hn",
+      "title": "Today's PHP security release, and how we're strengthening security"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "php security",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites"
+     },
+     {
+      "source": "media",
+      "title": "US telecom operators wobble after report SpaceX in talks for cell sites"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX seeks access to 80,000 US cell sites for wireless network, Bloomberg News reports"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cell sites",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach"
+     },
+     {
+      "source": "hn",
+      "title": "Inline Viewer: Quest Diagnostics Incorporated 8-K 2026-10-21"
+     },
+     {
+      "source": "hn",
+      "title": "Quest Diagnostics (Hacked)"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "quest diagnostics",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Walter Koenig, Chekov in Original 'Star Trek' Series, Dies at 90"
+     },
+     {
+      "source": "hn",
+      "title": "Walter Koenig, Chekov from 'Star Trek,' Has Died"
+     },
+     {
+      "source": "hn",
+      "title": "Walter Koenig, star of Star Trek, dies aged 90"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 15,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "walter koenig",
+    "voices": 6,
+    "z": 6.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Ukraine is wiping out Russian data centers, setting its AI race back"
+     },
+     {
+      "source": "news",
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research"
+     },
+     {
+      "source": "news",
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 24,
+    "score": 36.0,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "russian data centers",
+    "voices": 23,
+    "z": 24.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean."
+     },
+     {
+      "source": "media",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares"
+     },
+     {
+      "source": "news",
+      "title": "Here What $10 , 000 Invested in SpaceX and Tesla Could Be Worth in 2030"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 8,
+    "score": 13.43,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "spacex and tesla",
+    "voices": 8,
+    "z": 6.71
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities"
+     },
+     {
+      "source": "news",
+      "title": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities"
+     },
+     {
+      "source": "news",
+      "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "news"
+    ],
+    "term": "drones downed",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "U.S. Names Helium Critical Material To Develop AI And Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "US designates helium as a critical material"
+     },
+     {
+      "source": "news",
+      "title": "Helium Added to U . S . Department of Energy Critical Material List"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 4,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "critical material",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russia's Oil Exports Hit a One-Month High Amid Baltic Rebound"
+     },
+     {
+      "source": "media",
+      "title": "Russia oil exports through western ports forecast to fall in November, traders say"
+     },
+     {
+      "source": "media",
+      "title": "Saudi crude oil exports hit five-month high in August, data shows"
+     }
+    ],
+    "expected": 0.47,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.49,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "oil exports",
+    "voices": 4,
+    "z": 3.74
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "India's Adani Power quarterly profit doubles on strong power demand, one-off gains"
+     },
+     {
+      "source": "media",
+      "title": "German Gas Use Hits Nine-Month High as Cold Boosts Power Demand"
+     },
+     {
+      "source": "media",
+      "title": "Utilities turn to AI to manage rising power demand — from AI"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 7.14,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "power demand",
+    "voices": 5,
+    "z": 4.76
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Alaska's Senate Race Could Be Decided by Salmon"
+     },
+     {
+      "source": "hn",
+      "title": "Trump administration sues to block possible Democratic win in Alaska Senate race"
+     },
+     {
+      "source": "news",
+      "title": "Texa 2026 Senate race : What to know about Ken Paxton vs James Talarico"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 6,
+    "score": 7.14,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "senate race",
+    "voices": 6,
+    "z": 4.76
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Sensex falls over 500 points at open as crude prices rise ; Nifty slips below 22 , 600"
+     },
+     {
+      "source": "news",
+      "title": "Sensex falls over 500 points at open as crude prices rise ; Nifty slips below 22 , 600"
+     },
+     {
+      "source": "news",
+      "title": "Sensex falls over 500 points at open as crude prices rise ; Nifty slips below 22 , 600"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 8,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "news"
+    ],
+    "term": "nifty slips below",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "China's Great Wall Motor to build Ora 5 compact SUV in Bulgaria"
+     },
+     {
+      "source": "news",
+      "title": "A  Blue Great Wall  Rises on the Gobi Desert"
+     },
+     {
+      "source": "news",
+      "title": "A  Blue Great Wall  Rises on the Gobi Desert - The HinduBusinessLine"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "great wall",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Bulgaria emerges as a surprise leader in Europe's quest for battery storage"
+     },
+     {
+      "source": "news",
+      "title": "India Rooftop Solar Battery Storage Market 2026 : ₹28 , 000 Crore Subsidy Could Create 25 GWh Capacity – 10 Key Findings"
+     },
+     {
+      "source": "news",
+      "title": "Public Service Commission approves Ameren battery storage , solar project in Audrain County"
+     }
+    ],
+    "expected": 0.62,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 5.16,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "battery storage",
+    "voices": 5,
+    "z": 3.44
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Singapore PM Vows More Support for Workers, Energy Security"
+     },
+     {
+      "source": "media",
+      "title": "Asia needs $1 trillion investment annually for next 15 years to boost energy security, McKinsey says"
+     },
+     {
+      "source": "media",
+      "title": "UK approves long-delayed Jackdaw gas field on energy security grounds"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 5.09,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "energy security",
+    "voices": 3,
+    "z": 3.39
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "UPS CEO sees $15 billion annual revenue opportunity from data center boom"
+     },
+     {
+      "source": "media",
+      "title": "The data center boom has an upside: innovation for the US grid"
+     },
+     {
+      "source": "media",
+      "title": "How This County Made the Data Center Boom Pay Off"
+     }
+    ],
+    "expected": 1.32,
+    "field": "power",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data center boom",
+    "voices": 5,
+    "z": 2.41
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Rogers Beats But Stock Falls With SpaceX Ambitions in Focus"
+     },
+     {
+      "source": "news",
+      "title": "GE Vernova ( NYSE : GEV ) Stock Falls 10 . 9 % – Should You Sell ?"
+     },
+     {
+      "source": "news",
+      "title": "Bloom Energy ( NYSE : BE ) Stock Falls 9 . 2 % – What Next ?"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 13,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "stock falls",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Virtual Power Plants To The Rescue"
+     },
+     {
+      "source": "media",
+      "title": "Google supersizes PJM virtual power plant to more than 1 GW"
+     },
+     {
+      "source": "hn",
+      "title": "We are working with Voltus to build a 1-gigawatt virtual power plant"
+     }
+    ],
+    "expected": 0.78,
+    "field": "power",
+    "is_new": false,
+    "rank": 14,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "virtual power",
+    "voices": 4,
+    "z": 2.42
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Bloom Energy Corporation $BE Shares Purchased by Prime Capital Investment Advisors LLC"
+     },
+     {
+      "source": "news",
+      "title": "Bloom Energy vs . Constellation Energy : Which AI Power Stock Is the Better Buy ?"
+     },
+     {
+      "source": "news",
+      "title": "Bloom Energy vs . Constellation Energy : Which AI Power Stock Is the Better Buy ?"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 15,
+    "recent": 6,
+    "score": 4.06,
+    "sources": [
+     "news"
+    ],
+    "term": "bloom energy",
+    "voices": 5,
+    "z": 4.06
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
+     },
+     {
+      "source": "media",
+      "title": "Apple updates the iPad Mini with a larger OLED display"
+     },
+     {
+      "source": "hn",
+      "title": "Caveats of iPad Mini"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipad mini",
+    "voices": 6,
+    "z": 5.44
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI"
+     },
+     {
+      "source": "media",
+      "title": "Apple updates the MacBook Pro with M6 chips"
+     },
+     {
+      "source": "media",
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip"
+     }
+    ],
+    "expected": 1.48,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 5.26,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "macbook pro",
+    "voices": 5,
+    "z": 3.51
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Jensen Huang At GTC Berlin: Nvidia Showcases A Full Stack"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia GTC Berlin 2026"
+     },
+     {
+      "source": "hn",
+      "title": "Huang shrugs off protestors to kick off GTC Berlin with DSX Pods, Robots"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gtc berlin",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Volkswagen considers using Chinese software for Europe, report says"
+     },
+     {
+      "source": "media",
+      "title": "‘Gears Of War: E-Day’ Cost Xbox $500 Million, Report Says"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk made a $1B investment in Skydance, report says"
+     }
+    ],
+    "expected": 1.63,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 5,
+    "score": 3.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "report says",
+    "voices": 4,
+    "z": 2.07
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     },
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     },
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "news"
+    ],
+    "term": "zealand election",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 25,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits With FTCO And Digital Twins"
+     },
+     {
+      "source": "hn",
+      "title": "'Digital twins' of immune system in pregnancy identify drugs to stop early labor"
+     },
+     {
+      "source": "arxiv",
+      "title": "Large Language Models Meet Bayesian Optimization: Towards Self-evolving Wireless Digital Twins"
+     }
+    ],
+    "expected": 1.94,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 2.4,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "digital twins",
+    "voices": 4,
+    "z": 1.2
+   }
+  ]
+ },
+ "recent_days": 7
+}

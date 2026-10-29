@@ -17,17 +17,17 @@
   "origin": "auto",
   "score_at_add": 18.0
  },
- "buy nvidia chips": {
-  "added": "2026-10-10",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 9.0
- },
  "critical php": {
   "added": "2026-10-25",
   "field": "ai",
   "origin": "auto",
   "score_at_add": 15.0
+ },
+ "drones downed": {
+  "added": "2026-10-29",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 10.0
  },
  "drones hit": {
   "added": "2026-10-14",

@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-28",
  "docs_baseline": 116053,
- "docs_recent": 8793,
+ "docs_recent": 9831,
  "fields": {
   "ai": [
    {
@@ -26,15 +26,45 @@
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 24,
-    "score": 18.36,
+    "recent": 26,
+    "score": 20.05,
     "sources": [
      "hn",
      "media"
     ],
     "term": "anthropic ipo",
-    "voices": 12,
-    "z": 12.24
+    "voices": 14,
+    "z": 13.36
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to 60,000 employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Offers Buyouts to 60,000 Employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to around 60,000 employees"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 13,
+    "score": 19.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft offers",
+    "voices": 13,
+    "z": 13.0
    },
    {
     "baseline": 30,
@@ -55,17 +85,108 @@
     "expected": 2.33,
     "field": "ai",
     "is_new": false,
-    "rank": 2,
-    "recent": 14,
-    "score": 12.78,
+    "rank": 3,
+    "recent": 15,
+    "score": 13.88,
     "sources": [
      "hn",
      "media",
      "news"
     ],
     "term": "ai trade",
+    "voices": 8,
+    "z": 6.94
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Files for IPO in Global Race to Raise Cash for AI"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Files Its S-1"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 4,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic files",
     "voices": 7,
-    "z": 6.39
+    "z": 8.0
+   },
+   {
+    "baseline": 1091,
+    "examples": [
+     {
+      "source": "media",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Are Already Inside Banks. Their Risk Framework Isn’t Ready"
+     },
+     {
+      "source": "media",
+      "title": "AI Agents Need Human Accountability, Not More Oversight"
+     }
+    ],
+    "expected": 84.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 138,
+    "score": 11.47,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "ai agents",
+    "voices": 113,
+    "z": 5.74
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Promises New Scientific Discoveries—And New Threats"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic S-1 Highlights Rising Payment Costs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Takeaways: From Giant Compute Commitments to Complex Lock-Ups"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 8,
+    "score": 11.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic s-1",
+    "voices": 7,
+    "z": 7.63
    },
    {
     "baseline": 41,
@@ -86,7 +207,7 @@
     "expected": 3.19,
     "field": "ai",
     "is_new": false,
-    "rank": 3,
+    "rank": 7,
     "recent": 14,
     "score": 10.56,
     "sources": [
@@ -117,7 +238,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 4,
+    "rank": 8,
     "recent": 7,
     "score": 10.5,
     "sources": [
@@ -147,7 +268,7 @@
     "expected": 0.31,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 9,
     "recent": 8,
     "score": 10.07,
     "sources": [
@@ -157,36 +278,6 @@
     "term": "wealth tax",
     "voices": 7,
     "z": 6.71
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic’s S-1 Promises New Scientific Discoveries—And New Threats"
-     },
-     {
-      "source": "media",
-      "title": "Anthropic S-1 Highlights Rising Payment Costs"
-     },
-     {
-      "source": "media",
-      "title": "Anthropic’s S-1 Takeaways: From Giant Compute Commitments to Complex Lock-Ups"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 6,
-    "recent": 7,
-    "score": 10.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "anthropic s-1",
-    "voices": 6,
-    "z": 6.67
    },
    {
     "baseline": 0,
@@ -207,7 +298,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 7,
+    "rank": 10,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -217,97 +308,6 @@
     "term": "exponential time hypothesis",
     "voices": 6,
     "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic Files for IPO in Global Race to Raise Cash for AI"
-     },
-     {
-      "source": "media",
-      "title": "Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic Files for IPO That Could Value AI Firm at Up to $2T"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 8,
-    "recent": 6,
-    "score": 9.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "anthropic files",
-    "voices": 5,
-    "z": 6.0
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
-     },
-     {
-      "source": "hn",
-      "title": "Anthropic strikes deal to launch European consultancy"
-     },
-     {
-      "source": "hn",
-      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 6,
-    "score": 8.56,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "strikes deal",
-    "voices": 5,
-    "z": 5.7
-   },
-   {
-    "baseline": 1091,
-    "examples": [
-     {
-      "source": "media",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
-     },
-     {
-      "source": "media",
-      "title": "AI Agents Are Already Inside Banks. Their Risk Framework Isn’t Ready"
-     },
-     {
-      "source": "media",
-      "title": "AI Agents Need Human Accountability, Not More Oversight"
-     }
-    ],
-    "expected": 84.86,
-    "field": "ai",
-    "is_new": false,
-    "rank": 10,
-    "recent": 123,
-    "score": 8.23,
-    "sources": [
-     "arxiv",
-     "hn",
-     "media"
-    ],
-    "term": "ai agents",
-    "voices": 100,
-    "z": 4.12
    },
    {
     "baseline": 11,
@@ -329,26 +329,56 @@
     "field": "ai",
     "is_new": false,
     "rank": 11,
-    "recent": 8,
-    "score": 7.87,
+    "recent": 9,
+    "score": 8.97,
     "sources": [
      "hn",
      "media"
     ],
     "term": "cash flow",
     "voices": 4,
-    "z": 5.24
+    "z": 5.98
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic strikes deal to launch European consultancy"
+     },
+     {
+      "source": "hn",
+      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "strikes deal",
+    "voices": 5,
+    "z": 5.7
    },
    {
     "baseline": 0,
     "examples": [
      {
-      "source": "arxiv",
-      "title": "Property-Based Testing for Robust Softmax and Cross-Entropy"
-     },
-     {
       "source": "hn",
       "title": "A Fix for Softmax and Cross-Entropy"
+     },
+     {
+      "source": "arxiv",
+      "title": "Property-Based Testing for Robust Softmax and Cross-Entropy"
      },
      {
       "source": "hn",
@@ -358,7 +388,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 12,
+    "rank": 13,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -388,78 +418,46 @@
     "expected": 11.04,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
-    "recent": 22,
-    "score": 6.31,
+    "rank": 14,
+    "recent": 23,
+    "score": 6.89,
     "sources": [
      "hn",
      "media",
      "news"
     ],
     "term": "elon musk",
-    "voices": 19,
-    "z": 3.16
+    "voices": 20,
+    "z": 3.44
    },
    {
-    "baseline": 1,
+    "baseline": 14,
     "examples": [
      {
-      "source": "media",
-      "title": "Goldman Sachs Investment Banking Co-Head Sees ‘Repositioning’ Amid AI Boom"
+      "source": "hn",
+      "title": "Luanti (formerly Minetest) reveal a major ContentDB security incident"
      },
      {
       "source": "hn",
-      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom"
-     },
-     {
-      "source": "news",
-      "title": "China Sees Exports Growth Amid AI Boom and Easing U . S . Trade Tensions"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 14,
-    "recent": 3,
-    "score": 5.63,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "amid ai boom",
-    "voices": 3,
-    "z": 2.81
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal"
-     },
-     {
-      "source": "media",
-      "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout"
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229"
      },
      {
       "source": "hn",
-      "title": "SpaceX closes $40B debt deal for AI chips"
+      "title": "Security incident at Amplitude resulted in Coinbase customer contact info leak"
      }
     ],
-    "expected": 0.16,
+    "expected": 1.09,
     "field": "ai",
     "is_new": false,
     "rank": 15,
-    "recent": 4,
-    "score": 5.36,
+    "recent": 10,
+    "score": 6.17,
     "sources": [
-     "hn",
-     "media"
+     "hn"
     ],
-    "term": "debt deal",
-    "voices": 4,
-    "z": 3.58
+    "term": "security incident",
+    "voices": 10,
+    "z": 6.17
    }
   ],
   "other": [
@@ -483,45 +481,45 @@
     "field": "other",
     "is_new": false,
     "rank": 1,
-    "recent": 49,
-    "score": 24.23,
+    "recent": 51,
+    "score": 25.35,
     "sources": [
      "hn",
      "media"
     ],
     "term": "iphone duo",
-    "voices": 28,
-    "z": 16.15
+    "voices": 30,
+    "z": 16.9
    },
    {
-    "baseline": 0,
+    "baseline": 1,
     "examples": [
      {
       "source": "media",
-      "title": "Microsoft offers buyouts to 60,000 employees"
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro"
      },
      {
       "source": "media",
-      "title": "Microsoft Offers Buyouts to 60,000 Employees"
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme"
      },
      {
       "source": "media",
-      "title": "Microsoft offers buyouts to around 60,000 employees"
+      "title": "Apple Launches First Touchscreen MacBook"
      }
     ],
-    "expected": 0.0,
+    "expected": 0.08,
     "field": "other",
-    "is_new": true,
+    "is_new": false,
     "rank": 2,
-    "recent": 13,
-    "score": 19.5,
+    "recent": 9,
+    "score": 12.89,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "microsoft offers",
-    "voices": 13,
-    "z": 13.0
+    "term": "touchscreen macbook",
+    "voices": 5,
+    "z": 8.59
    },
    {
     "baseline": 4,
@@ -588,29 +586,29 @@
     "examples": [
      {
       "source": "hn",
+      "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90"
+     },
+     {
+      "source": "hn",
       "title": "Walter Koenig, actor who played Chekov on original \"Star Trek\" series, dies"
      },
      {
       "source": "hn",
       "title": "Walter Koenig, the Russian Crewman Chekov on 'Star Trek,' Dies at 90"
-     },
-     {
-      "source": "hn",
-      "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90"
      }
     ],
     "expected": 0.0,
     "field": "other",
     "is_new": true,
     "rank": 5,
-    "recent": 9,
-    "score": 9.0,
+    "recent": 10,
+    "score": 10.0,
     "sources": [
      "hn"
     ],
     "term": "walter koenig",
-    "voices": 9,
-    "z": 9.0
+    "voices": 10,
+    "z": 10.0
    },
    {
     "baseline": 1,
@@ -763,33 +761,34 @@
     "z": 4.8
    },
    {
-    "baseline": 1,
+    "baseline": 12,
     "examples": [
      {
       "source": "media",
-      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro"
+      "title": "Apple revives the original iPod as an Apple Music easter egg"
      },
      {
-      "source": "media",
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme"
+      "source": "hn",
+      "title": "‎Page Not Found - Apple Music"
      },
      {
-      "source": "media",
-      "title": "Apple Launches First Touchscreen MacBook"
+      "source": "hn",
+      "title": "iPod 25th Anniversary: Apple Music (Interactive)"
      }
     ],
-    "expected": 0.08,
+    "expected": 0.93,
     "field": "other",
     "is_new": false,
     "rank": 11,
     "recent": 7,
-    "score": 6.67,
+    "score": 6.54,
     "sources": [
+     "hn",
      "media"
     ],
-    "term": "touchscreen macbook",
-    "voices": 3,
-    "z": 6.67
+    "term": "apple music",
+    "voices": 7,
+    "z": 4.36
    },
    {
     "baseline": 0,
@@ -852,34 +851,34 @@
     "z": 4.0
    },
    {
-    "baseline": 12,
+    "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "Apple revives the original iPod as an Apple Music easter egg"
+      "title": "Aftermath of Spanish Train Crash Near Madrid"
+     },
+     {
+      "source": "media",
+      "title": "Spanish Train Crash Kills at Least 68 People South of Madrid"
      },
      {
       "source": "hn",
-      "title": "iPod 25th Anniversary: Apple Music (Interactive)"
-     },
-     {
-      "source": "hn",
-      "title": "Apple Music Has a Hidden iPod You Can Play With"
+      "title": "Spain train crash: 'At least 10 dead' in high-speed collision"
      }
     ],
-    "expected": 0.93,
+    "expected": 0.0,
     "field": "other",
-    "is_new": false,
+    "is_new": true,
     "rank": 14,
-    "recent": 6,
-    "score": 5.47,
+    "recent": 4,
+    "score": 6.0,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "apple music",
-    "voices": 6,
-    "z": 3.64
+    "term": "train crash",
+    "voices": 3,
+    "z": 4.0
    },
    {
     "baseline": 2,
@@ -973,6 +972,36 @@
     "z": 10.0
    },
    {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Where They Stand – Nonpartisan Guide to Every House and Senate Race"
+     },
+     {
+      "source": "hn",
+      "title": "Alaska's Senate Race Could Be Decided by Salmon"
+     },
+     {
+      "source": "hn",
+      "title": "Trump administration sues to block possible Democratic win in Alaska Senate race"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 7,
+    "score": 8.41,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "senate race",
+    "voices": 7,
+    "z": 5.61
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -991,7 +1020,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 3,
+    "rank": 4,
     "recent": 4,
     "score": 8.0,
     "sources": [
@@ -1002,36 +1031,6 @@
     "term": "critical material",
     "voices": 4,
     "z": 4.0
-   },
-   {
-    "baseline": 5,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Alaska's Senate Race Could Be Decided by Salmon"
-     },
-     {
-      "source": "hn",
-      "title": "Trump administration sues to block possible Democratic win in Alaska Senate race"
-     },
-     {
-      "source": "news",
-      "title": "Texa 2026 Senate race : What to know about Ken Paxton vs James Talarico"
-     }
-    ],
-    "expected": 0.39,
-    "field": "power",
-    "is_new": false,
-    "rank": 4,
-    "recent": 6,
-    "score": 7.14,
-    "sources": [
-     "hn",
-     "news"
-    ],
-    "term": "senate race",
-    "voices": 6,
-    "z": 4.76
    },
    {
     "baseline": 0,
@@ -1183,6 +1182,35 @@
     "z": 3.44
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers Discover a Giant New Dwarf Planet Candidate Hiding Beyond Pluto"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "dwarf planet",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
     "baseline": 4,
     "examples": [
      {
@@ -1201,7 +1229,7 @@
     "expected": 0.31,
     "field": "power",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -1231,7 +1259,7 @@
     "expected": 0.78,
     "field": "power",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -1262,7 +1290,7 @@
     "expected": 0.7,
     "field": "power",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 6,
     "score": 4.06,
     "sources": [
@@ -1291,7 +1319,7 @@
     "expected": 1.71,
     "field": "power",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 5,
     "score": 3.99,
     "sources": [
@@ -1322,7 +1350,7 @@
     "expected": 0.62,
     "field": "power",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 3.98,
     "sources": [
@@ -1331,36 +1359,6 @@
     ],
     "term": "oil exports",
     "voices": 3,
-    "z": 2.65
-   },
-   {
-    "baseline": 8,
-    "examples": [
-     {
-      "source": "media",
-      "title": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean."
-     },
-     {
-      "source": "media",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares"
-     },
-     {
-      "source": "news",
-      "title": "Here What $10 , 000 Invested in SpaceX and Tesla Could Be Worth in 2030"
-     }
-    ],
-    "expected": 0.62,
-    "field": "power",
-    "is_new": false,
-    "rank": 15,
-    "recent": 4,
-    "score": 3.98,
-    "sources": [
-     "media",
-     "news"
-    ],
-    "term": "spacex and tesla",
-    "voices": 4,
     "z": 2.65
    }
   ],
@@ -1385,15 +1383,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 17,
-    "score": 14.49,
+    "recent": 24,
+    "score": 21.06,
     "sources": [
      "hn",
      "media"
     ],
     "term": "macbook pro",
-    "voices": 9,
-    "z": 9.66
+    "voices": 15,
+    "z": 14.04
    },
    {
     "baseline": 2,
@@ -1415,15 +1413,105 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 8,
-    "score": 10.95,
+    "recent": 9,
+    "score": 12.34,
     "sources": [
      "hn",
      "media"
     ],
     "term": "ipad mini",
+    "voices": 7,
+    "z": 8.23
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
+     },
+     {
+      "source": "media",
+      "title": "Apple updates the iPad Mini with a larger OLED display"
+     },
+     {
+      "source": "hn",
+      "title": "Apple announces touchscreen MacBook Pro with OLED display"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "oled display",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 56,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SK Hynix Posts Record Profit Amid AI Rush"
+     },
+     {
+      "source": "media",
+      "title": "SK Hynix Profits Surge, Fed Decision on Deck"
+     },
+     {
+      "source": "media",
+      "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade"
+     }
+    ],
+    "expected": 4.36,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 3.15,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "sk hynix",
     "voices": 6,
-    "z": 7.3
+    "z": 1.57
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform"
+     },
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Startup Classiq in Quantum Computing Push"
+     },
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "intel to acquire",
+    "voices": 3,
+    "z": 3.0
    },
    {
     "baseline": 1,
@@ -1444,7 +1532,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 3,
+    "rank": 6,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1473,7 +1561,7 @@
     "expected": 0.62,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 4,
+    "rank": 7,
     "recent": 4,
     "score": 2.65,
     "sources": [
@@ -1482,37 +1570,6 @@
     "term": "scratch in rust",
     "voices": 4,
     "z": 2.65
-   },
-   {
-    "baseline": 56,
-    "examples": [
-     {
-      "source": "media",
-      "title": "SK Hynix Posts Record Profit Amid AI Rush"
-     },
-     {
-      "source": "media",
-      "title": "SK Hynix Profits Surge, Fed Decision on Deck"
-     },
-     {
-      "source": "media",
-      "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade"
-     }
-    ],
-    "expected": 4.36,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 5,
-    "recent": 7,
-    "score": 2.29,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "sk hynix",
-    "voices": 5,
-    "z": 1.14
    }
   ]
  },

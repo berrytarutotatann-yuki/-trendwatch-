@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-28",
  "docs_baseline": 116053,
- "docs_recent": 8785,
+ "docs_recent": 8786,
  "fields": {
   "ai": [
    {
@@ -45,19 +45,19 @@
      },
      {
       "source": "media",
-      "title": "Anthropic IPO Reignites AI Trade in Asia"
+      "title": "Nasdaq Futures Sink as AI Trade Shows New Cracks: Markets Wrap"
      },
      {
       "source": "media",
-      "title": "AI Trade Bounces Back as Anthropic IPO Eases Funding Jitters"
+      "title": "Anthropic IPO Reignites AI Trade in Asia"
      }
     ],
     "expected": 2.33,
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 14,
-    "score": 12.78,
+    "recent": 15,
+    "score": 13.88,
     "sources": [
      "hn",
      "media",
@@ -65,7 +65,7 @@
     ],
     "term": "ai trade",
     "voices": 7,
-    "z": 6.39
+    "z": 6.94
    },
    {
     "baseline": 41,

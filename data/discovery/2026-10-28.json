@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-28",
  "docs_baseline": 116053,
- "docs_recent": 8776,
+ "docs_recent": 8782,
  "fields": {
   "ai": [
    {
@@ -340,6 +340,36 @@
     "z": 5.0
    },
    {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates"
+     },
+     {
+      "source": "media",
+      "title": "Oracle eases AI spending worries with plan to turn cash flow positive"
+     },
+     {
+      "source": "media",
+      "title": "Oracle Surges More Than 10% After It Caps Capex and Projects Positive Cash Flow"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 7,
+    "score": 6.77,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cash flow",
+    "voices": 4,
+    "z": 4.51
+   },
+   {
     "baseline": 142,
     "examples": [
      {
@@ -358,7 +388,7 @@
     "expected": 11.04,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 22,
     "score": 6.31,
     "sources": [
@@ -369,36 +399,6 @@
     "term": "elon musk",
     "voices": 19,
     "z": 3.16
-   },
-   {
-    "baseline": 11,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Oracle eases AI spending worries with plan to turn cash flow positive"
-     },
-     {
-      "source": "media",
-      "title": "Oracle Surges More Than 10% After It Caps Capex and Projects Positive Cash Flow"
-     },
-     {
-      "source": "media",
-      "title": "Microsoft's cloud growth, cash flow offer respite from AI spending fears"
-     }
-    ],
-    "expected": 0.86,
-    "field": "ai",
-    "is_new": false,
-    "rank": 13,
-    "recent": 6,
-    "score": 5.66,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "cash flow",
-    "voices": 4,
-    "z": 3.78
    },
    {
     "baseline": 1,

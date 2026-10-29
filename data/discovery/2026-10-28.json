@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-28",
  "docs_baseline": 116053,
- "docs_recent": 8786,
+ "docs_recent": 8792,
  "fields": {
   "ai": [
    {
@@ -310,6 +310,36 @@
     "z": 4.12
    },
    {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "T-Mobile raises annual free cash flow forecast as premium plans gain traction"
+     },
+     {
+      "source": "media",
+      "title": "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates"
+     },
+     {
+      "source": "media",
+      "title": "Oracle eases AI spending worries with plan to turn cash flow positive"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 8,
+    "score": 7.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cash flow",
+    "voices": 4,
+    "z": 5.24
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -328,7 +358,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 11,
+    "rank": 12,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -338,36 +368,6 @@
     "term": "softmax and cross-entropy",
     "voices": 5,
     "z": 5.0
-   },
-   {
-    "baseline": 11,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates"
-     },
-     {
-      "source": "media",
-      "title": "Oracle eases AI spending worries with plan to turn cash flow positive"
-     },
-     {
-      "source": "media",
-      "title": "Oracle Surges More Than 10% After It Caps Capex and Projects Positive Cash Flow"
-     }
-    ],
-    "expected": 0.86,
-    "field": "ai",
-    "is_new": false,
-    "rank": 12,
-    "recent": 7,
-    "score": 6.77,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "cash flow",
-    "voices": 4,
-    "z": 4.51
    },
    {
     "baseline": 142,

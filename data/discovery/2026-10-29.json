@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-29",
  "docs_baseline": 116874,
- "docs_recent": 8149,
+ "docs_recent": 8151,
  "fields": {
   "ai": [
    {
@@ -308,35 +308,6 @@
     "z": 4.15
    },
    {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally"
-     },
-     {
-      "source": "media",
-      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years"
-     },
-     {
-      "source": "media",
-      "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 11,
-    "recent": 6,
-    "score": 6.0,
-    "sources": [
-     "media"
-    ],
-    "term": "cloud growth",
-    "voices": 4,
-    "z": 6.0
-   },
-   {
     "baseline": 1,
     "examples": [
      {
@@ -355,7 +326,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 11,
     "recent": 4,
     "score": 5.67,
     "sources": [
@@ -365,6 +336,35 @@
     "term": "softmax and cross-entropy",
     "voices": 4,
     "z": 3.78
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally"
+     },
+     {
+      "source": "media",
+      "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Quarterly Profit Soars as Cloud Growth Accelerates"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "media"
+    ],
+    "term": "cloud growth",
+    "voices": 4,
+    "z": 5.0
    },
    {
     "baseline": 3,

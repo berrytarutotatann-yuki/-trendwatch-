@@ -17,6 +17,12 @@
   "origin": "auto",
   "score_at_add": 18.0
  },
+ "critical material": {
+  "added": "2026-10-30",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 8.0
+ },
  "critical php": {
   "added": "2026-10-25",
   "field": "ai",
@@ -34,6 +40,12 @@
   "field": "power",
   "origin": "auto",
   "score_at_add": 7.79
+ },
+ "dwarf planet": {
+  "added": "2026-10-30",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 6.0
  },
  "epic games": {
   "added": "2026-10-15",
@@ -70,12 +82,6 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 7.5
- },
- "hurricane isaias": {
-  "added": "2026-10-13",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 15.0
  },
  "ipad mini": {
   "added": "2026-10-27",
@@ -124,12 +130,6 @@
   "field": "power",
   "origin": "auto",
   "score_at_add": 6.33
- },
- "rtx spark": {
-  "added": "2026-10-12",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 6.14
  },
  "russian bot": {
   "added": "2026-10-19",

@@ -1,0 +1,1333 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-29",
+ "docs_baseline": 116874,
+ "docs_recent": 8145,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 28,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Prospectus Documents Tremendous Supply Chain Risks"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO Reveals The Complexity And Risks Of AI Cloud Competition"
+     }
+    ],
+    "expected": 2.18,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 32,
+    "score": 25.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 14,
+    "z": 16.73
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to 60,000 employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Offers Buyouts to 60,000 Employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to around 60,000 employees"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 13,
+    "score": 19.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft offers",
+    "voices": 13,
+    "z": 13.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Files for IPO in Global Race to Raise Cash for AI"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Files Its S-1"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic files",
+    "voices": 7,
+    "z": 8.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Promises New Scientific Discoveries—And New Threats"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic S-1 Highlights Rising Payment Costs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Takeaways: From Giant Compute Commitments to Complex Lock-Ups"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 11.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic s-1",
+    "voices": 7,
+    "z": 7.63
+   },
+   {
+    "baseline": 33,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Trade Shows New Cracks, Healey Defends UK Budget’s Scale"
+     },
+     {
+      "source": "media",
+      "title": "What Wall Street Really Thanks About the AI Trade (Podcast)"
+     },
+     {
+      "source": "media",
+      "title": "AI Trade Rebounds, Jio Valuation in Focus"
+     }
+    ],
+    "expected": 2.57,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 13,
+    "score": 11.05,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai trade",
+    "voices": 6,
+    "z": 5.52
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google's Nvidia chip challenge boosts cloud sales, crimps cash flow"
+     },
+     {
+      "source": "media",
+      "title": "T-Mobile raises annual free cash flow forecast as premium plans gain traction"
+     },
+     {
+      "source": "media",
+      "title": "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates"
+     }
+    ],
+    "expected": 0.78,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 9,
+    "score": 9.25,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cash flow",
+    "voices": 4,
+    "z": 6.17
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?"
+     },
+     {
+      "source": "hn",
+      "title": "The Exponential Time Hypothesis Is False"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI says its AI disproved the Exponential Time Hypothesis"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "exponential time hypothesis",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Moonshot AI Launches New Kimi K3.1 Pro Model"
+     },
+     {
+      "source": "hn",
+      "title": "Kimi K3.1 Pro will be leading open-weights model once its weights are published"
+     },
+     {
+      "source": "hn",
+      "title": "Kimi K3.1 Is Comming"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "kimi k3.1",
+    "voices": 5,
+    "z": 5.7
+   },
+   {
+    "baseline": 43,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oilfield services firms lean on Middle East rebound but risks persist"
+     },
+     {
+      "source": "media",
+      "title": "World Bank sees commodity prices up 23% in 2026 due to Middle East war, other shocks"
+     },
+     {
+      "source": "media",
+      "title": "Oil falls almost $2 as Middle East talks help ease supply worries"
+     }
+    ],
+    "expected": 3.34,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 12,
+    "score": 6.23,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "middle east",
+    "voices": 4,
+    "z": 4.15
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Luanti (formerly Minetest) reveal a major ContentDB security incident"
+     },
+     {
+      "source": "hn",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229"
+     },
+     {
+      "source": "hn",
+      "title": "Security incident at Amplitude resulted in Coinbase customer contact info leak"
+     }
+    ],
+    "expected": 1.09,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 10,
+    "score": 6.17,
+    "sources": [
+     "hn"
+    ],
+    "term": "security incident",
+    "voices": 10,
+    "z": 6.17
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally"
+     },
+     {
+      "source": "media",
+      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years"
+     },
+     {
+      "source": "media",
+      "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 11,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "media"
+    ],
+    "term": "cloud growth",
+    "voices": 4,
+    "z": 6.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "A Fix for Softmax and Cross-Entropy"
+     },
+     {
+      "source": "arxiv",
+      "title": "Property-Based Testing for Robust Softmax and Cross-Entropy"
+     },
+     {
+      "source": "hn",
+      "title": "All existing implementations of softmax and cross-entropy have a subtle bug"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "softmax and cross-entropy",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon Web Services Accelerates as Ecommerce Store Slows on Prime Day Change"
+     },
+     {
+      "source": "hn",
+      "title": "Amazon EC2 I7i instances are now available in Amazon Web Services China regions"
+     },
+     {
+      "source": "arxiv",
+      "title": "Context Is Not Free: Carbon-Aware LLM Routing for Multi-Turn LLM Web Services across Geo-Distributed Data Centers"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 3,
+    "score": 4.98,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "web services",
+    "voices": 3,
+    "z": 2.49
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Japan 2-Year Bond Sale Sees Firm Demand Before BOJ Decision"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Seeks to Raise $25 Billion in Bond Sale"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft expects to raise $25 billion in US bond sale, source says"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 4.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bond sale",
+    "voices": 4,
+    "z": 3.04
+   },
+   {
+    "baseline": 24,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Malaysian Authorities Seize $12 Million Worth of AI Chips in Smuggling Crackdown"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI plans to buy Google's AI chips, The Information reports"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips"
+     }
+    ],
+    "expected": 1.87,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 7,
+    "score": 4.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai chips",
+    "voices": 5,
+    "z": 3.03
+   }
+  ],
+  "other": [
+   {
+    "baseline": 82,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke."
+     },
+     {
+      "source": "media",
+      "title": "iPhone Duo Screen Crack Makes Surprise Apple Repair Price Even Worse"
+     },
+     {
+      "source": "media",
+      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen"
+     }
+    ],
+    "expected": 6.38,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 47,
+    "score": 22.43,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 30,
+    "z": 14.96
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme"
+     },
+     {
+      "source": "media",
+      "title": "Apple Launches First Touchscreen MacBook"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 9,
+    "score": 12.89,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "touchscreen macbook",
+    "voices": 5,
+    "z": 8.59
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Lula's Brazil Election Win Deepens Latin America Stock Fund Collapse"
+     },
+     {
+      "source": "media",
+      "title": "Soybeans, Coffee, Sugar Slump as Brazil’s Election Hits Currency"
+     },
+     {
+      "source": "media",
+      "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 8,
+    "score": 10.07,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "brazil election",
+    "voices": 6,
+    "z": 6.71
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90"
+     },
+     {
+      "source": "hn",
+      "title": "Walter Koenig, actor who played Chekov on original \"Star Trek\" series, dies"
+     },
+     {
+      "source": "hn",
+      "title": "Walter Koenig, the Russian Crewman Chekov on 'Star Trek,' Dies at 90"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "walter koenig",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ukraine says Starlink speed curbs remain despite Trump assurance"
+     },
+     {
+      "source": "hn",
+      "title": "Musk says he was behind Starlink speed restriction in Ukraine"
+     },
+     {
+      "source": "hn",
+      "title": "Elon Musk says he was behind restricting Ukraine's Starlink speed"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "starlink speed",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax"
+     },
+     {
+      "source": "media",
+      "title": "Palmer Luckey’s New Weapon: The American-Made Laptop"
+     },
+     {
+      "source": "media",
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech"
+     }
+    ],
+    "expected": 0.7,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 6.1,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "palmer luckey",
+    "voices": 6,
+    "z": 4.06
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Aftermath of Spanish Train Crash Near Madrid"
+     },
+     {
+      "source": "media",
+      "title": "Spanish Train Crash Kills at Least 68 People South of Madrid"
+     },
+     {
+      "source": "hn",
+      "title": "Spain train crash: 'At least 10 dead' in high-speed collision"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "train crash",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple revives the original iPod as an Apple Music easter egg"
+     },
+     {
+      "source": "hn",
+      "title": "‎Page Not Found - Apple Music"
+     },
+     {
+      "source": "hn",
+      "title": "iPod 25th Anniversary: Apple Music (Interactive)"
+     }
+    ],
+    "expected": 0.93,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 5.47,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple music",
+    "voices": 6,
+    "z": 3.64
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "About the compromised eMudhra intermediate CAs"
+     },
+     {
+      "source": "hn",
+      "title": "Apple's git still trusts the compromised eMudhra certificates"
+     },
+     {
+      "source": "hn",
+      "title": "Compromised eMudhra Intermediate Certificates"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 5.19,
+    "sources": [
+     "hn"
+    ],
+    "term": "compromised emudhra",
+    "voices": 6,
+    "z": 5.19
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian Diesel Deal Confronts Legal Uncertainty"
+     },
+     {
+      "source": "media",
+      "title": "New Middle East Threats, Russian Diesel Coming to US"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: First Russian diesel from Putin-Trump deal heading for US, data shows"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russian diesel",
+    "voices": 3,
+    "z": 3.06
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: I made an open-source phone app that debloats your Google TV over Wi-Fi"
+     },
+     {
+      "source": "hn",
+      "title": "CleanYourTV : Debloat Any Android or Google TV over Wi-Fi"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: My Kids TV – Calm, ad-free replacement home screen for Google TV"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 4.51,
+    "sources": [
+     "hn"
+    ],
+    "term": "google tv",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Xreal Aura is a new wired headset powered by Android XR"
+     },
+     {
+      "source": "hn",
+      "title": "The first wired XR glasses powered by Android XR"
+     },
+     {
+      "source": "hn",
+      "title": "XReal Aura – Android XR Glasses"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "android xr",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Say Hello To ED138, A Massive New World Beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers Discover a Giant New Dwarf Planet Candidate Hiding Beyond Pluto"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "beyond pluto",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Most Popular Halloween Costume Of 2026 Is Way Above Second Place"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: What would your Startup's Halloween costume be?"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Dadgpt Open Source Halloween Costume"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "halloween costume",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Lula Wins Brazil Runoff; US Stocks Waver Ahead of Tech Earnings"
+     },
+     {
+      "source": "hn",
+      "title": "Lula wins election after final votes tallied"
+     },
+     {
+      "source": "hn",
+      "title": "Lula Wins Brazilian Election"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 15,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "lula wins",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "U.S. Names Helium Critical Material To Develop AI And Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "US designates helium as a critical material"
+     },
+     {
+      "source": "news",
+      "title": "Helium Added to U . S . Department of Energy Critical Material List"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "critical material",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers Discover a Giant New Dwarf Planet Candidate Hiding Beyond Pluto"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "dwarf planet",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OMV posts highest quarterly operating profit since 2022 as fuel prices soar"
+     },
+     {
+      "source": "media",
+      "title": "EU energy ministers discuss soaring fuel prices as winter looms"
+     },
+     {
+      "source": "media",
+      "title": "Eni Raises Payouts as High Fuel Prices Bolster Cash Flow"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 3.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fuel prices",
+    "voices": 3,
+    "z": 2.53
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers"
+     },
+     {
+      "source": "hn",
+      "title": "Germany's Idle Nuclear Plants Eye New Life as AI Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia eyes converting old nuclear plants into AI data centers"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.52,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nuclear plants",
+    "voices": 3,
+    "z": 2.35
+   },
+   {
+    "baseline": 16,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Coca-Cola Raises Guidance, North America Sales Disappoint"
+     },
+     {
+      "source": "media",
+      "title": "Reckitt lowers annual guidance on manufacturing struggles in North America"
+     },
+     {
+      "source": "media",
+      "title": "Volvo Profit Rises on Truck Demand in North America, Europe"
+     }
+    ],
+    "expected": 1.24,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 2.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "north america",
+    "voices": 3,
+    "z": 1.84
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro"
+     },
+     {
+      "source": "media",
+      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme"
+     },
+     {
+      "source": "media",
+      "title": "Touchscreen OLED MacBook Pro Hands-On"
+     }
+    ],
+    "expected": 1.56,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 24,
+    "score": 21.06,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "macbook pro",
+    "voices": 15,
+    "z": 14.04
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini"
+     },
+     {
+      "source": "media",
+      "title": "Hands-on with the new OLED iPad Mini"
+     },
+     {
+      "source": "media",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 9,
+    "score": 12.34,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipad mini",
+    "voices": 7,
+    "z": 8.23
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
+     },
+     {
+      "source": "media",
+      "title": "Apple updates the iPad Mini with a larger OLED display"
+     },
+     {
+      "source": "hn",
+      "title": "Apple announces touchscreen MacBook Pro with OLED display"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "oled display",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 56,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SK Hynix Posts Record Profit Amid AI Rush"
+     },
+     {
+      "source": "media",
+      "title": "SK Hynix Profits Surge, Fed Decision on Deck"
+     },
+     {
+      "source": "media",
+      "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade"
+     }
+    ],
+    "expected": 4.36,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 3.15,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "sk hynix",
+    "voices": 6,
+    "z": 1.57
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform"
+     },
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Startup Classiq in Quantum Computing Push"
+     },
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "intel to acquire",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Caterpillar sticks to annual sales forecast amid cost pressures, shares dive"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "Eli Lilly Shares Surge on Raised Sales Forecast"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "media"
+    ],
+    "term": "sales forecast",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     },
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     },
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "news"
+    ],
+    "term": "zealand election",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Glacex: GPU-Rendered UI library built from scratch in Rust"
+     },
+     {
+      "source": "hn",
+      "title": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust"
+     },
+     {
+      "source": "hn",
+      "title": "Building a Custom Microkernel OS from Scratch in Rust"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 2.65,
+    "sources": [
+     "hn"
+    ],
+    "term": "scratch in rust",
+    "voices": 4,
+    "z": 2.65
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Scaling Autonomous Root Cause Analysis For Regression Triage"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Kwatch – one Kubernetes alert with the root cause, not fifty"
+     },
+     {
+      "source": "arxiv",
+      "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents"
+     }
+    ],
+    "expected": 1.32,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 2.2,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "root cause",
+    "voices": 3,
+    "z": 1.1
+   }
+  ]
+ },
+ "recent_days": 7
+}

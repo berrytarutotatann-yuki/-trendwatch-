@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-30",
  "docs_baseline": 117355,
- "docs_recent": 8633,
+ "docs_recent": 8644,
  "fields": {
   "ai": [
    {
@@ -192,30 +192,30 @@
     "examples": [
      {
       "source": "media",
+      "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries"
+     },
+     {
+      "source": "media",
       "title": "Google's Nvidia chip challenge boosts cloud sales, crimps cash flow"
      },
      {
       "source": "media",
       "title": "T-Mobile raises annual free cash flow forecast as premium plans gain traction"
-     },
-     {
-      "source": "media",
-      "title": "Honeywell Aerospace lifts second-half cash flow view, tops quarterly estimates"
      }
     ],
     "expected": 0.86,
     "field": "ai",
     "is_new": false,
     "rank": 7,
-    "recent": 8,
-    "score": 7.87,
+    "recent": 9,
+    "score": 8.97,
     "sources": [
      "hn",
      "media"
     ],
     "term": "cash flow",
     "voices": 3,
-    "z": 5.24
+    "z": 5.98
    },
    {
     "baseline": 18,
@@ -368,6 +368,36 @@
     "z": 2.88
    },
    {
+    "baseline": 47,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cracks are emerging in the AI spending boom"
+     },
+     {
+      "source": "media",
+      "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen"
+     },
+     {
+      "source": "media",
+      "title": "U.S. Stocks Dive on AI Spending Fears"
+     }
+    ],
+    "expected": 3.66,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 11,
+    "score": 5.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai spending",
+    "voices": 5,
+    "z": 3.4
+   },
+   {
     "baseline": 3,
     "examples": [
      {
@@ -386,7 +416,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 3,
     "score": 4.98,
     "sources": [
@@ -417,7 +447,7 @@
     "expected": 0.86,
     "field": "ai",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 5,
     "score": 4.56,
     "sources": [
@@ -427,36 +457,6 @@
     "term": "bond sale",
     "voices": 4,
     "z": 3.04
-   },
-   {
-    "baseline": 24,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Malaysian Authorities Seize $12 Million Worth of AI Chips in Smuggling Crackdown"
-     },
-     {
-      "source": "media",
-      "title": "OpenAI plans to buy Google's AI chips, The Information reports"
-     },
-     {
-      "source": "media",
-      "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips"
-     }
-    ],
-    "expected": 1.87,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 7,
-    "score": 4.55,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai chips",
-    "voices": 5,
-    "z": 3.03
    }
   ],
   "other": [

@@ -379,7 +379,7 @@
     "semiconductor"
    ],
    "id": "media:0157a51e5a7ccd36bcf134b1",
-   "published": "2026-10-30T17:06:53+00:00",
+   "published": "2026-10-30T20:50:09+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Intel on course for worst day ever, triggers global chip rout",
@@ -2452,6 +2452,19 @@
    "url": "https://bloomberg.com/news/articles/2026-10-09/london-s-newest-rates-market-specialists-are-real-estate-agents",
    "voice": "bloomberg"
   },
+  "media:064157afc279b414c9f94c68": {
+   "date": "2026-10-31",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:064157afc279b414c9f94c68",
+   "published": "2026-10-31T00:33:18+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "OpenAI Lowers Fundraising Target–After Decreasing Possible Valuation",
+   "url": "https://theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation",
+   "voice": "information"
+  },
   "media:0647c120aafa8454a03dea15": {
    "date": "2026-10-11",
    "fields": [],
@@ -3731,6 +3744,17 @@
    "url": "https://forbes.com/sites/pamdanziger/2026/10/26/meta-muses-10-million-users-why-walmart-wants-them-and-amazon-doesnt",
    "voice": "forbes"
   },
+  "media:095f034a3e721e1e0c3330d5": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:095f034a3e721e1e0c3330d5",
+   "published": "2026-10-30T20:55:17+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "‘Croc 2: Kingdom Of The Gobbos’ Review: Remaster Good, Gobbo Say",
+   "url": "https://forbes.com/sites/games/2026/10/30/croc-2-kingdom-of-the-gobbos-review-remaster-good-gobbo-say",
+   "voice": "forbes"
+  },
   "media:09602eb81b3fd3f6e64bc21f": {
    "date": "2026-10-19",
    "fields": [],
@@ -4491,10 +4515,10 @@
    "voice": "reuters"
   },
   "media:0b5421ac3d4feba01a322edc": {
-   "date": "2026-10-28",
+   "date": "2026-10-29",
    "fields": [],
    "id": "media:0b5421ac3d4feba01a322edc",
-   "published": "2026-10-28T23:02:00+00:00",
+   "published": "2026-10-29T16:27:36+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "ECB's Lagarde steps down, saying she can't remain neutral on world events",
@@ -7700,6 +7724,17 @@
    "url": "https://wsj.com/tech/personal-tech/tiktok-instgram-reels-youtube-shorts-future-time-perspective-395d055a",
    "voice": "wsj"
   },
+  "media:135bf60b011c5c0496c5fa40": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:135bf60b011c5c0496c5fa40",
+   "published": "2026-10-30T22:01:02+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "PacSun CEO: Brands Mean a Lot to Young People Today",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/pacsun-ceo-brands-mean-a-lot-to-young-people-today-video",
+   "voice": "bloomberg"
+  },
   "media:1366471eeefbc2a46f3828ed": {
    "date": "2026-10-20",
    "fields": [],
@@ -8973,6 +9008,17 @@
    "title": "Needed: An Executive ‘Off Switch’ For AI When Things Go Wrong",
    "url": "https://forbes.com/sites/joemckendrick/2026/10/29/needed-an-executive-off-switch-for-ai-when-things-go-wrong",
    "voice": "forbes"
+  },
+  "media:16bb4b4b3a25736dcda406db": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:16bb4b4b3a25736dcda406db",
+   "published": "2026-10-30T18:37:19+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Bank of America sued over mandatory arbitration for employee disputes",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXk5S3hiRmZHcXpmdDRQTjRJUWRlQ1JUejJjZ1FwaC1zcURIajdqbGktcHoxeFgyRUR1NFQyN1FkSUxRbGtQM21LQVN4UTdIT3duT05HSlZocllUcjQ1bkVzenFybl9tSGx1YXpwQm5wc2tZNnpNa2dJV0hrMEhselhvMXg0el9VWnUxVWxhVE9wSTF0c2xyYWFjZFRkU1JDZHlaeUl6T1VoLTlHNmJJTnh2Q2lZQQ",
+   "voice": "reuters"
   },
   "media:16bd21871a96843147931e4a": {
    "date": "2026-09-29",
@@ -12053,6 +12099,19 @@
    "url": "https://forbes.com/sites/victoriaforster/2026/10/07/who-issues-first-global-guidelines-for-treating-childhood-obesity",
    "voice": "forbes"
   },
+  "media:1e5efecaff7a62e705e2bcf0": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:1e5efecaff7a62e705e2bcf0",
+   "published": "2026-10-30T21:17:40+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Cracks are emerging in the AI spending boom",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+   "voice": "techcrunch"
+  },
   "media:1e603fdfd5ba3fbd7c8c06c8": {
    "date": "2026-10-13",
    "fields": [],
@@ -12371,7 +12430,7 @@
    "date": "2026-10-30",
    "fields": [],
    "id": "media:1f2c0c100666fcb1b0cc0daf",
-   "published": "2026-10-30T16:31:00+00:00",
+   "published": "2026-10-30T21:34:00+00:00",
    "publisher": "wsj",
    "source": "media",
    "title": "Tech, Media & Telecom Roundup: Market Talk",
@@ -13581,6 +13640,17 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1dPWEItT3ZQRVJMMDdjU1ZuNVg5eG5rQ3h1UXNXMkJORFNrLXpkc05oWWpRU2NZRDJZX3Zpak5rWl9WclhBd0hGRUxia2VtMldlVEluZnI2MmNROUFFdERDRUFLaGo5NkRwNE96V1gzME9yOGhBQlNZQUVwWTNtX0dycXRkYXhuR3NkV21OTmpya0R6OXdIbWVoQUhBWUFFS0JhMmZOR0tMZWFjYklSa2lRQTZBWjJoVEstVG5sd2w",
    "voice": "reuters"
   },
+  "media:227821e8b253e2258eec2134": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:227821e8b253e2258eec2134",
+   "published": "2026-10-30T20:59:39+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Brazil Summons Argentine Envoy Over Role in Bolsonaro’s Escape",
+   "url": "https://bloomberg.com/news/articles/2026-10-30/brazil-summons-argentine-envoy-over-role-in-bolsonaro-s-escape",
+   "voice": "bloomberg"
+  },
   "media:227e5ab378733523f2da4175": {
    "date": "2026-10-27",
    "fields": [
@@ -14046,7 +14116,7 @@
     "ai"
    ],
    "id": "media:23b3155680f88ff4807b6d09",
-   "published": "2026-10-30T16:54:28+00:00",
+   "published": "2026-10-30T20:42:09+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
@@ -14321,7 +14391,7 @@
    "published": "2026-10-30T02:27:00+00:00",
    "publisher": "reuters",
    "source": "media",
-   "title": "Oil prices set for fourth straight monthly gains as tanker attack highlights supply risks",
+   "title": "Oil jumps 2%, settles at 6-month highs on fears of escalation in Iran",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q",
    "voice": "reuters"
   },
@@ -14920,6 +14990,17 @@
    "title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership",
    "url": "https://wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a",
    "voice": "wsj"
+  },
+  "media:26575b755ea2b09905c92e80": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:26575b755ea2b09905c92e80",
+   "published": "2026-10-30T21:59:01+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "New Balance CEO Joe Preston on NYC Marathon Partnership",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/new-balance-ceo-joe-preston-on-nyc-marathon-partnership-video",
+   "voice": "bloomberg"
   },
   "media:2661e60e7c11ace0fac1e801": {
    "date": "2026-10-16",
@@ -17589,6 +17670,17 @@
    "url": "https://bloomberg.com/news/articles/2026-10-06/surging-yields-hit-asian-bond-sales-as-ai-fundraising-trails-us",
    "voice": "bloomberg"
   },
+  "media:2def733caded066a925fd763": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:2def733caded066a925fd763",
+   "published": "2026-10-30T21:26:59+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Last-minute Halloween costumes for tech nerds",
+   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
+   "voice": "techcrunch"
+  },
   "media:2e021349bc98c87d37325aa3": {
    "date": "2026-10-16",
    "fields": [],
@@ -18273,6 +18365,17 @@
    "title": "Why DoorDash Needs Its Own AI Assistant",
    "url": "https://theinformation.com/articles/doordash-needs-ai-assistant",
    "voice": "information"
+  },
+  "media:2fc698906fe9f911a9a93662": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:2fc698906fe9f911a9a93662",
+   "published": "2026-10-30T20:48:30+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno",
+   "voice": "reuters"
   },
   "media:2fca0b6f13af6c1515f3aed6": {
    "date": "2026-10-01",
@@ -18967,6 +19070,17 @@
    "title": "The easiest Apple Watch to recommend is $50 off",
    "url": "https://theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale",
    "voice": "verge"
+  },
+  "media:31336b3dfa42f93fe98651a9": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:31336b3dfa42f93fe98651a9",
+   "published": "2026-10-30T20:55:32+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Wall Street Boom to Cut New York State Budget Deficit in Half",
+   "url": "https://bloomberg.com/news/articles/2026-10-30/wall-street-boom-to-cut-new-york-state-budget-deficit-in-half",
+   "voice": "bloomberg"
   },
   "media:31364da2cb8b81eaeda558ec": {
    "date": "2026-10-23",
@@ -22615,6 +22729,20 @@
    "url": "https://bloomberg.com/news/articles/2026-10-06/virginia-lieutenant-governor-opposes-nextera-dominion-deal",
    "voice": "bloomberg"
   },
+  "media:3a63df7204e18c4709fd95bd": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai",
+    "power"
+   ],
+   "id": "media:3a63df7204e18c4709fd95bd",
+   "published": "2026-10-30T21:36:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Cracks in AI Trade Power Sharp Tech Selloff",
+   "url": "https://wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b",
+   "voice": "wsj"
+  },
   "media:3a71b2f5abc36470896c14bf": {
    "date": "2026-09-30",
    "fields": [
@@ -23575,6 +23703,17 @@
    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet",
    "voice": "techcrunch"
+  },
+  "media:3cc5d1f14c44d0153d26b7a8": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:3cc5d1f14c44d0153d26b7a8",
+   "published": "2026-10-30T21:14:16+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "The Future of Financial Advice: Masters in Business with Rich Steinmeier",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/masters-in-business-with-rich-steinmeier-video",
+   "voice": "bloomberg"
   },
   "media:3cc9806a9f5c2c2c945e9b35": {
    "date": "2026-10-25",
@@ -33582,6 +33721,17 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVE1WFlPV043OWhlQ0E3TXFCSnNmQmhLaVBsS0l5TTlRSFNGNlUwY3pqZllBVDQ1alFzdXFuTEowN0RlRU5jMkdmNjFzU3hRM01XdGc4TVVvQWhOdWp5aGQtNm9sdUhzWWUzWkN6VTUzeHFtWjk4aFlTdzllSGZtZTFYX0gzb2k0TkFyRUZrYnRJTmF4d2JJZWwtN0s5RzVaRDhLYmgxS3pqRERvSTFzM2VxVVZubDQ",
    "voice": "reuters"
   },
+  "media:56580afceebdc750252a71d6": {
+   "date": "2026-10-31",
+   "fields": [],
+   "id": "media:56580afceebdc750252a71d6",
+   "published": "2026-10-31T00:00:26+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Today’s Wordle #1960 Hints, Clues And Answer For Saturday October 31",
+   "url": "https://forbes.com/sites/erikkain/2026/10/30/wordle-hints-clues-answer-saturday-october-30",
+   "voice": "forbes"
+  },
   "media:566a46f34b945b573eae1de5": {
    "date": "2026-10-14",
    "fields": [],
@@ -35372,6 +35522,19 @@
    "title": "Europe’s Bond Market Turbulence Puts ECB Repo Funding Into Focus",
    "url": "https://bloomberg.com/news/articles/2026-10-09/europe-s-bond-market-turbulence-puts-ecb-repo-funding-into-focus",
    "voice": "bloomberg"
+  },
+  "media:5afec5e7fefaf7323141bd81": {
+   "date": "2026-10-30",
+   "fields": [
+    "power"
+   ],
+   "id": "media:5afec5e7fefaf7323141bd81",
+   "published": "2026-10-30T20:48:43+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "url": "https://theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+   "voice": "verge"
   },
   "media:5b0014973615ff912851b472": {
    "date": "2026-10-26",
@@ -37544,7 +37707,7 @@
     "ai"
    ],
    "id": "media:5fcfaead50afab0f3957a783",
-   "published": "2026-10-30T08:33:43+00:00",
+   "published": "2026-10-30T21:58:34+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Cursor says up to 5,000 users affected by tampered Claude Code extension",
@@ -38644,6 +38807,19 @@
    "title": "India Hikes Petrol Export Levy, Slashes Diesel Duty",
    "url": "https://bloomberg.com/news/articles/2026-10-16/india-hikes-petrol-export-levy-slashes-diesel-duty",
    "voice": "bloomberg"
+  },
+  "media:62afea9455f7787770b6672e": {
+   "date": "2026-10-31",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:62afea9455f7787770b6672e",
+   "published": "2026-10-31T00:43:11+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
+   "url": "https://theinformation.com/briefings/s-p-lowers-metas-credit-outlook-amid-soaring-ai-spending",
+   "voice": "information"
   },
   "media:62b1ad13d673cabca77e757e": {
    "date": "2026-10-23",
@@ -39916,6 +40092,17 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYzRweXVWbXFGOUFxYVNLLVg1M3ZPZ3Zsdm5UYnZ2cjJ1WTZoTW9tUUFJYnVReFNQRF9CUU5zYldGX3lfUHB3WGNjUlhmZ2xfM3QzdjZlRVpxczB2N2RJQmxBbjAyMkljRmJRS1hwUGx2c1Jqc2txS2dFWDB4TEFHNGpBUVBZWnpXV1U3eVM1cVgxMjdwN0FEdlgwbGlEYWdmR1ZRU2k2cGs1dE41bTFtaHpDclFZdE42U1RJZjhySlluajcxQXRZVA",
    "voice": "reuters"
   },
+  "media:6617a63ef3c7542989b60562": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:6617a63ef3c7542989b60562",
+   "published": "2026-10-30T21:51:18+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Burger King US President on Sales Turnaround",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/burger-king-us-president-on-sales-turnaround-video",
+   "voice": "bloomberg"
+  },
   "media:6618367e9281cf038fe5c065": {
    "date": "2026-10-08",
    "fields": [
@@ -40383,6 +40570,19 @@
    "url": "https://bloomberg.com/news/articles/2026-10-21/bridgepoint-bain-among-bidders-for-uk-based-wealth-manager-w1m",
    "voice": "bloomberg"
   },
+  "media:6799bb79a60dab74b2aa06e4": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:6799bb79a60dab74b2aa06e4",
+   "published": "2026-10-30T20:26:10+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "The biggest names in AI are backing a new way to opt out of scraping",
+   "url": "https://theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "voice": "verge"
+  },
   "media:67a100d579a1bfc5f7ef2670": {
    "date": "2026-10-14",
    "fields": [
@@ -40406,6 +40606,17 @@
    "title": "The Future Of IT Is Not A Bigger IT Function",
    "url": "https://forbes.com/councils/forbestechcouncil/2026/10/13/the-future-of-it-is-not-a-bigger-it-function",
    "voice": "forbes"
+  },
+  "media:67b5bf7fca351cc765754d20": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:67b5bf7fca351cc765754d20",
+   "published": "2026-10-30T21:55:31+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Ice Cube on Big3 League: In a Great Position To Scale",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/ice-cube-on-big3-league-in-a-great-position-to-scale-video",
+   "voice": "bloomberg"
   },
   "media:67b5ee32430e081dbaf20e5e": {
    "date": "2026-09-30",
@@ -44032,6 +44243,17 @@
    "url": "https://theinformation.com/briefings/openai-unveils-cheaper-terra-model-amid-anthropic-pricing-battle",
    "voice": "information"
   },
+  "media:70c47f69b48743e0420b8961": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:70c47f69b48743e0420b8961",
+   "published": "2026-10-30T23:59:36+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "What Is The Best Cinema Format To Choose For ‘Godzilla Minus Zero’?",
+   "url": "https://forbes.com/sites/bennyhareven/2026/10/30/what-is-the-best-cinema-format-for-godzilla-minus-zero",
+   "voice": "forbes"
+  },
   "media:70c7b079ce17c5d06f1aae80": {
    "date": "2026-10-20",
    "fields": [
@@ -44559,6 +44781,30 @@
    "title": "Intel shares tumble after hours, hit by chip supply constraints, big cash burn",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEgxampOc0U5RENJWVd0a09uQjlFSkxueGxGVzVPX2NwdElzNDN3WXdjVFpvelNULXVObnMzTTJzb0ZfeFBtN1ZOQ0FVNXRuN0ZINkF0dWZkZlR6ZlkzUE5wQWpPTWg3dGtDLURwRl9OU0ZEb1UtejNBbC1KMnVWbmJ5OHQxWTBoU1I3cFduaXAyOHFBVkFIYjhCNXR1c0EyM2xlZFZNWFM",
    "voice": "reuters"
+  },
+  "media:7217d2872431c0138736c67a": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:7217d2872431c0138736c67a",
+   "published": "2026-10-30T20:30:15+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "AI Dip-Buyers Gored as Selling Spasm Caps Third Week of Losses",
+   "url": "https://bloomberg.com/news/articles/2026-10-30/ai-dip-buyers-gored-as-selling-spasm-caps-third-week-of-losses",
+   "voice": "bloomberg"
+  },
+  "media:7223a75c10dc910003399951": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:7223a75c10dc910003399951",
+   "published": "2026-10-30T14:29:42+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Brazil Hedge Funds Reel as Losses Reach 24% After Lula Shock",
+   "url": "https://bloomberg.com/news/articles/2026-10-30/hedge-funds-in-brazil-reel-as-losses-reach-24-after-lula-shock",
+   "voice": "bloomberg"
   },
   "media:722a438d2d43bcf055130159": {
    "date": "2026-10-19",
@@ -45526,6 +45772,17 @@
    "url": "https://utilitydive.com/news/senate-permitting-bill-would-expand-federal-role-in-electric-transmission-s/831886",
    "voice": "utility_dive"
   },
+  "media:74eaca97e491df0599c280ec": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:74eaca97e491df0599c280ec",
+   "published": "2026-10-30T22:08:41+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Crypto Hack Reignites Regulatory Debate",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+   "voice": "bloomberg"
+  },
   "media:74f80fd560a301e9fd49712a": {
    "date": "2026-10-06",
    "fields": [
@@ -46269,6 +46526,17 @@
    "title": "Being AI-Native: It’s Easier Said Than Done",
    "url": "https://forbes.com/sites/johnwerner/2026/10/13/being-ai-native-its-easier-said-than-done",
    "voice": "forbes"
+  },
+  "media:76cc626921df359e418eaae6": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:76cc626921df359e418eaae6",
+   "published": "2026-10-30T22:21:45+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Chocolate Price Spook Families for Halloween",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
+   "voice": "bloomberg"
   },
   "media:76cd133d5edbaa89a0d6e0bb": {
    "date": "2026-10-07",
@@ -47549,6 +47817,17 @@
    "source": "media",
    "title": "US Private Credit Stress Masked by Growing PIK Use, Moody’s Says",
    "url": "https://bloomberg.com/news/articles/2026-10-14/us-private-credit-stress-masked-by-growing-pik-use-moody-s-says",
+   "voice": "bloomberg"
+  },
+  "media:7a982473f39308d4172a3ae4": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:7a982473f39308d4172a3ae4",
+   "published": "2026-10-30T21:21:38+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Rich Steinmeier on a Career in Management",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/rich-steinmeier-on-a-career-in-management-video",
    "voice": "bloomberg"
   },
   "media:7aa53a5885cafc7dd497c3b5": {
@@ -50272,10 +50551,10 @@
     "ai"
    ],
    "id": "media:814f89f609bb951909f8a34a",
-   "published": "2026-10-30T18:45:27+00:00",
+   "published": "2026-10-30T20:38:32+00:00",
    "publisher": "reuters",
    "source": "media",
-   "title": "Wall Street slides as AI cash burn worries spark tech selloff",
+   "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw",
    "voice": "reuters"
   },
@@ -50785,6 +51064,17 @@
    "title": "Waiting For 'Dam To Break' On Exits: HIG CEO Schwartz",
    "url": "https://bloomberg.com/news/videos/2026-10-21/waiting-for-dam-to-break-on-exits-hig-ceo-schwartz-video",
    "voice": "bloomberg"
+  },
+  "media:828f923579003c661af7b08d": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:828f923579003c661af7b08d",
+   "published": "2026-10-30T20:48:04+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "‘MobLand’ Season 2, Episode 7 Recap And Review: All War, No Consequences",
+   "url": "https://forbes.com/sites/erikkain/2026/10/30/mobland-season-2-episode-7-review-entertaining-but-frustrating",
+   "voice": "forbes"
   },
   "media:829f216dc06221dfa7f70b45": {
    "date": "2026-10-02",
@@ -53398,6 +53688,17 @@
    "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters",
    "voice": "techcrunch"
   },
+  "media:8a15b051a78cc29a229059b6": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:8a15b051a78cc29a229059b6",
+   "published": "2026-10-30T22:05:55+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
+   "voice": "bloomberg"
+  },
   "media:8a2643953a3ce260bee9f2a4": {
    "date": "2026-10-15",
    "fields": [
@@ -53535,6 +53836,19 @@
    "title": "IMF/World Bank meetings leave developing countries with more questions than answers",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOek14dnVaSHRfckw2SkxnWUlJb0ZXSmcyeTJuNlpXMjR6bS1WRExZejg4dUFweG5sUmVUTndpeXQ4X0EwVHFwVzIxU24xME1OaHVUeHdqYjJpSGJ3SDB4aVFWcmlNVEZVMHFDbndVSC1aQ0NhY09odHctV2xKWFpwNEtvaDYwakF1WHVOTHJzbVEwRkx6Z214RGk2U0tGUE0xcDNBenZGZU5KSnZLRkVKVUxuTjNYdzhyczBn",
    "voice": "reuters"
+  },
+  "media:8aa100fa742dfc86c194ce89": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:8aa100fa742dfc86c194ce89",
+   "published": "2026-10-30T23:12:54+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "How Zoetis Turns Broad AI Adoption Into Business Value",
+   "url": "https://forbes.com/sites/peterhigh/2026/10/30/how-zoetis-turns-broad-ai-adoption-into-business-value",
+   "voice": "forbes"
   },
   "media:8abd6dfd2e29dfa64df309b2": {
    "date": "2026-10-28",
@@ -55048,6 +55362,17 @@
    "url": "https://bloomberg.com/news/articles/2026-10-09/prosecutors-drop-bribery-charge-in-philippine-vp-duterte-s-trial",
    "voice": "bloomberg"
   },
+  "media:8e890a94988d959a904927e4": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:8e890a94988d959a904927e4",
+   "published": "2026-10-30T23:23:41+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Apple Loop: MacBook U-Turn, iPhone Duo Problems, iPhone 18 Pro Sales",
+   "url": "https://forbes.com/sites/ewanspence/2026/10/30/apple-news-headlines-iphone-18-pro-sales-iphone-duo-broken-macbook-pro-touch",
+   "voice": "forbes"
+  },
   "media:8e8dbe47707eda1b833c67b0": {
    "date": "2026-10-27",
    "fields": [],
@@ -55590,6 +55915,19 @@
    "title": "S&P 500 Wavers Before Earnings as Chip Stocks Fall: Markets Wrap",
    "url": "https://bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
    "voice": "bloomberg"
+  },
+  "media:8fe6d547df6601a9c0fba55a": {
+   "date": "2026-10-30",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:8fe6d547df6601a9c0fba55a",
+   "published": "2026-10-30T21:54:34+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+   "voice": "techcrunch"
   },
   "media:8ff658b84abbdb2ac6e4a23d": {
    "date": "2026-10-07",
@@ -57155,6 +57493,19 @@
    "title": "SEC Approves Cboe’s KPI Prediction-Market Bets With Robinhood",
    "url": "https://bloomberg.com/news/articles/2026-10-14/sec-approves-cboe-s-kpi-prediction-market-bets-with-robinhood",
    "voice": "bloomberg"
+  },
+  "media:93cd89dd8a78993d0b28542c": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:93cd89dd8a78993d0b28542c",
+   "published": "2026-10-30T20:20:12+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Using AI To Help Take Out The Trash",
+   "url": "https://forbes.com/sites/the-prototype/2026/10/30/using-ai-to-help-take-out-the-trash",
+   "voice": "forbes"
   },
   "media:93d6532ed1f34a042ba27e92": {
    "date": "2026-10-08",
@@ -58802,6 +59153,17 @@
    "url": "https://bloomberg.com/news/videos/2026-10-21/the-opening-trade-10-21-2026-video",
    "voice": "bloomberg"
   },
+  "media:9804d1924ab6567d43ad76f5": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:9804d1924ab6567d43ad76f5",
+   "published": "2026-10-30T15:37:00+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Dermatology Biotech Bambusa Dips 6.3% After $168.9 Million IPO",
+   "url": "https://bloomberg.com/news/articles/2026-10-30/dermatology-biotech-bambusa-slides-7-after-168-9-million-ipo",
+   "voice": "bloomberg"
+  },
   "media:9807e78fd6dfc8a8912050b1": {
    "date": "2026-09-24",
    "fields": [
@@ -59994,6 +60356,19 @@
    "title": "Fed may skip October but pull rate hike trigger in December",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ",
    "voice": "reuters"
+  },
+  "media:9b1fe608cb2b2a1312d28003": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:9b1fe608cb2b2a1312d28003",
+   "published": "2026-10-30T21:36:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Opinion | An AI Halloween Market Scare",
+   "url": "https://wsj.com/opinion/market-scare-ai-binance-nasdaq-google-alphabet-94e31518",
+   "voice": "wsj"
   },
   "media:9b314f54d5d9afb9295dec89": {
    "date": "2026-10-08",
@@ -64599,6 +64974,17 @@
    "url": "https://forbes.com/sites/timkeary/2026/10/14/how-solarwinds-used-an-ai-agent-to-5x-its-software-engineering-output",
    "voice": "forbes"
   },
+  "media:a61d98141ae5e53c1b8a99a0": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:a61d98141ae5e53c1b8a99a0",
+   "published": "2026-10-30T21:48:53+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+   "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app",
+   "voice": "techcrunch"
+  },
   "media:a620ff50f54abd58557169f8": {
    "date": "2026-10-13",
    "fields": [
@@ -64920,6 +65306,17 @@
    "title": "Bolivia Readies New Bond Sale as It Waits for Rates to Improve",
    "url": "https://bloomberg.com/news/articles/2026-10-16/bolivia-readies-new-bond-sale-as-it-waits-for-rates-to-improve",
    "voice": "bloomberg"
+  },
+  "media:a729c232779218bca42cbbcd": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:a729c232779218bca42cbbcd",
+   "published": "2026-10-30T23:23:06+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Android Circuit: Galaxy S27 Ultra Design, App Store Fines, Exynos Vs Snapdragon",
+   "url": "https://forbes.com/sites/ewanspence/2026/10/30/android-news-headlines-galaxy-s27-ultra-pixel-gemini-offer-oneui-9-exynos-snapdragon",
+   "voice": "forbes"
   },
   "media:a738b43ffaf3b01a326a7bee": {
    "date": "2026-10-22",
@@ -65525,6 +65922,17 @@
    "title": "Biggest Pharmacy Chain in Malaysia Plans $565 Million Share Sale",
    "url": "https://bloomberg.com/news/articles/2026-10-29/biggest-pharmacy-chain-in-malaysia-plans-565-million-share-sale",
    "voice": "bloomberg"
+  },
+  "media:a8a7fd2befbe2de4e83d16f7": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:a8a7fd2befbe2de4e83d16f7",
+   "published": "2026-10-30T21:01:32+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Exclusive details about Akai’s MPC Sample Key",
+   "url": "https://theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+   "voice": "verge"
   },
   "media:a8aa47b5becf0efdd69b98d7": {
    "date": "2026-10-14",
@@ -69714,6 +70122,17 @@
    "url": "https://bloomberg.com/news/articles/2026-10-07/braskem-creditors-balk-at-restructuring-plan-as-deadline-looms",
    "voice": "bloomberg"
   },
+  "media:b34ca9cf3f3b73e1c7560a3e": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:b34ca9cf3f3b73e1c7560a3e",
+   "published": "2026-10-30T23:21:23+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+   "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune",
+   "voice": "techcrunch"
+  },
   "media:b355fcc365100ace55ff8577": {
    "date": "2026-10-06",
    "fields": [],
@@ -73489,6 +73908,19 @@
    "url": "https://forbes.com/councils/forbestechcouncil/2026/10/02/how-ai-assistants-get-paid-will-decide-whether-they-help-or-harm-patients",
    "voice": "forbes"
   },
+  "media:bd0f61784e0134ac432c5056": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:bd0f61784e0134ac432c5056",
+   "published": "2026-10-30T22:56:13+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+   "voice": "techcrunch"
+  },
   "media:bd1544479d88dbbe9aedb40c": {
    "date": "2026-10-27",
    "fields": [],
@@ -73757,6 +74189,17 @@
    "title": "Fusion firm Type One in $200 million Siemens Energy-backed raise",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYlY5aGhCZ0Y5V2IydktiSTdMU3ZkYzNVaVZSYTctS0ttMWVwNEZDUjdFT0RGeXg2aDRhQS1EVzR1dXNQSmNOSTM3Q1lsME9DUGJWVW5ESmpXVkF6MlNaYUtNQTV4OC1TaVZOMXBzZTdvZ3JWSWhTSVM5X3FremxDWF9HWlk1ZXZQVHpvQ3M5TXAyRGxFZF8xUENnSGdxeTk0QWoyYUdtRUoxNWVpc0d6NVJB",
    "voice": "reuters"
+  },
+  "media:bda38f8ef52bdffad9f68f3c": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:bda38f8ef52bdffad9f68f3c",
+   "published": "2026-10-30T19:50:59+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Healthcare Contract Wars Are Leaving Seniors Behind",
+   "url": "https://forbes.com/sites/lisafitzpatrick/2026/10/30/healthcare-contract-wars-are-leaving-seniors-behind",
+   "voice": "forbes"
   },
   "media:bda6a5c69e8cfadcbe67f70f": {
    "date": "2026-10-01",
@@ -75384,10 +75827,10 @@
    "date": "2026-10-30",
    "fields": [],
    "id": "media:c1ce3cf9391b926570c77a94",
-   "published": "2026-10-30T17:19:21+00:00",
+   "published": "2026-10-30T18:25:33+00:00",
    "publisher": "reuters",
    "source": "media",
-   "title": "CD&R pursues buyout of $40 billion payments processor Global Payments, FT reports",
+   "title": "CD&R explores deal to take payments processor Global Payments private, source says",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZ2SzJDSVRaLS1weElISF9wYThNdG12Z0s3ZEFQa3dySTV1X3pFeEw5dlN5eTNWUXpJekFiYVVqUGFqZTNxdkgteW10UUdCd2c4NVZyWHd2WmZEN1NNeFRYYmxYUkZBbWxUZ2pxT2czajNpNUdRcGZZcm9TTHBrMXZxTEdvNGJiUkJrdFpsbm9keEpybmdfdTMwNFM2VjhCcHdySnVKTDM0QW9FOWhuX2pOQ1lnTGN3anlQQw",
    "voice": "reuters"
   },
@@ -78830,7 +79273,7 @@
    "published": "2026-10-29T22:07:56+00:00",
    "publisher": "bloomberg",
    "source": "media",
-   "title": "Nasdaq 100 Slumps 10% From Peak on AI Wake-Up Call: Markets Wrap",
+   "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
    "url": "https://bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
    "voice": "bloomberg"
   },
@@ -79066,6 +79509,17 @@
    "url": "https://forbes.com/sites/davidphelan/2026/10/26/ios-272---apple-has-new-features-and-important-fixes-for-iphone-users",
    "voice": "forbes"
   },
+  "media:caf45e52caa3cd63f5ab5a1b": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:caf45e52caa3cd63f5ab5a1b",
+   "published": "2026-10-30T17:46:09+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "A century on, Budapest circus revives Houdini's daring escapes",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0w0RzAwSkhZa2F3a0FGYXQxTjFFTlo3UFloTVd2cHJPcnpzVkRkNHBBNGJyUEdhbVY2dC1VR0VJMVcyQ2xkcHBaRjJOY1V6RXp3X3dmeHZ2RUNVN0hWOUJmaVlhdjIzQlE4SzVZRUlpOVh1VEJmVTQwcjJYUHlqMnNJcWhnaUZ0SmJsXzhET01lNG5BZWtrb0JVUU1MMllfZU5kdkIyVnJncFBYTC1WTi1tdmc",
+   "voice": "reuters"
+  },
   "media:caf7be4cb51a572187f8eb91": {
    "date": "2026-10-29",
    "fields": [],
@@ -79111,6 +79565,19 @@
    "title": "US Airlines Plan 4Q Capacity Growth in Key Markets",
    "url": "https://bloomberg.com/news/videos/2026-10-19/us-airlines-plan-4q-capacity-growth-in-key-markets-video",
    "voice": "bloomberg"
+  },
+  "media:cb231e1070861298d988cf5f": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:cb231e1070861298d988cf5f",
+   "published": "2026-10-30T22:31:39+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "U.S. Stocks Dive on AI Spending Fears",
+   "url": "https://theinformation.com/briefings/u-s-stocks-dive-ai-spending-fears",
+   "voice": "information"
   },
   "media:cb257a9ddbacb65139e223ad": {
    "date": "2026-10-23",
@@ -80216,6 +80683,17 @@
    "title": "Today’s NYT Connections Hints And Answers: Saturday, October 10",
    "url": "https://forbes.com/sites/paultassi/2026/10/09/todays-nyt-connections-hints-and-answers-saturday-october-10",
    "voice": "forbes"
+  },
+  "media:cd80c51790cb653c80aee3e6": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:cd80c51790cb653c80aee3e6",
+   "published": "2026-10-30T15:30:26+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Michael Kors owner Capri soars after raising annual forecasts",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0ZQcS1zc0tmRW05ZXJpRlRfOFVqbkczVFA0VWY1dzl5MjBoeXdEcmNQQTVxQWRCSjBOemdUWllNQ0UyUDNLM0dEWHpqeHJzUVcxbjl6cWplc21lb2RBWWNBeDFzX2luMWVuUWFYR0c2TUNLX09UTWxpR0ZvSXpXLVdMZlhZRENxWW5nTGY1bnZoREJaNG9ZeGU3YjAzZzVBMkdXdVpyWlZ6R2NhSlkzVG1ER2lZZ3NhRmptMVduMA",
+   "voice": "reuters"
   },
   "media:cd8ed5fbaf9b66ba1bc086d0": {
    "date": "2026-10-05",
@@ -84053,6 +84531,17 @@
    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
    "voice": "techcrunch"
   },
+  "media:d6cb8a2cb5c9f750fbf56df6": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:d6cb8a2cb5c9f750fbf56df6",
+   "published": "2026-10-30T20:40:59+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
+   "url": "https://bloomberg.com/news/articles/2026-10-30/hedge-funds-boost-natural-gas-short-positions-to-most-on-record",
+   "voice": "bloomberg"
+  },
   "media:d6d01d2fc940057483df9b8d": {
    "date": "2026-10-29",
    "fields": [],
@@ -84241,6 +84730,17 @@
    "title": "Russia’s Oil-Export Boom Undercut by Payouts, Diesel Sales Ban",
    "url": "https://bloomberg.com/news/articles/2026-10-06/russia-s-oil-export-boom-undercut-by-payouts-diesel-sales-ban",
    "voice": "bloomberg"
+  },
+  "media:d74e915f2a717df1d81636a7": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:d74e915f2a717df1d81636a7",
+   "published": "2026-10-30T22:32:53+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "url": "https://theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "voice": "verge"
   },
   "media:d75803cf93d7bd258e01b719": {
    "date": "2026-10-26",
@@ -85259,6 +85759,19 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1FoRVViUjFFU1FZN0hKaDR4Q3M4S2VheF9USmZYVzNFYk9hd2t1WlJRbmNiSnRwNkF4ZjhxUThPaWdNd0MtS0FHdkFCUDQwWUI3RHAydzl2QkduWXBob09SWDNyREttM1M1Y2hBbDZMLW1HREVSVUtoRVFVOFR6OHNSc0xpUTM5Tmw2RGhSVUprbFNndlRiUU5ZdjA",
    "voice": "reuters"
   },
+  "media:da049c30de628b6b95094356": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:da049c30de628b6b95094356",
+   "published": "2026-10-30T17:45:19+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXotdk1SQjNVV0I0cTY5SF8wakFYNk9Za3pJM3JlOFF3YjBOR25PUnB6SnBFUmlzR2dSQXl4c3E2RjFzbVFGNXJSR2dyYUJwZnI3OU10MXY1SENMN2Uwd0h3QzJZaFkwVnZ4SGlGbWQtNlpXcEVUUUYtMDRiVXNILU91OVBpZmszZVZnUXUwanlxNFNod2Nfa3Z3eEYyRjdVTG9EVnZVSW1BUlM4Y3dfYVR1NkdJRVduZklvUmhkVXFVcVAwTnJST0pR",
+   "voice": "reuters"
+  },
   "media:da07c3041f6a64ea3c6494ce": {
    "date": "2026-10-01",
    "fields": [],
@@ -85598,6 +86111,17 @@
    "title": "GM to Leave NYSE for Stock Listing on Tech-Focused Nasdaq",
    "url": "https://bloomberg.com/news/articles/2026-10-27/gm-to-move-stock-listing-to-tech-focused-nasdaq-leaving-nyse",
    "voice": "bloomberg"
+  },
+  "media:daed9805660ac6244f5ed6a2": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:daed9805660ac6244f5ed6a2",
+   "published": "2026-10-30T14:20:35+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Ambani's Jio posts about 14% profit rise in first earnings since blockbuster debut",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RJZzlhbDJyYjh5N01HbHFhNUFLbWU3czVrSjVkZ2ZLR05HRGNUVDNLX2ZCcF8wbkotRzdXTGprYjN6VVU0ZVNwVnF0U3BPUkJZTjNac0wwWEx3SGd5MERFYXA4elBUeDcxUE9VR1RFbW92X0N6aUFRSXZEQlhrYTdqLTlJVWpSNGJiVmlCcU5tN0s0cWRRaW9lUXlJXzA5QzY3OWNYdDdzVDdpQXo3ZldDNHZPZWs",
+   "voice": "reuters"
   },
   "media:daf2ec97a653fbbd22afabff": {
    "date": "2026-10-30",
@@ -86555,6 +87079,17 @@
    "source": "media",
    "title": "2 ‘Underrated’ Signs Of A Healthy Adult Relationship, By A Psychologist",
    "url": "https://forbes.com/sites/traversmark/2026/10/07/2-underrated-signs-of-a-healthy-adult-relationship-by-a-psychologist",
+   "voice": "forbes"
+  },
+  "media:dd29364a8533384862f724ee": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:dd29364a8533384862f724ee",
+   "published": "2026-10-30T19:48:35+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+   "url": "https://forbes.com/sites/erikkain/2026/10/30/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more",
    "voice": "forbes"
   },
   "media:dd3aec85da34d8cb36f99082": {
@@ -89103,6 +89638,17 @@
    "url": "https://bloomberg.com/news/articles/2026-10-08/star-banker-simon-robey-kept-chelsea-fc-s-co-owners-talking-through-feud",
    "voice": "bloomberg"
   },
+  "media:e30979c12f8256f09a32f29e": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:e30979c12f8256f09a32f29e",
+   "published": "2026-10-30T13:58:32+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Investor Looks to Bid on Club Pilates-Owner Xponential",
+   "url": "https://bloomberg.com/news/articles/2026-10-30/investor-said-to-look-to-bid-on-club-pilates-owner-xponential",
+   "voice": "bloomberg"
+  },
   "media:e30c3dffa59624813665a786": {
    "date": "2026-10-19",
    "fields": [],
@@ -91411,6 +91957,17 @@
    "url": "https://forbes.com/sites/brianmazique/2026/10/28/canelo-alvarez-vs-christian-mbilli-is-almost-here---date-time-and-exactly-how-to-watch",
    "voice": "forbes"
   },
+  "media:e8b1b1b1a871eab131063231": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:e8b1b1b1a871eab131063231",
+   "published": "2026-10-30T20:09:41+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "The U.S. Halloween Weather Forecast For Trick-Or-Treaters",
+   "url": "https://forbes.com/sites/marshallshepherd/2026/10/30/the-us-halloween-weather-forecast-for-trick-or-treaters",
+   "voice": "forbes"
+  },
   "media:e8bd3458dd2253882f5f0dff": {
    "date": "2026-10-27",
    "fields": [],
@@ -92794,6 +93351,19 @@
    "title": "Vibe Coding? Be Sure To Include These Critical Development Steps",
    "url": "https://forbes.com/councils/forbestechcouncil/2026/10/19/vibe-coding-be-sure-to-include-these-critical-development-steps",
    "voice": "forbes"
+  },
+  "media:ec8bea37686ee52852c82db1": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:ec8bea37686ee52852c82db1",
+   "published": "2026-10-30T22:05:47+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Bloomberg Screentime: Streaming, AI & Creators",
+   "url": "https://bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+   "voice": "bloomberg"
   },
   "media:ec93abcb422c7342d2ccc0d9": {
    "date": "2026-10-01",
@@ -94199,7 +94769,7 @@
    "date": "2026-10-30",
    "fields": [],
    "id": "media:f050a8300b787178a8b83fd9",
-   "published": "2026-10-30T16:39:43+00:00",
+   "published": "2026-10-30T19:04:58+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Vail Resorts' biggest investor backs company in fight with activist Oasis",
@@ -94501,6 +95071,19 @@
    "title": "Corn Falls Most Since 2023 After US Makes Surprise Crop Estimate",
    "url": "https://bloomberg.com/news/articles/2026-10-09/corn-plunges-after-usda-hikes-us-yield-outlook-in-surprise-move",
    "voice": "bloomberg"
+  },
+  "media:f118284ccac4341babd32c8f": {
+   "date": "2026-10-30",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:f118284ccac4341babd32c8f",
+   "published": "2026-10-30T21:52:03+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+   "voice": "techcrunch"
   },
   "media:f126e200aec1c51878eb3fd1": {
    "date": "2026-10-20",
@@ -97128,6 +97711,17 @@
    "url": "https://forbes.com/sites/tiriasresearch/2026/10/08/qualcomm-vs-arm-day-3-what-happens-when-arm-stops-being-switzerland",
    "voice": "forbes"
   },
+  "media:f772b70f551e563224eff2de": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:f772b70f551e563224eff2de",
+   "published": "2026-10-30T20:53:19+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Congo Ebola outbreak kills more than 5,000",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbllsVjgtOF8tYlNWQTMtSzkxZ1paY0Fud2RmVVRldXhsdi1ST3hDM2VyRHZIUUNHZjVOSHdSbHNOZE5nZ0I1NVRsT2lIS0N1dWllTm0yUThUVDVHcVNJZVZDdGljeUt4dGhYOTVsRy1FYlM1ZTJkMVZkTncwcHJGVmNvNDNYZnJBQUxvNnpvM1lLc0w1ZmVhVk5MUkt0YjAwZUFGYWZDczJSdUNJNWQ0djFDLW8tcjlJS0owaU4yZTRaZw",
+   "voice": "reuters"
+  },
   "media:f77618b77040dcb9caec4406": {
    "date": "2026-10-05",
    "fields": [],
@@ -99637,6 +100231,17 @@
    "url": "https://forbes.com/sites/paultassi/2026/10/14/clayface-early-critic-reviews-render-a-unanimous-verdict",
    "voice": "forbes"
   },
+  "media:fea14766b0f645280f65a7e6": {
+   "date": "2026-10-30",
+   "fields": [],
+   "id": "media:fea14766b0f645280f65a7e6",
+   "published": "2026-10-30T20:03:43+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU",
+   "voice": "reuters"
+  },
   "media:feab67cdad118b6ef4d2e69e": {
    "date": "2026-10-11",
    "fields": [],
@@ -100168,7 +100773,7 @@
  },
  "publishers": {
   "bloomberg": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-07-06": "partial",
     "2026-07-07": "covered",
@@ -100286,17 +100891,18 @@
     "2026-10-27": "covered",
     "2026-10-28": "covered",
     "2026-10-29": "covered",
-    "2026-10-30": "partial"
+    "2026-10-30": "covered",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
-   "latest": "2026-10-30T19:49:47+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
+   "latest": "2026-10-30T22:21:45+00:00",
    "received": 20,
    "status": "ok"
   },
   "forbes": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -100329,17 +100935,18 @@
     "2026-10-27": "partial",
     "2026-10-28": "partial",
     "2026-10-29": "partial",
-    "2026-10-30": "partial"
+    "2026-10-30": "partial",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
-   "latest": "2026-10-30T19:42:20+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
+   "latest": "2026-10-31T00:00:26+00:00",
    "received": 25,
    "status": "ok"
   },
   "ieee_spectrum": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-08": "partial",
     "2026-09-09": "covered",
@@ -100393,17 +101000,18 @@
     "2026-10-27": "covered",
     "2026-10-28": "covered",
     "2026-10-29": "covered",
-    "2026-10-30": "partial"
+    "2026-10-30": "covered",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
    "latest": "2026-10-29T19:18:20+00:00",
    "received": 27,
    "status": "ok"
   },
   "information": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -100437,17 +101045,18 @@
     "2026-10-27": "covered",
     "2026-10-28": "partial",
     "2026-10-29": "partial",
-    "2026-10-30": "partial"
+    "2026-10-30": "covered",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
-   "latest": "2026-10-30T15:42:09+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
+   "latest": "2026-10-31T00:43:11+00:00",
    "received": 20,
    "status": "ok"
   },
   "reuters": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-25": "partial",
     "2026-09-26": "partial",
@@ -100484,17 +101093,18 @@
     "2026-10-27": "partial",
     "2026-10-28": "partial",
     "2026-10-29": "partial",
-    "2026-10-30": "partial"
+    "2026-10-30": "partial",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
-   "latest": "2026-10-30T19:03:56+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
+   "latest": "2026-10-30T21:58:34+00:00",
    "received": 100,
    "status": "ok"
   },
   "semiconductor_engineering": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -100532,17 +101142,18 @@
     "2026-10-27": "covered",
     "2026-10-28": "covered",
     "2026-10-29": "partial",
-    "2026-10-30": "partial"
+    "2026-10-30": "covered",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
    "latest": "2026-10-30T07:01:27+00:00",
    "received": 10,
    "status": "ok"
   },
   "techcrunch": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -100576,17 +101187,18 @@
     "2026-10-27": "partial",
     "2026-10-28": "partial",
     "2026-10-29": "partial",
-    "2026-10-30": "partial"
+    "2026-10-30": "covered",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
-   "latest": "2026-10-30T19:55:13+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
+   "latest": "2026-10-30T23:21:23+00:00",
    "received": 20,
    "status": "ok"
   },
   "utility_dive": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -100624,17 +101236,18 @@
     "2026-10-27": "covered",
     "2026-10-28": "covered",
     "2026-10-29": "covered",
-    "2026-10-30": "partial"
+    "2026-10-30": "covered",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
    "latest": "2026-10-30T15:39:42+00:00",
    "received": 10,
    "status": "ok"
   },
   "verge": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -100667,17 +101280,18 @@
     "2026-10-27": "partial",
     "2026-10-28": "partial",
     "2026-10-29": "partial",
-    "2026-10-30": "partial"
+    "2026-10-30": "partial",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
-   "latest": "2026-10-30T18:21:38+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
+   "latest": "2026-10-30T22:32:53+00:00",
    "received": 10,
    "status": "ok"
   },
   "wsj": {
-   "checked_at": "2026-10-30T19:56:51.850685+00:00",
+   "checked_at": "2026-10-31T00:51:50.818086+00:00",
    "coverage": {
     "2026-09-16": "partial",
     "2026-09-17": "covered",
@@ -100723,12 +101337,13 @@
     "2026-10-27": "covered",
     "2026-10-28": "covered",
     "2026-10-29": "covered",
-    "2026-10-30": "partial"
+    "2026-10-30": "covered",
+    "2026-10-31": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-10-30T19:56:51.850685+00:00",
-   "latest": "2026-10-30T16:31:00+00:00",
+   "last_success": "2026-10-31T00:51:50.818086+00:00",
+   "latest": "2026-10-30T21:36:00+00:00",
    "received": 34,
    "status": "ok"
   }

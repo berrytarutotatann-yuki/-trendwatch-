@@ -1272,36 +1272,6 @@
     "z": 3.0
    },
    {
-    "baseline": 8,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information"
-     },
-     {
-      "source": "media",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
-     },
-     {
-      "source": "media",
-      "title": "Nvidia CEO Reportedly Targeted By Suspected Chinese Informant"
-     }
-    ],
-    "expected": 0.62,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 6,
-    "recent": 4,
-    "score": 3.98,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "nvidia ceo",
-    "voices": 4,
-    "z": 2.65
-   },
-   {
     "baseline": 0,
     "examples": [
      {
@@ -1320,7 +1290,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 7,
+    "rank": 6,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1349,7 +1319,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 8,
+    "rank": 7,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1378,7 +1348,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 9,
+    "rank": 8,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1407,7 +1377,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 10,
+    "rank": 9,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1416,6 +1386,36 @@
     "term": "zealand election",
     "voices": 3,
     "z": 2.81
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Reportedly Targeted By Suspected Chinese Informant"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia CEO reportedly targeted by Chinese spy"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia ceo",
+    "voices": 3,
+    "z": 1.87
    },
    {
     "baseline": 12,

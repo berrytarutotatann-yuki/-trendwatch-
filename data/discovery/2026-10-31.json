@@ -1,0 +1,1602 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-10-31",
+ "docs_baseline": 117284,
+ "docs_recent": 9490,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 29,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Prospectus Documents Tremendous Supply Chain Risks"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO Reveals The Complexity And Risks Of AI Cloud Competition"
+     }
+    ],
+    "expected": 2.26,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 35,
+    "score": 27.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 18,
+    "z": 18.15
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to 60,000 employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Offers Buyouts to 60,000 Employees"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft offers buyouts to around 60,000 employees"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 13,
+    "score": 19.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft offers",
+    "voices": 13,
+    "z": 13.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Promises New Scientific Discoveries—And New Threats"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic S-1 Highlights Rising Payment Costs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s S-1 Takeaways: From Giant Compute Commitments to Complex Lock-Ups"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 9,
+    "score": 12.89,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic s-1",
+    "voices": 8,
+    "z": 8.59
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident"
+     },
+     {
+      "source": "hn",
+      "title": "Chainalysis security incident with customers PII compromised"
+     },
+     {
+      "source": "hn",
+      "title": "Tell HN: Warp.dev Security Incident"
+     }
+    ],
+    "expected": 1.48,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 15,
+    "score": 12.89,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "security incident",
+    "voices": 15,
+    "z": 8.59
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?"
+     },
+     {
+      "source": "hn",
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot"
+     },
+     {
+      "source": "hn",
+      "title": "Lecture on exponential time hypothesis by Ryan O'Donnell"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 5,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "exponential time hypothesis",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Files for IPO in Global Race to Raise Cash for AI"
+     },
+     {
+      "source": "media",
+      "title": "Stocks Get Tech Boost as Anthropic Files for IPO: Markets Wrap"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Files Its S-1"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic files",
+    "voices": 7,
+    "z": 8.0
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries"
+     },
+     {
+      "source": "media",
+      "title": "Google's Nvidia chip challenge boosts cloud sales, crimps cash flow"
+     },
+     {
+      "source": "media",
+      "title": "T-Mobile raises annual free cash flow forecast as premium plans gain traction"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 9,
+    "score": 8.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cash flow",
+    "voices": 3,
+    "z": 5.98
+   },
+   {
+    "baseline": 47,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Reddit shares plunge as Google's AI search squeezes traffic"
+     },
+     {
+      "source": "media",
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’"
+     },
+     {
+      "source": "media",
+      "title": "Pixel 10 Pro Owners Have Under 4 Days To Claim 12 Free Months Of Google AI Pro"
+     }
+    ],
+    "expected": 3.66,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 13,
+    "score": 8.66,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "google ai",
+    "voices": 11,
+    "z": 4.33
+   },
+   {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cracks in AI Trade Power Sharp Tech Selloff"
+     },
+     {
+      "source": "media",
+      "title": "AI Trade Shows New Cracks, Healey Defends UK Budget’s Scale"
+     },
+     {
+      "source": "media",
+      "title": "What Wall Street Really Thanks About the AI Trade (Podcast)"
+     }
+    ],
+    "expected": 2.88,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 11,
+    "score": 8.25,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai trade",
+    "voices": 5,
+    "z": 4.12
+   },
+   {
+    "baseline": 43,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending"
+     },
+     {
+      "source": "media",
+      "title": "Cracks are emerging in the AI spending boom"
+     },
+     {
+      "source": "media",
+      "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen"
+     }
+    ],
+    "expected": 3.34,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 14,
+    "score": 7.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai spending",
+    "voices": 6,
+    "z": 5.11
+   },
+   {
+    "baseline": 61,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Freight rates for Russian oil stay at record highs amid tanker shortage, Black Sea risks, sources say"
+     }
+    ],
+    "expected": 4.74,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 17,
+    "score": 7.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "sources say",
+    "voices": 3,
+    "z": 5.11
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cracks in AI Trade Power Sharp Tech Selloff"
+     },
+     {
+      "source": "media",
+      "title": "Intel Plunges 29% on Weak Outlook as Tech Selloff Deepens | Closing Bell"
+     },
+     {
+      "source": "media",
+      "title": "Tech Selloff Burns AI Dip-Buyers as Sector Slides for Third Week"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 6.44,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech selloff",
+    "voices": 4,
+    "z": 4.29
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cursor says up to 5,000 users affected by tampered Claude Code extension"
+     },
+     {
+      "source": "hn",
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace"
+     },
+     {
+      "source": "hn",
+      "title": "Malicious Claude Code Extension Found in Cursor Marketplace"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 6.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "code extension",
+    "voices": 5,
+    "z": 4.09
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years"
+     },
+     {
+      "source": "media",
+      "title": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally"
+     },
+     {
+      "source": "media",
+      "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 14,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "media"
+    ],
+    "term": "cloud growth",
+    "voices": 4,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI reportedly lowers funding target for new round"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI slashes funding target by $10B amid tech rout, FT reports"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "funding target",
+    "voices": 4,
+    "z": 4.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Patrick Stewart’s Death Shows Dementia Is More Than Memory Loss"
+     },
+     {
+      "source": "media",
+      "title": "Patrick Stewart has died at age 86"
+     },
+     {
+      "source": "hn",
+      "title": "Patrick Stewart Is Dead"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 1,
+    "recent": 14,
+    "score": 21.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "patrick stewart",
+    "voices": 14,
+    "z": 14.0
+   },
+   {
+    "baseline": 100,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple Loop: MacBook U-Turn, iPhone Duo Problems, iPhone 18 Pro Sales"
+     },
+     {
+      "source": "media",
+      "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke."
+     },
+     {
+      "source": "media",
+      "title": "iPhone Duo Screen Crack Makes Surprise Apple Repair Price Even Worse"
+     }
+    ],
+    "expected": 7.78,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 34,
+    "score": 13.28,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iphone duo",
+    "voices": 25,
+    "z": 8.85
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90"
+     },
+     {
+      "source": "hn",
+      "title": "Walter Koenig, actor who played Chekov on original \"Star Trek\" series, dies"
+     },
+     {
+      "source": "hn",
+      "title": "Walter Koenig, the Russian Crewman Chekov on 'Star Trek,' Dies at 90"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "walter koenig",
+    "voices": 10,
+    "z": 10.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Aftermath of Spanish Train Crash Near Madrid"
+     },
+     {
+      "source": "media",
+      "title": "Spanish Train Crash Kills at Least 68 People South of Madrid"
+     },
+     {
+      "source": "hn",
+      "title": "Spanish minister refuses to resign over second major train crash on his watch"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "train crash",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "DoorDash Will Buy Instacart For $17 Billion"
+     },
+     {
+      "source": "media",
+      "title": "DoorDash Nears Deal to Buy Instacart in $17 Billion Deal"
+     },
+     {
+      "source": "media",
+      "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal, source says"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "buy instacart",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Lula's Brazil Election Win Deepens Latin America Stock Fund Collapse"
+     },
+     {
+      "source": "media",
+      "title": "Soybeans, Coffee, Sugar Slump as Brazil’s Election Hits Currency"
+     },
+     {
+      "source": "media",
+      "title": "Brazil Election: Lula Rallies Supporters for One Last Comeback"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 6.85,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "brazil election",
+    "voices": 4,
+    "z": 4.57
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Most Popular Halloween Costume Of 2026 Is Way Above Second Place"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: What is your halloween costume?"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: What would your Startup's Halloween costume be?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "halloween costume",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "GM to pay $220 million to settle allegations it violated drivers' privacy"
+     },
+     {
+      "source": "media",
+      "title": "GM to pay $220 million to resolve claims it sold driving habits data"
+     },
+     {
+      "source": "hn",
+      "title": "GM to pay $220M to settle allegations it violated drivers' privacy"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gm to pay",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "DoorDash to acquire Instacart for $17B"
+     },
+     {
+      "source": "hn",
+      "title": "DoorDash is acquiring Instacart for $17B"
+     },
+     {
+      "source": "hn",
+      "title": "DoorDash is buying Instacart for $17B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "instacart for 17b",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian independent newspaper Novaya Gazeta forced to close its doors"
+     },
+     {
+      "source": "hn",
+      "title": "Russia's largest independent paper Novaya Gazeta forced to close [video]"
+     },
+     {
+      "source": "hn",
+      "title": "A statement from Novaya Gazeta on the end of its existence"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "novaya gazeta",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Unilever flags price hikes as Iran war costs stack up"
+     },
+     {
+      "source": "media",
+      "title": "Food and household brands warn of more price hikes as Iran war costs bite"
+     },
+     {
+      "source": "media",
+      "title": "Maruti Plans More Price Hikes as Profit Drops 27% on High Costs"
+     }
+    ],
+    "expected": 0.7,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 4.95,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "price hikes",
+    "voices": 3,
+    "z": 3.3
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Congo Ebola outbreak kills more than 5,000"
+     },
+     {
+      "source": "media",
+      "title": "Congo's Ebola cases surpass 10,000 as fears grow of wider African spread"
+     },
+     {
+      "source": "media",
+      "title": "Congo Ebola Cases Top 10,000 as Violence Hits Health Workers"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "congo ebola",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "GeDefense TV – local-first security console for Android TV / Google TV"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: I made an open-source phone app that debloats your Google TV over Wi-Fi"
+     },
+     {
+      "source": "hn",
+      "title": "CleanYourTV : Debloat Any Android or Google TV over Wi-Fi"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 4.51,
+    "sources": [
+     "hn"
+    ],
+    "term": "google tv",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Finland launches criminal probe into land clearance for Google data centre"
+     },
+     {
+      "source": "hn",
+      "title": "Finland launches criminal investigation into Google's clearing of forest"
+     },
+     {
+      "source": "hn",
+      "title": "Finland launches criminal probe of suspected environ. damage at Google DC site"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "finland launches criminal",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Xreal Aura is a new wired headset powered by Android XR"
+     },
+     {
+      "source": "hn",
+      "title": "The first wired XR glasses powered by Android XR"
+     },
+     {
+      "source": "hn",
+      "title": "XReal Aura – Android XR Glasses"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 15,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "android xr",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "U.S. Names Helium Critical Material To Develop AI And Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "US designates helium as a critical material"
+     },
+     {
+      "source": "news",
+      "title": "Helium Added to U . S . Department of Energy Critical Material List"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "critical material",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System"
+     },
+     {
+      "source": "hn",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "dwarf planet",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices"
+     },
+     {
+      "source": "media",
+      "title": "OMV posts highest quarterly operating profit since 2022 as fuel prices soar"
+     },
+     {
+      "source": "media",
+      "title": "EU energy ministers discuss soaring fuel prices as winter looms"
+     }
+    ],
+    "expected": 0.78,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 3.63,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fuel prices",
+    "voices": 3,
+    "z": 2.42
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers"
+     },
+     {
+      "source": "hn",
+      "title": "Germany's Idle Nuclear Plants Eye New Life as AI Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia eyes converting old nuclear plants into AI data centers"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.52,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nuclear plants",
+    "voices": 3,
+    "z": 2.35
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Wrangler – Open-Source macOS Window Manager (Swift, Grid HUD, Auto-Tiling)"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Sunlight – the camera-based infinite canvas window manager for Mac"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Rapto – the missing window manager for macOS"
+     }
+    ],
+    "expected": 1.01,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "window manager",
+    "voices": 5,
+    "z": 2.81
+   },
+   {
+    "baseline": 25,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How The U.S. Is Removing Regulatory Hurdles To Increase Nuclear Power"
+     },
+     {
+      "source": "media",
+      "title": "Taiwan semiconductor industry group backs government review of nuclear power restart"
+     },
+     {
+      "source": "media",
+      "title": "Russia's Rosatom says it is in advanced talks to supply floating nuclear power plants to African countries"
+     }
+    ],
+    "expected": 1.94,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 5,
+    "score": 2.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nuclear power",
+    "voices": 4,
+    "z": 1.78
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk"
+     },
+     {
+      "source": "hn",
+      "title": "Altman says 'quite terrible' for your PCs to have RAM"
+     },
+     {
+      "source": "hn",
+      "title": "Sam Altman says the chip supply chain's invisible hand failing and DRAM is why"
+     }
+    ],
+    "expected": 1.32,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 2.64,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "altman says",
+    "voices": 3,
+    "z": 1.76
+   },
+   {
+    "baseline": 81,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The U.S. Is Offering $237 Million In First Grid Supply Chain Program"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Prospectus Documents Tremendous Supply Chain Risks"
+     },
+     {
+      "source": "hn",
+      "title": "Sam Altman says the chip supply chain's invisible hand failing and DRAM is why"
+     }
+    ],
+    "expected": 6.3,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 11,
+    "score": 2.61,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "supply chain",
+    "voices": 9,
+    "z": 1.74
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Have astronomers discovered the first moon outside of our solar system?"
+     },
+     {
+      "source": "hn",
+      "title": "Dead Star Offers a Glimpse into Our Solar System's Future"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System"
+     }
+    ],
+    "expected": 1.71,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 2.6,
+    "sources": [
+     "hn"
+    ],
+    "term": "solar system",
+    "voices": 5,
+    "z": 2.6
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders"
+     },
+     {
+      "source": "media",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen"
+     },
+     {
+      "source": "media",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro"
+     }
+    ],
+    "expected": 1.63,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 31,
+    "score": 27.15,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "macbook pro",
+    "voices": 21,
+    "z": 18.1
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini"
+     },
+     {
+      "source": "media",
+      "title": "Hands-on with the new OLED iPad Mini"
+     },
+     {
+      "source": "media",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 10,
+    "score": 13.74,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipad mini",
+    "voices": 8,
+    "z": 9.16
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Lloyds shares drop on muted third quarter results as higher taxes loom"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "ServiceNow Shares Drop 19% After Earnings As SaaSpocalypse Fears Persist"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "shares drop",
+    "voices": 3,
+    "z": 4.74
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Chief Seen as Target of Chinese Spy Plot"
+     },
+     {
+      "source": "hn",
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chinese spy",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip"
+     },
+     {
+      "source": "media",
+      "title": "Apple updates the iPad Mini with a larger OLED display"
+     },
+     {
+      "source": "hn",
+      "title": "Apple announces touchscreen MacBook Pro with OLED display"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "oled display",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information"
+     },
+     {
+      "source": "media",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Reportedly Targeted By Suspected Chinese Informant"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 3.98,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia ceo",
+    "voices": 4,
+    "z": 2.65
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform"
+     },
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Startup Classiq in Quantum Computing Push"
+     },
+     {
+      "source": "hn",
+      "title": "Intel to Acquire Classiq to Create a Full-Stack Quantum Computing Platform"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 7,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "intel to acquire",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "Intel shares tumble after hours, hit by chip supply constraints, big cash burn"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Plunge More Than 20% on Weak PC-Market Outlook"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "media"
+    ],
+    "term": "intel shares",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Caterpillar sticks to annual sales forecast amid cost pressures, shares dive"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "Eli Lilly Shares Surge on Raised Sales Forecast"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "media"
+    ],
+    "term": "sales forecast",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     },
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     },
+     {
+      "source": "news",
+      "title": "Guide to the 2026 New Zealand election"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "news"
+    ],
+    "term": "zealand election",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)"
+     },
+     {
+      "source": "arxiv",
+      "title": "Elucidating the Design Space of LM Data Attribution"
+     },
+     {
+      "source": "arxiv",
+      "title": "PaFeDSE: Pareto-Feedback-Guided Microarchitecture Design Space Exploration for Efficient Pareto Search"
+     }
+    ],
+    "expected": 0.93,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 11,
+    "recent": 3,
+    "score": 2.23,
+    "sources": [
+     "arxiv",
+     "media"
+    ],
+    "term": "design space",
+    "voices": 3,
+    "z": 1.49
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Bolt E4B 4GB"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super and Lightning"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Transcribe"
+     }
+    ],
+    "expected": 0.93,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 12,
+    "recent": 4,
+    "score": 2.21,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia nemotron",
+    "voices": 4,
+    "z": 2.21
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Scaling Autonomous Root Cause Analysis For Regression Triage"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Kwatch – one Kubernetes alert with the root cause, not fifty"
+     },
+     {
+      "source": "arxiv",
+      "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents"
+     }
+    ],
+    "expected": 1.32,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 13,
+    "recent": 3,
+    "score": 2.2,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "root cause",
+    "voices": 3,
+    "z": 1.1
+   },
+   {
+    "baseline": 57,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SK Hynix Posts Record Profit Amid AI Rush"
+     },
+     {
+      "source": "media",
+      "title": "SK Hynix Profits Surge, Fed Decision on Deck"
+     },
+     {
+      "source": "media",
+      "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade"
+     }
+    ],
+    "expected": 4.43,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 14,
+    "recent": 7,
+    "score": 2.2,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "sk hynix",
+    "voices": 5,
+    "z": 1.1
+   }
+  ]
+ },
+ "recent_days": 7
+}

@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-10-31",
  "docs_baseline": 117284,
- "docs_recent": 9490,
+ "docs_recent": 9502,
  "fields": {
   "ai": [
    {
@@ -643,6 +643,36 @@
     "examples": [
      {
       "source": "media",
+      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack"
+     },
+     {
+      "source": "hn",
+      "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack"
+     },
+     {
+      "source": "hn",
+      "title": "The largest theft in history: DPRK behind the $6.4B Binance hack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "binance hack",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "The Most Popular Halloween Costume Of 2026 Is Way Above Second Place"
      },
      {
@@ -657,7 +687,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -687,7 +717,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -717,7 +747,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 9,
+    "rank": 10,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -747,7 +777,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 4,
     "score": 5.67,
     "sources": [
@@ -777,7 +807,7 @@
     "expected": 0.7,
     "field": "other",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 5,
     "score": 4.95,
     "sources": [
@@ -807,7 +837,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 4,
     "score": 4.83,
     "sources": [
@@ -837,7 +867,7 @@
     "expected": 0.16,
     "field": "other",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 5,
     "score": 4.51,
     "sources": [
@@ -866,36 +896,6 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 14,
-    "recent": 3,
-    "score": 4.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "finland launches criminal",
-    "voices": 3,
-    "z": 3.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Xreal Aura is a new wired headset powered by Android XR"
-     },
-     {
-      "source": "hn",
-      "title": "The first wired XR glasses powered by Android XR"
-     },
-     {
-      "source": "hn",
-      "title": "XReal Aura – Android XR Glasses"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
     "rank": 15,
     "recent": 3,
     "score": 4.5,
@@ -903,7 +903,7 @@
      "hn",
      "media"
     ],
-    "term": "android xr",
+    "term": "finland launches criminal",
     "voices": 3,
     "z": 3.0
    }

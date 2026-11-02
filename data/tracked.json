@@ -77,12 +77,6 @@
   "origin": "auto",
   "score_at_add": 4.5
  },
- "homepod mini": {
-  "added": "2026-10-14",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 7.5
- },
  "ipad mini": {
   "added": "2026-10-27",
   "field": "semiconductor",
@@ -124,6 +118,12 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 6.85
+ },
+ "patrick stewart": {
+  "added": "2026-11-02",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 22.5
  },
  "report says": {
   "added": "2026-10-20",

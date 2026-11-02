@@ -407,7 +407,7 @@
      },
      {
       "source": "media",
-      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports"
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30)"
      },
      {
       "source": "media",
@@ -1390,6 +1390,36 @@
     "z": 2.65
    },
    {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Intel on course for worst day ever, triggers global chip rout"
+     },
+     {
+      "source": "hn",
+      "title": "Intel plunges 25%, triggers global chip rout on bleak outlook"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip rout",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -1408,7 +1438,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 7,
+    "rank": 8,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1437,7 +1467,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 8,
+    "rank": 9,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1466,7 +1496,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 9,
+    "rank": 10,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1495,7 +1525,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1524,7 +1554,7 @@
     "expected": 1.4,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 5,
     "score": 2.32,
     "sources": [
@@ -1553,7 +1583,7 @@
     "expected": 0.93,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 3,
     "score": 2.23,
     "sources": [
@@ -1583,7 +1613,7 @@
     "expected": 0.93,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 4,
     "score": 2.21,
     "sources": [
@@ -1612,7 +1642,7 @@
     "expected": 1.32,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 3,
     "score": 2.2,
     "sources": [
@@ -1622,37 +1652,6 @@
     ],
     "term": "root cause",
     "voices": 3,
-    "z": 1.1
-   },
-   {
-    "baseline": 57,
-    "examples": [
-     {
-      "source": "media",
-      "title": "SK Hynix Posts Record Profit Amid AI Rush"
-     },
-     {
-      "source": "media",
-      "title": "SK Hynix Profits Surge, Fed Decision on Deck"
-     },
-     {
-      "source": "media",
-      "title": "SK Hynix Profit Beat Adds Fuel to AI Rebound Trade"
-     }
-    ],
-    "expected": 4.43,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 15,
-    "recent": 7,
-    "score": 2.2,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "sk hynix",
-    "voices": 5,
     "z": 1.1
    }
   ]

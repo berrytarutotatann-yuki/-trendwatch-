@@ -35,12 +35,6 @@
   "origin": "auto",
   "score_at_add": 10.0
  },
- "drones hit": {
-  "added": "2026-10-14",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 7.79
- },
  "dwarf planet": {
   "added": "2026-10-30",
   "field": "power",
@@ -149,23 +143,29 @@
   "origin": "auto",
   "score_at_add": 36.0
  },
+ "shares drop": {
+  "added": "2026-11-03",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 7.11
+ },
  "spacex and tesla": {
   "added": "2026-10-22",
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 8.16
  },
- "stocks slide": {
-  "added": "2026-10-15",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 5.36
- },
  "strikes on russian": {
   "added": "2026-10-23",
   "field": "power",
   "origin": "auto",
   "score_at_add": 31.88
+ },
+ "tech selloff": {
+  "added": "2026-11-03",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 9.14
  },
  "tesla roadster": {
   "added": "2026-10-19",

@@ -1,0 +1,1507 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-02",
+ "docs_baseline": 116966,
+ "docs_recent": 9026,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 41,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Robinhood in ‘Food Fight’ for Anthropic IPO Retail Allocation"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Prospectus Documents Tremendous Supply Chain Risks"
+     }
+    ],
+    "expected": 3.19,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 25,
+    "score": 15.99,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 12,
+    "z": 10.66
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook"
+     },
+     {
+      "source": "media",
+      "title": "Tech Selloff Could Ease Pressure on the Fed"
+     },
+     {
+      "source": "media",
+      "title": "Cracks in AI Trade Power Sharp Tech Selloff"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech selloff",
+    "voices": 4,
+    "z": 6.09
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries"
+     },
+     {
+      "source": "media",
+      "title": "Google's Nvidia chip challenge boosts cloud sales, crimps cash flow"
+     },
+     {
+      "source": "media",
+      "title": "T-Mobile raises annual free cash flow forecast as premium plans gain traction"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 9,
+    "score": 8.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cash flow",
+    "voices": 3,
+    "z": 5.98
+   },
+   {
+    "baseline": 27,
+    "examples": [
+     {
+      "source": "media",
+      "title": "North Korea linked to massive Binance crypto heist"
+     },
+     {
+      "source": "media",
+      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack"
+     },
+     {
+      "source": "media",
+      "title": "North Korea says defence research institutes tested major weapon system"
+     }
+    ],
+    "expected": 2.1,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 12,
+    "score": 8.43,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "north korea",
+    "voices": 11,
+    "z": 5.62
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?"
+     },
+     {
+      "source": "hn",
+      "title": "The Exponential Time Hypothesis: How the (dis-)proof works [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "exponential time hypothesis",
+    "voices": 6,
+    "z": 5.44
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Copper Recovers as Easing Tech Rout, Lower Oil Calm Growth Fears"
+     },
+     {
+      "source": "media",
+      "title": "After Tech Rout, Investors Gird for More Wild Days for Stocks"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30)"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech rout",
+    "voices": 3,
+    "z": 5.19
+   },
+   {
+    "baseline": 43,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending"
+     },
+     {
+      "source": "media",
+      "title": "Cracks are emerging in the AI spending boom"
+     },
+     {
+      "source": "media",
+      "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen"
+     }
+    ],
+    "expected": 3.34,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 14,
+    "score": 7.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai spending",
+    "voices": 6,
+    "z": 5.11
+   },
+   {
+    "baseline": 62,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Communications firm Public Policy buys Reevemark for up to $80 million, sources say"
+     },
+     {
+      "source": "media",
+      "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say"
+     }
+    ],
+    "expected": 4.82,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 17,
+    "score": 7.57,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "sources say",
+    "voices": 3,
+    "z": 5.05
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cursor says up to 5,000 users affected by tampered Claude Code extension"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Janet LSP with VS Code Extension"
+     },
+     {
+      "source": "hn",
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 7.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "code extension",
+    "voices": 6,
+    "z": 4.97
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Romania Raises €4.5 Billion in New Government’s First Bond Sale"
+     },
+     {
+      "source": "media",
+      "title": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt"
+     },
+     {
+      "source": "media",
+      "title": "Japan 2-Year Bond Sale Sees Firm Demand Before BOJ Decision"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 7,
+    "score": 6.77,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bond sale",
+    "voices": 4,
+    "z": 4.51
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant"
+     },
+     {
+      "source": "hn",
+      "title": "Bcbsa Analysis How AI Coding Tools Affect Healthcare Costs"
+     },
+     {
+      "source": "hn",
+      "title": "How the built-in browsers in five AI coding tools broke basic browser rules"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 6,
+    "score": 6.1,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "coding tools",
+    "voices": 6,
+    "z": 4.06
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years"
+     },
+     {
+      "source": "media",
+      "title": "Amazon’s Ailing Stock Needs Booming Cloud Growth to Revive Rally"
+     },
+     {
+      "source": "media",
+      "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 12,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "media"
+    ],
+    "term": "cloud growth",
+    "voices": 4,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30)"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI reportedly lowers funding target for new round"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI slashes funding target by $10B as tech anxieties mount"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "funding target",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT"
+     },
+     {
+      "source": "media",
+      "title": "Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion"
+     },
+     {
+      "source": "media",
+      "title": "Thrive Holdings to Buy ADT Security for $15.3 Billion in Cash"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "thrive holdings",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Weil Gotshal Private Equity Partner Blakey to Jump to Simpson"
+     },
+     {
+      "source": "media",
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal"
+     },
+     {
+      "source": "media",
+      "title": "Legal AI Startup Bids for Assets of Fallen Law Firm Weil Gotshal"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "weil gotshal",
+    "voices": 4,
+    "z": 4.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident"
+     },
+     {
+      "source": "hn",
+      "title": "Chainalysis security incident with customers PII compromised"
+     },
+     {
+      "source": "hn",
+      "title": "Tell HN: Warp.dev Security Incident"
+     }
+    ],
+    "expected": 1.63,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 13,
+    "score": 10.51,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "security incident",
+    "voices": 13,
+    "z": 7.0
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "New Study Reveals Health, Economic Costs Of Daylight Saving Time"
+     },
+     {
+      "source": "media",
+      "title": "The Political Debate on Daylight Saving Time"
+     },
+     {
+      "source": "media",
+      "title": "Apple Watch Showing The Wrong Time After Daylight Saving? How To Fix It"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "daylight saving",
+    "voices": 6,
+    "z": 6.99
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Aftermath of Spanish Train Crash Near Madrid"
+     },
+     {
+      "source": "media",
+      "title": "Spanish Train Crash Kills at Least 68 People South of Madrid"
+     },
+     {
+      "source": "hn",
+      "title": "Spanish minister refuses to resign over second major train crash on his watch"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "train crash",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack"
+     },
+     {
+      "source": "hn",
+      "title": "Binance Hack: Tracing the $6.4B Theft to North Korea"
+     },
+     {
+      "source": "hn",
+      "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "binance hack",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "NYC Marathon Winner Andreas Almgren on Debut Victory"
+     },
+     {
+      "source": "media",
+      "title": "The NYC Marathon Has A Net Zero Goal. Can Global Sports Keep Pace?"
+     },
+     {
+      "source": "media",
+      "title": "New Balance CEO Joe Preston on NYC Marathon Partnership"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nyc marathon",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Say Hello To ED138, A Massive New World Beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers make startling discovery of a possible dwarf planet beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "beyond pluto",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX Is in Talks With Boost Mobile to Expand Wireless Coverage"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "boost mobile",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "GM to pay $220 million to settle allegations it violated drivers' privacy"
+     },
+     {
+      "source": "media",
+      "title": "GM to pay $220 million to resolve claims it sold driving habits data"
+     },
+     {
+      "source": "hn",
+      "title": "GM to pay $220M to settle allegations it violated drivers' privacy"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gm to pay",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "DoorDash to acquire Instacart for $17B"
+     },
+     {
+      "source": "hn",
+      "title": "DoorDash is acquiring Instacart for $17B"
+     },
+     {
+      "source": "hn",
+      "title": "DoorDash is buying Instacart for $17B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "instacart for 17b",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian independent newspaper Novaya Gazeta forced to close its doors"
+     },
+     {
+      "source": "hn",
+      "title": "Russia's largest independent paper Novaya Gazeta forced to close [video]"
+     },
+     {
+      "source": "hn",
+      "title": "A statement from Novaya Gazeta on the end of its existence"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "novaya gazeta",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini"
+     },
+     {
+      "source": "media",
+      "title": "Hands-on with the new OLED iPad Mini"
+     },
+     {
+      "source": "hn",
+      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea"
+     }
+    ],
+    "expected": 0.62,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 5.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipad mini",
+    "voices": 4,
+    "z": 3.44
+   },
+   {
+    "baseline": 27,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Star Trek Writers' Guides. (2024)"
+     },
+     {
+      "source": "hn",
+      "title": "Are We All Too Cynical for Star Trek?"
+     },
+     {
+      "source": "hn",
+      "title": "Patrick Stewart, legendary actor of 'Star Trek' and 'X-Men' fame, dies at 86"
+     }
+    ],
+    "expected": 2.1,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 11,
+    "score": 5.05,
+    "sources": [
+     "hn"
+    ],
+    "term": "star trek",
+    "voices": 9,
+    "z": 5.05
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Binance resumes customer withdrawals after record $6.3B hack"
+     },
+     {
+      "source": "hn",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3B hack"
+     },
+     {
+      "source": "hn",
+      "title": "How Binance's $6.3B Hack Went Down"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "6.3b hack",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Congo Ebola outbreak kills more than 5,000"
+     },
+     {
+      "source": "media",
+      "title": "Congo's Ebola cases surpass 10,000 as fears grow of wider African spread"
+     },
+     {
+      "source": "media",
+      "title": "Congo Ebola Cases Top 10,000 as Violence Hits Health Workers"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "congo ebola",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Estimated $6.3 Billion Hacked in Binance Security Breach"
+     },
+     {
+      "source": "media",
+      "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach"
+     },
+     {
+      "source": "media",
+      "title": "Polymarket resumes trading after third-party security breach, to reimburse users"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "security breach",
+    "voices": 4,
+    "z": 3.06
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Patrick Stewart’s Death Shows Dementia Is More Than Memory Loss"
+     },
+     {
+      "source": "media",
+      "title": "Patrick Stewart has died at age 86"
+     },
+     {
+      "source": "hn",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 17,
+    "score": 25.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "patrick stewart",
+    "voices": 17,
+    "z": 17.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Astronomers make startling discovery of a possible dwarf planet beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System"
+     },
+     {
+      "source": "hn",
+      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "dwarf planet",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ryanair says it might freeze pay to offset high fuel prices"
+     },
+     {
+      "source": "media",
+      "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices"
+     },
+     {
+      "source": "media",
+      "title": "OMV posts highest quarterly operating profit since 2022 as fuel prices soar"
+     }
+    ],
+    "expected": 0.78,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 6,
+    "score": 5.88,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fuel prices",
+    "voices": 4,
+    "z": 3.92
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "November’s Night Sky Brings A Supermoon And A Rare Mars-Jupiter Meetup"
+     },
+     {
+      "source": "hn",
+      "title": "Could Orbital Data Centers Ruin the Night Sky?"
+     },
+     {
+      "source": "hn",
+      "title": "A project that visualizes the night sky using ASCII characters"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 3.32,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "night sky",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Ukraine, Russia Hit by Hacks Sending Fake Nuclear Attack Alerts"
+     },
+     {
+      "source": "hn",
+      "title": "'I can't sleep': Terror spreads after Trump insider's nuclear attack warning"
+     },
+     {
+      "source": "hn",
+      "title": "Fake warnings of nuclear attack posted on Russian and Ukrainian emergency apps"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nuclear attack",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Finland launches criminal probe into land clearance for Google data centre"
+     },
+     {
+      "source": "hn",
+      "title": "Google's data center construction project recorded 143 regulatory violations"
+     },
+     {
+      "source": "hn",
+      "title": "Hermantown approves controversial Google Data Center during late night meeting"
+     }
+    ],
+    "expected": 0.62,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 2.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "google data",
+    "voices": 3,
+    "z": 1.87
+   },
+   {
+    "baseline": 24,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How The U.S. Is Removing Regulatory Hurdles To Increase Nuclear Power"
+     },
+     {
+      "source": "media",
+      "title": "Taiwan semiconductor industry group backs government review of nuclear power restart"
+     },
+     {
+      "source": "media",
+      "title": "Russia's Rosatom says it is in advanced talks to supply floating nuclear power plants to African countries"
+     }
+    ],
+    "expected": 1.87,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 5,
+    "score": 2.78,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nuclear power",
+    "voices": 4,
+    "z": 1.85
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Newly Discovered Trail of Cosmic Debris – How End of the Solar System Could Look"
+     },
+     {
+      "source": "hn",
+      "title": "Have astronomers discovered the first moon outside of our solar system?"
+     },
+     {
+      "source": "hn",
+      "title": "Dead Star Offers a Glimpse into Our Solar System's Future"
+     }
+    ],
+    "expected": 1.71,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 2.6,
+    "sources": [
+     "hn"
+    ],
+    "term": "solar system",
+    "voices": 6,
+    "z": 2.6
+   },
+   {
+    "baseline": 56,
+    "examples": [
+     {
+      "source": "media",
+      "title": "TotalEnergies says Iran war could accelerate energy transition"
+     },
+     {
+      "source": "media",
+      "title": "ANZ Raises Oil Price Forecast as Market Tightens on Iran War"
+     },
+     {
+      "source": "media",
+      "title": "Kia Shares Plunge as Cost Surge Linked to Iran War Hits Profit"
+     }
+    ],
+    "expected": 4.36,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 8,
+    "score": 2.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iran war",
+    "voices": 3,
+    "z": 1.57
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: LanesMac – A scrolling tiling window manager for macOS"
+     },
+     {
+      "source": "hn",
+      "title": "Wrangler – Open-Source macOS Window Manager (Swift, Grid HUD, Auto-Tiling)"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Sunlight – the camera-based infinite canvas window manager for Mac"
+     }
+    ],
+    "expected": 1.09,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 2.01,
+    "sources": [
+     "hn"
+    ],
+    "term": "window manager",
+    "voices": 4,
+    "z": 2.01
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders"
+     },
+     {
+      "source": "media",
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen"
+     },
+     {
+      "source": "media",
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro"
+     }
+    ],
+    "expected": 1.71,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 31,
+    "score": 26.68,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "macbook pro",
+    "voices": 22,
+    "z": 17.79
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Lloyds shares drop on muted third quarter results as higher taxes loom"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "ServiceNow Shares Drop 19% After Earnings As SaaSpocalypse Fears Persist"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "shares drop",
+    "voices": 3,
+    "z": 4.74
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Chief Seen as Target of Chinese Spy Plot"
+     },
+     {
+      "source": "hn",
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chinese spy",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Co-Optimizing Access Points Improves Analog Placement (UT Austin)"
+     },
+     {
+      "source": "arxiv",
+      "title": "LAMP: LLM-Driven Analog Placement through Adaptive Tool Composition"
+     },
+     {
+      "source": "arxiv",
+      "title": "APPlace: Co-Optimizing Device Locations and Access Points for Routing-Aware Analog Placement"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 4,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "arxiv",
+     "media"
+    ],
+    "term": "analog placement",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information"
+     },
+     {
+      "source": "media",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Reportedly Targeted By Suspected Chinese Informant"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 3.98,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia ceo",
+    "voices": 4,
+    "z": 2.65
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Intel on course for worst day ever, triggers global chip rout"
+     },
+     {
+      "source": "hn",
+      "title": "Intel plunges 25%, triggers global chip rout on bleak outlook"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip rout",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "Intel shares tumble after hours, hit by chip supply constraints, big cash burn"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Plunge More Than 20% on Weak PC-Market Outlook"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "media"
+    ],
+    "term": "intel shares",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Caterpillar sticks to annual sales forecast amid cost pressures, shares dive"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "Eli Lilly Shares Surge on Raised Sales Forecast"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "media"
+    ],
+    "term": "sales forecast",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 18,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Vela, a New Linux Desktop Environment"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Undertone – synced lyrics and beat visualizer on Linux's desktop layer"
+     },
+     {
+      "source": "hn",
+      "title": "Who needs VMs? Run systemd and full Linux desktop apps in gVisor"
+     }
+    ],
+    "expected": 1.4,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 5,
+    "score": 2.32,
+    "sources": [
+     "hn"
+    ],
+    "term": "linux desktop",
+    "voices": 5,
+    "z": 2.32
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Bolt E4B 4GB"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Super and Lightning"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Nemotron 3.5 Transcribe"
+     }
+    ],
+    "expected": 0.93,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 2.21,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia nemotron",
+    "voices": 4,
+    "z": 2.21
+   }
+  ]
+ },
+ "recent_days": 7
+}

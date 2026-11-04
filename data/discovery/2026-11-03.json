@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-03",
  "docs_baseline": 116179,
- "docs_recent": 8704,
+ "docs_recent": 8714,
  "fields": {
   "ai": [
    {
@@ -67,6 +67,36 @@
     "z": 6.76
    },
    {
+    "baseline": 36,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AMD forecast eases AI spending fears as data-center sales surge"
+     },
+     {
+      "source": "media",
+      "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending"
+     },
+     {
+      "source": "media",
+      "title": "Cracks are emerging in the AI spending boom"
+     }
+    ],
+    "expected": 2.8,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 15,
+    "score": 9.39,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai spending",
+    "voices": 6,
+    "z": 6.26
+   },
+   {
     "baseline": 3,
     "examples": [
      {
@@ -85,7 +115,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 7,
     "score": 9.14,
     "sources": [
@@ -115,7 +145,7 @@
     "expected": 0.31,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 7,
     "score": 8.76,
     "sources": [
@@ -145,7 +175,7 @@
     "expected": 0.93,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 9,
     "score": 8.7,
     "sources": [
@@ -155,36 +185,6 @@
     "term": "cash flow",
     "voices": 4,
     "z": 5.8
-   },
-   {
-    "baseline": 36,
-    "examples": [
-     {
-      "source": "media",
-      "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending"
-     },
-     {
-      "source": "media",
-      "title": "Cracks are emerging in the AI spending boom"
-     },
-     {
-      "source": "media",
-      "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen"
-     }
-    ],
-    "expected": 2.8,
-    "field": "ai",
-    "is_new": false,
-    "rank": 6,
-    "recent": 14,
-    "score": 8.62,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai spending",
-    "voices": 6,
-    "z": 5.75
    },
    {
     "baseline": 3,

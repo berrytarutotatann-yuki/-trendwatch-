@@ -45734,17 +45734,6 @@
    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation",
    "voice": "techcrunch"
   },
-  "media:6b58f40f927e08788473b291": {
-   "date": "2026-07-06",
-   "fields": [],
-   "id": "media:6b58f40f927e08788473b291",
-   "published": "2026-07-06T09:00:22+00:00",
-   "publisher": "bloomberg",
-   "source": "media",
-   "title": "Will SpaceX and Tesla Merge? Why Elon Musk Wants to Combine His Companies",
-   "url": "https://bloomberg.com/news/articles/2026-07-06/will-spacex-and-tesla-merge-why-elon-musk-may-combine-his-companies",
-   "voice": "bloomberg"
-  },
   "media:6b6a6d960c63dca6e5d78dea": {
    "date": "2026-10-10",
    "fields": [],
@@ -108811,7 +108800,6 @@
   "bloomberg": {
    "checked_at": "2026-11-03T23:29:06.191379+00:00",
    "coverage": {
-    "2026-07-06": "partial",
     "2026-07-07": "covered",
     "2026-07-08": "covered",
     "2026-07-09": "covered",

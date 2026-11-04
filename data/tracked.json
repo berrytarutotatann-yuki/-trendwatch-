@@ -41,23 +41,17 @@
   "origin": "auto",
   "score_at_add": 6.0
  },
- "epic games": {
-  "added": "2026-10-15",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 15.89
- },
  "export controls": {
   "added": "2026-10-21",
   "field": "ai",
   "origin": "auto",
   "score_at_add": 11.04
  },
- "fitbit edge": {
-  "added": "2026-10-17",
+ "fuel prices": {
+  "added": "2026-11-04",
   "field": "power",
   "origin": "auto",
-  "score_at_add": 6.14
+  "score_at_add": 5.88
  },
  "google cloud": {
   "added": "2026-10-22",
@@ -106,6 +100,12 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 7.98
+ },
+ "north korea": {
+  "added": "2026-11-04",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 10.14
  },
  "nvidia rtx": {
   "added": "2026-10-21",
@@ -173,10 +173,10 @@
   "origin": "auto",
   "score_at_add": 27.1
  },
- "ukraine drone": {
-  "added": "2026-10-16",
-  "field": "power",
+ "third quarter": {
+  "added": "2026-11-04",
+  "field": "semiconductor",
   "origin": "auto",
-  "score_at_add": 7.14
+  "score_at_add": 6.33
  }
 }

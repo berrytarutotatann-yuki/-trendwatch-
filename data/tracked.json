@@ -11,12 +11,6 @@
   "origin": "auto",
   "score_at_add": 16.68
  },
- "apple homeview": {
-  "added": "2026-10-18",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 18.0
- },
  "critical material": {
   "added": "2026-10-30",
   "field": "power",
@@ -28,6 +22,12 @@
   "field": "ai",
   "origin": "auto",
   "score_at_add": 15.0
+ },
+ "democrats win": {
+  "added": "2026-11-05",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 7.5
  },
  "drones downed": {
   "added": "2026-10-29",
@@ -41,11 +41,23 @@
   "origin": "auto",
   "score_at_add": 6.0
  },
+ "election results": {
+  "added": "2026-11-05",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 5.87
+ },
  "export controls": {
   "added": "2026-10-21",
   "field": "ai",
   "origin": "auto",
   "score_at_add": 11.04
+ },
+ "fake job": {
+  "added": "2026-11-05",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 10.49
  },
  "fuel prices": {
   "added": "2026-11-04",
@@ -124,18 +136,6 @@
   "field": "power",
   "origin": "auto",
   "score_at_add": 6.33
- },
- "russian bot": {
-  "added": "2026-10-19",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 7.5
- },
- "russian bots": {
-  "added": "2026-10-17",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 7.5
  },
  "russian data centers": {
   "added": "2026-10-24",

@@ -1,0 +1,1662 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-04",
+ "docs_baseline": 116077,
+ "docs_recent": 8607,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 26,
+    "examples": [
+     {
+      "source": "media",
+      "title": "North Korea conducts strategic cruise missile test with dispersal warhead, KCNA says"
+     },
+     {
+      "source": "media",
+      "title": "North Korea linked to massive Binance crypto heist"
+     },
+     {
+      "source": "media",
+      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack"
+     }
+    ],
+    "expected": 2.02,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 15,
+    "score": 11.2,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "north korea",
+    "voices": 13,
+    "z": 7.47
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist"
+     },
+     {
+      "source": "hn",
+      "title": "Binance hackers used fake job interviews in record heist"
+     },
+     {
+      "source": "hn",
+      "title": "North Korean fake job interview led to $6.3B Binance heist"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fake job",
+    "voices": 8,
+    "z": 6.99
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cursor says up to 5,000 users affected by tampered Claude Code extension"
+     },
+     {
+      "source": "hn",
+      "title": "What a Compromised VS Code Extension Could Do Before You Write a Line of Code"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Janet LSP with VS Code Extension"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "code extension",
+    "voices": 7,
+    "z": 6.09
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook"
+     },
+     {
+      "source": "media",
+      "title": "Tech Selloff Could Ease Pressure on the Fed"
+     },
+     {
+      "source": "media",
+      "title": "Cracks in AI Trade Power Sharp Tech Selloff"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech selloff",
+    "voices": 4,
+    "z": 6.09
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Blue Wave Could Engulf Data Center Industry"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk’s Political Fortunes Run Into a Blue Wave"
+     },
+     {
+      "source": "media",
+      "title": "Six Ways the Blue Wave Could Shake Up AI, Crypto and Tech"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "blue wave",
+    "voices": 4,
+    "z": 5.7
+   },
+   {
+    "baseline": 38,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom"
+     },
+     {
+      "source": "media",
+      "title": "AMD forecast eases AI spending fears as data-center sales surge"
+     },
+     {
+      "source": "media",
+      "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending"
+     }
+    ],
+    "expected": 2.96,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 14,
+    "score": 8.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai spending",
+    "voices": 7,
+    "z": 5.55
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit"
+     },
+     {
+      "source": "media",
+      "title": "Midterm Election Trading on Kalshi and Polymarket Lags Prediction Market Boom"
+     },
+     {
+      "source": "media",
+      "title": "Your Brain On Ballots: A Survival Guide For Midterm Election Night"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 6,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "midterm election",
+    "voices": 5,
+    "z": 5.19
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Copper Recovers as Easing Tech Rout, Lower Oil Calm Growth Fears"
+     },
+     {
+      "source": "media",
+      "title": "After Tech Rout, Investors Gird for More Wild Days for Stocks"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30)"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech rout",
+    "voices": 3,
+    "z": 5.19
+   },
+   {
+    "baseline": 26,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Big Tech Stocks Soar as Traders Bet Democrats Will Slow AI Spend"
+     },
+     {
+      "source": "media",
+      "title": "Tech Stocks Drive S&P 500 Higher With Midterm Vote Underway"
+     },
+     {
+      "source": "media",
+      "title": "US Tech Stocks Enter Correction on AI and Midterm Election Risks"
+     }
+    ],
+    "expected": 2.02,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 11,
+    "score": 7.75,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech stocks",
+    "voices": 6,
+    "z": 5.16
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist"
+     },
+     {
+      "source": "media",
+      "title": "Binance Says Hackers Used Bogus Job Interview and AI Tool"
+     },
+     {
+      "source": "media",
+      "title": "Binance says $6.3B Hacked in Crypto Heist"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "binance says",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Copper Swings as Traders Weigh Midterm Results and Weaker Dollar"
+     },
+     {
+      "source": "media",
+      "title": "Japanese Stocks Sink as US Midterm Results Hit Tech Shares"
+     },
+     {
+      "source": "media",
+      "title": "Stock-Market Gains Are Weakest After Midterm Results Like These"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "midterm results",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 54,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Robinhood in ‘Food Fight’ for Anthropic IPO Retail Allocation"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Prospectus Documents Tremendous Supply Chain Risks"
+     }
+    ],
+    "expected": 4.2,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 15,
+    "score": 7.1,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 10,
+    "z": 4.74
+   },
+   {
+    "baseline": 56,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’"
+     },
+     {
+      "source": "media",
+      "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE"
+     },
+     {
+      "source": "media",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop"
+     }
+    ],
+    "expected": 4.36,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 15,
+    "score": 6.9,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "sam altman",
+    "voices": 13,
+    "z": 4.6
+   },
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Top takeaways from the US midterm elections"
+     },
+     {
+      "source": "media",
+      "title": "Midterm elections 2026: all the news"
+     },
+     {
+      "source": "media",
+      "title": "Sectors bracing for a pivot as US midterm elections loom"
+     }
+    ],
+    "expected": 1.56,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 8,
+    "score": 6.05,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "midterm elections",
+    "voices": 6,
+    "z": 4.03
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30)"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI reportedly lowers funding target for new round"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI slashes funding target by $10B as tech anxieties mount"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "funding target",
+    "voices": 4,
+    "z": 4.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "New Study Reveals Health, Economic Costs Of Daylight Saving Time"
+     },
+     {
+      "source": "media",
+      "title": "The Political Debate on Daylight Saving Time"
+     },
+     {
+      "source": "media",
+      "title": "Apple Watch Showing The Wrong Time After Daylight Saving? How To Fix It"
+     }
+    ],
+    "expected": 0.23,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "daylight saving",
+    "voices": 6,
+    "z": 6.99
+   },
+   {
+    "baseline": 24,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident"
+     },
+     {
+      "source": "hn",
+      "title": "Security Incident Post Mortem"
+     },
+     {
+      "source": "hn",
+      "title": "Binance security incident initial findings"
+     }
+    ],
+    "expected": 1.87,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 13,
+    "score": 9.86,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "security incident",
+    "voices": 13,
+    "z": 6.58
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack"
+     },
+     {
+      "source": "hn",
+      "title": "Binance hack> need better software integrity verification"
+     },
+     {
+      "source": "hn",
+      "title": "Binance Hack: Tracing the $6.4B Theft to North Korea"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "binance hack",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist"
+     },
+     {
+      "source": "hn",
+      "title": "The record $6.3B Binance heist started with a fake Homebrew install on Mac"
+     },
+     {
+      "source": "hn",
+      "title": "North Korean fake job interview led to $6.3B Binance heist"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "6.3b binance",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Defense Stocks in US, Europe Drop After Democrats Sweep Midterms"
+     },
+     {
+      "source": "media",
+      "title": "European shares jump over 1% after Democrats sweep US Congress, Novo Nordisk surges"
+     },
+     {
+      "source": "media",
+      "title": "Renewable Stocks Surge After Democrats Sweep Congress"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "democrats sweep",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "French blood banks hit alongside cyberattack on European supermarkets"
+     },
+     {
+      "source": "hn",
+      "title": "French blood storage facilities targeted in cyberattack"
+     },
+     {
+      "source": "hn",
+      "title": "French blood storage facilities targeted in cyberattack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "french blood",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "NYC Marathon Winner Andreas Almgren on Debut Victory"
+     },
+     {
+      "source": "media",
+      "title": "The NYC Marathon Has A Net Zero Goal. Can Global Sports Keep Pace?"
+     },
+     {
+      "source": "media",
+      "title": "New Balance CEO Joe Preston on NYC Marathon Partnership"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nyc marathon",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "California Billionaire Tax Losing After Polls Closed"
+     },
+     {
+      "source": "media",
+      "title": "The Billionaire Tax Might Fail—For Now"
+     },
+     {
+      "source": "hn",
+      "title": "California's Billionaire Tax Slips from 52% Support to 42%"
+     }
+    ],
+    "expected": 1.01,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 7,
+    "score": 6.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "billionaire tax",
+    "voices": 6,
+    "z": 4.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist"
+     },
+     {
+      "source": "hn",
+      "title": "Binance hackers used fake job interviews in record heist"
+     },
+     {
+      "source": "hn",
+      "title": "Binance hackers used fake job interview to breach PC before $6.3B attack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "binance hackers",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "French blood banks hit alongside cyberattack on European supermarkets"
+     },
+     {
+      "source": "hn",
+      "title": "Hackers remotely defrost produce in European supermarkets, again"
+     },
+     {
+      "source": "hn",
+      "title": "European supermarkets targeted in second reported cyberattack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "european supermarkets",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist"
+     },
+     {
+      "source": "media",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach"
+     },
+     {
+      "source": "hn",
+      "title": "The record $6.3B Binance heist started with a fake Homebrew install on Mac"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "record 6.3b",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs"
+     },
+     {
+      "source": "hn",
+      "title": "Musk is throttling Grok because its cost is 'unsustainably high'"
+     },
+     {
+      "source": "hn",
+      "title": "Musk says Grok Bot cost unsustainably high"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "unsustainably high",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "GM to pay $220 million to settle allegations it violated drivers' privacy"
+     },
+     {
+      "source": "media",
+      "title": "GM to pay $220 million to resolve claims it sold driving habits data"
+     },
+     {
+      "source": "hn",
+      "title": "GM to pay $220M to settle allegations it violated drivers' privacy"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gm to pay",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "DoorDash to acquire Instacart for $17B"
+     },
+     {
+      "source": "hn",
+      "title": "DoorDash is acquiring Instacart for $17B"
+     },
+     {
+      "source": "hn",
+      "title": "DoorDash is buying Instacart for $17B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "instacart for 17b",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian independent newspaper Novaya Gazeta forced to close its doors"
+     },
+     {
+      "source": "hn",
+      "title": "Russia's largest independent paper Novaya Gazeta forced to close [video]"
+     },
+     {
+      "source": "hn",
+      "title": "A statement from Novaya Gazeta on the end of its existence"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "novaya gazeta",
+    "voices": 4,
+    "z": 3.78
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Patrick Stewart’s Death Shows Dementia Is More Than Memory Loss"
+     },
+     {
+      "source": "media",
+      "title": "Patrick Stewart has died at age 86"
+     },
+     {
+      "source": "hn",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 17,
+    "score": 25.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "patrick stewart",
+    "voices": 17,
+    "z": 17.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble"
+     },
+     {
+      "source": "hn",
+      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge"
+     },
+     {
+      "source": "hn",
+      "title": "Democrats win control of the House of Representatives"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "democrats win",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Data centers are turning to old jet engines as the wait for power grows"
+     },
+     {
+      "source": "hn",
+      "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "AI Data Centers Turn to Decommissioned Jet Engines as Grid Queues Stretch Years"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "jet engines",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ryanair says it might freeze pay to offset high fuel prices"
+     },
+     {
+      "source": "media",
+      "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices"
+     },
+     {
+      "source": "media",
+      "title": "OMV posts highest quarterly operating profit since 2022 as fuel prices soar"
+     }
+    ],
+    "expected": 0.86,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 5,
+    "score": 4.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fuel prices",
+    "voices": 3,
+    "z": 3.04
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble"
+     },
+     {
+      "source": "hn",
+      "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results"
+     },
+     {
+      "source": "hn",
+      "title": "US tech stocks tumble as concerns over AI spending intensify"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "stocks tumble",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 330,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Blue Wave Could Engulf Data Center Industry"
+     },
+     {
+      "source": "media",
+      "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble"
+     },
+     {
+      "source": "media",
+      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history"
+     }
+    ],
+    "expected": 25.67,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 38,
+    "score": 3.58,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data center",
+    "voices": 22,
+    "z": 2.39
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Europe's Power Prices Surge as Dunkelflaute Cuts Wind and Solar Output"
+     },
+     {
+      "source": "hn",
+      "title": "Wind and Solar Power Production Dataset for the Contiguous United States"
+     },
+     {
+      "source": "arxiv",
+      "title": "Which wind and solar modelling choices matter? Effects on capacity factors, energy droughts and European power system configuration"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 3.52,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "wind and solar",
+    "voices": 3,
+    "z": 2.35
+   },
+   {
+    "baseline": 77,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Can ‘BattMan’ secure the US battery manufacturing supply chain?"
+     },
+     {
+      "source": "media",
+      "title": "The U.S. Is Offering $237 Million In First Grid Supply Chain Program"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Prospectus Documents Tremendous Supply Chain Risks"
+     }
+    ],
+    "expected": 5.99,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 12,
+    "score": 3.41,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "supply chain",
+    "voices": 10,
+    "z": 2.27
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Ukraine, Russia Hit by Hacks Sending Fake Nuclear Attack Alerts"
+     },
+     {
+      "source": "hn",
+      "title": "'I can't sleep': Terror spreads after Trump insider's nuclear attack warning"
+     },
+     {
+      "source": "hn",
+      "title": "Fake warnings of nuclear attack posted on Russian and Ukrainian emergency apps"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nuclear attack",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Finland launches criminal probe into land clearance for Google data centre"
+     },
+     {
+      "source": "hn",
+      "title": "Google's data center construction project recorded 143 regulatory violations"
+     },
+     {
+      "source": "hn",
+      "title": "Hermantown approves controversial Google Data Center during late night meeting"
+     }
+    ],
+    "expected": 0.62,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "google data",
+    "voices": 3,
+    "z": 1.87
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Do Data Centers Cause Heat Islands? A New Study Says No"
+     },
+     {
+      "source": "hn",
+      "title": "L.A. fires exposed millions to lead levels way above normal, study says"
+     },
+     {
+      "source": "hn",
+      "title": "Flexible wage deals can boost competitiveness, protect jobs, study says"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 11,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "study says",
+    "voices": 3,
+    "z": 1.76
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Astronomers found a mysterious object beyond Neptune, could be new dwarf planet"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers make startling discovery of a possible dwarf planet beyond Pluto"
+     },
+     {
+      "source": "hn",
+      "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 12,
+    "recent": 3,
+    "score": 2.22,
+    "sources": [
+     "hn"
+    ],
+    "term": "dwarf planet",
+    "voices": 3,
+    "z": 2.22
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Synopsys, Cadence Shares Drop 4% on The Information Report"
+     },
+     {
+      "source": "media",
+      "title": "Thomson Reuters revenue rises, shares drop on investment costs"
+     },
+     {
+      "source": "media",
+      "title": "Lloyds shares drop on muted third quarter results as higher taxes loom"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "shares drop",
+    "voices": 3,
+    "z": 5.44
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chip Stocks and Neoclouds Sell Off on Election Results"
+     },
+     {
+      "source": "hn",
+      "title": "US midterms 2026 election results"
+     },
+     {
+      "source": "hn",
+      "title": "US election results are being suppressed on HN"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 5,
+    "score": 5.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "election results",
+    "voices": 5,
+    "z": 3.91
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information"
+     },
+     {
+      "source": "media",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Reportedly Targeted By Suspected Chinese Informant"
+     }
+    ],
+    "expected": 0.54,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 5,
+    "score": 5.38,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia ceo",
+    "voices": 5,
+    "z": 3.59
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Chief Seen as Target of Chinese Spy Plot"
+     },
+     {
+      "source": "hn",
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chinese spy",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Intel on course for worst day ever, triggers global chip rout"
+     },
+     {
+      "source": "hn",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip rout",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Slower wage growth curbs US labor costs in third quarter"
+     },
+     {
+      "source": "media",
+      "title": "Lloyds shares drop on muted third quarter results as higher taxes loom"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Reports Third Quarter 2026 Financial Results"
+     }
+    ],
+    "expected": 1.01,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 5.28,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "third quarter",
+    "voices": 5,
+    "z": 3.52
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Co-Optimizing Access Points Improves Analog Placement (UT Austin)"
+     },
+     {
+      "source": "arxiv",
+      "title": "LAMP: LLM-Driven Analog Placement through Adaptive Tool Composition"
+     },
+     {
+      "source": "arxiv",
+      "title": "APPlace: Co-Optimizing Device Locations and Access Points for Routing-Aware Analog Placement"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 7,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "arxiv",
+     "media"
+    ],
+    "term": "analog placement",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Intel shares tumble after hours, hit by chip supply constraints, big cash burn"
+     },
+     {
+      "source": "hn",
+      "title": "SemiconductorX – The Chip Supply Chain, from Quartz to Module"
+     },
+     {
+      "source": "hn",
+      "title": "Sam Altman says the chip supply chain's invisible hand failing and DRAM is why"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 3,
+    "score": 3.32,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip supply",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake"
+     },
+     {
+      "source": "hn",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads"
+     },
+     {
+      "source": "hn",
+      "title": "Intel stock plunges after posting disappointing Q4 outlook"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.32,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "intel stock",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Auto Ontology lidera GitHub Trending e amplia propostas"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: I got tired of GitHub trending, so I built my own"
+     },
+     {
+      "source": "hn",
+      "title": "GitHub trending projects with bilingual AI reviews and MCP access"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "github trending",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "Intel shares tumble after hours, hit by chip supply constraints, big cash burn"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Plunge More Than 20% on Weak PC-Market Outlook"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 11,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "media"
+    ],
+    "term": "intel shares",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Caterpillar sticks to annual sales forecast amid cost pressures, shares dive"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "Eli Lilly Shares Surge on Raised Sales Forecast"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 12,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "media"
+    ],
+    "term": "sales forecast",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia DGX B200"
+     },
+     {
+      "source": "hn",
+      "title": "MSI XpertStation WS300 Review Nvidia DGX Station GB300"
+     },
+     {
+      "source": "hn",
+      "title": "Optimizing 124B MoE inference on a single Nvidia DGX Spark"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 13,
+    "recent": 4,
+    "score": 2.65,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia dgx",
+    "voices": 4,
+    "z": 2.65
+   }
+  ]
+ },
+ "recent_days": 7
+}

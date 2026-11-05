@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-04",
  "docs_baseline": 116077,
- "docs_recent": 8618,
+ "docs_recent": 8619,
  "fields": {
   "ai": [
    {
@@ -101,6 +101,36 @@
     "examples": [
      {
       "source": "media",
+      "title": "Gold Pares Gains as Tech Rout Prompts Investors to Cut Risk"
+     },
+     {
+      "source": "media",
+      "title": "Copper Recovers as Easing Tech Rout, Lower Oil Calm Growth Fears"
+     },
+     {
+      "source": "media",
+      "title": "After Tech Rout, Investors Gird for More Wild Days for Stocks"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech rout",
+    "voices": 3,
+    "z": 6.09
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
       "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook"
      },
      {
@@ -115,7 +145,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 7,
     "score": 9.14,
     "sources": [
@@ -145,7 +175,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 6,
     "score": 8.56,
     "sources": [
@@ -175,7 +205,7 @@
     "expected": 2.96,
     "field": "ai",
     "is_new": false,
-    "rank": 6,
+    "rank": 7,
     "recent": 14,
     "score": 8.33,
     "sources": [
@@ -205,7 +235,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 6,
     "score": 7.79,
     "sources": [
@@ -214,36 +244,6 @@
     ],
     "term": "midterm election",
     "voices": 5,
-    "z": 5.19
-   },
-   {
-    "baseline": 3,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Copper Recovers as Easing Tech Rout, Lower Oil Calm Growth Fears"
-     },
-     {
-      "source": "media",
-      "title": "After Tech Rout, Investors Gird for More Wild Days for Stocks"
-     },
-     {
-      "source": "media",
-      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30)"
-     }
-    ],
-    "expected": 0.23,
-    "field": "ai",
-    "is_new": false,
-    "rank": 8,
-    "recent": 6,
-    "score": 7.79,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "tech rout",
-    "voices": 3,
     "z": 5.19
    },
    {
@@ -1511,35 +1511,6 @@
     "z": 3.0
    },
    {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Rheinmetall cuts 2026 sales forecast again as Boxer order slips"
-     },
-     {
-      "source": "media",
-      "title": "Caterpillar sticks to annual sales forecast amid cost pressures, shares dive"
-     },
-     {
-      "source": "media",
-      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
-     }
-    ],
-    "expected": 0.08,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 9,
-    "recent": 4,
-    "score": 3.78,
-    "sources": [
-     "media"
-    ],
-    "term": "sales forecast",
-    "voices": 3,
-    "z": 3.78
-   },
-   {
     "baseline": 5,
     "examples": [
      {
@@ -1558,7 +1529,7 @@
     "expected": 0.39,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 10,
+    "rank": 9,
     "recent": 3,
     "score": 3.32,
     "sources": [
@@ -1588,7 +1559,7 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 11,
+    "rank": 10,
     "recent": 3,
     "score": 2.81,
     "sources": [
@@ -1617,13 +1588,42 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 12,
+    "rank": 11,
     "recent": 3,
     "score": 2.81,
     "sources": [
      "media"
     ],
     "term": "intel shares",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Caterpillar sticks to annual sales forecast amid cost pressures, shares dive"
+     },
+     {
+      "source": "media",
+      "title": "Intel Shares Drop More Than 20% After Weak Sales Forecast"
+     },
+     {
+      "source": "media",
+      "title": "Eli Lilly Shares Surge on Raised Sales Forecast"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 12,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "media"
+    ],
+    "term": "sales forecast",
     "voices": 3,
     "z": 2.81
    },

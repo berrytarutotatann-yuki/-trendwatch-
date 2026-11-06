@@ -1,0 +1,1455 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-05",
+ "docs_baseline": 115599,
+ "docs_recent": 8102,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI"
+     },
+     {
+      "source": "media",
+      "title": "The Blue Wave May Be Good News For AI"
+     },
+     {
+      "source": "media",
+      "title": "Blue Wave Could Engulf Data Center Industry"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 12,
+    "score": 17.23,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "blue wave",
+    "voices": 9,
+    "z": 11.48
+   },
+   {
+    "baseline": 26,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How Crypto Companies Can Stop The Next North Korea Hack"
+     },
+     {
+      "source": "media",
+      "title": "North Korea conducts strategic cruise missile test with dispersal warhead, KCNA says"
+     },
+     {
+      "source": "media",
+      "title": "North Korea linked to massive Binance crypto heist"
+     }
+    ],
+    "expected": 2.02,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 16,
+    "score": 12.06,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "north korea",
+    "voices": 14,
+    "z": 8.04
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta President Says Midterm Results Will Make Building Data Centers Harder"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook"
+     },
+     {
+      "source": "media",
+      "title": "Copper Swings as Traders Weigh Midterm Results and Weaker Dollar"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "midterm results",
+    "voices": 5,
+    "z": 8.0
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "European Stocks Reverse Gains as Tech Rout Builds, Defense Drops"
+     },
+     {
+      "source": "media",
+      "title": "Tech Rout Erases Record $2.3 Trillion in Value as AI Fears Grow"
+     },
+     {
+      "source": "media",
+      "title": "Gold Pares Gains as Tech Rout Prompts Investors to Cut Risk"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 9,
+    "score": 11.84,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech rout",
+    "voices": 3,
+    "z": 7.89
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist"
+     },
+     {
+      "source": "hn",
+      "title": "Binance hackers used fake job interviews in record heist"
+     },
+     {
+      "source": "hn",
+      "title": "North Korean fake job interview led to $6.3B Binance heist"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fake job",
+    "voices": 8,
+    "z": 6.99
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tech selloff, defence weakness weigh on European shares"
+     },
+     {
+      "source": "media",
+      "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook"
+     },
+     {
+      "source": "media",
+      "title": "Tech Selloff Could Ease Pressure on the Fed"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech selloff",
+    "voices": 4,
+    "z": 6.99
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cursor says up to 5,000 users affected by tampered Claude Code extension"
+     },
+     {
+      "source": "hn",
+      "title": "What a Compromised VS Code Extension Could Do Before You Write a Line of Code"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Janet LSP with VS Code Extension"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 7,
+    "score": 9.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "code extension",
+    "voices": 7,
+    "z": 6.09
+   },
+   {
+    "baseline": 56,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’"
+     },
+     {
+      "source": "media",
+      "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE"
+     },
+     {
+      "source": "media",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop"
+     }
+    ],
+    "expected": 4.36,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 17,
+    "score": 8.2,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "sam altman",
+    "voices": 15,
+    "z": 5.46
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit"
+     },
+     {
+      "source": "media",
+      "title": "Midterm Election Trading on Kalshi and Polymarket Lags Prediction Market Boom"
+     },
+     {
+      "source": "media",
+      "title": "Your Brain On Ballots: A Survival Guide For Midterm Election Night"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "midterm election",
+    "voices": 5,
+    "z": 5.19
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist"
+     },
+     {
+      "source": "media",
+      "title": "Binance Says Hackers Used Bogus Job Interview and AI Tool"
+     },
+     {
+      "source": "media",
+      "title": "Binance says $6.3B Hacked in Crypto Heist"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "binance says",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 38,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chip selloff drags global stocks lower on AI spending concerns"
+     },
+     {
+      "source": "media",
+      "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom"
+     },
+     {
+      "source": "media",
+      "title": "AMD forecast eases AI spending fears as data-center sales surge"
+     }
+    ],
+    "expected": 2.96,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 12,
+    "score": 6.82,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai spending",
+    "voices": 6,
+    "z": 4.55
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s R&D Speed May Have Doubled Due to AI, Researchers Find"
+     },
+     {
+      "source": "media",
+      "title": "Shopify Stock Falls 7.6% After Company Discloses Profit Margin Drop Due to AI"
+     },
+     {
+      "source": "hn",
+      "title": "GIMP 3.2.8 with Many Refinements, Numerous Security Fixes Due to AI Reports"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 6.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "due to ai",
+    "voices": 4,
+    "z": 4.09
+   },
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Top takeaways from the US midterm elections"
+     },
+     {
+      "source": "media",
+      "title": "Midterm elections 2026: all the news"
+     },
+     {
+      "source": "media",
+      "title": "Sectors bracing for a pivot as US midterm elections loom"
+     }
+    ],
+    "expected": 1.56,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 8,
+    "score": 6.05,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "midterm elections",
+    "voices": 6,
+    "z": 4.03
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI Renames Datacenters \"Compute Campuses\" [pdf]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "compute campuses",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports (Oct. 30)"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI reportedly lowers funding target for new round"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI slashes funding target by $10B as tech anxieties mount"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "funding target",
+    "voices": 4,
+    "z": 4.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "French blood banks hit alongside cyberattack on European supermarkets"
+     },
+     {
+      "source": "hn",
+      "title": "Cyberattack Hits French Blood Banks as Hackers Target EU Refrigeration Systems"
+     },
+     {
+      "source": "hn",
+      "title": "French blood storage impacted by freezer hacks"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 1,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "french blood",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FBI Says North Korea Behind $6.3 Billion Binance Hack"
+     },
+     {
+      "source": "hn",
+      "title": "Binance hack> need better software integrity verification"
+     },
+     {
+      "source": "hn",
+      "title": "Binance Hack: Tracing the $6.4B Theft to North Korea"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "binance hack",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "New Study Reveals Health, Economic Costs Of Daylight Saving Time"
+     },
+     {
+      "source": "media",
+      "title": "The Political Debate on Daylight Saving Time"
+     },
+     {
+      "source": "media",
+      "title": "Apple Watch Showing The Wrong Time After Daylight Saving? How To Fix It"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 7,
+    "score": 8.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "daylight saving",
+    "voices": 5,
+    "z": 5.84
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist"
+     },
+     {
+      "source": "hn",
+      "title": "The record $6.3B Binance heist started with a fake Homebrew install on Mac"
+     },
+     {
+      "source": "hn",
+      "title": "North Korean fake job interview led to $6.3B Binance heist"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "6.3b binance",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What do we know about the wave of bomb threats against flights in Europe?"
+     },
+     {
+      "source": "media",
+      "title": "FACTBOX Bomb threats cause flight disruptions across Europe"
+     },
+     {
+      "source": "media",
+      "title": "Bomb threats on flights, cruise ship cause disruption in Europe, no devices found"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bomb threats",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Defense Stocks in US, Europe Drop After Democrats Sweep Midterms"
+     },
+     {
+      "source": "media",
+      "title": "European shares jump over 1% after Democrats sweep US Congress, Novo Nordisk surges"
+     },
+     {
+      "source": "media",
+      "title": "Renewable Stocks Surge After Democrats Sweep Congress"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 6,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "democrats sweep",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake"
+     },
+     {
+      "source": "media",
+      "title": "‘The Legend Of Zelda: Ocarina Of Time’ Remake Metacritic Review Score Is Historic"
+     },
+     {
+      "source": "hn",
+      "title": "Legend of Zelda lead says Nintendo doesn't do layoffs"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "legend of zelda",
+    "voices": 5,
+    "z": 4.51
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "California Billionaire Tax Losing After Polls Closed"
+     },
+     {
+      "source": "media",
+      "title": "The Billionaire Tax Might Fail—For Now"
+     },
+     {
+      "source": "hn",
+      "title": "California's Billionaire Tax Slips from 52% Support to 42%"
+     }
+    ],
+    "expected": 1.01,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 7,
+    "score": 6.33,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "billionaire tax",
+    "voices": 6,
+    "z": 4.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist"
+     },
+     {
+      "source": "hn",
+      "title": "Binance hackers used fake job interviews in record heist"
+     },
+     {
+      "source": "hn",
+      "title": "Binance hackers used fake job interview to breach PC before $6.3B attack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "binance hackers",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "French blood banks hit alongside cyberattack on European supermarkets"
+     },
+     {
+      "source": "hn",
+      "title": "Hackers remotely defrost produce in European supermarkets, again"
+     },
+     {
+      "source": "hn",
+      "title": "European supermarkets targeted in second reported cyberattack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "european supermarkets",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Sequoia Closes London Office to Focus on Silicon Valley"
+     },
+     {
+      "source": "media",
+      "title": "Sequoia Capital to close London office in retreat to Silicon Valley"
+     },
+     {
+      "source": "hn",
+      "title": "Sequoia Capital Plans to Close London Office, Cut Some Staff"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "london office",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist"
+     },
+     {
+      "source": "media",
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach"
+     },
+     {
+      "source": "hn",
+      "title": "The record $6.3B Binance heist started with a fake Homebrew install on Mac"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "record 6.3b",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs"
+     },
+     {
+      "source": "hn",
+      "title": "Musk is throttling Grok because its cost is 'unsustainably high'"
+     },
+     {
+      "source": "hn",
+      "title": "Musk says Grok Bot cost unsustainably high"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "unsustainably high",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Bluesky hit peak usage for the year on election night"
+     },
+     {
+      "source": "media",
+      "title": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling"
+     },
+     {
+      "source": "media",
+      "title": "Your Brain On Ballots: A Survival Guide For Midterm Election Night"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "election night",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russian independent newspaper Novaya Gazeta forced to close its doors"
+     },
+     {
+      "source": "hn",
+      "title": "Russia's largest independent paper Novaya Gazeta forced to close [video]"
+     },
+     {
+      "source": "hn",
+      "title": "A statement from Novaya Gazeta on the end of its existence"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "novaya gazeta",
+    "voices": 4,
+    "z": 3.78
+   }
+  ],
+  "power": [
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Patrick Stewart’s Death Shows Dementia Is More Than Memory Loss"
+     },
+     {
+      "source": "hn",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart"
+     },
+     {
+      "source": "hn",
+      "title": "Patrick Stewart's First TV Appearance"
+     }
+    ],
+    "expected": 0.54,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 10,
+    "score": 11.41,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "patrick stewart",
+    "voices": 10,
+    "z": 7.61
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble"
+     },
+     {
+      "source": "hn",
+      "title": "US Democrats Win Enough Seats Nationwide to End Presidential Electoral College"
+     },
+     {
+      "source": "hn",
+      "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "democrats win",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 314,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder"
+     },
+     {
+      "source": "media",
+      "title": "How Modular Data Centers Will Scale AI Infrastructure"
+     },
+     {
+      "source": "media",
+      "title": "Adding Network Security To AI, HPC, And Data Centers"
+     }
+    ],
+    "expected": 24.42,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 51,
+    "score": 7.91,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data centers",
+    "voices": 33,
+    "z": 5.27
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Data centers are turning to old jet engines as the wait for power grows"
+     },
+     {
+      "source": "hn",
+      "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers"
+     },
+     {
+      "source": "hn",
+      "title": "AI Data Centers Turn to Decommissioned Jet Engines as Grid Queues Stretch Years"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "jet engines",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 327,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Entergy sees progress on Arkansas data center deal, strong Q3 sales"
+     },
+     {
+      "source": "media",
+      "title": "The Data Center Fight Is Just Beginning"
+     },
+     {
+      "source": "media",
+      "title": "Duke Energy's Data Center Bet"
+     }
+    ],
+    "expected": 25.43,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 43,
+    "score": 5.13,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data center",
+    "voices": 23,
+    "z": 3.42
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "New wave of bomb hoaxes hits dozens of flights across Europe"
+     },
+     {
+      "source": "media",
+      "title": "FACTBOX Bomb threats cause flight disruptions across Europe"
+     },
+     {
+      "source": "media",
+      "title": "New cyberattack on supermarket fridges sweeps across Europe"
+     }
+    ],
+    "expected": 1.17,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 4.93,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "across europe",
+    "voices": 3,
+    "z": 3.28
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble"
+     },
+     {
+      "source": "hn",
+      "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results"
+     },
+     {
+      "source": "hn",
+      "title": "US tech stocks tumble as concerns over AI spending intensify"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "stocks tumble",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Ukraine, Russia Hit by Hacks Sending Fake Nuclear Attack Alerts"
+     },
+     {
+      "source": "hn",
+      "title": "'I can't sleep': Terror spreads after Trump insider's nuclear attack warning"
+     },
+     {
+      "source": "hn",
+      "title": "Fake warnings of nuclear attack posted on Russian and Ukrainian emergency apps"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 8,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nuclear attack",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 59,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation"
+     },
+     {
+      "source": "media",
+      "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit"
+     },
+     {
+      "source": "media",
+      "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses"
+     }
+    ],
+    "expected": 4.59,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 8,
+    "score": 2.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "iran war",
+    "voices": 5,
+    "z": 1.44
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chip Stocks and Neoclouds Sell Off on Election Results"
+     },
+     {
+      "source": "hn",
+      "title": "US midterms 2026 election results"
+     },
+     {
+      "source": "hn",
+      "title": "US election results are being suppressed on HN"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 5,
+    "score": 5.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "election results",
+    "voices": 5,
+    "z": 3.91
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "S&P 500 Falls as Chip Rout Offsets US-Iran Hopes: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Intel on course for worst day ever, triggers global chip rout"
+     },
+     {
+      "source": "hn",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip rout",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal"
+     },
+     {
+      "source": "media",
+      "title": "Marvell to Buy Lumentum in $80 Billion All-Stock Deal"
+     },
+     {
+      "source": "hn",
+      "title": "Marvell to buy Lumentum in $115B all-stock deal"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "buy lumentum",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Asian Chip Stocks Slide, Oil Plunges After US Midterms"
+     },
+     {
+      "source": "media",
+      "title": "Chip Stocks and Neoclouds Sell Off on Election Results"
+     },
+     {
+      "source": "media",
+      "title": "Chip Stocks Rally as Bonds Fall on US Election Day: Markets Wrap"
+     }
+    ],
+    "expected": 1.32,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 5,
+    "score": 3.62,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip stocks",
+    "voices": 3,
+    "z": 2.41
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI boom draws chip supply from other end-markets, Siltronic CEO says"
+     },
+     {
+      "source": "hn",
+      "title": "SemiconductorX – The Chip Supply Chain, from Quartz to Module"
+     },
+     {
+      "source": "hn",
+      "title": "Sam Altman says the chip supply chain's invisible hand failing and DRAM is why"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.32,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip supply",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US weekly jobless claims at 57-year lows; worker productivity surges in third quarter"
+     },
+     {
+      "source": "media",
+      "title": "Slower wage growth curbs US labor costs in third quarter"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Reports Third Quarter 2026 Financial Results"
+     }
+    ],
+    "expected": 1.17,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 2.89,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "third quarter",
+    "voices": 3,
+    "z": 1.92
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia Auto Ontology lidera GitHub Trending e amplia propostas"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: I got tired of GitHub trending, so I built my own"
+     },
+     {
+      "source": "hn",
+      "title": "GitHub trending projects with bilingual AI reviews and MCP access"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "github trending",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia DGX B200"
+     },
+     {
+      "source": "hn",
+      "title": "MSI XpertStation WS300 Review Nvidia DGX Station GB300"
+     },
+     {
+      "source": "hn",
+      "title": "Optimizing 124B MoE inference on a single Nvidia DGX Spark"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 2.65,
+    "sources": [
+     "hn"
+    ],
+    "term": "nvidia dgx",
+    "voices": 4,
+    "z": 2.65
+   },
+   {
+    "baseline": 36,
+    "examples": [
+     {
+      "source": "media",
+      "title": "China Vows to Boost Yuan Liquidity, Back Hong Kong Markets"
+     },
+     {
+      "source": "media",
+      "title": "Hong Kong Deal Boom Slows With Most IPOs Abandoned Since 2008"
+     },
+     {
+      "source": "media",
+      "title": "China's He Lifeng on Hong Kong's Financial Edge"
+     }
+    ],
+    "expected": 2.8,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 2.46,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "hong kong",
+    "voices": 3,
+    "z": 1.64
+   }
+  ]
+ },
+ "recent_days": 7
+}

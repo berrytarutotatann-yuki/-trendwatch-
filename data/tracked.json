@@ -11,6 +11,18 @@
   "origin": "auto",
   "score_at_add": 16.68
  },
+ "blue wave": {
+  "added": "2026-11-06",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 17.23
+ },
+ "chip rout": {
+  "added": "2026-11-06",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 5.36
+ },
  "critical material": {
   "added": "2026-10-30",
   "field": "power",
@@ -101,12 +113,6 @@
   "origin": "auto",
   "score_at_add": 16.5
  },
- "microsoft pulls": {
-  "added": "2026-10-20",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 6.0
- },
  "musk says": {
   "added": "2026-10-21",
   "field": "semiconductor",
@@ -166,12 +172,6 @@
   "field": "ai",
   "origin": "auto",
   "score_at_add": 9.14
- },
- "tesla roadster": {
-  "added": "2026-10-19",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 27.1
  },
  "third quarter": {
   "added": "2026-11-04",

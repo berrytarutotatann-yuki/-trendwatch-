@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-05",
  "docs_baseline": 115599,
- "docs_recent": 8102,
+ "docs_recent": 8111,
  "fields": {
   "ai": [
    {
@@ -307,36 +307,6 @@
     "z": 5.0
    },
    {
-    "baseline": 38,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Chip selloff drags global stocks lower on AI spending concerns"
-     },
-     {
-      "source": "media",
-      "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom"
-     },
-     {
-      "source": "media",
-      "title": "AMD forecast eases AI spending fears as data-center sales surge"
-     }
-    ],
-    "expected": 2.96,
-    "field": "ai",
-    "is_new": false,
-    "rank": 11,
-    "recent": 12,
-    "score": 6.82,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai spending",
-    "voices": 6,
-    "z": 4.55
-   },
-   {
     "baseline": 4,
     "examples": [
      {
@@ -355,7 +325,7 @@
     "expected": 0.31,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 11,
     "recent": 5,
     "score": 6.14,
     "sources": [
@@ -365,6 +335,36 @@
     "term": "due to ai",
     "voices": 4,
     "z": 4.09
+   },
+   {
+    "baseline": 38,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom"
+     },
+     {
+      "source": "media",
+      "title": "AMD forecast eases AI spending fears as data-center sales surge"
+     },
+     {
+      "source": "media",
+      "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending"
+     }
+    ],
+    "expected": 2.96,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 11,
+    "score": 6.07,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai spending",
+    "voices": 6,
+    "z": 4.04
    },
    {
     "baseline": 20,
@@ -519,6 +519,36 @@
     "z": 6.0
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "What do we know about the wave of bomb threats against flights in Europe?"
+     },
+     {
+      "source": "media",
+      "title": "Czech police say four planes heading to Prague receive bomb threats"
+     },
+     {
+      "source": "media",
+      "title": "FACTBOX Bomb threats cause flight disruptions across Europe"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bomb threats",
+    "voices": 3,
+    "z": 6.0
+   },
+   {
     "baseline": 4,
     "examples": [
      {
@@ -537,7 +567,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 7,
     "score": 8.76,
     "sources": [
@@ -567,7 +597,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 4,
+    "rank": 5,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -576,36 +606,6 @@
     ],
     "term": "6.3b binance",
     "voices": 5,
-    "z": 5.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "What do we know about the wave of bomb threats against flights in Europe?"
-     },
-     {
-      "source": "media",
-      "title": "FACTBOX Bomb threats cause flight disruptions across Europe"
-     },
-     {
-      "source": "media",
-      "title": "Bomb threats on flights, cruise ship cause disruption in Europe, no devices found"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 5,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "bomb threats",
-    "voices": 3,
     "z": 5.0
    },
    {
@@ -1039,26 +1039,26 @@
      },
      {
       "source": "media",
-      "title": "The Data Center Fight Is Just Beginning"
+      "title": "The Data Center Already In Your Backyard"
      },
      {
       "source": "media",
-      "title": "Duke Energy's Data Center Bet"
+      "title": "The Data Center Fight Is Just Beginning"
      }
     ],
     "expected": 25.43,
     "field": "power",
     "is_new": false,
     "rank": 5,
-    "recent": 43,
-    "score": 5.13,
+    "recent": 44,
+    "score": 5.42,
     "sources": [
      "hn",
      "media"
     ],
     "term": "data center",
     "voices": 23,
-    "z": 3.42
+    "z": 3.61
    },
    {
     "baseline": 15,
@@ -1091,34 +1091,34 @@
     "z": 3.28
    },
    {
-    "baseline": 2,
+    "baseline": 83,
     "examples": [
      {
       "source": "media",
-      "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble"
+      "title": "TC Energy to unveil NGTL expansion plan in December, CEO says"
      },
      {
-      "source": "hn",
-      "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results"
+      "source": "media",
+      "title": "AI boom draws chip supply from other end-markets, Siltronic CEO says"
      },
      {
-      "source": "hn",
-      "title": "US tech stocks tumble as concerns over AI spending intensify"
+      "source": "media",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
      }
     ],
-    "expected": 0.16,
+    "expected": 6.46,
     "field": "power",
     "is_new": false,
     "rank": 7,
-    "recent": 3,
-    "score": 3.97,
+    "recent": 13,
+    "score": 3.6,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "stocks tumble",
-    "voices": 3,
-    "z": 2.65
+    "term": "ceo says",
+    "voices": 6,
+    "z": 2.4
    },
    {
     "baseline": 0,

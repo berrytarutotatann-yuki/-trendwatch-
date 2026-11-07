@@ -23,6 +23,12 @@
   "origin": "auto",
   "score_at_add": 5.36
  },
+ "chip stocks": {
+  "added": "2026-11-07",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 4.45
+ },
  "critical material": {
   "added": "2026-10-30",
   "field": "power",
@@ -34,6 +40,12 @@
   "field": "ai",
   "origin": "auto",
   "score_at_add": 15.0
+ },
+ "data centers": {
+  "added": "2026-11-07",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 8.62
  },
  "democrats win": {
   "added": "2026-11-05",
@@ -113,11 +125,11 @@
   "origin": "auto",
   "score_at_add": 16.5
  },
- "musk says": {
-  "added": "2026-10-21",
-  "field": "semiconductor",
+ "midterm results": {
+  "added": "2026-11-07",
+  "field": "ai",
   "origin": "auto",
-  "score_at_add": 7.98
+  "score_at_add": 12.0
  },
  "north korea": {
   "added": "2026-11-04",
@@ -125,23 +137,11 @@
   "origin": "auto",
   "score_at_add": 10.14
  },
- "nvidia rtx": {
-  "added": "2026-10-21",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 6.85
- },
  "patrick stewart": {
   "added": "2026-11-02",
   "field": "power",
   "origin": "auto",
   "score_at_add": 22.5
- },
- "report says": {
-  "added": "2026-10-20",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 6.33
  },
  "russian data centers": {
   "added": "2026-10-24",

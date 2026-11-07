@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-06",
  "docs_baseline": 115950,
- "docs_recent": 8085,
+ "docs_recent": 8101,
  "fields": {
   "ai": [
    {
@@ -1180,6 +1180,36 @@
     "z": 2.49
    },
    {
+    "baseline": 83,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop"
+     },
+     {
+      "source": "media",
+      "title": "TC Energy to unveil NGTL expansion plan in December, CEO says"
+     },
+     {
+      "source": "media",
+      "title": "AI boom draws chip supply from other end-markets, Siltronic CEO says"
+     }
+    ],
+    "expected": 6.46,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 13,
+    "score": 3.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ceo says",
+    "voices": 6,
+    "z": 2.4
+   },
+   {
     "baseline": 13,
     "examples": [
      {
@@ -1198,7 +1228,7 @@
     "expected": 1.01,
     "field": "power",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 4,
     "score": 3.16,
     "sources": [
@@ -1208,36 +1238,6 @@
     "term": "patrick stewart",
     "voices": 4,
     "z": 2.11
-   },
-   {
-    "baseline": 83,
-    "examples": [
-     {
-      "source": "media",
-      "title": "TC Energy to unveil NGTL expansion plan in December, CEO says"
-     },
-     {
-      "source": "media",
-      "title": "AI boom draws chip supply from other end-markets, Siltronic CEO says"
-     },
-     {
-      "source": "media",
-      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month"
-     }
-    ],
-    "expected": 6.46,
-    "field": "power",
-    "is_new": false,
-    "rank": 11,
-    "recent": 12,
-    "score": 3.05,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ceo says",
-    "voices": 5,
-    "z": 2.03
    },
    {
     "baseline": 0,

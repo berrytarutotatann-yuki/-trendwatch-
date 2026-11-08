@@ -478,6 +478,17 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR05xb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ",
    "voice": "reuters"
   },
+  "media:014c6b174d6a64db93d1bb25": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:014c6b174d6a64db93d1bb25",
+   "published": "2026-11-08T19:51:30+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+   "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board",
+   "voice": "techcrunch"
+  },
   "media:015254cc70edf7beeadaa7bb": {
    "date": "2026-10-24",
    "fields": [],
@@ -3896,6 +3907,19 @@
    "url": "https://theverge.com/entertainment/1008441/playdate-season-3",
    "voice": "verge"
   },
+  "media:080324f59669ed0adee4f85d": {
+   "date": "2026-11-08",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:080324f59669ed0adee4f85d",
+   "published": "2026-11-08T19:18:19+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Apple is racing to make Siri more agentic",
+   "url": "https://theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "voice": "verge"
+  },
   "media:081074fb45a7ce35608b648f": {
    "date": "2026-10-17",
    "fields": [],
@@ -5902,6 +5926,19 @@
    "url": "https://theverge.com/tech/1016116/vibe-coding-tv-os",
    "voice": "verge"
   },
+  "media:0c3d2fea63effb2ae8c9fa0a": {
+   "date": "2026-11-08",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:0c3d2fea63effb2ae8c9fa0a",
+   "published": "2026-11-08T18:33:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Opinion | AI Saves the Day—and Could Bring Doom Tomorrow",
+   "url": "https://wsj.com/opinion/ai-saves-the-dayand-could-bring-doom-tomorrow-b1afdfec",
+   "voice": "wsj"
+  },
   "media:0c3fa48153cc312d2b366149": {
    "date": "2026-10-06",
    "fields": [
@@ -7217,6 +7254,19 @@
    "title": "Saudi-led coalition says Houthis attacked power station for Prophet's Mosque in Medina",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnZXZzBwRDQtUGJYZWxuelowY3BQM2prQm43eC0yOTVELWRadi1GRmJWcXAtOU9RXzlrX3ctd3ZmckFmVEtNLXhtQzRhRDNSWkJyc1djUGJ0NFhPUTZPbDR6OVd4QTBlUDh6bEhqUlZEanMzUlRpOVdKeUtyVnRVaHJPT0ZCQy1jcEZwc05aZ0dPY2l3VF9fVmJCZ3BHNGIxUXppQUNlMGlGV1I1SUhPMXYyMHo",
    "voice": "reuters"
+  },
+  "media:0eb43256be92639c51be9bc7": {
+   "date": "2026-11-08",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:0eb43256be92639c51be9bc7",
+   "published": "2026-11-08T21:46:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair",
+   "url": "https://wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e",
+   "voice": "wsj"
   },
   "media:0ec63881b0edeb8212af767b": {
    "date": "2026-10-20",
@@ -9135,6 +9185,17 @@
    "title": "​The AI Shopping Agent Is Easy; The Commerce Platform Behind It Is Hard",
    "url": "https://forbes.com/councils/forbestechcouncil/2026/10/07/the-ai-shopping-agent-is-easy-the-commerce-platform-behind-it-is-hard",
    "voice": "forbes"
+  },
+  "media:12f0d35be9945a5e740eb388": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:12f0d35be9945a5e740eb388",
+   "published": "2026-11-08T19:26:09+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw",
+   "voice": "reuters"
   },
   "media:12f2f8d149ff6d0663edf7bd": {
    "date": "2026-10-14",
@@ -14261,6 +14322,17 @@
    "url": "https://forbes.com/sites/jamiecartereurope/2026/10/03/moon-to-hide-jupiter-in-a-spectacular-sky-show-on-tuesday",
    "voice": "forbes"
   },
+  "media:1d690d7a0e2c3ab732f662e9": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:1d690d7a0e2c3ab732f662e9",
+   "published": "2026-11-08T18:00:00+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Quordle Hint Today: Monday, November 9 Clues And Answers",
+   "url": "https://forbes.com/sites/krisholt/2026/11/08/quordle-hint-today-monday-november-9-clues-and-answers",
+   "voice": "forbes"
+  },
   "media:1d735ff96dcbc75ad9f8f521": {
    "date": "2026-10-02",
    "fields": [
@@ -18570,6 +18642,19 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGxOdWtmZFRkOWRncVNxdmFMOEh6V2c4SzB1dTFRam9FMmhwVlJ6VVJfYXl4NENtck02MGFFb2hsdkpBZXNfTm1yM0FNVHB3eUJPZm8xRkZlZEE3R3V3RDdZWVpfa2wxUUpWSDdjQldicjJTdkN5Y1RQLTE2ZWJzOTMzSXNBSjVMaWFZTWEtQlZOMl95S0xzZ2czXzg",
    "voice": "reuters"
   },
+  "media:26cabe0a3fb2b3866af003cb": {
+   "date": "2026-11-08",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:26cabe0a3fb2b3866af003cb",
+   "published": "2026-11-08T20:22:39+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "url": "https://theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "voice": "verge"
+  },
   "media:26d593c2eefc558de72b4d5c": {
    "date": "2026-10-09",
    "fields": [],
@@ -20565,6 +20650,17 @@
    "title": "Amazon’s new Echo line is here: the 6 biggest updates",
    "url": "https://theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
    "voice": "verge"
+  },
+  "media:2b2df8f6bc9b1294b6489884": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:2b2df8f6bc9b1294b6489884",
+   "published": "2026-11-08T18:10:51+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Today’s Wordle #1969 Hints, Clues And Answer For Monday November 9",
+   "url": "https://forbes.com/sites/erikkain/2026/11/08/wordle-hints-clues-answer-monday-november-9",
+   "voice": "forbes"
   },
   "media:2b30e0365c75abcda66e63ef": {
    "date": "2026-10-07",
@@ -34095,6 +34191,17 @@
    "url": "https://wsj.com/tech/ai/trump-and-anthropic-ceo-dario-amodei-set-for-white-house-dinner-32c2d0ab",
    "voice": "wsj"
   },
+  "media:49db58de63ddcf66f59dc5d7": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:49db58de63ddcf66f59dc5d7",
+   "published": "2026-11-08T19:00:00+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "NYT Connections Hints And Answers For Monday, November 9",
+   "url": "https://forbes.com/sites/krisholt/2026/11/08/nyt-connections-hint-today-answer-monday-november-9-1247",
+   "voice": "forbes"
+  },
   "media:49e80af8d2f6d6c0b4ebd9d0": {
    "date": "2026-10-30",
    "fields": [
@@ -34377,6 +34484,17 @@
    "title": "How Smugglers Get Expensive Memory Chips to China from South Korea",
    "url": "https://theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea",
    "voice": "information"
+  },
+  "media:4a6474f9875c9b0f42790ec1": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:4a6474f9875c9b0f42790ec1",
+   "published": "2026-11-08T18:35:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Opinion | The Race to Remake the U.S. Auto Market",
+   "url": "https://wsj.com/opinion/the-race-to-remake-the-u-s-auto-market-5b2b5025",
+   "voice": "wsj"
   },
   "media:4a64d510805457496bd27c61": {
    "date": "2026-10-26",
@@ -39987,7 +40105,7 @@
    "published": "2026-11-06T16:10:36+00:00",
    "publisher": "utility_dive",
    "source": "media",
-   "title": "Sempra expects 20% increase to Oncor’s capex plan, driven by load growth",
+   "title": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth",
    "url": "https://utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010",
    "voice": "utility_dive"
   },
@@ -43928,6 +44046,20 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzY1ODZDX1BVVUNrSzM0WmpLRTdReWsxSnRGY1otdDVyaTRkWEgzZVExa29jNDBwNjdtM0NTVjZMNUhpaFd4NkpOSWhiVE9RU3h3UmgwaTZwd0JOU2JFbUktdmloXzQ3MEZzekhwc29WQ1hBblFfTXlzZTdLeF8tLTU3LU5nLTljaEh6YmFoY1pxa2xIY05jb2E2UlFoLXJhcWozUUlPWG5ocWhsNUMwckxBcEN5aFU",
    "voice": "reuters"
   },
+  "media:5da372bc7ce116eb79ee3e57": {
+   "date": "2026-11-08",
+   "fields": [
+    "ai",
+    "semiconductor"
+   ],
+   "id": "media:5da372bc7ce116eb79ee3e57",
+   "published": "2026-11-08T21:41:31+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "Nvidia Inquiry, Anthropic, CoreWeave and Unity News Promise Big Week",
+   "url": "https://theinformation.com/articles/nvidia-inquiry-anthropic-coreweave-unity-news-promise-big-week",
+   "voice": "information"
+  },
   "media:5dacb34d916fa87dd78240ea": {
    "date": "2026-10-28",
    "fields": [],
@@ -44369,7 +44501,7 @@
    "published": "2026-11-05T16:37:03+00:00",
    "publisher": "utility_dive",
    "source": "media",
-   "title": "Co-located solar, storage jumps to 16% of all installations, up from 2% in 2017: EIA",
+   "title": "Co-located solar, storage jumps to 16% of all solar installations, up from 2% in 2017: EIA",
    "url": "https://utilitydive.com/news/storage-solar-colocation-eia-seia/873882",
    "voice": "utility_dive"
   },
@@ -46890,6 +47022,17 @@
    "title": "Philippine Bonds Most Exposed in Emerging Asia to Fed Hikes",
    "url": "https://bloomberg.com/news/articles/2026-10-30/philippine-bonds-are-most-exposed-in-emerging-asia-to-fed-hikes",
    "voice": "bloomberg"
+  },
+  "media:63632467cf5627f3014e1822": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:63632467cf5627f3014e1822",
+   "published": "2026-11-08T20:52:05+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Epic Games Launcher is coming to SteamOS",
+   "url": "https://theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+   "voice": "verge"
   },
   "media:636eff5a6e93eca4c0414da4": {
    "date": "2026-10-18",
@@ -74014,6 +74157,17 @@
    "url": "https://bloomberg.com/news/articles/2026-10-05/ust-risks-treasuries-other-government-bonds-sell-off",
    "voice": "bloomberg"
   },
+  "media:9fbf05cbddfcc0d79108f39b": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:9fbf05cbddfcc0d79108f39b",
+   "published": "2026-11-08T18:00:04+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+   "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done",
+   "voice": "techcrunch"
+  },
   "media:9fbf4b0fbb99403f5d69a258": {
    "date": "2026-10-29",
    "fields": [],
@@ -79040,6 +79194,19 @@
    "url": "https://forbes.com/sites/garydrenik/2026/10/20/the-next-era-of-marketing-ai-will-be-proactive",
    "voice": "forbes"
   },
+  "media:a9fbb8c19a0a6f0502d70ca2": {
+   "date": "2026-11-08",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:a9fbb8c19a0a6f0502d70ca2",
+   "published": "2026-11-08T20:00:00+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Treasury Rally Gets New Boost as Election Hammers the AI Trade",
+   "url": "https://bloomberg.com/news/articles/2026-11-08/treasury-rally-gets-new-boost-as-election-hammers-the-ai-trade",
+   "voice": "bloomberg"
+  },
   "media:aa05ae083ee7b68182711381": {
    "date": "2026-10-27",
    "fields": [],
@@ -82283,6 +82450,17 @@
    "url": "https://theinformation.com/articles/companies-prove-ai-spending-pays",
    "voice": "information"
   },
+  "media:b147af69f38e03c1ef6106ad": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:b147af69f38e03c1ef6106ad",
+   "published": "2026-11-08T22:00:00+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Apps to distract you from the endless cycle of doomscrolling",
+   "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling",
+   "voice": "techcrunch"
+  },
   "media:b147ce0d588d9c2f279296da": {
    "date": "2026-11-02",
    "fields": [],
@@ -83004,6 +83182,17 @@
    "title": "FERC rejects Oklo complaint seeking to reinstate project to PJM’s interconnection study cycle",
    "url": "https://utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357",
    "voice": "utility_dive"
+  },
+  "media:b298b266474d5c1550b04e63": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:b298b266474d5c1550b04e63",
+   "published": "2026-11-08T20:30:00+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+   "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery",
+   "voice": "techcrunch"
   },
   "media:b29cd0025e0b2a073e671799": {
    "date": "2026-11-02",
@@ -85863,6 +86052,19 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZHBVRUY1eTVrLXhSQ05QeUs1WWtXZkxkTVdRQzBTOTByNm5lOFNpZ1ExSV9TTHVyU2pubVdkbHd5Y2ppTjNPYU41X18yQm5aYVdHREc2cE96Rmgyb0Q0QjdLRVg5SjRjc0FtVUYzV01BUDFXMWhiM3JlT2tzam9ydVh4Z0JNQ3V5M1piakhhS2x5ME9xcXNsME02dUpNWHd0aVh5dGdCUUdJSjlfUjhubE5Mcw",
    "voice": "reuters"
   },
+  "media:b8c891376dd8d3dc4b3ae2ba": {
+   "date": "2026-11-08",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:b8c891376dd8d3dc4b3ae2ba",
+   "published": "2026-11-08T21:00:11+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+   "voice": "techcrunch"
+  },
   "media:b8ca834e6ce1efe2617f53b9": {
    "date": "2026-09-29",
    "fields": [],
@@ -87043,6 +87245,17 @@
    "title": "Italy talking to banks, energy groups over contribution to 2027 budget",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0dFRlh1RzlocVFxd0wtNWswSGRxdzFTZE5hQlNpRzBtLUpSUXl4Zi1LNVNlY2lxUGhNbVlSQ3UtUkNKTFVndWRDV3E3U1NZS0J6UmgyRHZZWVRHQWk5Z1dKSk81a0NySXNXMWM5UnVTQzdlbFZBdldmZ3haVnRMQ0xUeU5jR0ZFa2FLUXNYWTVONmZXSlRTaG1FZy11enJ6TGpSME51Q0dTZFhHZDYyazBwUEZTQQ",
    "voice": "reuters"
+  },
+  "media:bb582ebd2d13046a3fdcbbba": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:bb582ebd2d13046a3fdcbbba",
+   "published": "2026-11-08T21:00:00+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+   "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be",
+   "voice": "techcrunch"
   },
   "media:bb59d820f52de35e5d980237": {
    "date": "2026-09-30",
@@ -98677,6 +98890,17 @@
    "title": "China’s Coal Output Drops as Fears Build Over Winter Supply",
    "url": "https://bloomberg.com/news/articles/2026-10-19/china-s-coal-output-drops-as-concerns-build-over-winter-supply",
    "voice": "bloomberg"
+  },
+  "media:d39a02753b6c01919df6941d": {
+   "date": "2026-11-08",
+   "fields": [],
+   "id": "media:d39a02753b6c01919df6941d",
+   "published": "2026-11-08T19:00:33+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Apple Reveals 100,000 Apps Now Built For iPhone Duo — Here’s What’s Missing",
+   "url": "https://forbes.com/sites/davidphelan/2026/11/08/apple-reveals-100000-apps-now-built-for-iphone-duo---heres-whats-missing",
+   "voice": "forbes"
   },
   "media:d39b4f8d2b0a4688232f6780": {
    "date": "2026-10-06",
@@ -111671,6 +111895,19 @@
    "url": "https://theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
    "voice": "verge"
   },
+  "media:eec2abeb8d5486ab6feb68ee": {
+   "date": "2026-11-08",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:eec2abeb8d5486ab6feb68ee",
+   "published": "2026-11-08T20:26:54+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "Nvidia Board Is Launching Investigation After Reporting That CEO Targeted By Chinese Informant",
+   "url": "https://theinformation.com/briefings/nvidia-board-launching-investigation-reporting-ceo-targeted-chinese-informant",
+   "voice": "information"
+  },
   "media:eec59818166c4f205d3ac205": {
    "date": "2026-10-20",
    "fields": [],
@@ -119554,7 +119791,7 @@
  },
  "publishers": {
   "bloomberg": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-07-11": "covered",
     "2026-07-12": "covered",
@@ -119680,13 +119917,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
-   "latest": "2026-11-08T17:15:42+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
+   "latest": "2026-11-08T20:00:00+00:00",
    "received": 20,
    "status": "ok"
   },
   "forbes": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -119732,13 +119969,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
-   "latest": "2026-11-08T17:12:28+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
+   "latest": "2026-11-08T19:00:33+00:00",
    "received": 25,
    "status": "ok"
   },
   "ieee_spectrum": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-08": "partial",
     "2026-09-09": "covered",
@@ -119805,13 +120042,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
    "latest": "2026-11-06T15:00:02+00:00",
    "received": 27,
    "status": "ok"
   },
   "information": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -119858,13 +120095,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
-   "latest": "2026-11-08T16:00:51+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
+   "latest": "2026-11-08T21:41:31+00:00",
    "received": 20,
    "status": "ok"
   },
   "reuters": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-25": "partial",
     "2026-09-26": "partial",
@@ -119914,13 +120151,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
-   "latest": "2026-11-08T12:54:10+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
+   "latest": "2026-11-08T19:26:09+00:00",
    "received": 100,
    "status": "ok"
   },
   "semiconductor_engineering": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -119971,13 +120208,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
    "latest": "2026-11-06T08:01:01+00:00",
    "received": 10,
    "status": "ok"
   },
   "techcrunch": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -120024,13 +120261,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
-   "latest": "2026-11-08T17:30:00+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
+   "latest": "2026-11-08T22:00:00+00:00",
    "received": 20,
    "status": "ok"
   },
   "utility_dive": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -120081,13 +120318,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
    "latest": "2026-11-06T18:00:00+00:00",
    "received": 10,
    "status": "ok"
   },
   "verge": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -120133,13 +120370,13 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
-   "latest": "2026-11-08T17:23:19+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
+   "latest": "2026-11-08T20:52:05+00:00",
    "received": 10,
    "status": "ok"
   },
   "wsj": {
-   "checked_at": "2026-11-08T17:57:55.118328+00:00",
+   "checked_at": "2026-11-08T22:14:52.769516+00:00",
    "coverage": {
     "2026-09-16": "partial",
     "2026-09-17": "covered",
@@ -120198,8 +120435,8 @@
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-08T17:57:55.118328+00:00",
-   "latest": "2026-11-08T15:55:00+00:00",
+   "last_success": "2026-11-08T22:14:52.769516+00:00",
+   "latest": "2026-11-08T21:46:00+00:00",
    "received": 35,
    "status": "ok"
   }

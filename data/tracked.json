@@ -17,6 +17,12 @@
   "origin": "auto",
   "score_at_add": 17.23
  },
+ "chinese spy": {
+  "added": "2026-11-09",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 10.57
+ },
  "chip rout": {
   "added": "2026-11-06",
   "field": "semiconductor",
@@ -47,6 +53,12 @@
   "origin": "auto",
   "score_at_add": 8.62
  },
+ "democratic sweep": {
+  "added": "2026-11-09",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 9.0
+ },
  "democrats win": {
   "added": "2026-11-05",
   "field": "power",
@@ -71,12 +83,6 @@
   "origin": "auto",
   "score_at_add": 5.87
  },
- "export controls": {
-  "added": "2026-10-21",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 11.04
- },
  "fake job": {
   "added": "2026-11-05",
   "field": "ai",
@@ -88,12 +94,6 @@
   "field": "power",
   "origin": "auto",
   "score_at_add": 5.88
- },
- "google cloud": {
-  "added": "2026-10-22",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 12.89
  },
  "gtc berlin": {
   "added": "2026-10-23",
@@ -112,6 +112,12 @@
   "field": "ai",
   "origin": "auto",
   "score_at_add": 15.35
+ },
+ "jensen huang": {
+  "added": "2026-11-09",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 9.24
  },
  "macbook pro": {
   "added": "2026-10-28",
@@ -154,12 +160,6 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 7.11
- },
- "spacex and tesla": {
-  "added": "2026-10-22",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 8.16
  },
  "strikes on russian": {
   "added": "2026-10-23",

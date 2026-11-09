@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-08",
  "docs_baseline": 115102,
- "docs_recent": 8067,
+ "docs_recent": 8079,
  "fields": {
   "ai": [
    {
@@ -522,30 +522,30 @@
     "examples": [
      {
       "source": "media",
+      "title": "How a digital bank’s collapse toppled Paraguay’s president"
+     },
+     {
+      "source": "media",
       "title": "Investors settle with KPMG over Silicon Valley Bank collapse"
      },
      {
       "source": "hn",
       "title": "Paraguay bank collapse fells a presidency and leaves millions broke"
-     },
-     {
-      "source": "hn",
-      "title": "Ueno Bank Collapse, Paraguay President Peña Under Investigation"
      }
     ],
     "expected": 0.0,
     "field": "other",
     "is_new": true,
     "rank": 3,
-    "recent": 6,
-    "score": 9.0,
+    "recent": 7,
+    "score": 10.5,
     "sources": [
      "hn",
      "media"
     ],
     "term": "bank collapse",
     "voices": 6,
-    "z": 6.0
+    "z": 7.0
    },
    {
     "baseline": 0,
@@ -1395,26 +1395,26 @@
      },
      {
       "source": "media",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia"
      },
      {
       "source": "media",
-      "title": "Jensen Huang Asked to Brief Congress Over Alleged Chinese Spy Plot"
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
      }
     ],
     "expected": 2.49,
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 14,
-    "score": 9.24,
+    "recent": 15,
+    "score": 10.05,
     "sources": [
      "hn",
      "media"
     ],
     "term": "jensen huang",
     "voices": 12,
-    "z": 6.16
+    "z": 6.7
    },
    {
     "baseline": 5,
@@ -1447,36 +1447,6 @@
     "z": 4.76
    },
    {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair"
-     },
-     {
-      "source": "media",
-      "title": "Nvidia Board Is Launching Investigation After Reporting That CEO Targeted By Chinese Informant"
-     },
-     {
-      "source": "hn",
-      "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair"
-     }
-    ],
-    "expected": 0.0,
-    "field": "semiconductor",
-    "is_new": true,
-    "rank": 4,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "nvidia board",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
     "baseline": 11,
     "examples": [
      {
@@ -1495,7 +1465,7 @@
     "expected": 0.86,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
+    "rank": 4,
     "recent": 6,
     "score": 5.66,
     "sources": [
@@ -1505,6 +1475,36 @@
     "term": "nvidia ceo",
     "voices": 6,
     "z": 3.78
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Board Is Launching Investigation After Reporting That CEO Targeted By Chinese Informant"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia board",
+    "voices": 3,
+    "z": 3.0
    },
    {
     "baseline": 18,

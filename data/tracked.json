@@ -1,4 +1,10 @@
 {
+ "ai brings": {
+  "added": "2026-11-11",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 11.45
+ },
  "ai trade": {
   "added": "2026-10-28",
   "field": "ai",
@@ -94,12 +100,6 @@
   "field": "power",
   "origin": "auto",
   "score_at_add": 5.88
- },
- "gtc berlin": {
-  "added": "2026-10-23",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 4.5
  },
  "ipad mini": {
   "added": "2026-10-27",

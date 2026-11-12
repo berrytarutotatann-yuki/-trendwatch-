@@ -1,0 +1,1821 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-11",
+ "docs_baseline": 114591,
+ "docs_recent": 7007,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 69,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon and Google Win Big From Anthropic IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade"
+     },
+     {
+      "source": "media",
+      "title": "AZ-VC's Selby on Why Anthropic's IPO Puzzles Him"
+     }
+    ],
+    "expected": 5.37,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 22,
+    "score": 13.18,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "anthropic ipo",
+    "voices": 16,
+    "z": 6.59
+   },
+   {
+    "baseline": 31,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: An alien pressing against wired glass, in Three.js (Claude Fable 5.2)"
+     },
+     {
+      "source": "hn",
+      "title": "Claude Fable 5.2 HTML Files"
+     }
+    ],
+    "expected": 2.41,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 15,
+    "score": 10.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude fable",
+    "voices": 15,
+    "z": 6.82
+   },
+   {
+    "baseline": 50,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US consumer sentiment improves in November; worries about AI bubble emerge"
+     },
+     {
+      "source": "hn",
+      "title": "AI Bubble: The Calls Are Coming from Inside the House"
+     },
+     {
+      "source": "hn",
+      "title": "My Brutally Honest Thoughts About the AI Bubble"
+     }
+    ],
+    "expected": 3.89,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 12,
+    "score": 7.34,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai bubble",
+    "voices": 11,
+    "z": 3.67
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Breaking Down Anthropic's $1.4 Trillion IPO Valuation"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Valuation Raises A Question: Is AI Worth Its Cost?"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 6,
+    "score": 7.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipo valuation",
+    "voices": 6,
+    "z": 4.76
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic targets $1.4 trillion IPO"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Targets $1.4T Valuation in IPO"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic targets",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     },
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     },
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "news"
+    ],
+    "term": "farming regional cooperation",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million"
+     },
+     {
+      "source": "media",
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million"
+     },
+     {
+      "source": "hn",
+      "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages"
+     }
+    ],
+    "expected": 1.56,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 8,
+    "score": 6.05,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "york times",
+    "voices": 8,
+    "z": 4.03
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution"
+     },
+     {
+      "source": "hn",
+      "title": "Muse Ember (Max) Intelligence, Performance and Price Analysis"
+     },
+     {
+      "source": "hn",
+      "title": "Meta Muse Ember scores 36 on the Artificial Analysis, the cheapest to reach so"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "muse ember",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Ends Deal to Rent Cloud Servers from Oracle"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "deal to rent",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO Targets $1.3 Trillion Valuation And A $90 Billion Raise"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 6,
+    "score": 5.7,
+    "sources": [
+     "media"
+    ],
+    "term": "trillion valuation",
+    "voices": 5,
+    "z": 5.7
+   },
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The JPMorgan Alums Whose Big Bet on AI Stocks Is Being Put to the Test"
+     },
+     {
+      "source": "hn",
+      "title": "AI stocks climb after trillions wiped from market values"
+     },
+     {
+      "source": "news",
+      "title": "Asian markets bounce back after a recovery for AI stocks on Wall Street"
+     }
+    ],
+    "expected": 1.56,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 6,
+    "score": 5.56,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai stocks",
+    "voices": 6,
+    "z": 2.78
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Launches New Workplace Software, Sending Microsoft Shares Tanking"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models"
+     }
+    ],
+    "expected": 0.54,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 5.38,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic launches",
+    "voices": 4,
+    "z": 3.59
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Uni-President in advanced talks to buy Jardine's KFC, Pizza Hut business in Asia, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
+     },
+     {
+      "source": "media",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million"
+     }
+    ],
+    "expected": 1.63,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 7,
+    "score": 4.96,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "talks to buy",
+    "voices": 6,
+    "z": 3.31
+   },
+   {
+    "baseline": 42,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade"
+     },
+     {
+      "source": "media",
+      "title": "US Tech Stocks Poised to Erase Midterm Loss as AI Trade Returns"
+     },
+     {
+      "source": "media",
+      "title": "Foreign Funds Pile Into India as AI Trade Falters"
+     }
+    ],
+    "expected": 3.27,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 10,
+    "score": 4.89,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
+    "voices": 5,
+    "z": 3.26
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "New Chief of Staff, Chain Reaction Tech Selloff"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Qitt – A proactive AI chief of staff built on T3 Code"
+     },
+     {
+      "source": "hn",
+      "title": "Trump Names Stephen Miller His Chief of Staff, Replacing Susie Wiles"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chief of staff",
+    "voices": 4,
+    "z": 3.06
+   }
+  ],
+  "other": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Paraguay digital bank collapse leaves market traders scrambling for alternatives"
+     },
+     {
+      "source": "media",
+      "title": "Paraguay on Watch for Downgrade at Fitch After Bank Collapse"
+     },
+     {
+      "source": "media",
+      "title": "How a digital bank’s collapse toppled Paraguay’s president"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 1,
+    "recent": 10,
+    "score": 15.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bank collapse",
+    "voices": 8,
+    "z": 10.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The FAA is finally ditching floppy disks"
+     },
+     {
+      "source": "hn",
+      "title": "US air traffic control enters the 21st century, starts to abandon floppy disks"
+     },
+     {
+      "source": "hn",
+      "title": "The FAA Is Finally Phasing Out Floppy Disks from Air Traffic Control"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "floppy disks",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Newsroom bomb threats follow escalating European flight hoaxes"
+     },
+     {
+      "source": "media",
+      "title": "What do we know about the wave of bomb threats against flights in Europe?"
+     },
+     {
+      "source": "media",
+      "title": "Czech police say four planes heading to Prague receive bomb threats"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 6,
+    "score": 8.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bomb threats",
+    "voices": 4,
+    "z": 5.44
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tesla’s Cybertruck Was Always Doomed"
+     },
+     {
+      "source": "media",
+      "title": "Tesla Cybertruck is EV pickup market's latest casualty"
+     },
+     {
+      "source": "media",
+      "title": "Tesla Cybertruck's bumpy run: cracked windows, long delays and 11 recalls"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla cybertruck",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law"
+     },
+     {
+      "source": "hn",
+      "title": "Google, Meta and TikTok Sue to Block Law Curbing Addictive Social Media for Kids"
+     },
+     {
+      "source": "hn",
+      "title": "Google, Meta, TikTok sue to block California youth social media law"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tiktok sue",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "French blood banks hit alongside cyberattack on European supermarkets"
+     },
+     {
+      "source": "hn",
+      "title": "Cyberattack hits French blood bank freezer – thwarted by failsafes"
+     },
+     {
+      "source": "hn",
+      "title": "French blood banks hacked in latest cyber-attack on Europe"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 7.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "french blood",
+    "voices": 6,
+    "z": 4.97
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Paraguay digital bank collapse leaves market traders scrambling for alternatives"
+     },
+     {
+      "source": "media",
+      "title": "How a digital bank’s collapse toppled Paraguay’s president"
+     },
+     {
+      "source": "hn",
+      "title": "A digital bank's collapse toppled Paraguay's president"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "digital bank",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russia must swiftly expand its answer to Elon Musk's Starlink satellites, security council says"
+     },
+     {
+      "source": "hn",
+      "title": "Russia races to build rival to Elon Musk's Starlink"
+     },
+     {
+      "source": "hn",
+      "title": "Musk's Starlink Mobile plans to challenge AT&T, Verizon, T-Mobile"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk starlink",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "China Blocks SoftBank’s $5.4 Billion ABB Robotics Deal"
+     },
+     {
+      "source": "media",
+      "title": "China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division"
+     },
+     {
+      "source": "hn",
+      "title": "China has barred SoftBank from acquiring ABB Robotics' business in China"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "abb robotics",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds"
+     },
+     {
+      "source": "media",
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’"
+     },
+     {
+      "source": "hn",
+      "title": "Apple's predictive text restrictions include 'Dictator Trump' and 'Sleepy Joe'"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 10,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "dictator trump",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Job Growth Surged in October, Unemployment Rate Fell"
+     },
+     {
+      "source": "media",
+      "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%"
+     },
+     {
+      "source": "hn",
+      "title": "Canada's unemployment rate edges up to six-month high in October"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 4.38,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "unemployment rate",
+    "voices": 4,
+    "z": 2.92
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Indian Stocks Snap Diwali Win Streak in First Drop Since 2017"
+     },
+     {
+      "source": "media",
+      "title": "China's Q3 emissions post biggest drop since pandemic as Hormuz crisis curbs fossil fuel use"
+     },
+     {
+      "source": "hn",
+      "title": "Analysis: China's quarterly CO2 falls 3% in largest drop since Covid"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "drop since",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Silver Lake, Saudi Arabia’s PIF Made Takeover Approach for Unity Software"
+     },
+     {
+      "source": "hn",
+      "title": "Silver Lake, PIF have held recent talks to buy gaming software provider Unity"
+     },
+     {
+      "source": "hn",
+      "title": "Silver Lake, PIF have held recent talks to buy gaming software provider Unity"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "silver lake",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "British police say assessing further reports about Russell Brand"
+     },
+     {
+      "source": "media",
+      "title": "Gunman in Polish Mass Shooting Dies in Hospital, Police Say"
+     },
+     {
+      "source": "media",
+      "title": "Czech police say four planes heading to Prague receive bomb threats"
+     }
+    ],
+    "expected": 0.54,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 4,
+    "score": 4.17,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "police say",
+    "voices": 3,
+    "z": 2.78
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "RAM-Altman reports unused RAM on your machine, one email a day"
+     },
+     {
+      "source": "hn",
+      "title": "UK developer creates script to email Sam Altman about his unused RAM every day"
+     },
+     {
+      "source": "hn",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "unused ram",
+    "voices": 4,
+    "z": 4.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Blue Wave Of Colder Temperatures Looms For The Coming Week"
+     },
+     {
+      "source": "media",
+      "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave"
+     },
+     {
+      "source": "media",
+      "title": "The Blue Wave May Not Stop Musk’s Texas Data Center Ambitions"
+     }
+    ],
+    "expected": 0.54,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 11,
+    "score": 12.62,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "blue wave",
+    "voices": 9,
+    "z": 8.41
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe"
+     },
+     {
+      "source": "hn",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming"
+     },
+     {
+      "source": "hn",
+      "title": "Protesters break into Microsoft data center site in Amsterdam"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data center site",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO"
+     },
+     {
+      "source": "hn",
+      "title": "Orsted's Revolution Wind Commissioned [New England Wind Farm]"
+     },
+     {
+      "source": "hn",
+      "title": "Despite headwinds, Vineyard Wind, Revolution Wind come online"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "revolution wind",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Officials Work to Speed Grid Connection Amid Data Center Buildout"
+     },
+     {
+      "source": "media",
+      "title": "Niles: AI Trade Faces Repricing Amid Data Center Risks"
+     },
+     {
+      "source": "hn",
+      "title": "Japan unveils emergency cybersecurity package amid data breach concerns"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "amid data",
+    "voices": 3,
+    "z": 3.78
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Protesters slam AI after entering Microsoft data centre site"
+     },
+     {
+      "source": "hn",
+      "title": "Activists breach Microsoft data centre construction site; protests spread in EU"
+     },
+     {
+      "source": "hn",
+      "title": "Amsterdam deploys riot police to clear out Microsoft data center"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 5,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "microsoft data",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 51,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Siemens Energy sees higher margins as data centres boost power equipment demand"
+     },
+     {
+      "source": "media",
+      "title": "AI power rush sends data centres hunting for used turbines and jet engines"
+     },
+     {
+      "source": "hn",
+      "title": "The island where locals say data centres are taking their water"
+     }
+    ],
+    "expected": 3.97,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 9,
+    "score": 4.52,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data centres",
+    "voices": 8,
+    "z": 2.26
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s Answer to Data Center Backlash: Retrofitting Apollo’s Old Phone Buildings"
+     },
+     {
+      "source": "hn",
+      "title": "Why get an expensive Pi when I have an old phone?"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: R-eyesy: robo eyes that live on an old phone or a browser tab"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 7,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "old phone",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "California voters reject measure to tax the wealth of billionaires"
+     },
+     {
+      "source": "hn",
+      "title": "California voters reject proposed billionaire tax"
+     },
+     {
+      "source": "hn",
+      "title": "California Voters Reject Billionaire Wealth Tax, DDHQ Projects"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 5,
+    "score": 4.09,
+    "sources": [
+     "hn"
+    ],
+    "term": "voters reject",
+    "voices": 5,
+    "z": 4.09
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Exxon assessing 7 areas in Venezuela for possible energy projects, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Lame-duck Congress might actually do something: speed up energy projects"
+     },
+     {
+      "source": "hn",
+      "title": "Congress to Vote on Far-Reaching Plan to Speed Up Energy Projects"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "energy projects",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta President Says Midterm Results Will Make Building Data Centers Harder"
+     },
+     {
+      "source": "media",
+      "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook"
+     },
+     {
+      "source": "hn",
+      "title": "Stocks plunge as midterm results send AI trade into a tailspin"
+     }
+    ],
+    "expected": 0.39,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 3.32,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "midterm results",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Protesters break into Microsoft AI data centre site in Amsterdam"
+     },
+     {
+      "source": "hn",
+      "title": "Protesters break into Microsoft data center site in Amsterdam"
+     },
+     {
+      "source": "hn",
+      "title": "Activists break through fences at Microsoft's data center site in Amsterdam"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 11,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "site in amsterdam",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 143,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’"
+     },
+     {
+      "source": "media",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers"
+     },
+     {
+      "source": "media",
+      "title": "Russia must swiftly expand its answer to Elon Musk's Starlink satellites, security council says"
+     }
+    ],
+    "expected": 11.12,
+    "field": "power",
+    "is_new": false,
+    "rank": 12,
+    "recent": 18,
+    "score": 2.96,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elon musk",
+    "voices": 15,
+    "z": 1.98
+   },
+   {
+    "baseline": 17,
+    "examples": [
+     {
+      "source": "media",
+      "title": "New wave of bomb hoaxes hits dozens of flights across Europe"
+     },
+     {
+      "source": "hn",
+      "title": "Activists across Europe prepare two days of protests against datacentres"
+     },
+     {
+      "source": "hn",
+      "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears"
+     }
+    ],
+    "expected": 1.32,
+    "field": "power",
+    "is_new": false,
+    "rank": 13,
+    "recent": 4,
+    "score": 2.64,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "across europe",
+    "voices": 4,
+    "z": 1.76
+   },
+   {
+    "baseline": 327,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Natural Gas-Powered Data Centers Are A Risk We Can’t Afford"
+     },
+     {
+      "source": "media",
+      "title": "Are data centers really paying their share? AES Indiana’s Google deal highlights a thorny question"
+     },
+     {
+      "source": "media",
+      "title": "They Led an Energy Department Overhaul. Now They Plan to Build Data Centers."
+     }
+    ],
+    "expected": 25.43,
+    "field": "power",
+    "is_new": false,
+    "rank": 14,
+    "recent": 34,
+    "score": 2.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data centers",
+    "voices": 24,
+    "z": 1.67
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SoftBank Writes Off $3.7 Billion on Advance Payments for Data Center Projects"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI is stepping back from NDAs for data center projects"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 2.49,
+    "sources": [
+     "media"
+    ],
+    "term": "data center projects",
+    "voices": 3,
+    "z": 2.49
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 33,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+     },
+     {
+      "source": "media",
+      "title": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama"
+     },
+     {
+      "source": "media",
+      "title": "The unfolding Jensen Huang scandal: a timeline"
+     }
+    ],
+    "expected": 2.57,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 77,
+    "score": 78.83,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "jensen huang",
+    "voices": 45,
+    "z": 39.41
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline"
+     },
+     {
+      "source": "media",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal"
+     }
+    ],
+    "expected": 0.47,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 37,
+    "score": 60.33,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "chinese spy",
+    "voices": 32,
+    "z": 30.17
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Board Reportedly Preparing To Oust Nvidia CEO"
+     }
+    ],
+    "expected": 0.93,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 29,
+    "score": 40.37,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia ceo",
+    "voices": 22,
+    "z": 20.19
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Falls as Investors Consider Future Without CEO Huang"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia’s Bull Case Hinges on CEO Huang Surviving China Spy Probe"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 15.26,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ceo huang",
+    "voices": 7,
+    "z": 7.63
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Board Reportedly Preparing To Oust Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "Meet the Nvidia Board Members Who Will Decide Jensen Huang’s Fate"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Board Hires Wachtell for Independent Investigation of CEO Relationship"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia board",
+    "voices": 6,
+    "z": 9.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia launches investigation into CEO Jensen Huang"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia launches investigation into CEO Jensen Huang"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 6,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "nvidia launches investigation",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia boss admits affair as company probes foreign spy claims [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Jensen Huang admits affair with alleged Chinese spy"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 7,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "admits affair",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s Bull Case Hinges on CEO Huang Surviving China Spy Probe"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Shares Slump on Spy Probe"
+     },
+     {
+      "source": "media",
+      "title": "The Chinese Woman at the Center of a Spy Probe After an Affair With Jensen Huang"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "spy probe",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     },
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     },
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 9,
+    "recent": 8,
+    "score": 8.0,
+    "sources": [
+     "news"
+    ],
+    "term": "b patil targets",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 Billion-Plus Nvidia Chip Sales to China"
+     },
+     {
+      "source": "media",
+      "title": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO?"
+     },
+     {
+      "source": "hn",
+      "title": "Alice Huang reportedly instrumental in securing over $7.5B of Nvidia imports"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 10,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "alice huang",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Probes Huang Affair Amid Spying Controversy"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 11,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia probes",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 39,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Alibaba AI chip unit T-Head files for Hong Kong IPO"
+     },
+     {
+      "source": "media",
+      "title": "US, UK and others condemn sentencing of Hong Kong activist Joshua Wong"
+     },
+     {
+      "source": "hn",
+      "title": "Hold Still, Hong Kong: a decade of everyday life, shot on film"
+     }
+    ],
+    "expected": 3.03,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 12,
+    "recent": 10,
+    "score": 6.94,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "hong kong",
+    "voices": 9,
+    "z": 3.47
+   },
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "news",
+      "title": "China holds up imports as 600 , 000 Nvidia chips sit in Hong Kong"
+     },
+     {
+      "source": "news",
+      "title": "China holds up imports as 600 , 000 Nvidia chips sit in Hong Kong"
+     },
+     {
+      "source": "news",
+      "title": "China holds up imports as 600 , 000 Nvidia chips sit in Hong Kong"
+     }
+    ],
+    "expected": 1.56,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 13,
+    "recent": 8,
+    "score": 6.05,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "nvidia chips",
+    "voices": 8,
+    "z": 4.03
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Falls as CEO Jensen Huang Admits to Affair With Alleged Spy"
+     },
+     {
+      "source": "news",
+      "title": "The Nvidia controversy explained : A CEO , an alleged spy and AI"
+     },
+     {
+      "source": "news",
+      "title": "What we know as Nvidia investigates alleged spy plot involving its CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "alleged spy",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "whether ceo",
+    "voices": 4,
+    "z": 4.0
+   }
+  ]
+ },
+ "recent_days": 7
+}

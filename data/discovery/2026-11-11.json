@@ -1367,19 +1367,19 @@
      },
      {
       "source": "media",
-      "title": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama"
+      "title": "The unfolding Jensen Huang scandal: a timeline"
      },
      {
       "source": "media",
-      "title": "The unfolding Jensen Huang scandal: a timeline"
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec"
      }
     ],
     "expected": 2.57,
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 89,
-    "score": 91.53,
+    "recent": 88,
+    "score": 90.47,
     "sources": [
      "hn",
      "media",
@@ -1387,7 +1387,7 @@
     ],
     "term": "jensen huang",
     "voices": 55,
-    "z": 45.77
+    "z": 45.24
    },
    {
     "baseline": 6,
@@ -1425,23 +1425,23 @@
     "examples": [
      {
       "source": "media",
-      "title": "A Timeline of Nvidia CEO Jensen Huang’s Suspected Spy Drama"
-     },
-     {
-      "source": "media",
       "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports"
      },
      {
       "source": "media",
       "title": "Nvidia Board Reportedly Preparing To Oust Nvidia CEO Following Alleged Affairs"
+     },
+     {
+      "source": "media",
+      "title": "Why Nvidia CEO Jensen Huang Is Unique"
      }
     ],
     "expected": 0.93,
     "field": "semiconductor",
     "is_new": false,
     "rank": 3,
-    "recent": 29,
-    "score": 40.37,
+    "recent": 28,
+    "score": 38.93,
     "sources": [
      "hn",
      "media",
@@ -1449,7 +1449,7 @@
     ],
     "term": "nvidia ceo",
     "voices": 22,
-    "z": 20.19
+    "z": 19.47
    },
    {
     "baseline": 0,

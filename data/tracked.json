@@ -41,6 +41,12 @@
   "origin": "auto",
   "score_at_add": 4.45
  },
+ "claude fable": {
+  "added": "2026-11-12",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 11.04
+ },
  "critical material": {
   "added": "2026-10-30",
   "field": "power",
@@ -52,6 +58,12 @@
   "field": "ai",
   "origin": "auto",
   "score_at_add": 15.0
+ },
+ "data center site": {
+  "added": "2026-11-12",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 6.0
  },
  "data centers": {
   "added": "2026-11-07",
@@ -107,12 +119,6 @@
   "origin": "auto",
   "score_at_add": 8.16
  },
- "iphone duo": {
-  "added": "2026-10-24",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 15.35
- },
  "jensen huang": {
   "added": "2026-11-09",
   "field": "semiconductor",
@@ -160,12 +166,6 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 7.11
- },
- "strikes on russian": {
-  "added": "2026-10-23",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 31.88
  },
  "tech selloff": {
   "added": "2026-11-03",

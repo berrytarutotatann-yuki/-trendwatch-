@@ -53,12 +53,6 @@
   "origin": "auto",
   "score_at_add": 8.0
  },
- "critical php": {
-  "added": "2026-10-25",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 15.0
- },
  "data center site": {
   "added": "2026-11-12",
   "field": "power",
@@ -131,6 +125,12 @@
   "origin": "auto",
   "score_at_add": 10.03
  },
+ "microsoft data": {
+  "added": "2026-11-13",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 5.0
+ },
  "microsoft offers": {
   "added": "2026-10-27",
   "field": "ai",
@@ -149,17 +149,17 @@
   "origin": "auto",
   "score_at_add": 10.14
  },
+ "nvidia ceo": {
+  "added": "2026-11-13",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 66.26
+ },
  "patrick stewart": {
   "added": "2026-11-02",
   "field": "power",
   "origin": "auto",
   "score_at_add": 22.5
- },
- "russian data centers": {
-  "added": "2026-10-24",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 36.0
  },
  "shares drop": {
   "added": "2026-11-03",

@@ -1,0 +1,1699 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-12",
+ "docs_baseline": 114657,
+ "docs_recent": 8046,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 71,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Amazon and Google Win Big From Anthropic IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade"
+     },
+     {
+      "source": "media",
+      "title": "AZ-VC's Selby on Why Anthropic's IPO Puzzles Him"
+     }
+    ],
+    "expected": 5.52,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 22,
+    "score": 12.9,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "anthropic ipo",
+    "voices": 16,
+    "z": 6.45
+   },
+   {
+    "baseline": 28,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models"
+     },
+     {
+      "source": "hn",
+      "title": "I made a 60 second product film for my Mac app in code with Claude Fable 5.2 [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Prompting Claude Fable 5.2"
+     }
+    ],
+    "expected": 2.18,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 17,
+    "score": 12.47,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude fable",
+    "voices": 17,
+    "z": 8.31
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution"
+     },
+     {
+      "source": "hn",
+      "title": "New models tested: Fable 5.2, Muse Ember 1.0, Inkling 2 Small"
+     },
+     {
+      "source": "hn",
+      "title": "Muse Ember (Max) Intelligence, Performance and Price Analysis"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "muse ember",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 51,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US consumer sentiment improves in November; worries about AI bubble emerge"
+     },
+     {
+      "source": "hn",
+      "title": "Retirement Savings Are Fueling the AI Bubble"
+     },
+     {
+      "source": "hn",
+      "title": "AI Bubble: The Calls Are Coming from Inside the House"
+     }
+    ],
+    "expected": 3.97,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 12,
+    "score": 7.21,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ai bubble",
+    "voices": 11,
+    "z": 3.6
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Breaking Down Anthropic's $1.4 Trillion IPO Valuation"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s IPO Valuation Raises A Question: Is AI Worth Its Cost?"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 7.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipo valuation",
+    "voices": 6,
+    "z": 4.76
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic targets $1.4 trillion IPO"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Targets $1.4T Valuation in IPO"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic targets",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     },
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     },
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "news"
+    ],
+    "term": "farming regional cooperation",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks"
+     },
+     {
+      "source": "media",
+      "title": "United Airlines Is Banning AI Bots From Booking Flights"
+     },
+     {
+      "source": "media",
+      "title": "United Airlines Blocks AI Agents Like Muse and Instinct From Booking Flights"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "booking flights",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts"
+     },
+     {
+      "source": "hn",
+      "title": "Fireworks AI security breach impacts Notion and their customers"
+     },
+     {
+      "source": "hn",
+      "title": "Tell HN: Notion AI chat sessions have been exposed via Fireworks AI hack"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fireworks ai",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Ends Deal to Rent Cloud Servers from Oracle"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "deal to rent",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO Targets $1.3 Trillion Valuation And A $90 Billion Raise"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 6,
+    "score": 5.7,
+    "sources": [
+     "media"
+    ],
+    "term": "trillion valuation",
+    "voices": 5,
+    "z": 5.7
+   },
+   {
+    "baseline": 57,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Why Frontier AI Raises The Standard For Software Assurance"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development"
+     },
+     {
+      "source": "hn",
+      "title": "What benefit does a San Francisco HQ offer if you are not a frontier AI lab?"
+     }
+    ],
+    "expected": 4.43,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 12,
+    "score": 4.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "frontier ai",
+    "voices": 12,
+    "z": 3.25
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AWS Emulator"
+     },
+     {
+      "source": "hn",
+      "title": "Test applications against AWS locally with AWS Emulator"
+     },
+     {
+      "source": "hn",
+      "title": "AWS Emulator and the engineer's job when agents write the code"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 4.74,
+    "sources": [
+     "hn"
+    ],
+    "term": "aws emulator",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 59,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI’s Last-Mile Problem: Why Working AI Tools Don’t Always Deliver Business Value"
+     },
+     {
+      "source": "media",
+      "title": "Disney and Adobe are building generative AI tools together"
+     },
+     {
+      "source": "media",
+      "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises"
+     }
+    ],
+    "expected": 4.59,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 12,
+    "score": 4.7,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai tools",
+    "voices": 11,
+    "z": 3.13
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse"
+     },
+     {
+      "source": "hn",
+      "title": "Railway's $740K AI Key Incident: How Two Trust Failures Exposed Customer Secrets"
+     },
+     {
+      "source": "hn",
+      "title": "DigiCert admits 16-month security lapse exposed customer information"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "exposed customer",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug"
+     },
+     {
+      "source": "media",
+      "title": "Tesla’s Cybertruck Was Always Doomed"
+     },
+     {
+      "source": "media",
+      "title": "Tesla Cybertruck is EV pickup market's latest casualty"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 1,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tesla cybertruck",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Paraguay digital bank collapse leaves market traders scrambling for alternatives"
+     },
+     {
+      "source": "media",
+      "title": "Paraguay on Watch for Downgrade at Fitch After Bank Collapse"
+     },
+     {
+      "source": "media",
+      "title": "How a digital bank’s collapse toppled Paraguay’s president"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 7,
+    "score": 8.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bank collapse",
+    "voices": 5,
+    "z": 5.84
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "3-Inch Treasures: Transferring Material from Amstrad Floppy Disks (2024)"
+     },
+     {
+      "source": "hn",
+      "title": "US air traffic control enters the 21st century, starts to abandon floppy disks"
+     },
+     {
+      "source": "hn",
+      "title": "The FAA Is Finally Phasing Out Floppy Disks from Air Traffic Control"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 6,
+    "score": 5.7,
+    "sources": [
+     "hn"
+    ],
+    "term": "floppy disks",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available"
+     },
+     {
+      "source": "media",
+      "title": "Google’s Pixel Tag tracker is now available"
+     },
+     {
+      "source": "hn",
+      "title": "Google Releases Pixel Tag (AirTag and Tile Equivalent)"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "pixel tag",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law"
+     },
+     {
+      "source": "hn",
+      "title": "Google, Meta and TikTok Sue to Block Law Curbing Addictive Social Media for Kids"
+     },
+     {
+      "source": "hn",
+      "title": "Google, Meta, TikTok sue to block California youth social media law"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tiktok sue",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Humble Bundle redesign removes two-factor verification from settings"
+     },
+     {
+      "source": "hn",
+      "title": "Humble Bundle Undergoes a Vibecoded-Looking Redesign"
+     },
+     {
+      "source": "hn",
+      "title": "\"Humble Bundle just killed most of their security through vibecoding\""
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "humble bundle",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Russia must swiftly expand its answer to Elon Musk's Starlink satellites, security council says"
+     },
+     {
+      "source": "hn",
+      "title": "Russia races to build rival to Elon Musk's Starlink"
+     },
+     {
+      "source": "hn",
+      "title": "Musk's Starlink Mobile plans to challenge AT&T, Verizon, T-Mobile"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "musk starlink",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "'Apple Support Community' Permanently Closing on November 20"
+     },
+     {
+      "source": "hn",
+      "title": "'Apple Support Community' Permanently Closing on November 20"
+     },
+     {
+      "source": "hn",
+      "title": "The Apple Support Community will permanently close on November 20, 2026"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "support community",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "We Tore Down the MacBook Proled XDR and Found the Secret of the Glowing Apple"
+     },
+     {
+      "source": "hn",
+      "title": "Apple MacBook Pro 14 Proled XDR Review"
+     },
+     {
+      "source": "hn",
+      "title": "Smudgy: The PROLED XDR look, for free"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 4.97,
+    "sources": [
+     "hn"
+    ],
+    "term": "proled xdr",
+    "voices": 6,
+    "z": 4.97
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks"
+     },
+     {
+      "source": "media",
+      "title": "French blood banks hit alongside cyberattack on European supermarkets"
+     },
+     {
+      "source": "hn",
+      "title": "French blood banks hacked in latest cyber-attack on Europe"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "blood banks",
+    "voices": 4,
+    "z": 3.22
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "British police say assessing further reports about Russell Brand"
+     },
+     {
+      "source": "media",
+      "title": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault"
+     },
+     {
+      "source": "hn",
+      "title": "I was a teenage Russell Brand fan"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russell brand",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Job Growth Surged in October, Unemployment Rate Fell"
+     },
+     {
+      "source": "media",
+      "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%"
+     },
+     {
+      "source": "hn",
+      "title": "Canada's unemployment rate edges up to six-month high in October"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "unemployment rate",
+    "voices": 4,
+    "z": 3.06
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "American Cancer Society calls for routine prostate cancer screening in guideline change"
+     },
+     {
+      "source": "hn",
+      "title": "American Cancer Society calls for prostate cancer screening in guideline change"
+     },
+     {
+      "source": "hn",
+      "title": "Prostate Cancer Screening Now Broadly Recommended, Reversing Past Guidance"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "prostate cancer screening",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Apple's autocomplete restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds"
+     },
+     {
+      "source": "media",
+      "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’"
+     },
+     {
+      "source": "hn",
+      "title": "Apple's predictive text restrictions include 'Dictator Trump' and 'Sleepy Joe'"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "dictator trump",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Wizz Air chief calls for Europe-wide coordination on bomb threats"
+     },
+     {
+      "source": "media",
+      "title": "Newsroom bomb threats follow escalating European flight hoaxes"
+     },
+     {
+      "source": "hn",
+      "title": "Schools in Italy, Scotland and Ireland receive bomb threats"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 4.38,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bomb threats",
+    "voices": 3,
+    "z": 2.92
+   }
+  ],
+  "power": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe"
+     },
+     {
+      "source": "hn",
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming"
+     },
+     {
+      "source": "hn",
+      "title": "Protesters break into Microsoft data center site in Amsterdam"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 1,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "data center site",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Protesters slam AI after entering Microsoft data centre site"
+     },
+     {
+      "source": "hn",
+      "title": "Activists breach Microsoft data centre construction site; protests spread in EU"
+     },
+     {
+      "source": "hn",
+      "title": "Amsterdam deploys riot police to clear out Microsoft data center"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 2,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "microsoft data",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Blue Wave Of Colder Temperatures Looms For The Coming Week"
+     },
+     {
+      "source": "media",
+      "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave"
+     },
+     {
+      "source": "media",
+      "title": "The Blue Wave May Not Stop Musk’s Texas Data Center Ambitions"
+     }
+    ],
+    "expected": 1.01,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 5,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "blue wave",
+    "voices": 4,
+    "z": 2.81
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO"
+     },
+     {
+      "source": "hn",
+      "title": "Orsted's Revolution Wind Commissioned [New England Wind Farm]"
+     },
+     {
+      "source": "hn",
+      "title": "Despite headwinds, Vineyard Wind, Revolution Wind come online"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "revolution wind",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Exxon assessing 7 areas in Venezuela for possible energy projects, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Lame-duck Congress might actually do something: speed up energy projects"
+     },
+     {
+      "source": "hn",
+      "title": "Congress to Vote on Far-Reaching Plan to Speed Up Energy Projects"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "energy projects",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 52,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Siemens Energy sees higher margins as data centres boost power equipment demand"
+     },
+     {
+      "source": "media",
+      "title": "AI power rush sends data centres hunting for used turbines and jet engines"
+     },
+     {
+      "source": "hn",
+      "title": "The island where locals say data centres are taking their water"
+     }
+    ],
+    "expected": 4.04,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 8,
+    "score": 3.52,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data centres",
+    "voices": 7,
+    "z": 1.76
+   },
+   {
+    "baseline": 145,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug"
+     },
+     {
+      "source": "media",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’"
+     },
+     {
+      "source": "media",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers"
+     }
+    ],
+    "expected": 11.28,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 19,
+    "score": 3.31,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elon musk",
+    "voices": 17,
+    "z": 2.2
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "California voters reject measure to tax the wealth of billionaires"
+     },
+     {
+      "source": "hn",
+      "title": "California voters reject proposed billionaire tax"
+     },
+     {
+      "source": "hn",
+      "title": "California Voters Reject Billionaire Wealth Tax, DDHQ Projects"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 3.22,
+    "sources": [
+     "hn"
+    ],
+    "term": "voters reject",
+    "voices": 4,
+    "z": 3.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Protesters break into Microsoft AI data centre site in Amsterdam"
+     },
+     {
+      "source": "hn",
+      "title": "Protesters break into Microsoft data center site in Amsterdam"
+     },
+     {
+      "source": "hn",
+      "title": "Activists break through fences at Microsoft's data center site in Amsterdam"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "site in amsterdam",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "No home left behind: Scaling VPP participation while maintaining customer control"
+     },
+     {
+      "source": "hn",
+      "title": "No device left behind: Home Assistant Connect AUX-2"
+     },
+     {
+      "source": "hn",
+      "title": "AUX-2 – No device left behind"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "left behind",
+    "voices": 3,
+    "z": 1.76
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Procopticon – A process manager for macOS for power users"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Wimi, a mouse-first window manager for macOS"
+     },
+     {
+      "source": "hn",
+      "title": "Stash: A fast, lightweight clipboard manager for macOS"
+     }
+    ],
+    "expected": 0.78,
+    "field": "power",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 2.42,
+    "sources": [
+     "hn"
+    ],
+    "term": "manager for macos",
+    "voices": 4,
+    "z": 2.42
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 33,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Jensen Huang was having a third affair, Reuters reports"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Jensen Huang Resigns, Creating Uncertainty for the AI Sector"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia’s Dealmaking Binge Faces a Reckoning After Jensen Huang’s Exit"
+     }
+    ],
+    "expected": 2.57,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 156,
+    "score": 162.49,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "jensen huang",
+    "voices": 84,
+    "z": 81.24
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia CEO Jensen Huang Resigns, Creating Uncertainty for the AI Sector"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO’s Exit Looms"
+     },
+     {
+      "source": "media",
+      "title": "A Timeline of the Scandals That Brought Down Nvidia CEO Jensen Huang"
+     }
+    ],
+    "expected": 0.93,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 47,
+    "score": 66.26,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia ceo",
+    "voices": 33,
+    "z": 33.13
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Will Continue Investigation Into Former CEO and Alleged Chinese Spy"
+     },
+     {
+      "source": "media",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline"
+     }
+    ],
+    "expected": 0.47,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 39,
+    "score": 63.64,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "chinese spy",
+    "voices": 33,
+    "z": 31.82
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Board Weighs Ousting Jensen Huang With No AI Successor Ready"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Board Weighs Jensen Huang Exit—What Investors Should Watch"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Board Must Craft Epic Job Description for New CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 4,
+    "recent": 14,
+    "score": 21.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia board",
+    "voices": 9,
+    "z": 14.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Alice Huang Barred from Re-Entering Singapore After Lying to Authorities"
+     },
+     {
+      "source": "media",
+      "title": "Alice Huang’s Companies Invested in DeepSeek, Promising Nvidia Chips"
+     },
+     {
+      "source": "media",
+      "title": "Who is Alice Huang, the Chinese businesswoman tied to Nvidia's CEO?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 10,
+    "score": 20.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "alice huang",
+    "voices": 7,
+    "z": 10.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ex-Nvidia CEO Huang Had Affair With Second Employee"
+     },
+     {
+      "source": "media",
+      "title": "Ex-Nvidia CEO Huang Hires Lawyers"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 10,
+    "score": 19.12,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ceo huang",
+    "voices": 9,
+    "z": 9.56
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia launches investigation into CEO Jensen Huang"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia launches investigation into CEO Jensen Huang"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 7,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "nvidia launches investigation",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia boss admits affair as company probes foreign spy claims [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Jensen Huang admits affair with alleged Chinese spy"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "admits affair",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Alice Huang’s Companies Invested in DeepSeek, Promising Nvidia Chips"
+     },
+     {
+      "source": "hn",
+      "title": "Concerns grow as military-linked Chinese university buys Nvidia chips [video]"
+     },
+     {
+      "source": "news",
+      "title": "China holds up imports as 600 , 000 Nvidia chips sit in Hong Kong"
+     }
+    ],
+    "expected": 1.63,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 9,
+    "score": 9.08,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia chips",
+    "voices": 9,
+    "z": 4.54
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Interim Nvidia CEO Colette Kress Has Tried to Tame Nvidia’s Riskiest Bets"
+     },
+     {
+      "source": "media",
+      "title": "Who Is Colette Kress? Meet Nvidia’s New Interim CEO"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 10,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "colette kress",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s Bull Case Hinges on CEO Huang Surviving China Spy Probe"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Shares Slump on Spy Probe"
+     },
+     {
+      "source": "media",
+      "title": "The Chinese Woman at the Center of a Spy Probe After an Affair With Jensen Huang"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 11,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "spy probe",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     },
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     },
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 12,
+    "recent": 8,
+    "score": 8.0,
+    "sources": [
+     "news"
+    ],
+    "term": "b patil targets",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Probes Huang Affair Amid Spying Controversy"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia probes",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Megaspeed's links to rural Australian store raise fresh questions in Nvidia scandal"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom"
+     },
+     {
+      "source": "hn",
+      "title": "China's Spy Machine Isn't as Clever as You Think (Nvidia Scandal)"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia scandal",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Shares Fall 4% as Broadcom and AMD Rise"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Shares Slump on Spy Probe"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia shares down as Huang affair scandal deepens [audio]"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 15,
+    "recent": 4,
+    "score": 7.56,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia shares",
+    "voices": 4,
+    "z": 3.78
+   }
+  ]
+ },
+ "recent_days": 7
+}

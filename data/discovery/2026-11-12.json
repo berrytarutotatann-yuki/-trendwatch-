@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-12",
  "docs_baseline": 114657,
- "docs_recent": 8054,
+ "docs_recent": 8052,
  "fields": {
   "ai": [
    {
@@ -1248,15 +1248,15 @@
      },
      {
       "source": "media",
-      "title": "Nvidia’s Dealmaking Binge Faces a Reckoning After Jensen Huang’s Exit"
+      "title": "Nvidia Board Weighs Ousting Jensen Huang With No AI Successor Ready"
      }
     ],
     "expected": 2.57,
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 156,
-    "score": 162.49,
+    "recent": 154,
+    "score": 160.37,
     "sources": [
      "hn",
      "media",
@@ -1264,7 +1264,7 @@
     ],
     "term": "jensen huang",
     "voices": 84,
-    "z": 81.24
+    "z": 80.18
    },
    {
     "baseline": 12,
@@ -1279,15 +1279,15 @@
      },
      {
       "source": "media",
-      "title": "A Timeline of the Scandals That Brought Down Nvidia CEO Jensen Huang"
+      "title": "Interim Nvidia CEO Colette Kress Has Tried to Tame Nvidia’s Riskiest Bets"
      }
     ],
     "expected": 0.93,
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 47,
-    "score": 66.26,
+    "recent": 46,
+    "score": 64.82,
     "sources": [
      "hn",
      "media",
@@ -1295,7 +1295,7 @@
     ],
     "term": "nvidia ceo",
     "voices": 33,
-    "z": 33.13
+    "z": 32.41
    },
    {
     "baseline": 6,

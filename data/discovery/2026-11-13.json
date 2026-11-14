@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-13",
  "docs_baseline": 115053,
- "docs_recent": 8020,
+ "docs_recent": 8021,
  "fields": {
   "ai": [
    {
@@ -404,11 +404,11 @@
      },
      {
       "source": "media",
-      "title": "Jensen Huang steps down: the hands-on kingmaker behind the AI boom"
+      "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster"
      },
      {
       "source": "media",
-      "title": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible."
+      "title": "Jensen Huang steps down: the hands-on kingmaker behind the AI boom"
      }
     ],
     "expected": 7.31,
@@ -1160,7 +1160,7 @@
      },
      {
       "source": "media",
-      "title": "Nvidia CEO Jensen Huang Resigns, Creating Uncertainty for the AI Sector"
+      "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster"
      }
     ],
     "expected": 1.09,

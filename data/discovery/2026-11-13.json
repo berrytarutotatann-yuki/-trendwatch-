@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-13",
  "docs_baseline": 115053,
- "docs_recent": 8010,
+ "docs_recent": 8016,
  "fields": {
   "ai": [
    {
@@ -462,36 +462,6 @@
     "examples": [
      {
       "source": "media",
-      "title": "FAA ground stop shuts down flights nationwide"
-     },
-     {
-      "source": "hn",
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop"
-     },
-     {
-      "source": "hn",
-      "title": "Ground stop ordered for all airports nationwide for 'reasons of safety'"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 1,
-    "recent": 15,
-    "score": 22.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ground stop",
-    "voices": 15,
-    "z": 15.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
       "title": "Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes"
      },
      {
@@ -506,7 +476,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 2,
+    "rank": 1,
     "recent": 11,
     "score": 16.5,
     "sources": [
@@ -516,6 +486,35 @@
     "term": "microsoft outage",
     "voices": 10,
     "z": 11.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop"
+     },
+     {
+      "source": "hn",
+      "title": "Ground stop ordered for all airports nationwide for 'reasons of safety'"
+     },
+     {
+      "source": "hn",
+      "title": "FAA issues nationwide ground stop for all flights"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 14,
+    "score": 14.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "ground stop",
+    "voices": 14,
+    "z": 14.0
    },
    {
     "baseline": 5,

@@ -8,7 +8,7 @@
     }
    },
    "fetched_from": "2026-07-13",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -46,15 +46,10 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": null,
-     "partial": true,
-     "voices": null
-    },
     "2026-07-17": {
      "count": null,
      "partial": true,
@@ -649,10 +644,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 1,
+     "partial": true,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {},
@@ -706,7 +706,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "ai brings": {
@@ -726,7 +726,7 @@
     }
    },
    "fetched_from": "2026-07-14",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -849,18 +849,17 @@
     "2026-11-03": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-14",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -1455,10 +1454,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-14",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -1823,18 +1827,19 @@
    "fetched_to": "2026-11-11"
   },
   "qiita": {
-   "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "days": {
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
+    }
+   },
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "ai trade": {
   "arxiv": {
    "days": {
-    "2026-07-16": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-09-28": {
      "count": 1,
      "voices": 1
@@ -1849,7 +1854,7 @@
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -1951,15 +1956,10 @@
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -2554,10 +2554,15 @@
      "count": 2,
      "partial": true,
      "voices": 2
+    },
+    "2026-11-13": {
+     "count": 2,
+     "partial": true,
+     "voices": 2
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -2967,15 +2972,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "anthropic ipo": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -3198,18 +3203,17 @@
     "2026-11-12": {
      "count": 22,
      "voices": 22
+    },
+    "2026-11-13": {
+     "count": 11,
+     "voices": 11
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -3804,10 +3808,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 2,
+     "partial": true,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -4210,10 +4219,30 @@
     "2026-11-08": {
      "count": 1,
      "voices": null
+    },
+    "2026-11-09": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-11-10": {
+     "count": 14,
+     "voices": null
+    },
+    "2026-11-11": {
+     "count": 6,
+     "voices": null
+    },
+    "2026-11-12": {
+     "count": 15,
+     "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-08"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {
@@ -4279,14 +4308,14 @@
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "blue wave": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -4349,18 +4378,17 @@
     "2026-11-10": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -4955,10 +4983,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -5354,14 +5387,14 @@
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "chinese spy": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -5438,20 +5471,19 @@
      "voices": 17
     },
     "2026-11-12": {
-     "count": 100,
-     "voices": 92
+     "count": 99,
+     "voices": 91
+    },
+    "2026-11-13": {
+     "count": 46,
+     "voices": 43
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -6046,10 +6078,15 @@
      "count": 1,
      "partial": true,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -6404,15 +6441,23 @@
     "2026-11-11": {
      "count": 86,
      "voices": null
+    },
+    "2026-11-12": {
+     "count": 128,
+     "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-11"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "chip rout": {
@@ -6432,7 +6477,7 @@
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -6450,15 +6495,10 @@
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -7053,10 +7093,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 1,
+     "partial": true,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -7446,15 +7491,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "chip stocks": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -7532,15 +7577,10 @@
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -8135,10 +8175,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -8504,8 +8549,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "claude fable": {
@@ -8682,17 +8727,17 @@
     "2026-11-09": {
      "count": 2,
      "voices": 2
+    },
+    "2026-11-12": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
-    "2026-07-16": {
-     "count": 8,
-     "voices": 8
-    },
     "2026-07-17": {
      "count": 10,
      "voices": 9
@@ -9080,18 +9125,17 @@
     "2026-11-12": {
      "count": 2,
      "voices": 2
+    },
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -9686,10 +9730,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {},
@@ -9697,10 +9746,6 @@
   },
   "qiita": {
    "days": {
-    "2026-07-16": {
-     "count": 5,
-     "voices": 5
-    },
     "2026-07-17": {
      "count": 3,
      "voices": 3
@@ -10152,10 +10197,14 @@
     "2026-11-12": {
      "count": 7,
      "voices": 4
+    },
+    "2026-11-13": {
+     "count": 6,
+     "voices": 5
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "co-packaged optics": {
@@ -10184,10 +10233,14 @@
     "2026-10-19": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-12": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -10197,15 +10250,10 @@
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": null,
-     "partial": true,
-     "voices": null
-    },
     "2026-07-17": {
      "count": null,
      "partial": true,
@@ -10800,10 +10848,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -11299,7 +11352,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "critical material": {
@@ -11319,7 +11372,7 @@
     }
    },
    "fetched_from": "2026-07-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -11333,15 +11386,10 @@
     }
    },
    "fetched_from": "2026-07-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -11936,10 +11984,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -12338,15 +12391,19 @@
     "2026-11-12": {
      "count": 6,
      "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-05",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "data center site": {
@@ -12358,7 +12415,7 @@
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -12404,15 +12461,10 @@
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -13007,10 +13059,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -13376,8 +13433,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "data centers": {
@@ -13784,19 +13841,23 @@
      "voices": 3
     },
     "2026-11-10": {
-     "count": 2,
-     "voices": 2
+     "count": 3,
+     "voices": 3
+    },
+    "2026-11-11": {
+     "count": 5,
+     "voices": 4
+    },
+    "2026-11-12": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-07-11",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
-    "2026-07-16": {
-     "count": 44,
-     "voices": 39
-    },
     "2026-07-17": {
      "count": 38,
      "voices": 36
@@ -14272,18 +14333,17 @@
     "2026-11-12": {
      "count": 64,
      "voices": 55
+    },
+    "2026-11-13": {
+     "count": 46,
+     "voices": 41
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -14878,10 +14938,15 @@
      "count": 1,
      "partial": true,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 2,
+     "partial": true,
+     "voices": 2
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -15317,14 +15382,14 @@
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "democratic sweep": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -15334,15 +15399,10 @@
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -15937,10 +15997,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -16310,15 +16375,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "democrats win": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -16397,18 +16462,17 @@
     "2026-11-06": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -17003,10 +17067,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -17385,35 +17454,42 @@
     "2026-11-10": {
      "count": 26,
      "voices": null
+    },
+    "2026-11-11": {
+     "count": 17,
+     "voices": null
+    },
+    "2026-11-12": {
+     "count": 20,
+     "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-10"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "drones downed": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -18008,10 +18084,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-01",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -18418,15 +18499,23 @@
     "2026-11-11": {
      "count": 0,
      "voices": null
+    },
+    "2026-11-12": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-02",
-   "fetched_to": "2026-11-11"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "dwarf planet": {
@@ -18487,10 +18576,14 @@
     "2026-11-09": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-11": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -18537,18 +18630,17 @@
     "2026-11-12": {
      "count": 10,
      "voices": 10
+    },
+    "2026-11-13": {
+     "count": 7,
+     "voices": 6
     }
    },
    "fetched_from": "2026-07-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -19143,10 +19235,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -19548,8 +19645,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "election results": {
@@ -19565,7 +19662,7 @@
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -19784,18 +19881,17 @@
     "2026-11-11": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 2,
+     "voices": 2
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -20390,10 +20486,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -20783,15 +20884,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "fake job": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -20878,18 +20979,17 @@
     "2026-11-12": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -21484,10 +21584,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -21859,7 +21964,7 @@
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "fuel prices": {
@@ -21891,7 +21996,7 @@
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -22118,18 +22223,17 @@
     "2026-11-08": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 2,
+     "voices": 2
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -22724,10 +22828,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -23114,24 +23223,28 @@
     "2026-11-11": {
      "count": 32,
      "voices": null
+    },
+    "2026-11-12": {
+     "count": 62,
+     "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-11"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "harness engineering": {
   "arxiv": {
    "days": {
-    "2026-07-16": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-07-19": {
      "count": 1,
      "voices": 1
@@ -23227,17 +23340,17 @@
     "2026-11-08": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-11": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
-    "2026-07-16": {
-     "count": 3,
-     "voices": 2
-    },
     "2026-07-17": {
      "count": 2,
      "voices": 1
@@ -23520,15 +23633,10 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": null,
-     "partial": true,
-     "voices": null
-    },
     "2026-07-17": {
      "count": null,
      "partial": true,
@@ -24123,10 +24231,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -24616,10 +24729,6 @@
   },
   "qiita": {
    "days": {
-    "2026-07-16": {
-     "count": 3,
-     "voices": 3
-    },
     "2026-07-17": {
      "count": 1,
      "voices": 1
@@ -24950,14 +25059,14 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "ipad mini": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -25079,15 +25188,10 @@
     }
    },
    "fetched_from": "2026-06-29",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -25682,10 +25786,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-06-29",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -26108,10 +26217,14 @@
     "2026-11-12": {
      "count": 0,
      "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-29",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {
@@ -26145,7 +26258,7 @@
     }
    },
    "fetched_from": "2026-06-29",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "jensen huang": {
@@ -26157,14 +26270,10 @@
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
-    "2026-07-16": {
-     "count": 2,
-     "voices": 2
-    },
     "2026-07-18": {
      "count": 2,
      "voices": 2
@@ -26454,20 +26563,19 @@
      "voices": 36
     },
     "2026-11-12": {
-     "count": 137,
-     "voices": 121
+     "count": 136,
+     "voices": 120
+    },
+    "2026-11-13": {
+     "count": 91,
+     "voices": 82
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -27062,10 +27170,15 @@
      "count": 33,
      "partial": true,
      "voices": 7
+    },
+    "2026-11-13": {
+     "count": 12,
+     "partial": true,
+     "voices": 7
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -27436,10 +27549,14 @@
     "2026-11-12": {
      "count": 205,
      "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {
@@ -27534,10 +27651,14 @@
     "2026-11-12": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "macbook pro": {
@@ -27557,14 +27678,10 @@
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
-    "2026-07-16": {
-     "count": 4,
-     "voices": 4
-    },
     "2026-07-17": {
      "count": 1,
      "voices": 1
@@ -28016,18 +28133,17 @@
     "2026-11-12": {
      "count": 6,
      "voices": 6
+    },
+    "2026-11-13": {
+     "count": 5,
+     "voices": 5
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -28622,10 +28738,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -29047,10 +29168,6 @@
   },
   "qiita": {
    "days": {
-    "2026-07-16": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-07-18": {
      "count": 1,
      "voices": 1
@@ -29362,24 +29479,24 @@
     "2026-11-10": {
      "count": 2,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-06-30",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "microsoft data": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
-    "2026-07-16": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-07-20": {
      "count": 1,
      "voices": 1
@@ -29430,15 +29547,10 @@
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -30033,10 +30145,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -30391,10 +30508,14 @@
     "2026-11-12": {
      "count": 1,
      "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {
@@ -30440,14 +30561,14 @@
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "microsoft offers": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -30478,18 +30599,17 @@
     "2026-10-28": {
      "count": 5,
      "voices": 4
+    },
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-29",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -31084,10 +31204,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-06-29",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -31519,14 +31644,14 @@
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "midterm results": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -31568,15 +31693,10 @@
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -32171,10 +32291,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -32549,15 +32674,23 @@
     "2026-11-11": {
      "count": 19,
      "voices": null
+    },
+    "2026-11-12": {
+     "count": 12,
+     "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-11"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "north korea": {
@@ -32577,14 +32710,10 @@
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
-    "2026-07-16": {
-     "count": 2,
-     "voices": 2
-    },
     "2026-07-17": {
      "count": 3,
      "voices": 3
@@ -33052,18 +33181,17 @@
     "2026-11-12": {
      "count": 4,
      "voices": 3
+    },
+    "2026-11-13": {
+     "count": 13,
+     "voices": 13
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -33658,10 +33786,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -34048,10 +34181,14 @@
     "2026-11-12": {
      "count": 58,
      "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {
@@ -34085,14 +34222,14 @@
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "nvidia ceo": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -34205,20 +34342,19 @@
      "voices": 3
     },
     "2026-11-12": {
-     "count": 35,
-     "voices": 35
+     "count": 34,
+     "voices": 34
+    },
+    "2026-11-13": {
+     "count": 18,
+     "voices": 18
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -34813,10 +34949,15 @@
      "count": 9,
      "partial": true,
      "voices": 3
+    },
+    "2026-11-13": {
+     "count": 2,
+     "partial": true,
+     "voices": 2
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -35171,10 +35312,14 @@
     "2026-11-12": {
      "count": 95,
      "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {
@@ -35205,17 +35350,21 @@
     "2026-11-12": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "patrick stewart": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -35273,15 +35422,10 @@
     }
    },
    "fetched_from": "2026-07-05",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -35876,10 +36020,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-05",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -36283,7 +36432,7 @@
     }
    },
    "fetched_from": "2026-07-13",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "shares drop": {
@@ -36299,7 +36448,7 @@
     }
    },
    "fetched_from": "2026-07-06",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -36317,15 +36466,10 @@
     }
    },
    "fetched_from": "2026-07-06",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -36920,10 +37064,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-06",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -37317,15 +37466,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "slop ui": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -37360,18 +37509,17 @@
     "2026-11-12": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": null,
-     "partial": true,
-     "voices": null
-    },
     "2026-07-17": {
      "count": null,
      "partial": true,
@@ -37966,10 +38114,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {},
@@ -37977,8 +38130,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "small modular reactor": {
@@ -38002,7 +38155,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -38020,15 +38173,10 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": null,
-     "partial": true,
-     "voices": null
-    },
     "2026-07-17": {
      "count": null,
      "partial": true,
@@ -38623,21 +38771,18 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
-    "2026-07-15": {
-     "count": 8,
-     "voices": null
-    },
-    "2026-07-16": {
-     "count": 11,
-     "voices": null
-    },
     "2026-07-17": {
      "count": 14,
      "voices": null
@@ -39109,15 +39254,23 @@
     "2026-11-11": {
      "count": 3,
      "voices": null
+    },
+    "2026-11-12": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-11-11"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "system one model": {
@@ -39250,10 +39403,18 @@
     "2026-11-06": {
      "count": 2,
      "voices": 2
+    },
+    "2026-11-11": {
+     "count": 1,
+     "voices": 1
+    },
+    "2026-11-12": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -39347,15 +39508,10 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": null,
-     "partial": true,
-     "voices": null
-    },
     "2026-07-17": {
      "count": null,
      "partial": true,
@@ -39950,10 +40106,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -40526,17 +40687,21 @@
     "2026-11-09": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-13": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  },
  "tech selloff": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -40562,15 +40727,10 @@
     }
    },
    "fetched_from": "2026-07-06",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -41165,10 +41325,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-06",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -41566,15 +41731,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   }
  },
  "third quarter": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-12"
+   "fetched_from": "2026-07-17",
+   "fetched_to": "2026-11-13"
   },
   "hn": {
    "days": {
@@ -41656,15 +41821,10 @@
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "media": {
    "days": {
-    "2026-07-16": {
-     "count": 0,
-     "partial": true,
-     "voices": 0
-    },
     "2026-07-17": {
      "count": 0,
      "partial": true,
@@ -42259,10 +42419,15 @@
      "count": 0,
      "partial": true,
      "voices": 0
+    },
+    "2026-11-13": {
+     "count": 0,
+     "partial": true,
+     "voices": 0
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "news": {
    "days": {
@@ -42637,10 +42802,14 @@
     "2026-11-12": {
      "count": 419,
      "voices": null
+    },
+    "2026-11-13": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-11",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   },
   "qiita": {
    "days": {
@@ -42650,7 +42819,7 @@
     }
    },
    "fetched_from": "2026-07-07",
-   "fetched_to": "2026-11-12"
+   "fetched_to": "2026-11-13"
   }
  }
 }

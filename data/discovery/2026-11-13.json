@@ -1,0 +1,1579 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-13",
+ "docs_baseline": 115053,
+ "docs_recent": 8010,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 28,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models"
+     },
+     {
+      "source": "hn",
+      "title": "I asked Claude Fable 5.2 to turn my site into a 90s Silicon Graphics workstation"
+     },
+     {
+      "source": "hn",
+      "title": "I made a 60 second product film for my Mac app in code with Claude Fable 5.2 [video]"
+     }
+    ],
+    "expected": 2.18,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 18,
+    "score": 13.31,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude fable",
+    "voices": 18,
+    "z": 8.88
+   },
+   {
+    "baseline": 77,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead"
+     },
+     {
+      "source": "media",
+      "title": "Wall St Week Ahead: Nvidia results, Anthropic IPO pose tests for tumultuous AI trade"
+     },
+     {
+      "source": "media",
+      "title": "Amazon and Google Win Big From Anthropic IPO"
+     }
+    ],
+    "expected": 5.99,
+    "field": "ai",
+    "is_new": false,
+    "rank": 2,
+    "recent": 18,
+    "score": 9.09,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "anthropic ipo",
+    "voices": 14,
+    "z": 4.54
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts"
+     },
+     {
+      "source": "hn",
+      "title": "Notion AI chat transcripts exposed in Fireworks AI breach"
+     },
+     {
+      "source": "hn",
+      "title": "Fireworks AI security breach impacts Notion and their customers"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fireworks ai",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution"
+     },
+     {
+      "source": "hn",
+      "title": "New models tested: Fable 5.2, Muse Ember 1.0, Inkling 2 Small"
+     },
+     {
+      "source": "hn",
+      "title": "Muse Ember (Max) Intelligence, Performance and Price Analysis"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 4,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "muse ember",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic targets $1.4 trillion IPO"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic Targets $1.4T Valuation in IPO"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic targets",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     },
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     },
+     {
+      "source": "news",
+      "title": "AI brings new possibilities to tropical farming , regional cooperation"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "news"
+    ],
+    "term": "farming regional cooperation",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks"
+     },
+     {
+      "source": "media",
+      "title": "United Airlines Is Banning AI Bots From Booking Flights"
+     },
+     {
+      "source": "media",
+      "title": "United Airlines Blocks AI Agents Like Muse and Instinct From Booking Flights"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "booking flights",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Launches ChatGPT Wallet"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chatgpt wallet",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 29,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Flights Grounded Across US Over Air Traffic Control Problems"
+     },
+     {
+      "source": "hn",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion"
+     },
+     {
+      "source": "hn",
+      "title": "FAA expands AI advice to manage air traffic congestion across US airspace"
+     }
+    ],
+    "expected": 2.26,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 9,
+    "score": 5.61,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "air traffic",
+    "voices": 8,
+    "z": 3.74
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Launches New Workplace Software, Sending Microsoft Shares Tanking"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models"
+     }
+    ],
+    "expected": 0.62,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 5.16,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic launches",
+    "voices": 5,
+    "z": 3.44
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Acquires AI Travel Agent Odessia"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI acquires Sonder co-founder's new travel tech company Odessia"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "openai acquires",
+    "voices": 4,
+    "z": 3.22
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "AWS Emulator"
+     },
+     {
+      "source": "hn",
+      "title": "Test applications against AWS locally with AWS Emulator"
+     },
+     {
+      "source": "hn",
+      "title": "AWS Emulator and the engineer's job when agents write the code"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 4.74,
+    "sources": [
+     "hn"
+    ],
+    "term": "aws emulator",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 59,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Why Frontier AI Raises The Standard For Software Assurance"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development"
+     },
+     {
+      "source": "hn",
+      "title": "Ask HN: How much value could a peasant derive from frontier AI?"
+     }
+    ],
+    "expected": 4.59,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 12,
+    "score": 4.7,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "frontier ai",
+    "voices": 12,
+    "z": 3.13
+   },
+   {
+    "baseline": 94,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Jensen Didn’t Create the AI Boom. It Created Him."
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang steps down: the hands-on kingmaker behind the AI boom"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang Built Nvidia. Its Chips Made the AI Boom Possible."
+     }
+    ],
+    "expected": 7.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 16,
+    "score": 4.52,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai boom",
+    "voices": 11,
+    "z": 3.01
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps"
+     },
+     {
+      "source": "hn",
+      "title": "Google Tabletop"
+     },
+     {
+      "source": "hn",
+      "title": "Google Tabletop"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "google tabletop",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FAA ground stop shuts down flights nationwide"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop"
+     },
+     {
+      "source": "hn",
+      "title": "Ground stop ordered for all airports nationwide for 'reasons of safety'"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 1,
+    "recent": 15,
+    "score": 22.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ground stop",
+    "voices": 15,
+    "z": 15.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Outage—What Happened And What To Do Next"
+     },
+     {
+      "source": "media",
+      "title": "Widespread Microsoft Outage Roils Businesses, Governments"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 2,
+    "recent": 11,
+    "score": 16.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft outage",
+    "voices": 10,
+    "z": 11.0
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Paraguay digital bank collapse leaves market traders scrambling for alternatives"
+     },
+     {
+      "source": "media",
+      "title": "Paraguay on Watch for Downgrade at Fitch After Bank Collapse"
+     },
+     {
+      "source": "media",
+      "title": "How a digital bank’s collapse toppled Paraguay’s president"
+     }
+    ],
+    "expected": 0.39,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 5,
+    "score": 5.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bank collapse",
+    "voices": 4,
+    "z": 3.91
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft Outlook is still down"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft’s Outlook email hit by new outage"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft Outlook/365 still down after 12 hours"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft outlook",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available"
+     },
+     {
+      "source": "media",
+      "title": "Google’s Pixel Tag tracker is now available"
+     },
+     {
+      "source": "hn",
+      "title": "Google Releases Pixel Tag (AirTag and Tile Equivalent)"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "pixel tag",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Humble Bundle redesign removes two-factor verification from settings"
+     },
+     {
+      "source": "hn",
+      "title": "Humble Bundle Undergoes a Vibecoded-Looking Redesign"
+     },
+     {
+      "source": "hn",
+      "title": "\"Humble Bundle just killed most of their security through vibecoding\""
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "humble bundle",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Opinion: The Digital Fairness Act is a decade-long bill coming due"
+     },
+     {
+      "source": "hn",
+      "title": "The EU's Digital Fairness Act may change game monetization – not just in Europe"
+     },
+     {
+      "source": "hn",
+      "title": "EU proposes Digital Fairness Act on dark patterns and addictive design [pdf]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "digital fairness act",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nintendo to End 'Sign in with Apple' Support in January"
+     },
+     {
+      "source": "hn",
+      "title": "'Apple Support Community' Permanently Closing on November 20"
+     },
+     {
+      "source": "hn",
+      "title": "'Apple Support Community' Permanently Closing on November 20"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "apple support",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue"
+     },
+     {
+      "source": "hn",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean"
+     },
+     {
+      "source": "hn",
+      "title": "Cruise ship pianist rescued after nine hours treading water miles from shore"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cruise ship",
+    "voices": 4,
+    "z": 3.22
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "British police say assessing further reports about Russell Brand"
+     },
+     {
+      "source": "media",
+      "title": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault"
+     },
+     {
+      "source": "hn",
+      "title": "I was a teenage Russell Brand fan"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "russell brand",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "American Cancer Society calls for routine prostate cancer screening in guideline change"
+     },
+     {
+      "source": "hn",
+      "title": "American Cancer Society calls for prostate cancer screening in guideline change"
+     },
+     {
+      "source": "hn",
+      "title": "Prostate Cancer Screening Now Broadly Recommended, Reversing Past Guidance"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 11,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "prostate cancer screening",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’"
+     },
+     {
+      "source": "hn",
+      "title": "FAA issues nationwide ground stop due to extraordinary circumstances' and safety"
+     },
+     {
+      "source": "hn",
+      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\""
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "extraordinary circumstances",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Kalshi says it ended Donald Trump Jr's advisory contract over Polymarket conflict"
+     },
+     {
+      "source": "hn",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good"
+     },
+     {
+      "source": "hn",
+      "title": "Kalshi ends Donald Trump Jr's advisory contract over Polymarket conflict"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 13,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump jr",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "RAM-Altman reports unused RAM on your machine, one email a day"
+     },
+     {
+      "source": "hn",
+      "title": "UK developer creates script to email Sam Altman about his unused RAM every day"
+     },
+     {
+      "source": "hn",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "unused ram",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot"
+     },
+     {
+      "source": "hn",
+      "title": "Amazon's Ring retries $250 home security drone and $1k patrol robot"
+     },
+     {
+      "source": "hn",
+      "title": "Ring Drone Cam Reinventing home security"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "home security",
+    "voices": 3,
+    "z": 2.65
+   }
+  ],
+  "power": [
+   {
+    "baseline": 13,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Blue Wave Of Colder Temperatures Looms For The Coming Week"
+     },
+     {
+      "source": "media",
+      "title": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave"
+     },
+     {
+      "source": "media",
+      "title": "The Blue Wave May Not Stop Musk’s Texas Data Center Ambitions"
+     }
+    ],
+    "expected": 1.01,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 5,
+    "score": 4.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "blue wave",
+    "voices": 4,
+    "z": 2.81
+   },
+   {
+    "baseline": 82,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Germany plans to buy RWE and E.ON's stakes in nuclear firm Urenco, sources say"
+     },
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Judge orders cognitive checks on Hermès heir who says his fortune was stolen, sources say"
+     }
+    ],
+    "expected": 6.38,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 13,
+    "score": 3.66,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "sources say",
+    "voices": 5,
+    "z": 2.44
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "No home left behind: Scaling VPP participation while maintaining customer control"
+     },
+     {
+      "source": "hn",
+      "title": "No device left behind: Home Assistant Connect AUX-2"
+     },
+     {
+      "source": "hn",
+      "title": "AUX-2 – No device left behind"
+     }
+    ],
+    "expected": 0.62,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 3,
+    "score": 2.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "left behind",
+    "voices": 3,
+    "z": 1.87
+   },
+   {
+    "baseline": 53,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Siemens Energy sees higher margins as data centres boost power equipment demand"
+     },
+     {
+      "source": "media",
+      "title": "AI power rush sends data centres hunting for used turbines and jet engines"
+     },
+     {
+      "source": "hn",
+      "title": "The island where locals say data centres are taking their water"
+     }
+    ],
+    "expected": 4.12,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 7,
+    "score": 2.54,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "data centres",
+    "voices": 6,
+    "z": 1.27
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Procopticon – A process manager for macOS for power users"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Wimi, a mouse-first window manager for macOS"
+     },
+     {
+      "source": "hn",
+      "title": "Stash: A fast, lightweight clipboard manager for macOS"
+     }
+    ],
+    "expected": 0.78,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 2.42,
+    "sources": [
+     "hn"
+    ],
+    "term": "manager for macos",
+    "voices": 4,
+    "z": 2.42
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "European Stocks End at Record High in Their Best Week Since July"
+     },
+     {
+      "source": "media",
+      "title": "Europe's STOXX 600 pulls back from record high as investors weigh earnings, oil prices"
+     },
+     {
+      "source": "media",
+      "title": "European Stocks Hit Record High as Energy and Tech Rebound"
+     }
+    ],
+    "expected": 1.63,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 2.19,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "record high",
+    "voices": 3,
+    "z": 1.46
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
+     },
+     {
+      "source": "media",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions"
+     },
+     {
+      "source": "media",
+      "title": "US Natural Gas Surges Most in Six Weeks, Triggers Short Squeeze"
+     }
+    ],
+    "expected": 1.09,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 2.01,
+    "sources": [
+     "media"
+    ],
+    "term": "natural gas",
+    "voices": 3,
+    "z": 2.01
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Timeline of the Scandals That Brought Down Nvidia CEO Jensen Huang"
+     },
+     {
+      "source": "media",
+      "title": "The unfolding Jensen Huang scandal: a timeline"
+     },
+     {
+      "source": "media",
+      "title": "Sex, Lies and AI Chips: Jensen Huang’s Last Days as Nvidia CEO"
+     }
+    ],
+    "expected": 2.88,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 183,
+    "score": 182.94,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "jensen huang",
+    "voices": 98,
+    "z": 91.47
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "media",
+      "title": "A Timeline of the Scandals That Brought Down Nvidia CEO Jensen Huang"
+     },
+     {
+      "source": "media",
+      "title": "Sex, Lies and AI Chips: Jensen Huang’s Last Days as Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Jensen Huang Resigns, Creating Uncertainty for the AI Sector"
+     }
+    ],
+    "expected": 1.09,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 50,
+    "score": 67.68,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia ceo",
+    "voices": 35,
+    "z": 33.84
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Will Continue Investigation Into Former CEO and Alleged Chinese Spy"
+     },
+     {
+      "source": "media",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 40,
+    "score": 61.83,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "chinese spy",
+    "voices": 34,
+    "z": 30.92
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Companies Linked to Alice Huang Invested in DeepSeek"
+     },
+     {
+      "source": "media",
+      "title": "Alice Huang Barred from Re-Entering Singapore After Lying to Authorities"
+     },
+     {
+      "source": "media",
+      "title": "Alice Huang’s Companies Invested in DeepSeek, Promising Nvidia Chips"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 4,
+    "recent": 14,
+    "score": 28.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "alice huang",
+    "voices": 10,
+    "z": 14.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Board Weighs Ousting Jensen Huang With No AI Successor Ready"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 5,
+    "recent": 17,
+    "score": 25.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia board",
+    "voices": 11,
+    "z": 17.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ex-Nvidia CEO Huang Had Affair With Second Employee"
+     },
+     {
+      "source": "media",
+      "title": "Ex-Nvidia CEO Huang Hires Lawyers"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Huang had relationship with executive who reported to him, NYT reports"
+     }
+    ],
+    "expected": 0.08,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 10,
+    "score": 19.12,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "ceo huang",
+    "voices": 9,
+    "z": 9.56
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia launches investigation into CEO Jensen Huang"
+     },
+     {
+      "source": "news",
+      "title": "Nvidia launches investigation into CEO Jensen Huang"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 7,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "nvidia launches investigation",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia boss admits affair as company probes foreign spy claims [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Jensen Huang admits affair with alleged Chinese spy"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "news"
+    ],
+    "term": "admits affair",
+    "voices": 8,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Huang's exit, Anthropic's entrance"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Exit From Nvidia—What Investors Should Watch"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 9,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang exit",
+    "voices": 4,
+    "z": 8.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO"
+     },
+     {
+      "source": "media",
+      "title": "Interim Nvidia CEO Colette Kress Has Tried to Tame Nvidia’s Riskiest Bets"
+     },
+     {
+      "source": "media",
+      "title": "Who Is Colette Kress? Meet Nvidia’s New Interim CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 10,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "colette kress",
+    "voices": 6,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Megaspeed's links to rural Australian store raise fresh questions in Nvidia scandal"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia scandal",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 12,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang affair",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s Bull Case Hinges on CEO Huang Surviving China Spy Probe"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Shares Slump on Spy Probe"
+     },
+     {
+      "source": "media",
+      "title": "The Chinese Woman at the Center of a Spy Probe After an Affair With Jensen Huang"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 13,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "spy probe",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!"
+     },
+     {
+      "source": "media",
+      "title": "Alice Huang’s Companies Invested in DeepSeek, Promising Nvidia Chips"
+     },
+     {
+      "source": "hn",
+      "title": "Concerns grow as military-linked Chinese university buys Nvidia chips [video]"
+     }
+    ],
+    "expected": 1.71,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 14,
+    "recent": 9,
+    "score": 8.85,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia chips",
+    "voices": 9,
+    "z": 4.43
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     },
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     },
+     {
+      "source": "news",
+      "title": "Karnataka Minister M B Patil targets Centre over ethanol crisis , Kumaraswamy over allegations"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 15,
+    "recent": 8,
+    "score": 8.0,
+    "sources": [
+     "news"
+    ],
+    "term": "b patil targets",
+    "voices": 8,
+    "z": 8.0
+   }
+  ]
+ },
+ "recent_days": 7
+}

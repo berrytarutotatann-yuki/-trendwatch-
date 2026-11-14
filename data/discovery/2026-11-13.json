@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-13",
  "docs_baseline": 115053,
- "docs_recent": 8016,
+ "docs_recent": 8020,
  "fields": {
   "ai": [
    {
@@ -1396,6 +1396,37 @@
     "examples": [
      {
       "source": "media",
+      "title": "From Bollywood to Clippy: Nvidia scandal, Outlook glitch fuel meme storm"
+     },
+     {
+      "source": "media",
+      "title": "Megaspeed's links to rural Australian store raise fresh questions in Nvidia scandal"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 10,
+    "recent": 6,
+    "score": 12.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia scandal",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO"
      },
      {
@@ -1410,7 +1441,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 10,
+    "rank": 11,
     "recent": 7,
     "score": 10.5,
     "sources": [
@@ -1420,37 +1451,6 @@
     "term": "colette kress",
     "voices": 6,
     "z": 7.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Megaspeed's links to rural Australian store raise fresh questions in Nvidia scandal"
-     },
-     {
-      "source": "media",
-      "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom"
-     },
-     {
-      "source": "hn",
-      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action"
-     }
-    ],
-    "expected": 0.0,
-    "field": "semiconductor",
-    "is_new": true,
-    "rank": 11,
-    "recent": 5,
-    "score": 10.0,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "nvidia scandal",
-    "voices": 5,
-    "z": 5.0
    },
    {
     "baseline": 0,

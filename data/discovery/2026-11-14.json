@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-14",
  "docs_baseline": 115198,
- "docs_recent": 7971,
+ "docs_recent": 7975,
  "fields": {
   "ai": [
    {
@@ -552,7 +552,7 @@
     "examples": [
      {
       "source": "media",
-      "title": "What Losing Measles Elimination Says About The United States"
+      "title": "U.S. Loses Measles Elimination Status: What It Means And Why It Matters"
      },
      {
       "source": "hn",
@@ -573,7 +573,7 @@
      "hn",
      "media"
     ],
-    "term": "measles elimination",
+    "term": "measles elimination status",
     "voices": 4,
     "z": 4.0
    },

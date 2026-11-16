@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-15",
  "docs_baseline": 115020,
- "docs_recent": 8074,
+ "docs_recent": 8073,
  "fields": {
   "ai": [
    {
@@ -71,23 +71,23 @@
     "examples": [
      {
       "source": "media",
+      "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap"
+     },
+     {
+      "source": "media",
       "title": "Anthropic IPO Arrives at a Pivotal AI Moment"
      },
      {
       "source": "media",
       "title": "Anthropic’s IPO Makes Dario Amodei the New Face of the AI Boom"
-     },
-     {
-      "source": "media",
-      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead"
      }
     ],
     "expected": 6.07,
     "field": "ai",
     "is_new": false,
     "rank": 3,
-    "recent": 21,
-    "score": 11.24,
+    "recent": 22,
+    "score": 11.99,
     "sources": [
      "hn",
      "media",
@@ -95,7 +95,7 @@
     ],
     "term": "anthropic ipo",
     "voices": 15,
-    "z": 5.62
+    "z": 5.99
    },
    {
     "baseline": 30,
@@ -548,36 +548,6 @@
     "z": 5.0
    },
    {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "US air travel disruptions to persist until late on Sunday, FAA head says"
-     },
-     {
-      "source": "media",
-      "title": "Air Travel Chaos Puts FAA Systems in Focus"
-     },
-     {
-      "source": "hn",
-      "title": "The single router in southern Arkansas that ground air travel to a halt"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 4,
-    "recent": 5,
-    "score": 7.11,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "air travel",
-    "voices": 5,
-    "z": 4.74
-   },
-   {
     "baseline": 0,
     "examples": [
      {
@@ -596,7 +566,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 5,
+    "rank": 4,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -626,7 +596,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 6,
+    "rank": 5,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -636,6 +606,36 @@
     "term": "cybercab for personal",
     "voices": 4,
     "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Air Travel Chaos Puts FAA Systems in Focus"
+     },
+     {
+      "source": "hn",
+      "title": "The single router in southern Arkansas that ground air travel to a halt"
+     },
+     {
+      "source": "hn",
+      "title": "One router overload brought US air travel to a standstill"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "air travel",
+    "voices": 4,
+    "z": 3.78
    },
    {
     "baseline": 1,

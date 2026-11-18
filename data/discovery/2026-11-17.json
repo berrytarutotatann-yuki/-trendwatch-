@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-17",
  "docs_baseline": 115470,
- "docs_recent": 8385,
+ "docs_recent": 8399,
  "fields": {
   "ai": [
    {
@@ -97,6 +97,36 @@
     "z": 7.05
    },
    {
+    "baseline": 86,
+    "examples": [
+     {
+      "source": "media",
+      "title": "How To Evaluate Anthropic's IPO Beyond Its First Trading Day"
+     },
+     {
+      "source": "media",
+      "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO Yields 10X Returns for Venture Firms"
+     }
+    ],
+    "expected": 6.69,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 24,
+    "score": 9.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 13,
+    "z": 6.24
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -115,7 +145,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 4,
+    "rank": 5,
     "recent": 9,
     "score": 9.0,
     "sources": [
@@ -144,7 +174,7 @@
     "expected": 2.26,
     "field": "ai",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 13,
     "score": 8.93,
     "sources": [
@@ -154,36 +184,6 @@
     "term": "air traffic",
     "voices": 10,
     "z": 5.95
-   },
-   {
-    "baseline": 86,
-    "examples": [
-     {
-      "source": "media",
-      "title": "How To Evaluate Anthropic's IPO Beyond Its First Trading Day"
-     },
-     {
-      "source": "media",
-      "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues"
-     },
-     {
-      "source": "media",
-      "title": "The Investors Set to Win Big in Anthropic’s IPO"
-     }
-    ],
-    "expected": 6.69,
-    "field": "ai",
-    "is_new": false,
-    "rank": 6,
-    "recent": 23,
-    "score": 8.82,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "anthropic ipo",
-    "voices": 13,
-    "z": 5.88
    },
    {
     "baseline": 1,
@@ -966,6 +966,36 @@
     "z": 1.98
    },
    {
+    "baseline": 86,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: UBS set to accept defeat over Swiss capital curbs, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Energean, BP Egypt asset talks stall without government backing, sources say"
+     },
+     {
+      "source": "media",
+      "title": "Dangote Refinery to expand IPO by up to 30% to $2.1 billion, sources say"
+     }
+    ],
+    "expected": 6.69,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 12,
+    "score": 2.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "sources say",
+    "voices": 4,
+    "z": 1.92
+   },
+   {
     "baseline": 11,
     "examples": [
      {
@@ -984,7 +1014,7 @@
     "expected": 0.86,
     "field": "power",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 3,
     "score": 2.36,
     "sources": [
@@ -994,36 +1024,6 @@
     "term": "jet fuel",
     "voices": 3,
     "z": 1.57
-   },
-   {
-    "baseline": 86,
-    "examples": [
-     {
-      "source": "media",
-      "title": "EXCLUSIVE: UBS set to accept defeat over Swiss capital curbs, sources say"
-     },
-     {
-      "source": "media",
-      "title": "Dangote Refinery to expand IPO by up to 30% to $2.1 billion, sources say"
-     },
-     {
-      "source": "media",
-      "title": "EXCLUSIVE: Japan warns arms suppliers of deep cuts to expected orders due to budget squeeze, sources say"
-     }
-    ],
-    "expected": 6.69,
-    "field": "power",
-    "is_new": false,
-    "rank": 4,
-    "recent": 11,
-    "score": 2.33,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "sources say",
-    "voices": 4,
-    "z": 1.55
    },
    {
     "baseline": 20,
@@ -1106,15 +1106,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 205,
-    "score": 98.9,
+    "recent": 204,
+    "score": 98.4,
     "sources": [
      "hn",
      "media"
     ],
     "term": "jensen huang",
     "voices": 105,
-    "z": 65.93
+    "z": 65.6
    },
    {
     "baseline": 37,
@@ -1301,6 +1301,36 @@
     "examples": [
      {
       "source": "media",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster"
+     },
+     {
+      "source": "media",
+      "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson"
+     },
+     {
+      "source": "media",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang ouster",
+    "voices": 6,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "Nvidia’s Board Should Come Clean on Huang’s Resignation"
      },
      {
@@ -1315,7 +1345,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -1345,7 +1375,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 9,
+    "rank": 10,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -1375,7 +1405,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 10,
+    "rank": 11,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -1385,36 +1415,6 @@
     "term": "huang nvidia",
     "voices": 5,
     "z": 5.0
-   },
-   {
-    "baseline": 18,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Huang pitches Nvidia comeback, WSJ reports SEC probing the chipmaker"
-     },
-     {
-      "source": "media",
-      "title": "SEC Is Probing Nvidia Amid Jensen Huang’s Exit, WSJ Reports"
-     },
-     {
-      "source": "media",
-      "title": "GM taps executive search firm to find successor to CEO Barra, WSJ reports"
-     }
-    ],
-    "expected": 1.4,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 11,
-    "recent": 8,
-    "score": 6.39,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "wsj reports",
-    "voices": 5,
-    "z": 4.26
    },
    {
     "baseline": 8,

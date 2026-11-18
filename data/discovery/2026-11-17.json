@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-17",
  "docs_baseline": 115470,
- "docs_recent": 7093,
+ "docs_recent": 8385,
  "fields": {
   "ai": [
    {
@@ -26,15 +26,15 @@
     "field": "ai",
     "is_new": true,
     "rank": 1,
-    "recent": 40,
-    "score": 60.0,
+    "recent": 41,
+    "score": 61.5,
     "sources": [
      "hn",
      "media"
     ],
     "term": "ground stop",
-    "voices": 38,
-    "z": 40.0
+    "voices": 39,
+    "z": 41.0
    },
    {
     "baseline": 0,
@@ -56,15 +56,15 @@
     "field": "ai",
     "is_new": true,
     "rank": 2,
-    "recent": 8,
-    "score": 12.0,
+    "recent": 11,
+    "score": 16.5,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "california sues openai",
-    "voices": 8,
-    "z": 8.0
+    "term": "california sues",
+    "voices": 11,
+    "z": 11.0
    },
    {
     "baseline": 6,
@@ -97,34 +97,33 @@
     "z": 7.05
    },
    {
-    "baseline": 1,
+    "baseline": 0,
     "examples": [
      {
-      "source": "media",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you"
-     },
-     {
-      "source": "media",
-      "title": "OpenAI Launches ChatGPT Wallet"
+      "source": "hn",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users"
      },
      {
       "source": "hn",
-      "title": "ChatGPT Wallet"
+      "title": "I hate GPT-6.2 Astra"
+     },
+     {
+      "source": "hn",
+      "title": "GPT-6.2 Astra and GPT-6.2 Sol"
      }
     ],
-    "expected": 0.08,
+    "expected": 0.0,
     "field": "ai",
-    "is_new": false,
+    "is_new": true,
     "rank": 4,
-    "recent": 6,
-    "score": 8.56,
+    "recent": 9,
+    "score": 9.0,
     "sources": [
-     "hn",
-     "media"
+     "hn"
     ],
-    "term": "chatgpt wallet",
-    "voices": 6,
-    "z": 5.7
+    "term": "gpt-6.2 astra",
+    "voices": 9,
+    "z": 9.0
    },
    {
     "baseline": 29,
@@ -146,45 +145,15 @@
     "field": "ai",
     "is_new": false,
     "rank": 5,
-    "recent": 12,
-    "score": 8.1,
+    "recent": 13,
+    "score": 8.93,
     "sources": [
      "hn",
      "media"
     ],
     "term": "air traffic",
-    "voices": 9,
-    "z": 5.4
-   },
-   {
-    "baseline": 11,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Commerce Department Releases Remote Access Rule"
-     },
-     {
-      "source": "media",
-      "title": "Commerce Department Finalizing Long-Awaited AI Remote Access Rule"
-     },
-     {
-      "source": "hn",
-      "title": "BIS Issues Rule Addressing Remote Access to American AI"
-     }
-    ],
-    "expected": 0.86,
-    "field": "ai",
-    "is_new": false,
-    "rank": 6,
-    "recent": 8,
-    "score": 7.87,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "remote access",
-    "voices": 7,
-    "z": 5.24
+    "voices": 10,
+    "z": 5.95
    },
    {
     "baseline": 86,
@@ -205,105 +174,137 @@
     "expected": 6.69,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
-    "recent": 21,
-    "score": 7.74,
+    "rank": 6,
+    "recent": 23,
+    "score": 8.82,
     "sources": [
      "hn",
      "media"
     ],
     "term": "anthropic ipo",
-    "voices": 11,
-    "z": 5.16
+    "voices": 13,
+    "z": 5.88
    },
    {
     "baseline": 1,
     "examples": [
      {
-      "source": "hn",
-      "title": "AWS Emulator"
+      "source": "media",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Launches ChatGPT Wallet"
      },
      {
       "source": "hn",
-      "title": "Test applications against AWS locally with AWS Emulator"
-     },
-     {
-      "source": "hn",
-      "title": "AWS Emulator and the engineer's job when agents write the code"
+      "title": "ChatGPT Wallet"
      }
     ],
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 8,
-    "recent": 5,
-    "score": 4.74,
+    "rank": 7,
+    "recent": 6,
+    "score": 8.56,
     "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chatgpt wallet",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Commerce Department Releases Remote Access Rule"
+     },
+     {
+      "source": "media",
+      "title": "Commerce Department Finalizing Long-Awaited AI Remote Access Rule"
+     },
+     {
+      "source": "hn",
+      "title": "BIS Issues Rule Addressing Remote Access to American AI"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 8,
+    "score": 7.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "remote access",
+    "voices": 7,
+    "z": 5.24
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher"
+     },
+     {
+      "source": "hn",
+      "title": "Experiments in Weight-Space Programming"
+     },
+     {
+      "source": "hn",
+      "title": "Weight-Space Programming Doesn't Need Transformers"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 7.45,
+    "sources": [
+     "arxiv",
      "hn"
     ],
-    "term": "aws emulator",
-    "voices": 5,
-    "z": 4.74
+    "term": "weight-space programming",
+    "voices": 6,
+    "z": 4.97
    },
    {
-    "baseline": 0,
+    "baseline": 5,
     "examples": [
      {
       "source": "media",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps"
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents"
      },
      {
       "source": "hn",
-      "title": "Google Tabletop"
+      "title": "Show HN: Puzzle for AI shopping agents inside our skincare store"
      },
      {
-      "source": "hn",
-      "title": "Google Tabletop"
+      "source": "arxiv",
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents"
      }
     ],
-    "expected": 0.0,
+    "expected": 0.39,
     "field": "ai",
-    "is_new": true,
-    "rank": 9,
-    "recent": 3,
-    "score": 4.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "google tabletop",
-    "voices": 3,
-    "z": 3.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Trump Administration to Name Nvidia Among AI ‘National Champions’"
-     },
-     {
-      "source": "media",
-      "title": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports"
-     },
-     {
-      "source": "hn",
-      "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
+    "is_new": false,
     "rank": 10,
-    "recent": 3,
-    "score": 4.5,
+    "recent": 4,
+    "score": 6.13,
     "sources": [
+     "arxiv",
      "hn",
      "media"
     ],
-    "term": "national champions",
-    "voices": 3,
-    "z": 3.0
+    "term": "shopping agents",
+    "voices": 4,
+    "z": 3.06
    },
    {
     "baseline": 34,
@@ -325,135 +326,132 @@
     "field": "ai",
     "is_new": false,
     "rank": 11,
-    "recent": 8,
-    "score": 4.21,
+    "recent": 10,
+    "score": 5.78,
     "sources": [
      "hn",
      "media"
     ],
     "term": "ai chips",
-    "voices": 8,
-    "z": 2.81
+    "voices": 10,
+    "z": 3.85
    },
    {
-    "baseline": 50,
+    "baseline": 0,
     "examples": [
      {
-      "source": "media",
-      "title": "China Bank Rally Gains Momentum as Global AI Trade Unravels"
+      "source": "hn",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users"
      },
      {
-      "source": "media",
-      "title": "Nvidia turmoil marks the end of easy money for the AI trade"
+      "source": "hn",
+      "title": "GPT-6.2 Astra and Sol deliver most of the AA Cost per Task Pareto frontier"
      },
      {
-      "source": "media",
-      "title": "Inside the Frenetic Month That Shook Wall Street’s AI Trade"
+      "source": "hn",
+      "title": "GPT-6.2 Astra and Sol System Card"
      }
     ],
-    "expected": 3.89,
+    "expected": 0.0,
     "field": "ai",
-    "is_new": false,
+    "is_new": true,
     "rank": 12,
-    "recent": 10,
-    "score": 4.15,
+    "recent": 5,
+    "score": 5.0,
     "sources": [
-     "hn",
-     "media"
+     "hn"
     ],
-    "term": "ai trade",
-    "voices": 4,
-    "z": 2.76
+    "term": "astra and sol",
+    "voices": 5,
+    "z": 5.0
    },
    {
-    "baseline": 2,
+    "baseline": 1,
     "examples": [
      {
-      "source": "media",
-      "title": "White House AI Task Force Discussed Cyber Threats, Critical Infrastructure at Second Meeting"
+      "source": "hn",
+      "title": "AWS Emulator"
      },
      {
       "source": "hn",
-      "title": "United to block customers from using AI agents, citing cyber threats"
+      "title": "Test applications against AWS locally with AWS Emulator"
      },
      {
       "source": "hn",
-      "title": "An AQI-style index for cyber threats on the internet"
+      "title": "AWS Emulator and the engineer's job when agents write the code"
      }
     ],
-    "expected": 0.16,
+    "expected": 0.08,
     "field": "ai",
     "is_new": false,
     "rank": 13,
-    "recent": 3,
-    "score": 3.97,
+    "recent": 5,
+    "score": 4.74,
     "sources": [
-     "hn",
-     "media"
+     "hn"
     ],
-    "term": "cyber threats",
-    "voices": 3,
-    "z": 2.65
+    "term": "aws emulator",
+    "voices": 5,
+    "z": 4.74
    },
    {
-    "baseline": 2,
+    "baseline": 6,
     "examples": [
      {
-      "source": "media",
-      "title": "No, AI agents did not discover a previously unknown Maya site"
+      "source": "hn",
+      "title": "Show HN: Triton-ng – Write Nvidia Triton inference back ends in Rust"
      },
      {
       "source": "hn",
-      "title": "Found an unmapped Maya site in Mexico, using Lidar data from a NASA dataset"
+      "title": "Show HN: LaunchStack CLI – Drift-safe scaffolding CLI for TypeScript back ends"
      },
      {
       "source": "hn",
-      "title": "My AI Agents Found an Unmapped Maya Site in Mexico"
+      "title": "Show HN: ShadowDiff – Shadow testing and SQL diffing for AI-migrated back ends"
      }
     ],
-    "expected": 0.16,
+    "expected": 0.47,
     "field": "ai",
     "is_new": false,
     "rank": 14,
-    "recent": 3,
-    "score": 3.97,
+    "recent": 6,
+    "score": 4.57,
     "sources": [
-     "hn",
-     "media"
+     "hn"
     ],
-    "term": "maya site",
-    "voices": 3,
-    "z": 2.65
+    "term": "back ends",
+    "voices": 6,
+    "z": 4.57
    },
    {
-    "baseline": 15,
+    "baseline": 0,
     "examples": [
      {
       "source": "media",
-      "title": "Turning Your Business Into An AI Lab Before Selling It To Clients"
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps"
      },
      {
       "source": "hn",
-      "title": "Show HN: AI lab race"
+      "title": "Google Tabletop"
      },
      {
       "source": "hn",
-      "title": "A board game where you play an AI lab CEO racing to AGI [video]"
+      "title": "Google Tabletop"
      }
     ],
-    "expected": 1.17,
+    "expected": 0.0,
     "field": "ai",
-    "is_new": false,
+    "is_new": true,
     "rank": 15,
-    "recent": 5,
-    "score": 3.91,
+    "recent": 3,
+    "score": 4.5,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "ai lab",
-    "voices": 5,
-    "z": 2.6
+    "term": "google tabletop",
+    "voices": 3,
+    "z": 3.0
    }
   ],
   "other": [
@@ -507,15 +505,45 @@
     "field": "other",
     "is_new": true,
     "rank": 2,
-    "recent": 10,
-    "score": 15.0,
+    "recent": 13,
+    "score": 19.5,
     "sources": [
      "hn",
      "media"
     ],
     "term": "measles elimination",
-    "voices": 7,
-    "z": 10.0
+    "voices": 10,
+    "z": 13.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak 'illegal'"
+     },
+     {
+      "source": "media",
+      "title": "Deutsche Bank leaks test CEO Sewing's pledge to reform"
+     },
+     {
+      "source": "media",
+      "title": "Deutsche Bank fined €8 million over botched Postbank integration"
+     }
+    ],
+    "expected": 0.7,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 11,
+    "score": 11.85,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "deutsche bank",
+    "voices": 8,
+    "z": 7.9
    },
    {
     "baseline": 4,
@@ -536,7 +564,7 @@
     "expected": 0.31,
     "field": "other",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 9,
     "score": 11.38,
     "sources": [
@@ -546,6 +574,36 @@
     "term": "james bond",
     "voices": 8,
     "z": 7.59
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites"
+     },
+     {
+      "source": "hn",
+      "title": "Preliminary data – Vulcan rocket failure may not be due to BE-4 engines"
+     },
+     {
+      "source": "hn",
+      "title": "Boeing-Lockheed Vulcan rocket fails, 40 Amazon satellites lost"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "vulcan rocket",
+    "voices": 5,
+    "z": 6.0
    },
    {
     "baseline": 0,
@@ -566,7 +624,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 4,
+    "rank": 6,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -574,36 +632,6 @@
      "media"
     ],
     "term": "prostate cancer screening",
-    "voices": 5,
-    "z": 5.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites"
-     },
-     {
-      "source": "hn",
-      "title": "Boeing-Lockheed Vulcan rocket fails, 40 Amazon satellites lost"
-     },
-     {
-      "source": "hn",
-      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 5,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "rocket fails",
     "voices": 5,
     "z": 5.0
    },
@@ -626,7 +654,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 6,
+    "rank": 7,
     "recent": 5,
     "score": 7.11,
     "sources": [
@@ -634,6 +662,66 @@
      "media"
     ],
     "term": "air travel",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage"
+     },
+     {
+      "source": "hn",
+      "title": "Some Apple services restored after outage"
+     },
+     {
+      "source": "hn",
+      "title": "iCloud and Other Apple Services Are Down in an Apparent Outage"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple services",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "iPhone Duo: Apple Just Fixed The Foldable’s Biggest Complaint By Adding Face Unlock"
+     },
+     {
+      "source": "media",
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID"
+     },
+     {
+      "source": "media",
+      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "face unlock",
     "voices": 5,
     "z": 4.74
    },
@@ -656,7 +744,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 7,
+    "rank": 10,
     "recent": 6,
     "score": 6.0,
     "sources": [
@@ -685,7 +773,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 8,
+    "rank": 11,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -695,6 +783,35 @@
     "term": "amazon satellites",
     "voices": 4,
     "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)"
+     },
+     {
+      "source": "hn",
+      "title": "Nintendo to End 'Sign in with Apple' Support in January"
+     },
+     {
+      "source": "hn",
+      "title": "'Apple Support Community' Permanently Closing on November 20"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "apple support",
+    "voices": 6,
+    "z": 6.0
    },
    {
     "baseline": 0,
@@ -715,7 +832,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 9,
+    "rank": 13,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -745,7 +862,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 10,
+    "rank": 14,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -775,7 +892,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 11,
+    "rank": 15,
     "recent": 4,
     "score": 5.67,
     "sources": [
@@ -785,128 +902,39 @@
     "term": "email outage",
     "voices": 4,
     "z": 3.78
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "iPhone Duo: Apple Just Fixed The Foldable’s Biggest Complaint By Adding Face Unlock"
-     },
-     {
-      "source": "media",
-      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID"
-     },
-     {
-      "source": "media",
-      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 12,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "face unlock",
-    "voices": 4,
-    "z": 3.78
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Microsoft Outlook is still down"
-     },
-     {
-      "source": "media",
-      "title": "Microsoft’s Outlook email hit by new outage"
-     },
-     {
-      "source": "hn",
-      "title": "Microsoft Outlook/365 still down after 12 hours"
-     }
-    ],
-    "expected": 0.08,
-    "field": "other",
-    "is_new": false,
-    "rank": 13,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "microsoft outlook",
-    "voices": 4,
-    "z": 3.78
-   },
-   {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Humble Bundle redesign removes two-factor verification from settings"
-     },
-     {
-      "source": "hn",
-      "title": "Humble Bundle Undergoes a Vibecoded-Looking Redesign"
-     },
-     {
-      "source": "hn",
-      "title": "\"Humble Bundle just killed most of their security through vibecoding\""
-     }
-    ],
-    "expected": 0.16,
-    "field": "other",
-    "is_new": false,
-    "rank": 14,
-    "recent": 4,
-    "score": 5.36,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "humble bundle",
-    "voices": 4,
-    "z": 3.58
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Nintendo to End 'Sign in with Apple' Support in January"
-     },
-     {
-      "source": "hn",
-      "title": "'Apple Support Community' Permanently Closing on November 20"
-     },
-     {
-      "source": "hn",
-      "title": "'Apple Support Community' Permanently Closing on November 20"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 15,
-    "recent": 5,
-    "score": 5.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "apple support",
-    "voices": 5,
-    "z": 5.0
    }
   ],
   "power": [
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says"
+     },
+     {
+      "source": "media",
+      "title": "India's Clean Max plans $5.3 billion clean energy investment to power AI computing facility"
+     },
+     {
+      "source": "media",
+      "title": "India approves high-capacity power corridor to support clean energy boom"
+     }
+    ],
+    "expected": 1.63,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 5,
+    "score": 3.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "clean energy",
+    "voices": 4,
+    "z": 2.07
+   },
    {
     "baseline": 7,
     "examples": [
@@ -926,7 +954,7 @@
     "expected": 0.54,
     "field": "power",
     "is_new": false,
-    "rank": 1,
+    "rank": 2,
     "recent": 3,
     "score": 2.96,
     "sources": [
@@ -956,7 +984,7 @@
     "expected": 0.86,
     "field": "power",
     "is_new": false,
-    "rank": 2,
+    "rank": 3,
     "recent": 3,
     "score": 2.36,
     "sources": [
@@ -986,7 +1014,7 @@
     "expected": 6.69,
     "field": "power",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 11,
     "score": 2.33,
     "sources": [
@@ -1016,7 +1044,7 @@
     "expected": 1.56,
     "field": "power",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 4,
     "score": 2.29,
     "sources": [
@@ -1028,34 +1056,33 @@
     "z": 1.53
    },
    {
-    "baseline": 21,
+    "baseline": 6,
     "examples": [
      {
-      "source": "media",
-      "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says"
+      "source": "hn",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users"
      },
      {
-      "source": "media",
-      "title": "India's Clean Max plans $5.3 billion clean energy investment to power AI computing facility"
+      "source": "hn",
+      "title": "ISO coding agent power users to try a new cloud – VC Backed company"
      },
      {
-      "source": "media",
-      "title": "India approves high-capacity power corridor to support clean energy boom"
+      "source": "hn",
+      "title": "Procopticon – A process manager for macOS for power users"
      }
     ],
-    "expected": 1.63,
+    "expected": 0.47,
     "field": "power",
     "is_new": false,
-    "rank": 5,
-    "recent": 4,
-    "score": 2.19,
+    "rank": 6,
+    "recent": 3,
+    "score": 2.09,
     "sources": [
-     "hn",
-     "media"
+     "hn"
     ],
-    "term": "clean energy",
+    "term": "power users",
     "voices": 3,
-    "z": 1.46
+    "z": 2.09
    }
   ],
   "semiconductor": [
@@ -1079,15 +1106,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 1,
-    "recent": 194,
-    "score": 93.38,
+    "recent": 205,
+    "score": 98.9,
     "sources": [
      "hn",
      "media"
     ],
     "term": "jensen huang",
-    "voices": 94,
-    "z": 62.25
+    "voices": 105,
+    "z": 65.93
    },
    {
     "baseline": 37,
@@ -1109,15 +1136,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 39,
-    "score": 27.52,
+    "recent": 42,
+    "score": 29.8,
     "sources": [
      "hn",
      "media"
     ],
     "term": "nvidia ceo",
-    "voices": 25,
-    "z": 18.34
+    "voices": 28,
+    "z": 19.87
    },
    {
     "baseline": 0,
@@ -1150,36 +1177,6 @@
     "z": 18.0
    },
    {
-    "baseline": 3,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State"
-     },
-     {
-      "source": "media",
-      "title": "Megaspeed says Alice Huang left the company in August 2025"
-     },
-     {
-      "source": "media",
-      "title": "Companies Linked to Alice Huang Invested in DeepSeek"
-     }
-    ],
-    "expected": 0.23,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 4,
-    "recent": 17,
-    "score": 22.65,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "alice huang",
-    "voices": 13,
-    "z": 15.1
-   },
-   {
     "baseline": 8,
     "examples": [
      {
@@ -1198,46 +1195,46 @@
     "expected": 0.62,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
-    "recent": 19,
-    "score": 21.64,
+    "rank": 4,
+    "recent": 20,
+    "score": 22.82,
     "sources": [
      "hn",
      "media"
     ],
     "term": "nvidia board",
-    "voices": 12,
-    "z": 14.43
+    "voices": 13,
+    "z": 15.21
    },
    {
-    "baseline": 0,
+    "baseline": 3,
     "examples": [
      {
       "source": "media",
-      "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO"
+      "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State"
      },
      {
       "source": "media",
-      "title": "Interim Nvidia CEO Colette Kress Has Tried to Tame Nvidia’s Riskiest Bets"
+      "title": "Megaspeed says Alice Huang left the company in August 2025"
      },
      {
       "source": "media",
-      "title": "Who Is Colette Kress? Meet Nvidia’s New Interim CEO"
+      "title": "Companies Linked to Alice Huang Invested in DeepSeek"
      }
     ],
-    "expected": 0.0,
+    "expected": 0.23,
     "field": "semiconductor",
-    "is_new": true,
-    "rank": 6,
-    "recent": 7,
-    "score": 10.5,
+    "is_new": false,
+    "rank": 5,
+    "recent": 17,
+    "score": 22.65,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "colette kress",
-    "voices": 6,
-    "z": 7.0
+    "term": "alice huang",
+    "voices": 13,
+    "z": 15.1
    },
    {
     "baseline": 1,
@@ -1258,16 +1255,76 @@
     "expected": 0.08,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 7,
-    "recent": 7,
-    "score": 10.0,
+    "rank": 6,
+    "recent": 8,
+    "score": 11.45,
     "sources": [
      "hn",
      "media"
     ],
     "term": "nvidia scandal",
+    "voices": 7,
+    "z": 7.63
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO"
+     },
+     {
+      "source": "media",
+      "title": "Interim Nvidia CEO Colette Kress Has Tried to Tame Nvidia’s Riskiest Bets"
+     },
+     {
+      "source": "media",
+      "title": "Who Is Colette Kress? Meet Nvidia’s New Interim CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 7,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "colette kress",
     "voices": 6,
-    "z": 6.67
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s Board Should Come Clean on Huang’s Resignation"
+     },
+     {
+      "source": "media",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Resignation Quiets the AI Boom’s Best PR Asset"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang resignation",
+    "voices": 6,
+    "z": 6.0
    },
    {
     "baseline": 0,
@@ -1288,7 +1345,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 8,
+    "rank": 9,
     "recent": 5,
     "score": 7.5,
     "sources": [
@@ -1297,6 +1354,36 @@
     ],
     "term": "commerce department",
     "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia"
+     },
+     {
+      "source": "media",
+      "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era"
+     },
+     {
+      "source": "media",
+      "title": "Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal?"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang nvidia",
+    "voices": 5,
     "z": 5.0
    },
    {
@@ -1318,7 +1405,7 @@
     "expected": 1.4,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 9,
+    "rank": 11,
     "recent": 8,
     "score": 6.39,
     "sources": [
@@ -1348,7 +1435,7 @@
     "expected": 0.62,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 10,
+    "rank": 12,
     "recent": 6,
     "score": 6.33,
     "sources": [
@@ -1378,7 +1465,7 @@
     "expected": 0.31,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 11,
+    "rank": 13,
     "recent": 5,
     "score": 6.14,
     "sources": [
@@ -1408,7 +1495,7 @@
     "expected": 0.31,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 12,
+    "rank": 14,
     "recent": 5,
     "score": 6.14,
     "sources": [
@@ -1438,7 +1525,7 @@
     "expected": 0.0,
     "field": "semiconductor",
     "is_new": true,
-    "rank": 13,
+    "rank": 15,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -1447,66 +1534,6 @@
     ],
     "term": "ex-nvidia ceo",
     "voices": 3,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
-     },
-     {
-      "source": "media",
-      "title": "The Morning Risk Report: Huang’s Departure From Nvidia Unlikely to Mollify Congress, Plaintiffs’ Lawyers"
-     },
-     {
-      "source": "media",
-      "title": "Nvidia In Turmoil: What Jensen Huang’s Departure Means For A.I."
-     }
-    ],
-    "expected": 0.0,
-    "field": "semiconductor",
-    "is_new": true,
-    "rank": 14,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "huang departure",
-    "voices": 4,
-    "z": 4.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia"
-     },
-     {
-      "source": "media",
-      "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era"
-     },
-     {
-      "source": "media",
-      "title": "Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal?"
-     }
-    ],
-    "expected": 0.0,
-    "field": "semiconductor",
-    "is_new": true,
-    "rank": 15,
-    "recent": 4,
-    "score": 6.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "huang nvidia",
-    "voices": 4,
     "z": 4.0
    }
   ]

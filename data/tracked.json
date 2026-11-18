@@ -23,6 +23,12 @@
   "origin": "auto",
   "score_at_add": 17.23
  },
+ "california sues": {
+  "added": "2026-11-18",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 16.5
+ },
  "california sues openai": {
   "added": "2026-11-17",
   "field": "ai",
@@ -124,12 +130,6 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 9.24
- },
- "macbook pro": {
-  "added": "2026-10-28",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 10.03
  },
  "microsoft data": {
   "added": "2026-11-13",

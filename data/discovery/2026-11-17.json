@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-17",
  "docs_baseline": 115470,
- "docs_recent": 8399,
+ "docs_recent": 8398,
  "fields": {
   "ai": [
    {
@@ -105,26 +105,26 @@
      },
      {
       "source": "media",
-      "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues"
+      "title": "Stocks Fall on Nvidia Selloff Before Anthropic IPO: Markets Wrap"
      },
      {
       "source": "media",
-      "title": "Anthropic IPO Yields 10X Returns for Venture Firms"
+      "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues"
      }
     ],
     "expected": 6.69,
     "field": "ai",
     "is_new": false,
     "rank": 4,
-    "recent": 24,
-    "score": 9.36,
+    "recent": 25,
+    "score": 9.91,
     "sources": [
      "hn",
      "media"
     ],
     "term": "anthropic ipo",
     "voices": 13,
-    "z": 6.24
+    "z": 6.6
    },
    {
     "baseline": 0,

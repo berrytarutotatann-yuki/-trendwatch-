@@ -1,0 +1,1454 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-18",
+ "docs_baseline": 115230,
+ "docs_recent": 8594,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Top four US airlines face $345 million hit from FAA ground stop, Bernstein estimates"
+     },
+     {
+      "source": "media",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop"
+     },
+     {
+      "source": "media",
+      "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship’s Longest Test Flight"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 1,
+    "recent": 42,
+    "score": 63.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ground stop",
+    "voices": 39,
+    "z": 42.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "California sues OpenAI over rogue AI hacking incidents"
+     },
+     {
+      "source": "media",
+      "title": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies"
+     },
+     {
+      "source": "media",
+      "title": "California Sues OpenAI Over Hugging Face Attack, Other Cybersecurity Incidents"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 14,
+    "score": 21.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "california sues",
+    "voices": 14,
+    "z": 14.0
+   },
+   {
+    "baseline": 18,
+    "examples": [
+     {
+      "source": "media",
+      "title": "'GTA VI' publisher Take-Two jumps as gamers relish blockbuster release"
+     },
+     {
+      "source": "media",
+      "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI"
+     },
+     {
+      "source": "media",
+      "title": "How GTA VI Became the Most Expensive Video Game Ever Made"
+     }
+    ],
+    "expected": 1.4,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 16,
+    "score": 14.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gta vi",
+    "voices": 13,
+    "z": 9.42
+   },
+   {
+    "baseline": 90,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tech Stocks Advance as Investors Look to Anthropic IPO Test"
+     },
+     {
+      "source": "media",
+      "title": "Seesaw Day for Markets, Anthropic IPO Looms"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO to mint thousands of millionaires"
+     }
+    ],
+    "expected": 7.0,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 28,
+    "score": 11.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 14,
+    "z": 7.42
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "GPT-6.2 Astra Formalizes Smoktunowicz's Gap Theorem"
+     },
+     {
+      "source": "hn",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users"
+     },
+     {
+      "source": "hn",
+      "title": "I hate GPT-6.2 Astra"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 5,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "gpt-6.2 astra",
+    "voices": 9,
+    "z": 10.0
+   },
+   {
+    "baseline": 29,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Flights Grounded Over Air Traffic Communication Issue"
+     },
+     {
+      "source": "media",
+      "title": "US flight shutdown exposes deepening air traffic network crisis"
+     },
+     {
+      "source": "media",
+      "title": "Old air traffic control equipment regularly disrupts US flights"
+     }
+    ],
+    "expected": 2.26,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 13,
+    "score": 8.93,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "air traffic",
+    "voices": 10,
+    "z": 5.95
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI Launches ChatGPT Wallet"
+     },
+     {
+      "source": "hn",
+      "title": "ChatGPT Wallet"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chatgpt wallet",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Commerce Department Releases Remote Access Rule"
+     },
+     {
+      "source": "media",
+      "title": "Commerce Department Finalizing Long-Awaited AI Remote Access Rule"
+     },
+     {
+      "source": "hn",
+      "title": "BIS Issues Rule Addressing Remote Access to American AI"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 8,
+    "score": 7.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "remote access",
+    "voices": 7,
+    "z": 5.24
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher"
+     },
+     {
+      "source": "hn",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher"
+     },
+     {
+      "source": "hn",
+      "title": "Experiments in Weight-Space Programming"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 7.45,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "weight-space programming",
+    "voices": 6,
+    "z": 4.97
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Puzzle for AI shopping agents inside our skincare store"
+     },
+     {
+      "source": "arxiv",
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents"
+     }
+    ],
+    "expected": 0.39,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 6.13,
+    "sources": [
+     "arxiv",
+     "hn",
+     "media"
+    ],
+    "term": "shopping agents",
+    "voices": 4,
+    "z": 3.06
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "As criticism mounts, Trump administration says tech outages not coordinated"
+     },
+     {
+      "source": "media",
+      "title": "What’s Behind the String of Tech Outages Disrupting Business and Travel"
+     },
+     {
+      "source": "hn",
+      "title": "Rubio says zero evidence tech outages related"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 11,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech outages",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 35,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week"
+     },
+     {
+      "source": "media",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal"
+     },
+     {
+      "source": "media",
+      "title": "Sex, Lies and AI Chips: Jensen Huang’s Last Days as Nvidia CEO"
+     }
+    ],
+    "expected": 2.72,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 10,
+    "score": 5.66,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai chips",
+    "voices": 10,
+    "z": 3.77
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "The Wong test: how to get agents to do anything, almost anything"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: MIT's How to Make (Almost) Anything as a 100-day email course"
+     },
+     {
+      "source": "hn",
+      "title": "How to CAD Almost Anything"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 6,
+    "score": 5.19,
+    "sources": [
+     "hn"
+    ],
+    "term": "almost anything",
+    "voices": 4,
+    "z": 5.19
+   },
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
+     },
+     {
+      "source": "hn",
+      "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks"
+     },
+     {
+      "source": "hn",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 4,
+    "score": 5.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "artex ai",
+    "voices": 4,
+    "z": 3.39
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Tencent releases weights of Hy4 Flash (220B size)"
+     },
+     {
+      "source": "hn",
+      "title": "Tencent Hy4 Flash"
+     },
+     {
+      "source": "hn",
+      "title": "Tencent Hy4 Flash"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "hy4 flash",
+    "voices": 3,
+    "z": 5.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft Outage Chaos Exposes The Risks Of Relying On One Cloud Provider"
+     },
+     {
+      "source": "media",
+      "title": "Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft Outage—What Happened And What To Do Next"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 1,
+    "recent": 18,
+    "score": 27.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft outage",
+    "voices": 16,
+    "z": 18.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US loses measles elimination status after nearly three decades; Mexico, Bolivia also lose designation"
+     },
+     {
+      "source": "media",
+      "title": "America’s Measles Elimination Comeback Starts With These 6 Steps"
+     },
+     {
+      "source": "media",
+      "title": "The U.S. Loses Measles Elimination Status—Here’s What That Means And The Path Forward"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 12,
+    "score": 17.23,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "measles elimination",
+    "voices": 9,
+    "z": 11.48
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Deutsche Bank shares open 1.9% lower a day after leak news"
+     },
+     {
+      "source": "media",
+      "title": "Data watchdog probes massive Deutsche Bank leak"
+     },
+     {
+      "source": "media",
+      "title": "Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak 'illegal'"
+     }
+    ],
+    "expected": 0.7,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 13,
+    "score": 14.15,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "deutsche bank",
+    "voices": 8,
+    "z": 9.43
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Robert Pattinson May Be Done Playing Batman, But Not Due To Bond"
+     },
+     {
+      "source": "media",
+      "title": "Robert Pattinson, Current Batman, Cast As New James Bond"
+     },
+     {
+      "source": "media",
+      "title": "Robert Pattinson is Amazon’s first James Bond"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 8,
+    "score": 11.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "robert pattinson",
+    "voices": 7,
+    "z": 7.63
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites"
+     },
+     {
+      "source": "hn",
+      "title": "Preliminary data – Vulcan rocket failure may not be due to BE-4 engines"
+     },
+     {
+      "source": "hn",
+      "title": "Boeing-Lockheed Vulcan rocket fails, 40 Amazon satellites lost"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "vulcan rocket",
+    "voices": 5,
+    "z": 6.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US air travel disruptions to persist until late on Sunday, FAA head says"
+     },
+     {
+      "source": "media",
+      "title": "Air Travel Chaos Puts FAA Systems in Focus"
+     },
+     {
+      "source": "hn",
+      "title": "Widespread outages hit banks, air travel, the NSA and Apple"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "air travel",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’"
+     },
+     {
+      "source": "hn",
+      "title": "Airbyte cloud down due to security incident"
+     },
+     {
+      "source": "hn",
+      "title": "Bitrise publishes security incident review: TTPs, IOCs, detection ideas"
+     }
+    ],
+    "expected": 2.88,
+    "field": "other",
+    "is_new": false,
+    "rank": 7,
+    "recent": 13,
+    "score": 7.71,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "security incident",
+    "voices": 13,
+    "z": 5.14
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "New Prostate Cancer Screening Guidelines—Here’s What You Need To Know"
+     },
+     {
+      "source": "media",
+      "title": "American Cancer Society calls for routine prostate cancer screening in guideline change"
+     },
+     {
+      "source": "hn",
+      "title": "Cancer society issues updated prostate cancer screening guidelines"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "prostate cancer screening",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites"
+     },
+     {
+      "source": "hn",
+      "title": "ULA says Vulcan lacked the oomph to get Amazon satellites to orbit"
+     },
+     {
+      "source": "hn",
+      "title": "Boeing-Lockheed Vulcan rocket fails, 40 Amazon satellites lost"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "amazon satellites",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage"
+     },
+     {
+      "source": "hn",
+      "title": "Some Apple services restored after outage"
+     },
+     {
+      "source": "hn",
+      "title": "iCloud and Other Apple Services Are Down in an Apparent Outage"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple services",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "iPhone Duo: Apple Just Fixed The Foldable’s Biggest Complaint By Adding Face Unlock"
+     },
+     {
+      "source": "media",
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID"
+     },
+     {
+      "source": "media",
+      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "face unlock",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Microsoft Outlook is still down"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft’s Outlook email hit by new outage"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft Outlook down? So was our homepage"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "microsoft outlook",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop"
+     },
+     {
+      "source": "hn",
+      "title": "United Halts Flights as It Addresses 'Widespread System Outage'"
+     },
+     {
+      "source": "hn",
+      "title": "United Airlines has a widespread system outage"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "system outage",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Framework Wireless Touchpad Keyboard"
+     },
+     {
+      "source": "hn",
+      "title": "Framework Wireless Touchpad Keyboard"
+     },
+     {
+      "source": "hn",
+      "title": "Framework Wireless Touchpad Keyboard available to pre-order"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 6,
+    "score": 6.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "framework wireless touchpad",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "SpaceX Catches Starship’s Upper Stage for the First Time"
+     },
+     {
+      "source": "media",
+      "title": "(Digital) SpaceX Catches Starship in Novel Landing"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX catches part of Starship rocket on its return to Earth"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex catches",
+    "voices": 4,
+    "z": 4.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Crash Clock Measures Dangerous Overcrowding in Low Earth Orbit"
+     },
+     {
+      "source": "hn",
+      "title": "Effects of a Nuclear Detonation in Low Earth Orbit"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Orbital - Everything (known) in Earth orbit, live in 3D, in the browser"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 3,
+    "score": 2.81,
+    "sources": [
+     "hn"
+    ],
+    "term": "earth orbit",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "India raises diesel, jet fuel export levies as inflation stays elevated"
+     },
+     {
+      "source": "hn",
+      "title": "Starship will use the Henry Hub to access energy 10x cheaper than Jet Fuel"
+     },
+     {
+      "source": "hn",
+      "title": "California startup aims to turn cow manure into sustainable jet fuel"
+     }
+    ],
+    "expected": 0.86,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 3,
+    "score": 2.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "jet fuel",
+    "voices": 3,
+    "z": 1.57
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "China to Meet All New Power Demand With Clean Energy, CCTV Says"
+     },
+     {
+      "source": "media",
+      "title": "India's Clean Max plans $5.3 billion clean energy investment to power AI computing facility"
+     },
+     {
+      "source": "hn",
+      "title": "Can Solar Murals Make Clean Energy More Attractive?"
+     }
+    ],
+    "expected": 1.71,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 2.09,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "clean energy",
+    "voices": 4,
+    "z": 1.39
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 119,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Holds Its First All Hands After Jensen Huang’s Departure"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Right-Hand Man Oversaw Chip Customers—Including Alice Huang"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’"
+     }
+    ],
+    "expected": 9.26,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 198,
+    "score": 88.41,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "jensen huang",
+    "voices": 104,
+    "z": 58.94
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 2,
+    "recent": 20,
+    "score": 30.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang exit",
+    "voices": 9,
+    "z": 20.0
+   },
+   {
+    "baseline": 40,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO"
+     }
+    ],
+    "expected": 3.11,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 41,
+    "score": 28.03,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia ceo",
+    "voices": 29,
+    "z": 18.69
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s Board Rebuffs Jensen"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Board Chair: Jensen Huang’s ‘Personal Behavior’ Doomed Him and He Won’t Be Reinstated"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO"
+     }
+    ],
+    "expected": 0.7,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 20,
+    "score": 22.2,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia board",
+    "voices": 13,
+    "z": 14.8
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘Grand Theft Auto 6’ Review: A Perfect Crime"
+     },
+     {
+      "source": "media",
+      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype"
+     },
+     {
+      "source": "media",
+      "title": "Grand Theft Auto VI has arrived"
+     }
+    ],
+    "expected": 1.09,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 21,
+    "score": 20.66,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "grand theft",
+    "voices": 18,
+    "z": 13.78
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Right-Hand Man Oversaw Chip Customers—Including Alice Huang"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Introduced Alibaba to Alice Huang for Workaround on U.S. Export Controls"
+     },
+     {
+      "source": "media",
+      "title": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 16,
+    "score": 19.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "alice huang",
+    "voices": 11,
+    "z": 13.25
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO"
+     },
+     {
+      "source": "media",
+      "title": "Interim Nvidia CEO Colette Kress Has Tried to Tame Nvidia’s Riskiest Bets"
+     },
+     {
+      "source": "media",
+      "title": "Who Is Colette Kress? Meet Nvidia’s New Interim CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 7,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "colette kress",
+    "voices": 6,
+    "z": 7.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "From Bollywood to Clippy: Nvidia scandal, Outlook glitch fuel meme storm"
+     },
+     {
+      "source": "media",
+      "title": "Megaspeed's links to rural Australian store raise fresh questions in Nvidia scandal"
+     },
+     {
+      "source": "hn",
+      "title": "Which Jensen Huang Nvidia Scandal Did You See?"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 7,
+    "score": 9.55,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia scandal",
+    "voices": 6,
+    "z": 6.37
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia’s Board Should Come Clean on Huang’s Resignation"
+     },
+     {
+      "source": "media",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Resignation Quiets the AI Boom’s Best PR Asset"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 9,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang resignation",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes"
+     },
+     {
+      "source": "media",
+      "title": "Instant view: Nvidia earnings beat estimates; attention turns to call"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia’s Earnings Arrive At A Junction Point"
+     }
+    ],
+    "expected": 0.54,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 7,
+    "score": 7.79,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia earnings",
+    "voices": 5,
+    "z": 5.19
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Holds Its First All Hands After Jensen Huang’s Departure"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
+     },
+     {
+      "source": "media",
+      "title": "The Morning Risk Report: Huang’s Departure From Nvidia Unlikely to Mollify Congress, Plaintiffs’ Lawyers"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang departure",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "CoreWeave Says Nvidia Is ‘Not One Person,’ Remains a Key Partner"
+     },
+     {
+      "source": "media",
+      "title": "OpenAI’s Astra Is a Boon to Robotics, Says Nvidia Robotics Chief Deepu Talla"
+     },
+     {
+      "source": "media",
+      "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 12,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "says nvidia",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia says 'no' to rehiring Huang"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia says",
+    "voices": 4,
+    "z": 4.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security"
+     },
+     {
+      "source": "media",
+      "title": "Ex-Nvidia CEO Huang Had Affair With Second Employee"
+     },
+     {
+      "source": "media",
+      "title": "Ex-Nvidia CEO Huang Hires Lawyers"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 14,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ex-nvidia ceo",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Everything That Led to Nvidia CEO Jensen Huang’s Fall"
+     },
+     {
+      "source": "hn",
+      "title": "Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI"
+     },
+     {
+      "source": "hn",
+      "title": "Global Chip Supply After Jensen Huang's Fall"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 15,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang fall",
+    "voices": 4,
+    "z": 4.0
+   }
+  ]
+ },
+ "recent_days": 7
+}

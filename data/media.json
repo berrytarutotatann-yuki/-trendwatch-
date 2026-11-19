@@ -4181,6 +4181,17 @@
    "url": "https://forbes.com/sites/erikkain/2026/10/03/nyt-connections-1211-hints-and-answers-for-sunday-october-4",
    "voice": "forbes"
   },
+  "media:0718bc115752e8bc0ad3c116": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:0718bc115752e8bc0ad3c116",
+   "published": "2026-11-19T00:10:39+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Merab Dvalishvili’s Teammate Says A Former Title Challenger Threw The Punch Cameras Never Caught",
+   "url": "https://forbes.com/sites/brianmazique/2026/11/18/merab-dvalishvilis-teammate-says-a-former-title-challenger-threw-the-punch-cameras-never-caught",
+   "voice": "forbes"
+  },
   "media:071ae044c8398d5fcfc26dd2": {
    "date": "2026-10-05",
    "fields": [
@@ -5644,6 +5655,19 @@
    "title": "Chip Industry Week In Review",
    "url": "https://semiengineering.com/chip-industry-week-in-review-163",
    "voice": "semiconductor_engineering"
+  },
+  "media:09a33b1c82c403b4f5fcc28c": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:09a33b1c82c403b4f5fcc28c",
+   "published": "2026-11-18T22:22:00+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million",
+   "url": "https://forbes.com/sites/johnkoetsier/2026/11/18/physical-ai-startup-humyn-hits-50-million-arr-in-6-months-raises-47-million",
+   "voice": "forbes"
   },
   "media:09abf7e658d033956a195d79": {
    "date": "2026-10-23",
@@ -8805,6 +8829,19 @@
    "url": "https://theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
    "voice": "verge"
   },
+  "media:0e875391d15b7ee6c8ddef61": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:0e875391d15b7ee6c8ddef61",
+   "published": "2026-11-18T21:25:07+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "Palo Alto Networks to Acquire AI Firm Applied Compute for $4.5 Billion",
+   "url": "https://theinformation.com/briefings/palo-alto-networks-acquire-ai-firm-applied-compute-4-5-billion",
+   "voice": "information"
+  },
   "media:0e8810d47ff3d8c43d6dd77c": {
    "date": "2026-10-23",
    "fields": [],
@@ -10288,7 +10325,7 @@
    "published": "2026-11-18T19:30:00+00:00",
    "publisher": "verge",
    "source": "media",
-   "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+   "title": "Nvidia’s rise, visualized",
    "url": "https://theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
    "voice": "verge"
   },
@@ -10829,6 +10866,19 @@
    "url": "https://semiengineering.com/deterministic-nucleation-enables-controlled-growth-of-2d-semiconductors-kaist-tds-hanyang-et-al",
    "voice": "semiconductor_engineering"
   },
+  "media:120681a2e2d45d236e913250": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:120681a2e2d45d236e913250",
+   "published": "2026-11-18T22:58:11+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+   "voice": "techcrunch"
+  },
   "media:120efbee53afc2654695168e": {
    "date": "2026-11-17",
    "fields": [
@@ -10913,6 +10963,19 @@
    "title": "Meta Taps MongoDB CEO to Lead New Enterprise AI Division",
    "url": "https://theinformation.com/briefings/meta-taps-mongodb-ceo-lead-new-enterprise-ai-division",
    "voice": "information"
+  },
+  "media:124b500a76066acb10ef531f": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:124b500a76066acb10ef531f",
+   "published": "2026-11-18T21:00:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
+   "url": "https://wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611",
+   "voice": "wsj"
   },
   "media:125372a59efcc49d846026ca": {
    "date": "2026-10-22",
@@ -11119,6 +11182,19 @@
    "title": "‘VisionQuest’ Reviews Are In: All MCU Shows Ranked By Rotten Tomatoes Score",
    "url": "https://forbes.com/sites/paultassi/2026/10/13/visionquest-reviews-are-in-all-mcu-shows-ranked-by-rotten-tomatoes-score",
    "voice": "forbes"
+  },
+  "media:12aaa8b0d8bfaff5a1636a67": {
+   "date": "2026-11-19",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:12aaa8b0d8bfaff5a1636a67",
+   "published": "2026-11-19T01:01:20+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "Anthropic’s Public Debut Looms",
+   "url": "https://theinformation.com/articles/anthropics-public-debut-looms",
+   "voice": "information"
   },
   "media:12ab633746fd8ac59e0ab093": {
    "date": "2026-10-28",
@@ -13149,6 +13225,19 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2VSNmItZVdUY0hnTHdRZm8yVWlRLXFJR05UeTJNcUpBS0g4LWFKT2JxOWNpNnNNTUpzTk5mLW04aFVDcUVyeGhDV0pncFpZRWlkbnBtLWJxbnRQQkRhRXBvN2xZa0Rma0ZZd0EzOWhDMG9vOHhhcWoyeDFTU1F6c1JFZmJLbGcyaGdSSVhYOF9FcFU4WVlTUlZiTzdoNzRDenhya3N3ckNKbm5teHpEWGJR",
    "voice": "reuters"
   },
+  "media:160b651fa8fce00d254371c6": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:160b651fa8fce00d254371c6",
+   "published": "2026-11-18T23:44:22+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
+   "url": "https://bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
+   "voice": "bloomberg"
+  },
   "media:1610c40a8591927301d9b54e": {
    "date": "2026-10-08",
    "fields": [],
@@ -14133,6 +14222,19 @@
    "url": "https://bloomberg.com/news/articles/2026-10-26/world-bank-somalia-low-tax-revenue-key-fiscal-challenge",
    "voice": "bloomberg"
   },
+  "media:1793e860a81b79a989d4c45b": {
+   "date": "2026-11-19",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:1793e860a81b79a989d4c45b",
+   "published": "2026-11-19T02:00:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Anthropic vs. OpenAI: The Financial Metrics Behind the AI Battle",
+   "url": "https://wsj.com/tech/ai/anthropic-vs-openai-the-financial-metrics-behind-the-ai-battle-4f5b90c0",
+   "voice": "wsj"
+  },
   "media:179e02338778be708da9f044": {
    "date": "2026-10-27",
    "fields": [],
@@ -14886,6 +14988,19 @@
    "title": "Goldman adds another rate hike to Fed outlook after hot inflation data",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGZrcC11RmpmMVp3a09iZl9aR2N6TDVFV2d1eE50MzBMT0hkZFMtbXFteWFvcDBnSEM0MXdhWFJmM0d4eXZNVFMtNDA2VHozS0UyeEdWcGtQanctN3pxdVVVeWRacnFxS2d3N1I1MktUbUVISWhwZ0VibFgtTWVUX0ZtelYwSmJMQXdUbDJqZmxPMklpS2c",
    "voice": "reuters"
+  },
+  "media:18cd5d55163e987903b89aff": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:18cd5d55163e987903b89aff",
+   "published": "2026-11-18T23:49:25+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Yes, AI Is Breaking Everything (But Not How You Think)",
+   "url": "https://forbes.com/sites/johnkoetsier/2026/11/18/yes-ai-is-breaking-everything-but-not-how-you-think",
+   "voice": "forbes"
   },
   "media:18d3bd0c114b936d90ed550c": {
    "date": "2026-11-12",
@@ -15838,6 +15953,19 @@
    "source": "media",
    "title": "Saudi Arabia Hikes Oil Flow on Key Pipeline to Over 80% Capacity",
    "url": "https://bloomberg.com/news/articles/2026-10-02/saudi-arabia-hikes-oil-flow-on-key-pipeline-to-over-80-capacity",
+   "voice": "bloomberg"
+  },
+  "media:1a602b43a18647624ccea85f": {
+   "date": "2026-11-19",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:1a602b43a18647624ccea85f",
+   "published": "2026-11-19T01:00:36+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Morgan Stanley’s Hornbach Says Rogue AI Biggest Underpriced Risk",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/morgan-stanley-s-hornbach-says-rogue-ai-biggest-underpriced-risk",
    "voice": "bloomberg"
   },
   "media:1a60a8052752aaa26dfab0a6": {
@@ -18552,6 +18680,17 @@
    "url": "https://forbes.com/sites/scotttravers/2026/11/03/are-humans-naturally-monogamous-a-biologist-explains-what-our-bodies-reveal",
    "voice": "forbes"
   },
+  "media:1ee6566a11a93dad06cc2c57": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:1ee6566a11a93dad06cc2c57",
+   "published": "2026-11-18T23:24:06+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Gold Rises From 14-Month Low as Dip Buying Offsets Hawkish Fed",
+   "url": "https://bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+   "voice": "bloomberg"
+  },
   "media:1ee79e3f9863d2500f3cac62": {
    "date": "2026-10-16",
    "fields": [
@@ -18707,6 +18846,17 @@
    "title": "Tech, Media & Telecom Roundup: Market Talk",
    "url": "https://wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-e8eff14c",
    "voice": "wsj"
+  },
+  "media:1f31391923e94481d4f6342c": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:1f31391923e94481d4f6342c",
+   "published": "2026-11-19T00:20:47+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "California DMV Pulls Waymo From Freeways. When Should They Do That?",
+   "url": "https://forbes.com/sites/bradtempleton/2026/11/18/california-dmv-pulls-waymo-from-freeways--when-should-they-do-that",
+   "voice": "forbes"
   },
   "media:1f3f210239385c0695600aa5": {
    "date": "2026-11-07",
@@ -21100,6 +21250,20 @@
    "url": "https://bloomberg.com/news/videos/2026-10-28/the-opening-trade-uk-budget-special-10-28-2026-video",
    "voice": "bloomberg"
   },
+  "media:23a8cc92f197a49a71fda3ae": {
+   "date": "2026-11-19",
+   "fields": [
+    "ai",
+    "semiconductor"
+   ],
+   "id": "media:23a8cc92f197a49a71fda3ae",
+   "published": "2026-11-19T01:36:26+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Anthropic IPO Hands SK Hynix Tycoon’s Firm $3 Billion Windfall",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall",
+   "voice": "bloomberg"
+  },
   "media:23ad83fb29d870945d465ff1": {
    "date": "2026-10-13",
    "fields": [],
@@ -22277,7 +22441,7 @@
    "date": "2026-11-17",
    "fields": [],
    "id": "media:25d0de58b2a6cddbdd801a9d",
-   "published": "2026-11-17T06:55:00+00:00",
+   "published": "2026-11-17T14:20:06+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak 'illegal'",
@@ -22604,10 +22768,10 @@
    "date": "2026-11-18",
    "fields": [],
    "id": "media:266adb3380e5dd2c7047080f",
-   "published": "2026-11-18T18:13:43+00:00",
+   "published": "2026-11-18T21:26:59+00:00",
    "publisher": "reuters",
    "source": "media",
-   "title": "Binance says it has court order to get back crypto frozen after $6.3 billion heist",
+   "title": "UAE court orders freeze on crypto tokens stolen from Binance wallets",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlN6ZktkUTBHWUpjSTdjUmFSZUVMZlBwb05IaVdWX1FzVGlHdnF4cUpYVkNTMHVnYTlLZ0w1M01xTnlVNDV4dWg4SDNtRDJIYjNzOFBiTDBOODhVcDFzY0tQa2d6YV9Oc3BDTXNYLTNSOTNtaEcxZTRESmxfcXdxS0VtZnRPdzBFNW1LYThBdlRsc0ZmYXZtQXRGMlFCdHk2ak1rRml1TUpobFdGNnJwY0pDUGl6dVBXUjBMYThwOA",
    "voice": "reuters"
   },
@@ -26049,7 +26213,7 @@
    "date": "2026-11-17",
    "fields": [],
    "id": "media:2cb3091f67b3229358c6e74b",
-   "published": "2026-11-17T03:14:00+00:00",
+   "published": "2026-11-17T08:27:06+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Malaysia loosens rare earths curbs for France amid upgraded ties",
@@ -26089,6 +26253,17 @@
    "source": "media",
    "title": "Financing The Age Of Innovation",
    "url": "https://forbes.com/sites/nili-gilbert/2026/10/06/financing-the-age-of-innovation",
+   "voice": "forbes"
+  },
+  "media:2cdd0810198a4472e6464fff": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:2cdd0810198a4472e6464fff",
+   "published": "2026-11-18T22:13:50+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "GTA 6 Isn’t Out In America Yet, But Some U.S. Players Are Already In Vice City",
+   "url": "https://forbes.com/sites/brianmazique/2026/11/18/gta-6-isnt-out-in-america-yet-but-some-us-players-are-already-in-vice-city",
    "voice": "forbes"
   },
   "media:2cddbd8809fcc42e9796ce20": {
@@ -26252,6 +26427,17 @@
    "source": "media",
    "title": "EU warns of energy price crisis, asks countries to consider curbing demand, letter shows",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemtIR2FDbDVHcjRWdzNYQnpYZGdsSW5yZTIzRlFtTnhXMVoxUGc1RTNWNlNVTkdiZk05SHpsMmh1TXlvQmdOLWR3MHlGRHV0Qkg4SGFhd1p1SUhfQ3YzVWVNZmc5TTVXbEdzQ19yQXU2RnE0MFprTjlYZGluYWVtb0JuQ3NzWkdNTnhqQ3hKYk9oelprY1FxbU1LZmgzcFByWVh6M01JR3BVMm56REhOR3JST2hQQXBXRUlkSFhqT3dOZGxsSi1fTTlkcWw",
+   "voice": "reuters"
+  },
+  "media:2d32190a1beeb62fadfff53a": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:2d32190a1beeb62fadfff53a",
+   "published": "2026-11-18T16:24:41+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "EU too slow tackling health risks from 'forever chemicals', auditors say",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdkJWdXExd2lMSDJYc2FnLXRIVmpzSURkeWFNQ2dpR3VVOG50NEYtVVc2VmxyLWY4ZXJBMnZQN0J2U3pHRnNlS1J3T2xHVWV2azlXbHA5R2h5RHlLT3lBNExaTGdtQXNWMXNmUmxGR2J1a1IxOEdIMm9HVHVMRzBocXJIZFlxYTdOZTNSVVQwV1Q3TjM1VFFEeG5oYm1UM2JMTHN2TmpkX1VUNGlYNloyOVFDRlVjVllfcTk5VlVmaWVDblVkcXB6cFFrenBMSi1NVWc",
    "voice": "reuters"
   },
   "media:2d40020b66a0699455ae6217": {
@@ -26624,6 +26810,17 @@
    "source": "media",
    "title": "East European states want more EU fund flexibility to support industry as energy prices rise",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX2VLSGxMQXE2WWZwajhrRHUzM3h2Rjk4SW80OVBqcm15YlhTZk5WTy1VS2dMMnRhaXh3dFRENFNWTzBrMDh2NXhXUnBkUDlWa01oTGtYLU9tNzQ5N3dBR0Zmd3VXQWdEYUF0TTdlcGRRbDZHWXlrZHZCTDBhRTYzdC1HT0dMdE9jRDNGWXhKMHpqcXR0aFFWUHI5Q3dQeUltdGNkNVlBM2E5ZUozeU1TV0M5VjViWTY4WmV6STQ1b3Q2XzJY",
+   "voice": "reuters"
+  },
+  "media:2e0fe0a50e032cd3d67d41b1": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:2e0fe0a50e032cd3d67d41b1",
+   "published": "2026-11-18T20:55:43+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Billionaire Blavatnik takes $5 billion SpaceX stake, Bloomberg reports",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjdINDJmVWpSVEpLVVVVbjkzMUhOd3pVak1fTlF5NzFmY1NaVUdTam5Bbzk4S3JyeV92LTBURm5wV24xRlpCTnE1WlN3YjFJZURiRXVrTWwtc0VYWWpVZTZMY2Z4X2w2cnhZUTZxMnRIS05EajhjS2ttQnpQckVqaU5jakJmV2J3dE5xa21aUmZCaWJhOFcyeEZRUldmdXFTbTYzSXA5NnF4aUNoN0I5RDJJbw",
    "voice": "reuters"
   },
   "media:2e12891ceb5f775831eef2a4": {
@@ -27967,6 +28164,17 @@
    "title": "Turkey Fund Outflows Mostly Moved to Bank Deposits, BofA Says",
    "url": "https://bloomberg.com/news/articles/2026-10-05/turkey-fund-outflows-mostly-moved-to-bank-deposits-bofa-says",
    "voice": "bloomberg"
+  },
+  "media:308d61003b1e0aed064aea5a": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:308d61003b1e0aed064aea5a",
+   "published": "2026-11-19T00:56:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Musk says he felt 'pretty foolish' about scale of midterm spending after Republican rout",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTl9SMXVYalFha1V6ZW9BWWRQTUl5TDE3cUlRcjVFTVdSM3VmNUFxbFhkUWlleTFyaG5KUl9ObFE5dkM1NXk1UkNMZHFVRTNHLXVxdF9DRTN0NUdENEtVbUthWTNHVWkwQk1uZUFIWkp4Z21EVkZmdmRLd1FNUHpMSEIxNzY3b29fTWtsMTduYXJveEhPZmVBdjBPWXFPSXg0bjc0bUU5ZWQyck1QZTltSUdPdE5sLTk1cGZacjY0QVRjTWVTdFctMHYtX3NUdnFHVGIw",
+   "voice": "reuters"
   },
   "media:308e37fd7e3ab047e1183829": {
    "date": "2026-11-03",
@@ -29963,6 +30171,19 @@
    "title": "It’s time to find a new browser",
    "url": "https://theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
    "voice": "verge"
+  },
+  "media:3411e866a70a130516de749f": {
+   "date": "2026-11-19",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:3411e866a70a130516de749f",
+   "published": "2026-11-19T00:45:46+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Anthropic Prices at $83 a Share in Record-Sized Offering",
+   "url": "https://bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
+   "voice": "bloomberg"
   },
   "media:341516f129bca24c97df0ad4": {
    "date": "2026-10-03",
@@ -33797,6 +34018,19 @@
    "url": "https://spectrum.ieee.org/innomotics-electric-motors-drive-systems",
    "voice": "ieee_spectrum"
   },
+  "media:3b0ec0526b01f680b9da89b3": {
+   "date": "2026-11-18",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:3b0ec0526b01f680b9da89b3",
+   "published": "2026-11-18T23:58:51+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "At All Hands, Nvidia Interim CEO Tried To Reassure Employees, Prevent Talent Loss",
+   "url": "https://theinformation.com/briefings/hands-nvidia-interim-ceo-tried-reassure-employees-prevent-talent-loss",
+   "voice": "information"
+  },
   "media:3b117b62885933867c3538a0": {
    "date": "2026-11-08",
    "fields": [],
@@ -33946,6 +34180,19 @@
    "title": "Bank Assets in India Hub That Competes With Singapore Jump 60%",
    "url": "https://bloomberg.com/news/articles/2026-10-29/bank-assets-in-india-hub-that-competes-with-singapore-jump-60",
    "voice": "bloomberg"
+  },
+  "media:3b5829ed88f8a76dfb4d6e11": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:3b5829ed88f8a76dfb4d6e11",
+   "published": "2026-11-18T23:49:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Anthropic Prices IPO at $83 a Share on Strong Demand",
+   "url": "https://wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c",
+   "voice": "wsj"
   },
   "media:3b5f2838b5b05c1a34604f15": {
    "date": "2026-10-21",
@@ -37390,6 +37637,19 @@
    "url": "https://forbes.com/sites/paultassi/2026/10/23/clayface-sets-a-dcu-rotten-tomatoes-audience-score-record",
    "voice": "forbes"
   },
+  "media:41c5d3dcedc7f045fbf63caf": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:41c5d3dcedc7f045fbf63caf",
+   "published": "2026-11-18T22:42:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Opinion | Congrats on Your Anthropic Shares",
+   "url": "https://wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52",
+   "voice": "wsj"
+  },
   "media:41cf27f6b98787d24f38176c": {
    "date": "2026-10-02",
    "fields": [
@@ -39947,6 +40207,17 @@
    "url": "https://theverge.com/policy/1026365/data-centers-midterms-results",
    "voice": "verge"
   },
+  "media:46f40d89eb537d043fa3e3bb": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:46f40d89eb537d043fa3e3bb",
+   "published": "2026-11-18T22:04:03+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper",
+   "voice": "techcrunch"
+  },
   "media:46f4289e1739f896ac777489": {
    "date": "2026-10-29",
    "fields": [
@@ -42346,6 +42617,17 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ",
    "voice": "reuters"
   },
+  "media:4af7a197bc90a47df9122483": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:4af7a197bc90a47df9122483",
+   "published": "2026-11-19T01:58:27+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "A-Cap Insurer Asks to Defer Payouts to Clients Amid Deal Talks",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/a-cap-insurer-asks-to-defer-payouts-to-clients-amid-deal-talks",
+   "voice": "bloomberg"
+  },
   "media:4af8089b2f45a379ef10b002": {
    "date": "2026-10-21",
    "fields": [],
@@ -43419,6 +43701,19 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdkhXcGt2eTRGMFFGdktlSVY0TUNtM3ZYSWEtWnQyNEN3UmpFSElKMjM4YTk2aVBJXy1JaG9NM2xMc3dzQ0xLSFpqUTJDeFhJcWlXX2dTWXNveHRGMHM0dm8zVEZtR0RlOVB4cU1DRTI5U2RjaEdRTnBIeENBeTQ0YnFxaHU4anhkOXIzbzMzUVFRdUQzVjBUeWR0R0tSTzVKTHB4ZnBTQVl3dkxvUFE2cEhJbUphcHV0djVGNDVPWWtkMVE",
    "voice": "reuters"
   },
+  "media:4c84f30663d2551ba272140e": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:4c84f30663d2551ba272140e",
+   "published": "2026-11-18T23:43:36+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Seesaw Day for Markets, Anthropic IPO Looms",
+   "url": "https://bloomberg.com/news/videos/2026-11-18/the-close-11-18-2026-video",
+   "voice": "bloomberg"
+  },
   "media:4c8de7ff03e647a208a0b0dd": {
    "date": "2026-10-01",
    "fields": [
@@ -43747,6 +44042,17 @@
    "title": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXI5bWtqWXBjemptbWNoYnRYQ3JqLXpXUDVOR3gybE1TSEJhU0hwSlVudnA1NXdCSDdOaWxyaTN1cDFVNGE1YjBXWmNiYlNvR2g0bUVELWNxdTJFQTlsMTVTUm5xMG9yWWFOUHlKVElWY0lpWWJ0Y3VVQlVOWXNaNk1KZjBpOXpRREFpTFV6bnRJdFF0S2dTcnNWcHpKQWNuUTdDVWRzMVoweEd5clF6TldiQUlremZhMTJRZG5JblZoZVVOY2tJd2FBYjh5Zw",
    "voice": "reuters"
+  },
+  "media:4cfcdabbef459dcad01e2832": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:4cfcdabbef459dcad01e2832",
+   "published": "2026-11-19T01:14:36+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Copper Rebounds After Rout as Physical Tightness Persists",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
+   "voice": "bloomberg"
   },
   "media:4cfda6c01471bc9b7f690f9e": {
    "date": "2026-10-03",
@@ -45638,6 +45944,17 @@
    "title": "MSCI Ignites Indonesia Market Reckoning After Months of Warnings",
    "url": "https://bloomberg.com/news/articles/2026-10-16/msci-ignites-indonesia-market-reckoning-after-months-of-warnings",
    "voice": "bloomberg"
+  },
+  "media:5056bda67c24cffa508c0565": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:5056bda67c24cffa508c0565",
+   "published": "2026-11-18T21:20:00+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Absolute Batman can save DC Studios",
+   "url": "https://theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+   "voice": "verge"
   },
   "media:5059e682de72ab6da89656b3": {
    "date": "2026-11-10",
@@ -47677,6 +47994,19 @@
    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
    "voice": "techcrunch"
   },
+  "media:53f21bcca5b621fc35ac5833": {
+   "date": "2026-11-19",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:53f21bcca5b621fc35ac5833",
+   "published": "2026-11-19T00:18:03+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Trade and AI Rivalry to Dominate APEC Summit",
+   "url": "https://bloomberg.com/news/videos/2026-11-19/trade-and-ai-rivalry-to-dominate-apec-summit-video",
+   "voice": "bloomberg"
+  },
   "media:53fa82516e867ee84f1bf34e": {
    "date": "2026-10-01",
    "fields": [],
@@ -49277,6 +49607,17 @@
    "title": "GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes",
    "url": "https://info-reader-production.herokuapp.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes",
    "voice": "information"
+  },
+  "media:569a29d7b2066104b2f1e56f": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:569a29d7b2066104b2f1e56f",
+   "published": "2026-11-18T15:59:43+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Turkish court hands new sentence and political ban to jailed Istanbul mayor, media says",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM0puN1RUZV9ydmZJcE05bFp0ZGdJMU5EaXNwUVNYaDZ6eUZHcjhxMTg3UUp4NnM0RVFMU19BcFlVWHV3dl9MZXdTbnMybC1McnNkbzNuUmtWdDBfUmRsdHFuNDJFNUpmdEl4U3lVbUw3WHI3dXhQb2hBRWI2X3hxR013TXRaMGdjWWludGhfNjlXNXNkMU92SnRNTkJCbWl4M002U1JaRG5mb0Y1TkVRQkVYQmZRUFNVQk9wUkFVX3NhdnotNUl1ZEtaSEF6SUdJdFZySA",
+   "voice": "reuters"
   },
   "media:56aaac03834ab98ef3cc9c28": {
    "date": "2026-10-15",
@@ -56347,6 +56688,17 @@
    "url": "https://forbes.com/sites/brianmazique/2026/10/31/canelo-alvarez-outclasses-christian-mbilli---but-gets-criticized-for-ref-manipulation",
    "voice": "forbes"
   },
+  "media:6234996ddfc6c7fc18153453": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:6234996ddfc6c7fc18153453",
+   "published": "2026-11-18T15:09:32+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Bristol's schizophrenia drug helps Alzheimer's-related psychosis symptoms, preliminary data shows",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbzFyVHJ2Njd6U0VwQnJsWkFrUGUtSlVsWHVHd2JuVjhVbVJxaHQ3X3N2bUszYjBnLVJ4ckVyVms3MVpXOGgyQkZnTVB3YTZndkRYcnJ6QVQyWHRDNnRTZXNrVlhUR0JEM29MSFp0WUM4M0x6UWpoclRjQVlfazhnaklXd2pzbkw1b3QyRzdIMTZTQmFGQy1HcHNlWGFaOTFPVmFQR0pvVE92b0pqVEotRExQUWVOeVRnZWxTdjYzbXpKMWd0ZzdPcGdLUnpQZzR4V19iRnlXQzdTRkU",
+   "voice": "reuters"
+  },
   "media:6234f3fb5a4e809451775ab8": {
    "date": "2026-11-18",
    "fields": [],
@@ -59012,6 +59364,17 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObjNydFdhT1h1WWdHQU5RUE9LVkh1NDBCUmdmbTN4OGR3NnlVak5aMzA3cGZVUUdKQWc0WEdsMmdLLWRhSjlta2pkYmEzMkpfVVhCeDB4dUUzcFUzYk5jYU11dTBUMnJiamh5T2pIUDhOQ0R0U3RRNklWSm1TLV9LLUZkRG53Zm56cXpfcVp1dXdLSEhoVExaV3A1UjVmX005SlFrcEM1bUU4QnI1M211cW9MTnBjNkhnSXc",
    "voice": "reuters"
   },
+  "media:673df64fbd13f9dd39502ffa": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:673df64fbd13f9dd39502ffa",
+   "published": "2026-11-19T02:02:33+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "K-Pop Giants Position for China Return After Decade-Long Freeze",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/k-pop-giants-position-for-china-return-after-decade-long-freeze",
+   "voice": "bloomberg"
+  },
   "media:673fb20f3cf2399ef3249012": {
    "date": "2026-11-10",
    "fields": [],
@@ -60543,6 +60906,17 @@
    "title": "Elizabeth Holmes’ Partner’s Blood Testing Startup Has Lost Its CTO",
    "url": "https://forbes.com/sites/annatong/2026/10/22/elizabeth-holmes-partners-blood-testing-startup-has-lost-its-cto-and-key-inventor",
    "voice": "forbes"
+  },
+  "media:69c7f26276a6643c19d65e8c": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:69c7f26276a6643c19d65e8c",
+   "published": "2026-11-19T00:57:50+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "China Markets $2 Billion of Dollar Bonds as Xi, Trump Meet",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/china-markets-up-to-2-billion-of-dollar-bonds-in-hong-kong",
+   "voice": "bloomberg"
   },
   "media:69cb7e8cbc56e5576e0b738e": {
    "date": "2026-10-13",
@@ -63014,6 +63388,17 @@
    "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements",
    "voice": "techcrunch"
   },
+  "media:6e20e5741deb0aa376a65c77": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:6e20e5741deb0aa376a65c77",
+   "published": "2026-11-18T10:21:25+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Norway’s Equinor says no risk of cyberattack spreading, output unaffected",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVJiUE1UMWtYd2xEb1N0QWJscmN6WXEzMk1xdVhWaVB6Ykw3QVE1ak9FWnR2akotOVNDb0RqVExCaHZsT2tlR2wyWHdHTGpmUnNxZE9ZYlJNQUVBWDJBWF9kaFZGVVdVLWJjQTZhVHFyc1c1RU8xMmZLdU5NS1RlMzJfMURXUXh2Tl9DQTBROTM2bzJ4YWVDWG1xR3FaemNoVE9yYUYwckN0TmpGWFMwdUkxajNaNU5udzNMVA",
+   "voice": "reuters"
+  },
   "media:6e2c8efa7584c8c82acd1761": {
    "date": "2026-10-15",
    "fields": [],
@@ -63072,6 +63457,19 @@
    "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
    "url": "https://theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
    "voice": "verge"
+  },
+  "media:6e4cfc003273cc7416a5d85a": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:6e4cfc003273cc7416a5d85a",
+   "published": "2026-11-18T23:06:33+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Anthropic IPO to mint thousands of millionaires",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R",
+   "voice": "reuters"
   },
   "media:6e4e932582a75fc5ea22a872": {
    "date": "2026-10-27",
@@ -63933,12 +64331,12 @@
    "voice": "reuters"
   },
   "media:7015a54e21d52f528ecc05ae": {
-   "date": "2026-11-16",
+   "date": "2026-11-17",
    "fields": [
     "semiconductor"
    ],
    "id": "media:7015a54e21d52f528ecc05ae",
-   "published": "2026-11-16T11:53:00+00:00",
+   "published": "2026-11-17T11:06:47+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Nvidia set to deliver first life-after-Huang briefing",
@@ -64376,6 +64774,17 @@
    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
    "voice": "techcrunch"
   },
+  "media:70e4c69bc5230b549306cce7": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:70e4c69bc5230b549306cce7",
+   "published": "2026-11-18T18:38:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Fed's Barr says rate rises likely lie ahead for economy",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm12UHZCU3VxTVdaUEZkTFVrcllfdGw3ejc3STVZM3U0cXByUWR5Y1R3ZDRhZmxQVjNiWXI0Qm9hTURNNlE4YTAxU2hYZVNNSm1JNENPd0tPYlE4VWtNNHZTQTZ5Q1JJMVE2SzYyNTE1UFVjSWRHUlpEZVB0dmhYbzlEdkNzc1dFUmJyaFEtNE42djVKTU5sN1RvZw",
+   "voice": "reuters"
+  },
   "media:70ee6443a447c0f20780d97e": {
    "date": "2026-10-26",
    "fields": [],
@@ -64520,6 +64929,17 @@
    "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed",
    "voice": "techcrunch"
+  },
+  "media:71420a665e372a475ba20894": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:71420a665e372a475ba20894",
+   "published": "2026-11-19T00:36:42+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Jeffrey Sachs Expects Friendly Trilateral Outcome",
+   "url": "https://bloomberg.com/news/videos/2026-11-19/jeffrey-sachs-expects-friendly-trilateral-outcome-video",
+   "voice": "bloomberg"
   },
   "media:7147d18fe88a21e57c7ef451": {
    "date": "2026-11-06",
@@ -65736,6 +66156,17 @@
    "title": "Nassim Taleb Says ‘Vulnerable’ Bonds Risk Hurting Stock Rally",
    "url": "https://bloomberg.com/news/articles/2026-10-07/nassim-taleb-says-vulnerable-bonds-risk-hurting-stock-rally",
    "voice": "bloomberg"
+  },
+  "media:73b22db6160345f88d37a09c": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:73b22db6160345f88d37a09c",
+   "published": "2026-11-18T23:25:17+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+   "voice": "techcrunch"
   },
   "media:73badb6d10f29ea9a53d29a2": {
    "date": "2026-10-31",
@@ -67983,6 +68414,17 @@
    "title": "Vail Resorts Wins Large Shareholder Support in Fight with Oasis",
    "url": "https://bloomberg.com/news/articles/2026-10-30/vail-resorts-wins-large-shareholder-support-in-fight-with-oasis",
    "voice": "bloomberg"
+  },
+  "media:77cfa48e3d9ee37f9c589dbf": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:77cfa48e3d9ee37f9c589dbf",
+   "published": "2026-11-18T23:01:04+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "Meta Pauses New Stock Plan Amid Legal Challenge",
+   "url": "https://theinformation.com/briefings/meta-pauses-new-stock-plan-amid-legal-challenge",
+   "voice": "information"
   },
   "media:77d8593a932f65f7fb28969d": {
    "date": "2026-10-30",
@@ -73327,6 +73769,17 @@
    "url": "https://theinformation.com/briefings/stablecoin-card-startup-rain-launches-vaults-ai-agents",
    "voice": "information"
   },
+  "media:814b83bf2ee4b24fae4619bf": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:814b83bf2ee4b24fae4619bf",
+   "published": "2026-11-19T00:40:49+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Elon Musk says: ‘I’m not MAGA’",
+   "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga",
+   "voice": "techcrunch"
+  },
   "media:814f89f609bb951909f8a34a": {
    "date": "2026-10-30",
    "fields": [
@@ -73534,6 +73987,17 @@
    "title": "China Car Output Slows to Four-Year Low as Domestic Demand Drops",
    "url": "https://bloomberg.com/news/articles/2026-11-16/china-car-ev-output-slows-four-year-low-domestic-demand-drops",
    "voice": "bloomberg"
+  },
+  "media:81b572ad925fd082a92cd1a8": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:81b572ad925fd082a92cd1a8",
+   "published": "2026-11-18T22:05:48+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+   "url": "https://theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+   "voice": "verge"
   },
   "media:81bbd0e2a765520a383b799f": {
    "date": "2026-10-20",
@@ -79381,6 +79845,17 @@
    "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers",
    "voice": "techcrunch"
   },
+  "media:8d40fd47aad0b613f8e02ac8": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:8d40fd47aad0b613f8e02ac8",
+   "published": "2026-11-19T01:14:33+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "UFC Cuts Its No. 3-Ranked Strawweight, And She Says She Never Saw It Coming",
+   "url": "https://forbes.com/sites/brianmazique/2026/11/18/ufc-cuts-its-no-3-ranked-strawweight-and-she-says-she-never-saw-it-coming",
+   "voice": "forbes"
+  },
   "media:8d41ff6e3441b513dcba409e": {
    "date": "2026-11-05",
    "fields": [],
@@ -80003,6 +80478,17 @@
    "title": "Russian Diesel Deal Unlikely to Lower US Prices",
    "url": "https://bloomberg.com/news/videos/2026-10-10/russian-diesel-deal-unlikely-to-lower-us-prices-video",
    "voice": "bloomberg"
+  },
+  "media:8e3aa965de9f82132faee91c": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:8e3aa965de9f82132faee91c",
+   "published": "2026-11-19T00:42:56+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+   "voice": "techcrunch"
   },
   "media:8e3cf257cd05306efbf4cd4d": {
    "date": "2026-10-25",
@@ -80681,6 +81167,19 @@
    "url": "https://bloomberg.com/news/articles/2026-10-01/cboe-eyes-vix-perpetual-futures-as-exchanges-move-beyond-crypto",
    "voice": "bloomberg"
   },
+  "media:8f9df190f1d1284452414ef0": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:8f9df190f1d1284452414ef0",
+   "published": "2026-11-18T21:34:13+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+   "voice": "techcrunch"
+  },
   "media:8f9fa4c46c5cc1351efd4166": {
    "date": "2026-10-01",
    "fields": [],
@@ -80932,6 +81431,20 @@
    "title": "Ozempic wave boosts US cobblers and tailors as Americans tighten their belts",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVWszWTlwV01lN2w3amlwNklEUW1falNzYmxhUjZCWFljU1NIR24ycFU1Y3podmg0bHFoSEp3Z3VBM05BeHZJeXJJWGZLYzBPcDVYcTVRREdrZlc2VHVUOUdNakNjN2xsRzZqQ0I2dTJEWVJoZ290QzBQeHFFLXJabGlQcjZ4eVZZcGRjdzFDTWQ1WWZfQlRVOTU2Z2wtbFgzcE95RFpaemQ0eFh0c0NkQjZjV0w5eEpNcFhuNDlyajZFc0Z1N2pfWGU0azVNVHpJSG5KTU9iSW4",
    "voice": "reuters"
+  },
+  "media:8fe5c9a8481f7a901100c0f4": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai",
+    "semiconductor"
+   ],
+   "id": "media:8fe5c9a8481f7a901100c0f4",
+   "published": "2026-11-18T22:05:31+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "OpenAI Says Its Models Accelerated Chip Design For AMD, Jalapeño",
+   "url": "https://theinformation.com/briefings/openai-says-models-accelerated-chip-design-amd-jalapeno",
+   "voice": "information"
   },
   "media:8fe6167b88aaba5f69542744": {
    "date": "2026-10-11",
@@ -83672,6 +84185,19 @@
    "url": "https://forbes.com/sites/davidphelan/2026/10/18/heres-when-apple-will-launch-iphone-18-and-iphone-air-2",
    "voice": "forbes"
   },
+  "media:949ee1a1952ba6a1f87c4619": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:949ee1a1952ba6a1f87c4619",
+   "published": "2026-11-18T22:11:15+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+   "voice": "techcrunch"
+  },
   "media:94a30a6647533fafb36dab73": {
    "date": "2026-11-16",
    "fields": [],
@@ -83715,6 +84241,19 @@
    "title": "Former Tesla Optimus Lead is Launching an Industrial Robot Startup",
    "url": "https://theinformation.com/articles/former-tesla-optimus-lead-launching-industrial-robot-startup",
    "voice": "information"
+  },
+  "media:94be180c15c9fe70c9ecd7ec": {
+   "date": "2026-11-18",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:94be180c15c9fe70c9ecd7ec",
+   "published": "2026-11-18T23:17:28+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+   "voice": "techcrunch"
   },
   "media:94c55d9ff014ddbd86e80f80": {
    "date": "2026-10-29",
@@ -83963,7 +84502,7 @@
    "date": "2026-11-18",
    "fields": [],
    "id": "media:9511482625aff288e529dc9a",
-   "published": "2026-11-18T19:09:43+00:00",
+   "published": "2026-11-18T21:15:02+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
@@ -84005,6 +84544,19 @@
    "source": "media",
    "title": "S&P 500 Nears Record High; OpenAI in $30B Funding Talks with UAE, BlackRock",
    "url": "https://bloomberg.com/news/videos/2026-10-06/bloomberg-brief-10-06-2026-video",
+   "voice": "bloomberg"
+  },
+  "media:951cb746441efe74bab8dcb7": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:951cb746441efe74bab8dcb7",
+   "published": "2026-11-18T22:07:41+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Stocks Lose Momentum After Anthropic, Copper Gains: Markets Wrap",
+   "url": "https://bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
    "voice": "bloomberg"
   },
   "media:95283fa4194bdad99a8233fc": {
@@ -84928,6 +85480,17 @@
    "title": "Anthropic, Others Warn of AI Acceleration",
    "url": "https://theinformation.com/articles/anthropic-others-warn-ai-acceleration",
    "voice": "information"
+  },
+  "media:96bb56fafce2395c64ceb752": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:96bb56fafce2395c64ceb752",
+   "published": "2026-11-18T23:18:35+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "The nation’s largest school districts consider ditching Google Search",
+   "url": "https://theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+   "voice": "verge"
   },
   "media:96be8547a50fba7b4f23a9cc": {
    "date": "2026-10-08",
@@ -86084,6 +86647,19 @@
    "title": "Citi on Maneuvering Limited Government Fiscal Space",
    "url": "https://bloomberg.com/news/videos/2026-10-12/citi-on-maneuvering-limited-government-fiscal-space-video",
    "voice": "bloomberg"
+  },
+  "media:98a06597da642b6ff1e71186": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:98a06597da642b6ff1e71186",
+   "published": "2026-11-18T23:06:04+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Google And Amazon Will Own More Anthropic Stock Than All Cofounders Combined",
+   "url": "https://forbes.com/sites/richardnieva/2026/11/18/google-and-amazon-will-own-more-anthropic-stock-than-all-cofounders-combined",
+   "voice": "forbes"
   },
   "media:98a21a88065d935f13b4b59a": {
    "date": "2026-10-12",
@@ -89088,6 +89664,19 @@
    "url": "https://theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
    "voice": "verge"
   },
+  "media:9e059003860a85ec100852c2": {
+   "date": "2026-11-18",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:9e059003860a85ec100852c2",
+   "published": "2026-11-18T21:57:40+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+   "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+   "voice": "techcrunch"
+  },
   "media:9e0a4d06a2829a8b5884059e": {
    "date": "2026-11-09",
    "fields": [
@@ -89277,6 +89866,19 @@
    "title": "Korea Mulls Ban on Unlicensed Foreign Banks in Bond Deals",
    "url": "https://bloomberg.com/news/articles/2026-10-08/korea-mulls-banning-unlicensed-foreign-banks-global-bond-deals",
    "voice": "bloomberg"
+  },
+  "media:9e66b8be5af202576e1bdea5": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:9e66b8be5af202576e1bdea5",
+   "published": "2026-11-18T23:19:26+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFyUlh5WE5VSFRRSWxnVGRUXzlROFRSb0VOdmZwamRWYjJ2SWhvTGp4ZTB3eGNYYWZtdkR0WkJLMDIxX2RZa20wOG4yY2xjdVhuTFpWakVUVDJ3X0NJQURrVkNuR0xPZmxtMm56NDQ0OHl2TzdZVDVSc04yYUlmY2hPSHJ1U2JLamhzallLeEZDVWozbGVObjBEWWNvY205Rmh3Rk9lTWE",
+   "voice": "reuters"
   },
   "media:9e67dc62de4c77da07fcf971": {
    "date": "2026-10-18",
@@ -93384,6 +93986,17 @@
    "url": "https://spectrum.ieee.org/magnetic",
    "voice": "ieee_spectrum"
   },
+  "media:a577f163357d1cea540a6e56": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:a577f163357d1cea540a6e56",
+   "published": "2026-11-19T02:00:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+   "url": "https://wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a",
+   "voice": "wsj"
+  },
   "media:a57c10169d190dd9b986a547": {
    "date": "2026-10-26",
    "fields": [
@@ -93909,6 +94522,17 @@
    "title": "Hugo Boss set to become Frasers subsidiary as stake crosses 50%",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmhVc3FoMmFkYUhLNGhtUXZlVGM2NzBnX0ZwaV9oRFF3MVlDQlAzQUdfMDlQUHAtNnc3S2IyU3A3eW93bzlyUzFSMm5hVFgtS3FDSDNuZVFnbEZHd1Y3MG44ZUYtMllNbWh5SGdnLXYzUk9JUUJRRkpRU1dvVXNZT1BZWW5IeEJjNURVZ2RWYzU4QnFUSWYzaS10TjJ3T0VIZEVkM2IwS0ppZU1QdEM4SGE0VmVwa00",
    "voice": "reuters"
+  },
+  "media:a62acf7d8acb4dc6e7697acd": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:a62acf7d8acb4dc6e7697acd",
+   "published": "2026-11-19T00:36:26+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "China Oil Imports Rebound as Beijing Turns Back to Stockpiling",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/china-oil-imports-rebound-as-beijing-turns-back-to-stockpiling",
+   "voice": "bloomberg"
   },
   "media:a62eed9fadd0345a6cb73712": {
    "date": "2026-10-05",
@@ -95746,6 +96370,17 @@
    "title": "Romanian Assets Rally After Dodging Rating Downgrade to Junk",
    "url": "https://bloomberg.com/news/articles/2026-10-05/romanian-assets-rally-after-dodging-rating-downgrade-to-junk",
    "voice": "bloomberg"
+  },
+  "media:a984140723990e9fce8ff28d": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:a984140723990e9fce8ff28d",
+   "published": "2026-11-19T01:39:45+00:00",
+   "publisher": "verge",
+   "source": "media",
+   "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+   "url": "https://theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+   "voice": "verge"
   },
   "media:a9980f23f787ca2dd624f26a": {
    "date": "2026-10-19",
@@ -98658,6 +99293,19 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbm4yMG00bkllMzNwTzJHdXFYR1Vmb2JVMHJnVzVyNTZJeUV3dXpuUGI3MjRXMkhUSEVhV2hRSkNyWWZDN3lmZDlXemdqNEhuWlBCWUtfTTFjc3M1cncyTXgxWmEwT3Z3eVl1RHdOYzdqLTRXdlJPTHlfQmlrbDNRUzJSZ3c1QW5ibWozUzdGYTN0QXBEWEpEZWNBMmlpSm80SzU3elNaOHBDQQ",
    "voice": "reuters"
   },
+  "media:aef2d7410756d34d9d6493cf": {
+   "date": "2026-11-18",
+   "fields": [
+    "power"
+   ],
+   "id": "media:aef2d7410756d34d9d6493cf",
+   "published": "2026-11-18T14:23:48+00:00",
+   "publisher": "utility_dive",
+   "source": "media",
+   "title": "DOE-funded transmission projects could boost East-West transfer capacity 440%",
+   "url": "https://utilitydive.com/news/doe-funded-transmission-projects-could-boost-east-west-transfer-capacity-40/875021",
+   "voice": "utility_dive"
+  },
   "media:aefa48c19743e5f0087671ee": {
    "date": "2026-10-05",
    "fields": [],
@@ -101024,6 +101672,17 @@
    "url": "https://forbes.com/sites/nicoleroberts/2026/10/20/6488-veteran-lives-lost-but-gaps-and-unknowns-remain",
    "voice": "forbes"
   },
+  "media:b2c8379d794b7e693dfcf0ce": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:b2c8379d794b7e693dfcf0ce",
+   "published": "2026-11-18T04:55:00+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Magnitude 5.9 earthquake strikes Indonesia's Flores, GFZ says",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2lTMjM4bjlLWks3SUZDNjJxdWxVcC1ta1pIbktrZ3doYzlZU0R0cGdnQmRZb09IYU40dHNVZm9fMWE3dHc0SE1ROWRJZUw1YWJOV1pnMElseGFOclR4bmpjbWFRSGFobkpPYXBFd3RGaHdrczlGcFVRZ0t2UGJMNnFuckgxazFwNUcyOXRFUW1DSXpRZ2xIMGdrajV1WlFSY2ktWmFrWUhMYTJOV2NDRDFUdzlUQQ",
+   "voice": "reuters"
+  },
   "media:b2cf22560fbf3e02ef30a117": {
    "date": "2026-10-20",
    "fields": [],
@@ -101354,7 +102013,7 @@
     "semiconductor"
    ],
    "id": "media:b3643b54fd269e37a74a63f2",
-   "published": "2026-11-18T00:52:05+00:00",
+   "published": "2026-11-18T00:47:16+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang",
@@ -103939,6 +104598,17 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxONEdtUHZ5SjVIV3RpTVhrdlIzVTRucmFYRThFZ014SGlwX2cxTk80MjB3UHc5c2ZmZTlkOE1kMDJLS1BCM2hyREJhdjVaMExEUXhUemw4UlB2NXJCTm1pdkphM0hXRFdVNDQ1UlBueXpYcTdtcmNwT3ZtcGpXWTlDVW0xUmowZmFpdzVFemlVbGtwckxIM3NzNkhEenhENUVkWXByU09TQW9rUlNBUUNocEtBQQ",
    "voice": "reuters"
   },
+  "media:b7fa6959ab468cf1505ea602": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:b7fa6959ab468cf1505ea602",
+   "published": "2026-11-18T09:45:09+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+   "url": "https://bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
+   "voice": "bloomberg"
+  },
   "media:b7fa7c6e900b52f90503f833": {
    "date": "2026-11-16",
    "fields": [],
@@ -105519,6 +106189,17 @@
    "url": "https://wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30",
    "voice": "wsj"
   },
+  "media:badd80d26d9e04ab7a87d134": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:badd80d26d9e04ab7a87d134",
+   "published": "2026-11-18T21:34:56+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "‘Dota 2’ Finally Gets Major Update With 7.42 Patch Notes",
+   "url": "https://forbes.com/sites/mikestubbs/2026/11/18/dota-2-finally-gets-major-update-with-742-patch-notes",
+   "voice": "forbes"
+  },
   "media:bae07f827aa2fb78966214a0": {
    "date": "2026-10-25",
    "fields": [
@@ -106149,7 +106830,7 @@
     "power"
    ],
    "id": "media:bbf46e6a196228862563e910",
-   "published": "2026-11-18T17:06:21+00:00",
+   "published": "2026-11-18T19:25:15+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Ford ships first battery cells using CATL technology",
@@ -107641,6 +108322,19 @@
    "url": "https://bloomberg.com/news/videos/2026-10-20/pgim-s-bryan-mcdonnell-on-2027-real-estate-credit-market-video",
    "voice": "bloomberg"
   },
+  "media:be6e5bbd97d5d0e83e641519": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:be6e5bbd97d5d0e83e641519",
+   "published": "2026-11-18T21:51:21+00:00",
+   "publisher": "information",
+   "source": "media",
+   "title": "Anthropic Raises $81 Billion in Upsized IPO",
+   "url": "https://theinformation.com/briefings/anthropic-prices-ipo-83-share",
+   "voice": "information"
+  },
   "media:be6ecbecc4346979d3d8942c": {
    "date": "2026-10-12",
    "fields": [
@@ -107688,6 +108382,17 @@
    "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
    "voice": "ieee_spectrum"
   },
+  "media:bea0974824b5d0abcd3734ed": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:bea0974824b5d0abcd3734ed",
+   "published": "2026-11-19T01:00:00+00:00",
+   "publisher": "wsj",
+   "source": "media",
+   "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts",
+   "url": "https://wsj.com/business/media/just-how-big-is-grand-theft-auto-vi-the-multibillion-dollar-frenzy-in-charts-7c6a3893",
+   "voice": "wsj"
+  },
   "media:bea55a016a159b84bc3844b3": {
    "date": "2026-10-05",
    "fields": [],
@@ -107730,6 +108435,17 @@
    "source": "media",
    "title": "Brent steady as US weighs easing sanctions on global 'shadow fleet'",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ",
+   "voice": "reuters"
+  },
+  "media:bebbf75bc338cc4a6351ff5f": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:bebbf75bc338cc4a6351ff5f",
+   "published": "2026-11-18T17:08:11+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Canada talked to Mexico about joining global defence bank, Anand says",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkExdndlaTNZYjlHQ1lkakt4WDh5dEIyWTZCS01zelotQmJ4VUdZSGg3SDFpZHFjUVRkU25pMGFlX2JmSTg0SG8zYlNLMjV2bkIxbXNTYlA4RmRHLUJjdUl6Mks0RjliQVV6Si1hbTYzNnpDOGFZR1p2QUtpN19TMVRiM3VkVW1tTFptdmtTd0FINnZsTUpWZGh5NTctLWFKZ1BiSFNUVnlfZ0MzX0JRalFaMDJ6ZGlYX0E",
    "voice": "reuters"
   },
   "media:bebc7e2fd5ad16f23808d447": {
@@ -108714,6 +109430,17 @@
    "url": "https://wsj.com/health/pharma/argenx-shares-plunge-after-autoimmune-disease-trial-halt-2b547546",
    "voice": "wsj"
   },
+  "media:c09880c9f4f3b71991438b03": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:c09880c9f4f3b71991438b03",
+   "published": "2026-11-18T21:21:39+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "CVS Health Study Says GLP-1s Save Money If Net Price Is $350 Or Lower",
+   "url": "https://forbes.com/sites/joshuacohen/2026/11/18/cvs-health-study-says-glp-1s-save-money-if-net-price-is-350-or-lower",
+   "voice": "forbes"
+  },
   "media:c09b32094b34d71d2d8ecbe0": {
    "date": "2026-11-10",
    "fields": [
@@ -109504,6 +110231,19 @@
    "title": "Latest Oil Market News and Analysis for Oct. 7",
    "url": "https://bloomberg.com/news/articles/2026-10-06/latest-oil-market-news-and-analysis-for-oct-7",
    "voice": "bloomberg"
+  },
+  "media:c1f6c45045286b5b5861e759": {
+   "date": "2026-11-18",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:c1f6c45045286b5b5861e759",
+   "published": "2026-11-18T23:45:00+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+   "voice": "techcrunch"
   },
   "media:c1f72fccac3180461029d6ef": {
    "date": "2026-10-13",
@@ -110605,6 +111345,19 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFRGRW5WZUJyZDIxY3dFM1FneTBpOVhvWlVKcWdqa0l1T0VMblRzT3h5YVhhb1JwdlB5dzhERG91T2dVc1o1Zlh3bEU2QnU0MnpwdGFFM0RqalBoZUZHaExEa0gyNWkwc2xkT01DWUdNQTZaVXRlYS1GZFhHcnJwQ3VuMy0weU0tRktyelJqNzI4NUJXNUpGVGlzNjBib1loTk9IVE9TUDN0YnRvbDJWaHhLTS1RMUliMmI0WHJJMmNIY2s",
    "voice": "reuters"
   },
+  "media:c3e3d03531200b8029778d37": {
+   "date": "2026-11-18",
+   "fields": [
+    "power"
+   ],
+   "id": "media:c3e3d03531200b8029778d37",
+   "published": "2026-11-18T15:50:14+00:00",
+   "publisher": "utility_dive",
+   "source": "media",
+   "title": "NextEra-Dominion merger hearings kick off with focus on scope",
+   "url": "https://utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046",
+   "voice": "utility_dive"
+  },
   "media:c3f35515ef8ce9f3090b5abe": {
    "date": "2026-10-18",
    "fields": [
@@ -111016,6 +111769,19 @@
    "source": "media",
    "title": "Latest Oil Market News and Analysis for Nov. 2",
    "url": "https://bloomberg.com/news/articles/2026-11-01/latest-oil-market-news-and-analysis-for-nov-2",
+   "voice": "bloomberg"
+  },
+  "media:c4c3974bbf0bce40dee67364": {
+   "date": "2026-11-19",
+   "fields": [
+    "power"
+   ],
+   "id": "media:c4c3974bbf0bce40dee67364",
+   "published": "2026-11-19T00:54:52+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
    "voice": "bloomberg"
   },
   "media:c4c436421eb2fbfd36fdc186": {
@@ -111736,7 +112502,7 @@
     "ai"
    ],
    "id": "media:c5b9f916a982b111a51574d9",
-   "published": "2026-11-18T18:28:11+00:00",
+   "published": "2026-11-18T22:54:09+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "How the Anthropic IPO stacks up against SpaceX",
@@ -115988,6 +116754,17 @@
    "url": "https://forbes.com/sites/charlestowersclark/2026/10/28/why-transformation-fails-when-leaders-fix-people-not-systems",
    "voice": "forbes"
   },
+  "media:ccda25b9caa908a69eb23177": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:ccda25b9caa908a69eb23177",
+   "published": "2026-11-18T18:29:24+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "Italy's Saipem working with Subsea 7 to complete merger in early 2027",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVdrSHIwYVJYcE85NlV4Mm9ZVHFYMzZpZ04zSXZlVElBUDFaM2gtanR5TVlHUWs5U1phN19ScW5vUzYzcVJLMDgweGVJR0xkWkw0M2FYWDRpWjk4N1cxM1lXV08xaTB4SWpNRkQxVjQ5bE9XY2FuTklnNkZvQTJfVGV2Qm9PT09NaHNBRlBCUmFwbFhzN2ZJbXZTaUM1aVdLUUVLal9wUmRIM0d6T0xMVUV0aXQ",
+   "voice": "reuters"
+  },
   "media:cce1c7b79d7ac1aa64cadec7": {
    "date": "2026-10-29",
    "fields": [],
@@ -117771,6 +118548,17 @@
    "url": "https://bloomberg.com/news/videos/2026-10-07/mary-ng-asian-trade-growth-can-boost-canadian-exports-video",
    "voice": "bloomberg"
   },
+  "media:cf91ca3d5112617998e34358": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:cf91ca3d5112617998e34358",
+   "published": "2026-11-18T21:42:47+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "‘Yellowjackets’ Season 4 Premiere Release Time, Cast, Episode Schedule And Season 3 Recap",
+   "url": "https://forbes.com/sites/erikkain/2026/11/18/yellowjackets-season-4-release-time-schedule-premiere-recap",
+   "voice": "forbes"
+  },
   "media:cf94f04017fd6701f5ef2fcf": {
    "date": "2026-10-29",
    "fields": [
@@ -118097,6 +118885,17 @@
    "source": "media",
    "title": "Morgan Stanley’s Wilson Says Get Ready to Buy as Stock Drop Ends",
    "url": "https://bloomberg.com/news/articles/2026-10-19/morgan-stanley-s-wilson-says-get-ready-to-buy-as-stock-drop-ends",
+   "voice": "bloomberg"
+  },
+  "media:d0287cb2532692180a65042b": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:d0287cb2532692180a65042b",
+   "published": "2026-11-19T00:45:02+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Korea Investors Buy Record Amount of Treasuries in September",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/korea-investors-buy-record-amount-of-treasuries-in-september",
    "voice": "bloomberg"
   },
   "media:d031a23aeeb294ac05f01af1": {
@@ -122930,6 +123729,19 @@
    "url": "https://forbes.com/sites/krisholt/2026/11/07/quordle-hint-today-sunday-november-8-clues-and-answers",
    "voice": "forbes"
   },
+  "media:d8489f0bff775a02137c1de6": {
+   "date": "2026-11-18",
+   "fields": [
+    "power"
+   ],
+   "id": "media:d8489f0bff775a02137c1de6",
+   "published": "2026-11-18T10:29:12+00:00",
+   "publisher": "reuters",
+   "source": "media",
+   "title": "France's EDF close to finalizing €14 billion nuclear construction deal, newspaper reports",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUTJNeUEyQzV1SXVxX3RPUVRqbFRuR09HSVlOZGlybTc1QmFoazlldGRLZTF3cDZaLU00UV9YR1gwa3hhZDdFeWV3eGQyOGVTMTIzdV9hY2pnTEpCcGdoZmtFUHlsNWFXenYzNG9mNXEzUWo3dmJzanE1ZGxzSXA2bVJsNFE5SGhJTG9Ueng4bzVEQmVmVU1yR1VuZHZTSDZkdW5OWW5QUFRyNzNQRDlzeUNJTXBQVTBkRzY5dUZMVnZIVG1SU1E",
+   "voice": "reuters"
+  },
   "media:d8535483209e987e6ecdf664": {
    "date": "2026-10-02",
    "fields": [],
@@ -125387,6 +126199,17 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnMyRFpEcDhNOHlnU2NJT3F1R2M5QkEzMjJPaGRUYlZ1S2RYYmNMZ1pERlZINEtxMkJDTktfMThYeHZ0U2FDZjVoQ3l3eHViLVkyajQ0S1RfSDJ4QS1xTEgxNVlaZzJSSkVjLTJYM04tX3ZHUEVSY0VHdjJHUU45RHBRajVxQzA3emVQNXpvRG9XRVVVZUtSdUtveUN2WUp6RzhBeVQwQ0JzVk8zWWYzS1FCVUtTZ3UtNTllVzJrbTJyUC00",
    "voice": "reuters"
   },
+  "media:dcc265f29a2e8859788bcc88": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:dcc265f29a2e8859788bcc88",
+   "published": "2026-11-19T01:23:23+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "LNG Exports Through Hormuz Appear to Slow After More Attacks",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/lng-exports-through-hormuz-appear-to-slow-after-more-attacks",
+   "voice": "bloomberg"
+  },
   "media:dcc9948b8cdbe7e96da73b65": {
    "date": "2026-10-02",
    "fields": [
@@ -127194,6 +128017,19 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlNJNGV2RU1JbHotN25MRXNHQVZIeDJJU3I5eGYzT0pkUjdaSnZqbUpNZzRJY1U2cW1yUUViUjVuTVlvb184VjZsaEF5dnNBdEFBTVhtemRBalZRbG1SdlNhdHFoVkZHTHZ3SzlTMTRWaFhJaTMyVzJxc01qWmp6aUlpa2k5dGJuVTNkeU5mWXZUZ1F6SUlrMzlESGJ4cmRkajZwcF8ybEhoZXRITXQyMVFFTkxKdnZjS0t6WFNBSWQ3M0s3WS14VzhObFM",
    "voice": "reuters"
   },
+  "media:dfcefd3949a0e512032e0a2c": {
+   "date": "2026-11-19",
+   "fields": [
+    "ai"
+   ],
+   "id": "media:dfcefd3949a0e512032e0a2c",
+   "published": "2026-11-19T00:23:56+00:00",
+   "publisher": "forbes",
+   "source": "media",
+   "title": "Is AI Finding Flaws Faster Than Companies Can Safely Fix Them?",
+   "url": "https://forbes.com/sites/craigsmith/2026/11/18/is-ai-finding-flaws-faster-than-companies-can-safely-fix-them",
+   "voice": "forbes"
+  },
   "media:dfcf3983664502a4322531d8": {
    "date": "2026-11-03",
    "fields": [
@@ -127807,6 +128643,17 @@
    "title": "Meghan to join Australia's Junior MasterChef next year",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjNCbHZHQkRxVktfOFlnckYxajZwblFuNXNZT0RUXy04NjBiZWRlTXcwQlRobHd3TXY0TUtaNXEtNGNQVFVRTkNyMWFlZGFmeWQ1dUhTR0VjdzF5VHR6R0hDVlVnLWR3ejBYdjBIS3VrbE5iVTlPOENuQWlCQ2daU3FYX2FuQXN3d3VyNTRYRzNyYWNUa0NqZ2s1blpMNzBrcFZsT0lzY05IUnB0QWc",
    "voice": "reuters"
+  },
+  "media:e0f164586627f8cfc575a483": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:e0f164586627f8cfc575a483",
+   "published": "2026-11-18T20:07:01+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+   "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie",
+   "voice": "techcrunch"
   },
   "media:e0f3c5b329492e41de053864": {
    "date": "2026-11-12",
@@ -129098,6 +129945,17 @@
    "url": "https://forbes.com/sites/tiriasresearch/2026/10/09/qualcomm-vs-arm-day-4-eight-jurors-and-the-price-of-platform-power",
    "voice": "forbes"
   },
+  "media:e2d6acdb422c415d0ee1bd4d": {
+   "date": "2026-11-18",
+   "fields": [],
+   "id": "media:e2d6acdb422c415d0ee1bd4d",
+   "published": "2026-11-18T23:03:35+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Latest Oil Market News and Analysis for Nov. 19",
+   "url": "https://bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19",
+   "voice": "bloomberg"
+  },
   "media:e2dd72b9d6a9ec16006811aa": {
    "date": "2026-10-21",
    "fields": [],
@@ -130212,14 +131070,13 @@
   "media:e50dafef29ee13c6832d5d2e": {
    "date": "2026-11-18",
    "fields": [
-    "ai",
     "semiconductor"
    ],
    "id": "media:e50dafef29ee13c6832d5d2e",
-   "published": "2026-11-18T16:30:00+00:00",
+   "published": "2026-11-18T22:17:53+00:00",
    "publisher": "reuters",
    "source": "media",
-   "title": "Nvidia retreats, weighs on AI stocks as strong outlook fails to dispel Huang uncertainty",
+   "title": "Nvidia retreats as strong outlook fails to dispel uncertainty",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR",
    "voice": "reuters"
   },
@@ -132779,6 +133636,17 @@
    "url": "https://theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks",
    "voice": "verge"
   },
+  "media:e960a74414f71f6773eee033": {
+   "date": "2026-11-19",
+   "fields": [],
+   "id": "media:e960a74414f71f6773eee033",
+   "published": "2026-11-19T01:53:37+00:00",
+   "publisher": "bloomberg",
+   "source": "media",
+   "title": "Australian Dollar Erases 2026 Gain as Rate-Cut Bets Increase",
+   "url": "https://bloomberg.com/news/articles/2026-11-19/australian-dollar-set-to-shed-2026-gain-on-rba-rate-cut-bets",
+   "voice": "bloomberg"
+  },
   "media:e96415f4709be69ea647e3c3": {
    "date": "2026-10-07",
    "fields": [],
@@ -135305,10 +136173,10 @@
     "semiconductor"
    ],
    "id": "media:ee5a7438f0ec1f878fe8e8c9",
-   "published": "2026-11-18T19:40:52+00:00",
+   "published": "2026-11-18T10:28:00+00:00",
    "publisher": "reuters",
    "source": "media",
-   "title": "Wall Street mixed after Nvidia earnings, Fed minutes",
+   "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj",
    "voice": "reuters"
   },
@@ -140071,7 +140939,7 @@
    "date": "2026-11-18",
    "fields": [],
    "id": "media:f6eda76070127a4a508333f2",
-   "published": "2026-11-18T18:36:25+00:00",
+   "published": "2026-11-18T21:32:20+00:00",
    "publisher": "reuters",
    "source": "media",
    "title": "Data watchdog probes massive Deutsche Bank leak",
@@ -144477,6 +145345,19 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkJZSUNXNGpuMHlYcWE4a2tsVkdjYlJteHpuNWdfWHJVb1NoMURqdlplcklCUFhOc1pTdzJsYWduQ0NGZGhQemQtWDZpX0JocUNwT3A4cXNUUHFNNVFWRlBXOGUyeXBvV2V5R2Q0MGU3ODVPRjBCVks5UUF6MnhWYW1nd3hYa05PejZWVDd1aXpuQ2lndXVaUThMODRrM3BMMmJpYUs3N2NiY1hTM2dmLThGUnhXT1Z3WG0ybllvNDh6YlE",
    "voice": "reuters"
   },
+  "media:ff07d4f9a88da5b36124c1d0": {
+   "date": "2026-11-18",
+   "fields": [
+    "semiconductor"
+   ],
+   "id": "media:ff07d4f9a88da5b36124c1d0",
+   "published": "2026-11-18T21:31:21+00:00",
+   "publisher": "techcrunch",
+   "source": "media",
+   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+   "voice": "techcrunch"
+  },
   "media:ff0e6c9da663c9e27c1982b1": {
    "date": "2026-11-17",
    "fields": [],
@@ -145001,9 +145882,8 @@
  },
  "publishers": {
   "bloomberg": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
-    "2026-07-21": "covered",
     "2026-07-22": "covered",
     "2026-07-23": "covered",
     "2026-07-24": "covered",
@@ -145123,17 +146003,18 @@
     "2026-11-15": "covered",
     "2026-11-16": "partial",
     "2026-11-17": "covered",
-    "2026-11-18": "partial"
+    "2026-11-18": "partial",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
-   "latest": "2026-11-18T20:20:20+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
+   "latest": "2026-11-19T02:02:33+00:00",
    "received": 20,
    "status": "ok"
   },
   "forbes": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -145185,17 +146066,18 @@
     "2026-11-15": "partial",
     "2026-11-16": "partial",
     "2026-11-17": "partial",
-    "2026-11-18": "partial"
+    "2026-11-18": "partial",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
-   "latest": "2026-11-18T19:10:45+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
+   "latest": "2026-11-19T01:14:33+00:00",
    "received": 25,
    "status": "ok"
   },
   "ieee_spectrum": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-08": "partial",
     "2026-09-09": "covered",
@@ -145268,17 +146150,18 @@
     "2026-11-15": "covered",
     "2026-11-16": "covered",
     "2026-11-17": "covered",
-    "2026-11-18": "partial"
+    "2026-11-18": "covered",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
    "latest": "2026-11-18T17:33:26+00:00",
    "received": 27,
    "status": "ok"
   },
   "information": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -145331,17 +146214,18 @@
     "2026-11-15": "covered",
     "2026-11-16": "covered",
     "2026-11-17": "partial",
-    "2026-11-18": "partial"
+    "2026-11-18": "partial",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
-   "latest": "2026-11-18T19:47:45+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
+   "latest": "2026-11-19T01:01:20+00:00",
    "received": 20,
    "status": "ok"
   },
   "reuters": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-25": "partial",
     "2026-09-26": "partial",
@@ -145397,17 +146281,18 @@
     "2026-11-15": "partial",
     "2026-11-16": "partial",
     "2026-11-17": "partial",
-    "2026-11-18": "partial"
+    "2026-11-18": "partial",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
-   "latest": "2026-11-18T19:40:52+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
+   "latest": "2026-11-19T00:56:00+00:00",
    "received": 100,
    "status": "ok"
   },
   "semiconductor_engineering": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -145464,17 +146349,18 @@
     "2026-11-15": "covered",
     "2026-11-16": "covered",
     "2026-11-17": "covered",
-    "2026-11-18": "partial"
+    "2026-11-18": "covered",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
    "latest": "2026-11-18T08:01:53+00:00",
    "received": 10,
    "status": "ok"
   },
   "techcrunch": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-28": "partial",
     "2026-09-29": "partial",
@@ -145527,17 +146413,18 @@
     "2026-11-15": "covered",
     "2026-11-16": "partial",
     "2026-11-17": "partial",
-    "2026-11-18": "partial"
+    "2026-11-18": "partial",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
-   "latest": "2026-11-18T20:07:01+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
+   "latest": "2026-11-19T00:42:56+00:00",
    "received": 20,
    "status": "ok"
   },
   "utility_dive": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-24": "partial",
     "2026-09-25": "covered",
@@ -145594,17 +146481,18 @@
     "2026-11-15": "covered",
     "2026-11-16": "covered",
     "2026-11-17": "covered",
-    "2026-11-18": "partial"
+    "2026-11-18": "covered",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
    "latest": "2026-11-18T15:57:17+00:00",
    "received": 10,
    "status": "ok"
   },
   "verge": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-29": "partial",
     "2026-09-30": "partial",
@@ -145656,17 +146544,18 @@
     "2026-11-15": "partial",
     "2026-11-16": "partial",
     "2026-11-17": "partial",
-    "2026-11-18": "partial"
+    "2026-11-18": "partial",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
-   "latest": "2026-11-18T19:40:36+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
+   "latest": "2026-11-19T01:39:45+00:00",
    "received": 10,
    "status": "ok"
   },
   "wsj": {
-   "checked_at": "2026-11-18T20:39:34.552842+00:00",
+   "checked_at": "2026-11-19T02:29:32.827796+00:00",
    "coverage": {
     "2026-09-16": "partial",
     "2026-09-17": "covered",
@@ -145731,12 +146620,13 @@
     "2026-11-15": "covered",
     "2026-11-16": "covered",
     "2026-11-17": "covered",
-    "2026-11-18": "partial"
+    "2026-11-18": "covered",
+    "2026-11-19": "partial"
    },
    "error": null,
    "invalid": 0,
-   "last_success": "2026-11-18T20:39:34.552842+00:00",
-   "latest": "2026-11-18T18:00:00+00:00",
+   "last_success": "2026-11-19T02:29:32.827796+00:00",
+   "latest": "2026-11-19T02:00:00+00:00",
    "received": 35,
    "status": "ok"
   }

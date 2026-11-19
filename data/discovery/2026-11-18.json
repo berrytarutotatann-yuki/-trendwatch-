@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-18",
  "docs_baseline": 115230,
- "docs_recent": 8594,
+ "docs_recent": 8604,
  "fields": {
   "ai": [
    {
@@ -86,15 +86,15 @@
     "field": "ai",
     "is_new": false,
     "rank": 3,
-    "recent": 16,
-    "score": 14.14,
+    "recent": 17,
+    "score": 15.1,
     "sources": [
      "hn",
      "media"
     ],
     "term": "gta vi",
     "voices": 13,
-    "z": 9.42
+    "z": 10.07
    },
    {
     "baseline": 90,
@@ -311,6 +311,36 @@
     "examples": [
      {
       "source": "media",
+      "title": "Anthropic Prices IPO at $83 a Share on Strong Demand"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic prices IPO at $83 a share, above projected range"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic prices initial public offering"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 11,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic prices",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "As criticism mounts, Trump administration says tech outages not coordinated"
      },
      {
@@ -325,7 +355,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 11,
+    "rank": 12,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -355,7 +385,7 @@
     "expected": 2.72,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 10,
     "score": 5.66,
     "sources": [
@@ -385,7 +415,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 6,
     "score": 5.19,
     "sources": [
@@ -414,7 +444,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 5.09,
     "sources": [
@@ -424,35 +454,6 @@
     "term": "artex ai",
     "voices": 4,
     "z": 3.39
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Tencent releases weights of Hy4 Flash (220B size)"
-     },
-     {
-      "source": "hn",
-      "title": "Tencent Hy4 Flash"
-     },
-     {
-      "source": "hn",
-      "title": "Tencent Hy4 Flash"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 15,
-    "recent": 5,
-    "score": 5.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "hy4 flash",
-    "voices": 3,
-    "z": 5.0
    }
   ],
   "other": [

@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-19",
  "docs_baseline": 115551,
- "docs_recent": 8687,
+ "docs_recent": 8701,
  "fields": {
   "ai": [
    {
@@ -160,6 +160,36 @@
     "baseline": 0,
     "examples": [
      {
+      "source": "media",
+      "title": "Walmart says US shoppers stocked up after tech outages"
+     },
+     {
+      "source": "media",
+      "title": "These tech outages are giving Y2K, AI agent style"
+     },
+     {
+      "source": "media",
+      "title": "As criticism mounts, Trump administration says tech outages not coordinated"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 7,
+    "score": 10.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech outages",
+    "voices": 6,
+    "z": 7.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
       "source": "hn",
       "title": "GPT-6.2 Astra Formalizes Smoktunowicz's Gap Theorem"
      },
@@ -175,7 +205,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 10,
     "score": 10.0,
     "sources": [
@@ -204,7 +234,7 @@
     "expected": 2.26,
     "field": "ai",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 14,
     "score": 9.76,
     "sources": [
@@ -234,36 +264,6 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 8,
-    "recent": 6,
-    "score": 9.0,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "chatgpt wallet",
-    "voices": 6,
-    "z": 6.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "These tech outages are giving Y2K, AI agent style"
-     },
-     {
-      "source": "media",
-      "title": "As criticism mounts, Trump administration says tech outages not coordinated"
-     },
-     {
-      "source": "media",
-      "title": "What’s Behind the String of Tech Outages Disrupting Business and Travel"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
     "rank": 9,
     "recent": 6,
     "score": 9.0,
@@ -271,7 +271,7 @@
      "hn",
      "media"
     ],
-    "term": "tech outages",
+    "term": "chatgpt wallet",
     "voices": 6,
     "z": 6.0
    },
@@ -523,30 +523,30 @@
     "examples": [
      {
       "source": "media",
+      "title": "Deutsche Bank CEO says clients calm after data leak"
+     },
+     {
+      "source": "media",
       "title": "Deutsche Bank shares open 1.9% lower a day after leak news"
      },
      {
       "source": "media",
       "title": "Data watchdog probes massive Deutsche Bank leak"
-     },
-     {
-      "source": "media",
-      "title": "Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak 'illegal'"
      }
     ],
     "expected": 0.78,
     "field": "other",
     "is_new": false,
     "rank": 3,
-    "recent": 13,
-    "score": 13.75,
+    "recent": 14,
+    "score": 14.88,
     "sources": [
      "hn",
      "media"
     ],
     "term": "deutsche bank",
     "voices": 9,
-    "z": 9.17
+    "z": 9.92
    },
    {
     "baseline": 1,
@@ -969,6 +969,36 @@
     "z": 3.78
    },
    {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Soaring gas prices could add €16 billion to German power cost, study shows"
+     },
+     {
+      "source": "media",
+      "title": "Auto Suppliers Face Workforce, Automation Challenges, Study Shows"
+     },
+     {
+      "source": "media",
+      "title": "Thousands of hectares burnt on land owned by listed Indonesian firms, study shows"
+     }
+    ],
+    "expected": 0.86,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 3.46,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "study shows",
+    "voices": 3,
+    "z": 2.31
+   },
+   {
     "baseline": 3,
     "examples": [
      {
@@ -987,7 +1017,7 @@
     "expected": 0.23,
     "field": "power",
     "is_new": false,
-    "rank": 3,
+    "rank": 4,
     "recent": 3,
     "score": 2.49,
     "sources": [
@@ -1016,7 +1046,7 @@
     "expected": 0.86,
     "field": "power",
     "is_new": false,
-    "rank": 4,
+    "rank": 5,
     "recent": 3,
     "score": 2.36,
     "sources": [
@@ -1046,7 +1076,7 @@
     "expected": 0.93,
     "field": "power",
     "is_new": false,
-    "rank": 5,
+    "rank": 6,
     "recent": 3,
     "score": 2.23,
     "sources": [

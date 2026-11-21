@@ -5,6 +5,18 @@
   "origin": "auto",
   "score_at_add": 11.45
  },
+ "anthropic ipo": {
+  "added": "2026-11-21",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 27.41
+ },
+ "blue origin": {
+  "added": "2026-11-21",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 4.38
+ },
  "blue wave": {
   "added": "2026-11-06",
   "field": "ai",
@@ -47,12 +59,6 @@
   "origin": "auto",
   "score_at_add": 11.04
  },
- "critical material": {
-  "added": "2026-10-30",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 8.0
- },
  "data center site": {
   "added": "2026-11-12",
   "field": "power",
@@ -76,12 +82,6 @@
   "field": "power",
   "origin": "auto",
   "score_at_add": 7.5
- },
- "dwarf planet": {
-  "added": "2026-10-30",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 6.0
  },
  "election results": {
   "added": "2026-11-05",

@@ -59,6 +59,12 @@
   "origin": "auto",
   "score_at_add": 11.04
  },
+ "climate talks": {
+  "added": "2026-11-22",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 4.22
+ },
  "data center site": {
   "added": "2026-11-12",
   "field": "power",
@@ -155,17 +161,11 @@
   "origin": "auto",
   "score_at_add": 66.26
  },
- "patrick stewart": {
-  "added": "2026-11-02",
-  "field": "power",
+ "riemann hypothesis": {
+  "added": "2026-11-22",
+  "field": "ai",
   "origin": "auto",
-  "score_at_add": 22.5
- },
- "shares drop": {
-  "added": "2026-11-03",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 7.11
+  "score_at_add": 45.2
  },
  "tech selloff": {
   "added": "2026-11-03",

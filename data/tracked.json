@@ -167,16 +167,16 @@
   "origin": "auto",
   "score_at_add": 45.2
  },
- "tech selloff": {
-  "added": "2026-11-03",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 9.14
- },
  "third quarter": {
   "added": "2026-11-04",
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 6.33
+ },
+ "trump threatens": {
+  "added": "2026-11-23",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 4.83
  }
 }

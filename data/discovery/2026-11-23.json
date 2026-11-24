@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-23",
  "docs_baseline": 115356,
- "docs_recent": 7556,
+ "docs_recent": 8762,
  "fields": {
   "ai": [
    {
@@ -19,22 +19,22 @@
      },
      {
       "source": "hn",
-      "title": "Riemann at home – Validate the Riemann hypothesis lean proof on your computer"
+      "title": "AI Riemann Hypothesis proof is true, independent mathematicians confirm"
      }
     ],
     "expected": 0.62,
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 48,
-    "score": 55.8,
+    "recent": 66,
+    "score": 77.0,
     "sources": [
      "hn",
      "media"
     ],
     "term": "riemann hypothesis",
-    "voices": 45,
-    "z": 37.2
+    "voices": 61,
+    "z": 51.33
    },
    {
     "baseline": 102,
@@ -56,15 +56,15 @@
     "field": "ai",
     "is_new": false,
     "rank": 2,
-    "recent": 56,
-    "score": 24.12,
+    "recent": 57,
+    "score": 24.62,
     "sources": [
      "hn",
      "media"
     ],
     "term": "anthropic ipo",
-    "voices": 25,
-    "z": 16.08
+    "voices": 26,
+    "z": 16.42
    },
    {
     "baseline": 0,
@@ -116,15 +116,15 @@
     "field": "ai",
     "is_new": false,
     "rank": 4,
-    "recent": 25,
-    "score": 21.22,
+    "recent": 26,
+    "score": 22.13,
     "sources": [
      "hn",
      "media"
     ],
     "term": "gta vi",
-    "voices": 19,
-    "z": 14.14
+    "voices": 20,
+    "z": 14.75
    },
    {
     "baseline": 0,
@@ -160,30 +160,59 @@
     "examples": [
      {
       "source": "hn",
-      "title": "Experiments in Weight-Space Programming"
-     },
-     {
-      "source": "hn",
       "title": "Sparks of Weight-Space Programming? Or Just Exploit Engineering"
      },
      {
       "source": "hn",
-      "title": "Show HN: Watch weight-space programming in action with WebGPU"
+      "title": "Looped Weight-Space Programming: LLM-Written Transformers"
+     },
+     {
+      "source": "hn",
+      "title": "Experiments in Weight-Space Programming"
      }
     ],
     "expected": 0.39,
     "field": "ai",
     "is_new": false,
     "rank": 6,
-    "recent": 8,
-    "score": 9.69,
+    "recent": 9,
+    "score": 10.96,
     "sources": [
      "arxiv",
      "hn"
     ],
     "term": "weight-space programming",
-    "voices": 7,
-    "z": 6.46
+    "voices": 8,
+    "z": 7.31
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Paper: The Invalidity of Alpöge's Proof of the Riemann Hypothesis [pdf]"
+     },
+     {
+      "source": "hn",
+      "title": "Open benchmark for compressing Alpöge's Lean proof of Riemann hypothesis"
+     },
+     {
+      "source": "hn",
+      "title": "Human-readable reconstruction of the Alpöge/Claude RH argument"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 9,
+    "score": 9.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "alp ge",
+    "voices": 9,
+    "z": 9.0
    },
    {
     "baseline": 0,
@@ -204,76 +233,16 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 7,
-    "recent": 5,
-    "score": 7.5,
+    "rank": 8,
+    "recent": 6,
+    "score": 9.0,
     "sources": [
      "hn",
      "media"
     ],
     "term": "anthropic shares",
-    "voices": 4,
-    "z": 5.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO"
-     },
-     {
-      "source": "media",
-      "title": "Anthropic’s Record-Breaking IPO Explained In 7 Key Facts"
-     },
-     {
-      "source": "media",
-      "title": "The Anthropic Record-Breaking IPO Explained In 7 Key Facts"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 8,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "record-breaking ipo",
-    "voices": 4,
-    "z": 5.0
-   },
-   {
-    "baseline": 53,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap"
-     },
-     {
-      "source": "media",
-      "title": "Wall Street Storms Back as AI Trade Rebounds With Huang’s Return"
-     },
-     {
-      "source": "media",
-      "title": "AI Trade Rebound Drives Limit Up Moves in Nvidia Supplier Stocks"
-     }
-    ],
-    "expected": 4.12,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 15,
-    "score": 7.21,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "ai trade",
     "voices": 5,
-    "z": 4.81
+    "z": 6.0
    },
    {
     "baseline": 1,
@@ -294,16 +263,106 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 10,
-    "recent": 5,
-    "score": 7.11,
+    "rank": 9,
+    "recent": 6,
+    "score": 8.56,
     "sources": [
      "hn",
      "media"
     ],
     "term": "anthropic mathematician",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s Record-Breaking IPO Explained In 7 Key Facts"
+     },
+     {
+      "source": "media",
+      "title": "The Anthropic Record-Breaking IPO Explained In 7 Key Facts"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "record-breaking ipo",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package"
+     },
+     {
+      "source": "hn",
+      "title": "EU Commission confirms personal data leak after cyberattack"
+     },
+     {
+      "source": "hn",
+      "title": "China-backed hackers suspected behind ongoing EU Commission cyberattack"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 6,
+    "score": 7.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "eu commission",
+    "voices": 6,
+    "z": 4.97
+   },
+   {
+    "baseline": 53,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "Wall Street Storms Back as AI Trade Rebounds With Huang’s Return"
+     },
+     {
+      "source": "media",
+      "title": "AI Trade Rebound Drives Limit Up Moves in Nvidia Supplier Stocks"
+     }
+    ],
+    "expected": 4.12,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 15,
+    "score": 7.21,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai trade",
     "voices": 5,
-    "z": 4.74
+    "z": 4.81
    },
    {
     "baseline": 1,
@@ -324,7 +383,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 13,
     "recent": 5,
     "score": 7.11,
     "sources": [
@@ -354,7 +413,7 @@
     "expected": 0.62,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 14,
     "recent": 9,
     "score": 6.58,
     "sources": [
@@ -363,35 +422,6 @@
     "term": "california sues",
     "voices": 9,
     "z": 6.58
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "The Alpöge–Claude proof of the RH explained for the Riemann zeta function [pdf]"
-     },
-     {
-      "source": "hn",
-      "title": "The Invalidity of AlpöGE's Proposed Proof of the Riemann Hypothesis [pdf]"
-     },
-     {
-      "source": "hn",
-      "title": "Explore Alpöge's Riemann proof source"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 13,
-    "recent": 6,
-    "score": 6.0,
-    "sources": [
-     "hn"
-    ],
-    "term": "alp ge",
-    "voices": 6,
-    "z": 6.0
    },
    {
     "baseline": 0,
@@ -412,7 +442,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -422,36 +452,6 @@
     "term": "anthropic prices",
     "voices": 4,
     "z": 4.0
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Why Anthropic’s Math Breakthrough Matters; Why Palo Alto Networks Bought Applied Compute"
-     },
-     {
-      "source": "media",
-      "title": "Palo Alto Networks to Acquire AI Firm Applied Compute for $4.5 Billion"
-     },
-     {
-      "source": "media",
-      "title": "Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion"
-     }
-    ],
-    "expected": 0.08,
-    "field": "ai",
-    "is_new": false,
-    "rank": 15,
-    "recent": 4,
-    "score": 5.67,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "applied compute",
-    "voices": 3,
-    "z": 3.78
    }
   ],
   "other": [
@@ -486,6 +486,64 @@
     "z": 10.67
    },
    {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Open benchmark for compressing Alpöge's Lean proof of Riemann hypothesis"
+     },
+     {
+      "source": "hn",
+      "title": "Lean proof of the Riemann hypothesis: an interactive map"
+     },
+     {
+      "source": "hn",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 13,
+    "score": 11.08,
+    "sources": [
+     "hn"
+    ],
+    "term": "lean proof",
+    "voices": 13,
+    "z": 11.08
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Planned lead azide detonation fact sheet – Iowa HHS"
+     },
+     {
+      "source": "hn",
+      "title": "Army reschedules southeast Iowa lead azide blasts for Wednesday"
+     },
+     {
+      "source": "hn",
+      "title": "Alternative to Detonation of Lead Azide in Middletown, Iowa"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "lead azide",
+    "voices": 9,
+    "z": 10.0
+   },
+   {
     "baseline": 0,
     "examples": [
      {
@@ -504,7 +562,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 2,
+    "rank": 4,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -516,33 +574,34 @@
     "z": 6.0
    },
    {
-    "baseline": 0,
+    "baseline": 9,
     "examples": [
      {
-      "source": "hn",
-      "title": "Alternative to Detonation of Lead Azide in Middletown, Iowa"
+      "source": "media",
+      "title": "COP31 Broke Down Over Fossil Fuels. Here’s Why, And What Happens Next?"
+     },
+     {
+      "source": "media",
+      "title": "OPEC speaks up for fossil fuels at COP31 climate talks"
      },
      {
       "source": "hn",
-      "title": "Show HN: I built a risk map of the Army's planned lead azide detonation in Iowa"
-     },
-     {
-      "source": "hn",
-      "title": "Detonating a pile of lead azide"
+      "title": "Climate talks on the brink as EU rejects deal that 'green washes fossil fuels'"
      }
     ],
-    "expected": 0.0,
+    "expected": 0.7,
     "field": "other",
-    "is_new": true,
-    "rank": 3,
+    "is_new": false,
+    "rank": 5,
     "recent": 8,
-    "score": 8.0,
+    "score": 8.4,
     "sources": [
-     "hn"
+     "hn",
+     "media"
     ],
-    "term": "lead azide",
-    "voices": 7,
-    "z": 8.0
+    "term": "fossil fuels",
+    "voices": 8,
+    "z": 5.6
    },
    {
     "baseline": 21,
@@ -563,7 +622,7 @@
     "expected": 1.63,
     "field": "other",
     "is_new": false,
-    "rank": 4,
+    "rank": 6,
     "recent": 10,
     "score": 7.73,
     "sources": [
@@ -573,35 +632,6 @@
     "term": "bending spoons",
     "voices": 10,
     "z": 5.16
-   },
-   {
-    "baseline": 4,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "Limitations of formal verification and the LEAN proof of RH"
-     },
-     {
-      "source": "hn",
-      "title": "Riemann at home – Validate the Riemann hypothesis lean proof on your computer"
-     },
-     {
-      "source": "hn",
-      "title": "Riemann Lean proof compression leaderboard"
-     }
-    ],
-    "expected": 0.31,
-    "field": "other",
-    "is_new": false,
-    "rank": 5,
-    "recent": 9,
-    "score": 7.59,
-    "sources": [
-     "hn"
-    ],
-    "term": "lean proof",
-    "voices": 9,
-    "z": 7.59
    },
    {
     "baseline": 1,
@@ -622,7 +652,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 6,
+    "rank": 7,
     "recent": 5,
     "score": 7.11,
     "sources": [
@@ -632,36 +662,6 @@
     "term": "apple services",
     "voices": 5,
     "z": 4.74
-   },
-   {
-    "baseline": 9,
-    "examples": [
-     {
-      "source": "media",
-      "title": "COP31 Broke Down Over Fossil Fuels. Here’s Why, And What Happens Next?"
-     },
-     {
-      "source": "media",
-      "title": "OPEC speaks up for fossil fuels at COP31 climate talks"
-     },
-     {
-      "source": "hn",
-      "title": "Climate change talks fall apart in final hours over fossil fuels"
-     }
-    ],
-    "expected": 0.7,
-    "field": "other",
-    "is_new": false,
-    "rank": 7,
-    "recent": 6,
-    "score": 6.1,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "fossil fuels",
-    "voices": 6,
-    "z": 4.06
    },
    {
     "baseline": 0,
@@ -697,6 +697,36 @@
     "examples": [
      {
       "source": "media",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion"
+     },
+     {
+      "source": "hn",
+      "title": "CrowdStrike to Acquire Zscaler"
+     },
+     {
+      "source": "hn",
+      "title": "CrowdStrike to Acquire Zscaler for $43.9B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "acquire zscaler",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
       "title": "How to Protect Yourself From Scammers Exploiting Outage Chaos"
      },
      {
@@ -711,7 +741,7 @@
     "expected": 0.0,
     "field": "other",
     "is_new": true,
-    "rank": 9,
+    "rank": 10,
     "recent": 4,
     "score": 6.0,
     "sources": [
@@ -741,7 +771,7 @@
     "expected": 0.08,
     "field": "other",
     "is_new": false,
-    "rank": 10,
+    "rank": 11,
     "recent": 4,
     "score": 5.67,
     "sources": [
@@ -751,6 +781,36 @@
     "term": "apple backdoor",
     "voices": 4,
     "z": 3.78
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99"
+     },
+     {
+      "source": "media",
+      "title": "Samsung Launches World’s First 1,100Hz Gaming Monitor"
+     },
+     {
+      "source": "hn",
+      "title": "Next gaming monitor should still be an OLED"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gaming monitor",
+    "voices": 4,
+    "z": 3.58
    },
    {
     "baseline": 8,
@@ -771,7 +831,7 @@
     "expected": 0.62,
     "field": "other",
     "is_new": false,
-    "rank": 11,
+    "rank": 13,
     "recent": 5,
     "score": 5.16,
     "sources": [
@@ -781,6 +841,35 @@
     "term": "measles elimination",
     "voices": 5,
     "z": 3.44
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor"
+     },
+     {
+      "source": "hn",
+      "title": "Developer Turns MacBook Trackpad into a Speaker Using Haptic Motor"
+     },
+     {
+      "source": "hn",
+      "title": "MacBook Trackpad Talking Using Its Haptic Motor"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "macbook trackpad",
+    "voices": 5,
+    "z": 5.0
    },
    {
     "baseline": 19,
@@ -801,7 +890,7 @@
     "expected": 1.48,
     "field": "other",
     "is_new": false,
-    "rank": 12,
+    "rank": 15,
     "recent": 9,
     "score": 4.78,
     "sources": [
@@ -810,96 +899,6 @@
     "term": "remote code execution",
     "voices": 9,
     "z": 4.78
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "FAA pauses Juniper router deployment after grounding US flights"
-     },
-     {
-      "source": "hn",
-      "title": "FAA pauses Juniper router installations after nationwide ground stop"
-     },
-     {
-      "source": "hn",
-      "title": "FAA Pauses Juniper Router Installations After Nationwide Ground Stop"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 13,
-    "recent": 3,
-    "score": 4.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "faa pauses juniper",
-    "voices": 3,
-    "z": 3.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "UK government forced to disclose secret Apple backdoor order"
-     },
-     {
-      "source": "hn",
-      "title": "UK government forced to come clean about Apple secret encryption order"
-     },
-     {
-      "source": "hn",
-      "title": "UK government forced to admit it issued Apple a secret encryption order"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 14,
-    "recent": 3,
-    "score": 4.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "uk government forced",
-    "voices": 3,
-    "z": 3.0
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Zelenskiy says Ukraine struck Crimea bridge in response to Russian attacks on infrastructure"
-     },
-     {
-      "source": "media",
-      "title": "Video Shows Cruise Missile Targeting Crimea Bridge"
-     },
-     {
-      "source": "hn",
-      "title": "Ukrainian Strikes Send Large Section of Crimea Bridge into the Sea"
-     }
-    ],
-    "expected": 0.0,
-    "field": "other",
-    "is_new": true,
-    "rank": 15,
-    "recent": 3,
-    "score": 4.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "crimea bridge",
-    "voices": 3,
-    "z": 3.0
    }
   ],
   "power": [
@@ -916,22 +915,22 @@
      },
      {
       "source": "hn",
-      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels"
+      "title": "Climate talks on the brink as EU rejects deal that 'green washes fossil fuels'"
      }
     ],
     "expected": 0.08,
     "field": "power",
     "is_new": false,
     "rank": 1,
-    "recent": 6,
-    "score": 8.56,
+    "recent": 8,
+    "score": 11.45,
     "sources": [
      "hn",
      "media"
     ],
     "term": "climate talks",
-    "voices": 6,
-    "z": 5.7
+    "voices": 8,
+    "z": 7.63
    },
    {
     "baseline": 4,
@@ -1023,33 +1022,34 @@
     "z": 3.78
    },
    {
-    "baseline": 3,
+    "baseline": 36,
     "examples": [
      {
-      "source": "hn",
-      "title": "Trump vows to prevent US companies from building data centres abroad"
+      "source": "media",
+      "title": "BOJ's ambiguity on rate hike path could tempt yen bears"
      },
      {
-      "source": "hn",
-      "title": "Donald Trump vows to tax US companies building data centres overseas"
+      "source": "media",
+      "title": "Bessent advocates lower Fed rate hike, cites energy shock"
      },
      {
-      "source": "hn",
-      "title": "Trump Threatens Tax on US Companies Building Data Centers Overseas"
+      "source": "media",
+      "title": "Japan's core inflation accelerates in October, cementing rate hike expectations"
      }
     ],
-    "expected": 0.23,
+    "expected": 2.8,
     "field": "power",
     "is_new": false,
     "rank": 5,
-    "recent": 3,
-    "score": 2.49,
+    "recent": 6,
+    "score": 2.46,
     "sources": [
-     "hn"
+     "hn",
+     "media"
     ],
-    "term": "building data",
+    "term": "rate hike",
     "voices": 3,
-    "z": 2.49
+    "z": 1.64
    },
    {
     "baseline": 12,
@@ -1133,15 +1133,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 84,
-    "score": 20.03,
+    "recent": 99,
+    "score": 24.81,
     "sources": [
      "hn",
      "media"
     ],
     "term": "jensen huang",
-    "voices": 36,
-    "z": 13.35
+    "voices": 49,
+    "z": 16.54
    },
    {
     "baseline": 4,
@@ -1163,45 +1163,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 3,
-    "recent": 14,
-    "score": 17.93,
+    "recent": 15,
+    "score": 19.24,
     "sources": [
      "hn",
      "media"
     ],
     "term": "huang return",
-    "voices": 7,
-    "z": 11.95
-   },
-   {
-    "baseline": 12,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear"
-     },
-     {
-      "source": "media",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt"
-     },
-     {
-      "source": "media",
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit"
-     }
-    ],
-    "expected": 0.93,
-    "field": "semiconductor",
-    "is_new": false,
-    "rank": 4,
-    "recent": 10,
-    "score": 9.78,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "huang exit",
-    "voices": 4,
-    "z": 6.52
+    "voices": 8,
+    "z": 12.83
    },
    {
     "baseline": 22,
@@ -1222,16 +1192,46 @@
     "expected": 1.71,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 5,
-    "recent": 12,
-    "score": 9.37,
+    "rank": 4,
+    "recent": 15,
+    "score": 12.11,
     "sources": [
      "hn",
      "media"
     ],
     "term": "nvidia board",
-    "voices": 8,
-    "z": 6.25
+    "voices": 11,
+    "z": 8.07
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt"
+     },
+     {
+      "source": "media",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit"
+     }
+    ],
+    "expected": 0.93,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 10,
+    "score": 9.78,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang exit",
+    "voices": 4,
+    "z": 6.52
    },
    {
     "baseline": 2,
@@ -1264,36 +1264,6 @@
     "z": 5.44
    },
    {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push"
-     },
-     {
-      "source": "media",
-      "title": "Thailand Sees US Chip Curbs as Risk to Data Center Drive"
-     },
-     {
-      "source": "media",
-      "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers"
-     }
-    ],
-    "expected": 0.0,
-    "field": "semiconductor",
-    "is_new": true,
-    "rank": 7,
-    "recent": 5,
-    "score": 7.5,
-    "sources": [
-     "hn",
-     "media"
-    ],
-    "term": "chip curbs",
-    "voices": 3,
-    "z": 5.0
-   },
-   {
     "baseline": 8,
     "examples": [
      {
@@ -1312,16 +1282,46 @@
     "expected": 0.62,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 8,
-    "recent": 6,
-    "score": 6.33,
+    "rank": 7,
+    "recent": 7,
+    "score": 7.51,
     "sources": [
      "hn",
      "media"
     ],
     "term": "nvidia scandal",
-    "voices": 5,
-    "z": 4.22
+    "voices": 6,
+    "z": 5.01
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push"
+     },
+     {
+      "source": "media",
+      "title": "Thailand Sees US Chip Curbs as Risk to Data Center Drive"
+     },
+     {
+      "source": "media",
+      "title": "China AI Stocks Sink as US Chip Curbs Hit Labs and Hyperscalers"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip curbs",
+    "voices": 3,
+    "z": 5.0
    },
    {
     "baseline": 1,
@@ -1354,34 +1354,34 @@
     "z": 3.78
    },
    {
-    "baseline": 72,
+    "baseline": 2,
     "examples": [
      {
       "source": "media",
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
+      "title": "How Trump Put Jensen Huang Back in Charge of Nvidia"
      },
      {
       "source": "media",
-      "title": "A Timeline of Nvidia CEO Jensen Huang’s Spy Downfall and Resurrection"
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO"
      },
      {
-      "source": "media",
-      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO"
+      "source": "hn",
+      "title": "Jensen Huang Back as CEO of Nvidia"
      }
     ],
-    "expected": 5.6,
+    "expected": 0.16,
     "field": "semiconductor",
     "is_new": false,
     "rank": 10,
-    "recent": 14,
-    "score": 4.9,
+    "recent": 4,
+    "score": 5.36,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "nvidia ceo",
-    "voices": 9,
-    "z": 3.27
+    "term": "huang back",
+    "voices": 4,
+    "z": 3.58
    },
    {
     "baseline": 0,
@@ -1444,6 +1444,36 @@
     "z": 3.0
    },
    {
+    "baseline": 18,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Right-Hand Man Oversaw Chip Customers—Including Alice Huang"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Introduced Alibaba to Alice Huang for Workaround on U.S. Export Controls"
+     }
+    ],
+    "expected": 1.4,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 13,
+    "recent": 6,
+    "score": 4.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "alice huang",
+    "voices": 4,
+    "z": 2.97
+   },
+   {
     "baseline": 32,
     "examples": [
      {
@@ -1462,7 +1492,7 @@
     "expected": 2.49,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 13,
+    "rank": 14,
     "recent": 8,
     "score": 4.43,
     "sources": [
@@ -1492,7 +1522,7 @@
     "expected": 0.54,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 14,
+    "rank": 15,
     "recent": 4,
     "score": 4.17,
     "sources": [
@@ -1502,35 +1532,6 @@
     "term": "attorney general",
     "voices": 3,
     "z": 2.78
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Jensen Huang Returns And, Just Like That, Resurrects Nvidia Stock"
-     },
-     {
-      "source": "media",
-      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO"
-     },
-     {
-      "source": "media",
-      "title": "Jensen Huang Returns to Nvidia Offices"
-     }
-    ],
-    "expected": 0.0,
-    "field": "semiconductor",
-    "is_new": true,
-    "rank": 15,
-    "recent": 4,
-    "score": 4.0,
-    "sources": [
-     "media"
-    ],
-    "term": "huang returns",
-    "voices": 3,
-    "z": 4.0
    }
   ]
  },

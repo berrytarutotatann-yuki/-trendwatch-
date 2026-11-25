@@ -101,17 +101,17 @@
   "origin": "auto",
   "score_at_add": 10.49
  },
- "fuel prices": {
-  "added": "2026-11-04",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 5.88
- },
  "grand theft": {
   "added": "2026-11-20",
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 23.78
+ },
+ "grand theft auto": {
+  "added": "2026-11-25",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 23.87
  },
  "ground stop": {
   "added": "2026-11-15",
@@ -124,6 +124,12 @@
   "field": "semiconductor",
   "origin": "auto",
   "score_at_add": 30.0
+ },
+ "huang return": {
+  "added": "2026-11-25",
+  "field": "semiconductor",
+  "origin": "auto",
+  "score_at_add": 29.4
  },
  "iea says": {
   "added": "2026-11-20",
@@ -149,12 +155,6 @@
   "origin": "auto",
   "score_at_add": 12.0
  },
- "north korea": {
-  "added": "2026-11-04",
-  "field": "ai",
-  "origin": "auto",
-  "score_at_add": 10.14
- },
  "nvidia ceo": {
   "added": "2026-11-13",
   "field": "semiconductor",
@@ -167,11 +167,11 @@
   "origin": "auto",
   "score_at_add": 45.2
  },
- "third quarter": {
-  "added": "2026-11-04",
-  "field": "semiconductor",
+ "tech outages": {
+  "added": "2026-11-25",
+  "field": "ai",
   "origin": "auto",
-  "score_at_add": 6.33
+  "score_at_add": 24.0
  },
  "trump threatens": {
   "added": "2026-11-23",

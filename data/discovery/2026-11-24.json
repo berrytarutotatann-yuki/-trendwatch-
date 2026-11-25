@@ -1,0 +1,1600 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-24",
+ "docs_baseline": 115569,
+ "docs_recent": 8886,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Mathematician Says He Proved Riemann Hypothesis"
+     },
+     {
+      "source": "media",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
+     },
+     {
+      "source": "hn",
+      "title": "How the Riemann Hypothesis was cracked [video]"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 69,
+    "score": 78.58,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "riemann hypothesis",
+    "voices": 65,
+    "z": 52.38
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "We haven’t seen the last of the major tech outages"
+     },
+     {
+      "source": "media",
+      "title": "US intelligence chief predicts more tech outages as systems undergo upgrades"
+     },
+     {
+      "source": "media",
+      "title": "White House Replaces Cybersecurity Official After Tech Outages"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 16,
+    "score": 24.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "tech outages",
+    "voices": 11,
+    "z": 16.0
+   },
+   {
+    "baseline": 23,
+    "examples": [
+     {
+      "source": "media",
+      "title": "GTA VI PC recompilation project shut down by Take-Two"
+     },
+     {
+      "source": "media",
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released"
+     },
+     {
+      "source": "media",
+      "title": "GTA VI Takes Over Thanksgiving Week"
+     }
+    ],
+    "expected": 1.79,
+    "field": "ai",
+    "is_new": false,
+    "rank": 3,
+    "recent": 28,
+    "score": 23.54,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gta vi",
+    "voices": 21,
+    "z": 15.7
+   },
+   {
+    "baseline": 108,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic IPO Fails to Calm AI Jitters"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic IPO Could Mark End of the AI Trade"
+     }
+    ],
+    "expected": 8.4,
+    "field": "ai",
+    "is_new": false,
+    "rank": 4,
+    "recent": 50,
+    "score": 20.35,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic ipo",
+    "voices": 24,
+    "z": 13.57
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Shares Slide After Banks Exercise ‘Greenshoe’"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 5,
+    "recent": 9,
+    "score": 13.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic shares",
+    "voices": 8,
+    "z": 9.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Falls Below IPO Price Amid Broader Tech Slump"
+     }
+    ],
+    "expected": 0.54,
+    "field": "ai",
+    "is_new": false,
+    "rank": 6,
+    "recent": 10,
+    "score": 11.41,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipo price",
+    "voices": 8,
+    "z": 7.61
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Invalidity of Alpöge's Riemann Hypothesis (Jenny L. Nielsen)"
+     },
+     {
+      "source": "hn",
+      "title": "Who is Levent Alpöge, the reclusive genius behind AI's math conquest?"
+     },
+     {
+      "source": "hn",
+      "title": "Paper: The Invalidity of Alpöge's Proof of the Riemann Hypothesis [pdf]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 7,
+    "recent": 11,
+    "score": 11.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "alp ge",
+    "voices": 11,
+    "z": 11.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic launches Claude Ship to help developers ship code faster"
+     },
+     {
+      "source": "hn",
+      "title": "Claude Ship (Beta)"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 8,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude ship",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Mathematician Says He Proved Riemann Hypothesis"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic mathematician",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Looped Weight-Space Programming: use AI to set model weights"
+     },
+     {
+      "source": "hn",
+      "title": "Interpretable weight-space programming exposes a case of reward-hacking"
+     },
+     {
+      "source": "hn",
+      "title": "Sparks of Weight-Space Programming? Or Just Exploit Engineering"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 10,
+    "recent": 8,
+    "score": 8.4,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "weight-space programming",
+    "voices": 7,
+    "z": 5.6
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic’s Record-Breaking IPO Explained In 7 Key Facts"
+     },
+     {
+      "source": "media",
+      "title": "The Anthropic Record-Breaking IPO Explained In 7 Key Facts"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 11,
+    "recent": 5,
+    "score": 7.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "record-breaking ipo",
+    "voices": 4,
+    "z": 5.0
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package"
+     },
+     {
+      "source": "hn",
+      "title": "EU Commission confirms personal data leak after cyberattack"
+     },
+     {
+      "source": "hn",
+      "title": "China-backed hackers suspected behind ongoing EU Commission cyberattack"
+     }
+    ],
+    "expected": 0.31,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 6,
+    "score": 7.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "eu commission",
+    "voices": 6,
+    "z": 4.97
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Crypto Futures Point to a Big Pop for Anthropic Stock"
+     },
+     {
+      "source": "media",
+      "title": "Google And Amazon Will Own More Anthropic Stock Than All Cofounders Combined"
+     },
+     {
+      "source": "hn",
+      "title": "Anthropic stock dives over 12% after rip-roaring IPO"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 7.11,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic stock",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)"
+     },
+     {
+      "source": "hn",
+      "title": "VP ≠ VNP over Every Field"
+     },
+     {
+      "source": "hn",
+      "title": "VP ≠ VNP over Every Field [pdf]"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 14,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "vp vnp",
+    "voices": 7,
+    "z": 7.0
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Defenders Must Move At Machine Speed To Stop AI Cyberattacks"
+     },
+     {
+      "source": "media",
+      "title": "Telecom Giants Are Preparing For A New Era Of AI Cyberattacks"
+     },
+     {
+      "source": "media",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 15,
+    "recent": 5,
+    "score": 6.76,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ai cyberattacks",
+    "voices": 3,
+    "z": 4.51
+   }
+  ],
+  "other": [
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "LeanLean: Benchmarking Repository-Scale Lean Proof Compression"
+     },
+     {
+      "source": "hn",
+      "title": "Open benchmark for compressing Alpöge's Lean proof of Riemann hypothesis"
+     },
+     {
+      "source": "hn",
+      "title": "Lean proof of the Riemann hypothesis: an interactive map"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 14,
+    "score": 11.95,
+    "sources": [
+     "hn"
+    ],
+    "term": "lean proof",
+    "voices": 14,
+    "z": 11.95
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "COP31 Broke Down Over Fossil Fuels. Here’s Why, And What Happens Next?"
+     },
+     {
+      "source": "media",
+      "title": "OPEC speaks up for fossil fuels at COP31 climate talks"
+     },
+     {
+      "source": "hn",
+      "title": "COP31 climate talks break down after angry dispute over fossil fuels"
+     }
+    ],
+    "expected": 0.7,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 10,
+    "score": 10.7,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fossil fuels",
+    "voices": 10,
+    "z": 7.13
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Planned lead azide detonation fact sheet – Iowa HHS"
+     },
+     {
+      "source": "hn",
+      "title": "Army reschedules southeast Iowa lead azide blasts for Wednesday"
+     },
+     {
+      "source": "hn",
+      "title": "Alternative to Detonation of Lead Azide in Middletown, Iowa"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 3,
+    "recent": 10,
+    "score": 10.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "lead azide",
+    "voices": 9,
+    "z": 10.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The US national cyber director is stepping down"
+     },
+     {
+      "source": "hn",
+      "title": "US National Cyber Director fired after series of outages"
+     },
+     {
+      "source": "hn",
+      "title": "White House national cyber director is leaving the administration"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 4,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cyber director",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Bending Spoons buys Mailchimp for $3.68B"
+     },
+     {
+      "source": "media",
+      "title": "Why Bending Spoons Could Tap Convertible Bonds Next"
+     },
+     {
+      "source": "hn",
+      "title": "Bending Spoons Acquires Mailchimp"
+     }
+    ],
+    "expected": 1.63,
+    "field": "other",
+    "is_new": false,
+    "rank": 5,
+    "recent": 10,
+    "score": 7.73,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "bending spoons",
+    "voices": 10,
+    "z": 5.16
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Deutsche Bank CEO says clients calm after data leak"
+     },
+     {
+      "source": "media",
+      "title": "Deutsche Bank shares open 1.9% lower a day after leak news"
+     },
+     {
+      "source": "media",
+      "title": "Data watchdog probes massive Deutsche Bank leak"
+     }
+    ],
+    "expected": 1.48,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 8,
+    "score": 6.22,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "deutsche bank",
+    "voices": 6,
+    "z": 4.14
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion"
+     },
+     {
+      "source": "hn",
+      "title": "CrowdStrike to Acquire Zscaler"
+     },
+     {
+      "source": "hn",
+      "title": "CrowdStrike to Acquire Zscaler for $43.9B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "acquire zscaler",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "UK government forced to disclose secret Apple backdoor order"
+     },
+     {
+      "source": "hn",
+      "title": "Spy court: U.K. must admit it ordered an Apple backdoor"
+     },
+     {
+      "source": "hn",
+      "title": "UK Loses Secrecy Fight over Apple 'Backdoor' Order"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 8,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "apple backdoor",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Waymo pauses robotaxi rides on US freeways after California ban"
+     },
+     {
+      "source": "hn",
+      "title": "Waymo suspends all freeway operations after California ban"
+     },
+     {
+      "source": "hn",
+      "title": "Waymo pulls driverless taxis from freeways across the US after California ban"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 9,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "california ban",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "GTA VI PC recompilation project shut down by Take-Two"
+     },
+     {
+      "source": "hn",
+      "title": "The \"Leonida\" Xbox PC Recompilation of GTA 6 Taken Down from GitHub"
+     },
+     {
+      "source": "hn",
+      "title": "Live Coordination of \"Leonida\" – PC Recompilation of the Xbox Version of GTA 6"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "pc recompilation",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Ladybird, the first new browser engine in years, is now available to test"
+     },
+     {
+      "source": "hn",
+      "title": "The Case for Browser Engine Diversity"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: Tab – a browser engine from scratch in Rust, with a demo to install"
+     }
+    ],
+    "expected": 0.47,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 5.61,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "browser engine",
+    "voices": 5,
+    "z": 3.74
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Critical Cisco remote code execution bug under attack"
+     },
+     {
+      "source": "hn",
+      "title": "Clojure: Deserialization of Untrusted Data Allows Remote Code Execution"
+     },
+     {
+      "source": "hn",
+      "title": "PhpAfterShell: From Interrupted Session Writes to Remote Code Execution"
+     }
+    ],
+    "expected": 1.48,
+    "field": "other",
+    "is_new": false,
+    "rank": 12,
+    "recent": 10,
+    "score": 5.41,
+    "sources": [
+     "hn"
+    ],
+    "term": "remote code execution",
+    "voices": 10,
+    "z": 5.41
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99"
+     },
+     {
+      "source": "media",
+      "title": "Samsung Launches World’s First 1,100Hz Gaming Monitor"
+     },
+     {
+      "source": "hn",
+      "title": "Next gaming monitor should still be an OLED"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gaming monitor",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Elon Musk says: ‘I’m not MAGA’"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones"
+     },
+     {
+      "source": "media",
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’"
+     }
+    ],
+    "expected": 1.09,
+    "field": "other",
+    "is_new": false,
+    "rank": 14,
+    "recent": 6,
+    "score": 5.1,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "elon musk says",
+    "voices": 4,
+    "z": 3.4
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor"
+     },
+     {
+      "source": "hn",
+      "title": "Developer Turns MacBook Trackpad into a Speaker Using Haptic Motor"
+     },
+     {
+      "source": "hn",
+      "title": "MacBook Trackpad Talking Using Its Haptic Motor"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 15,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "macbook trackpad",
+    "voices": 5,
+    "z": 5.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "COP31 Climate Talks Collapse, But The Energy Transition Moves On"
+     },
+     {
+      "source": "media",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks"
+     },
+     {
+      "source": "media",
+      "title": "OPEC speaks up for fossil fuels at COP31 climate talks"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 10,
+    "score": 14.34,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "climate talks",
+    "voices": 10,
+    "z": 9.56
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US"
+     },
+     {
+      "source": "hn",
+      "title": "Trump threatens penalties for US tech firms that build datacenters abroad"
+     },
+     {
+      "source": "hn",
+      "title": "Trump threatens ban on US firms building AI data centres overseas"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump threatens",
+    "voices": 4,
+    "z": 3.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say"
+     },
+     {
+      "source": "hn",
+      "title": "Russia May Launch a Nuclear-armed Satellite Far Sooner Than We Thought"
+     },
+     {
+      "source": "hn",
+      "title": "NATO believes Russia is ready to launch nuclear-armed satellite"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 3,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nuclear-armed satellite",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 12,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Too Few Spaces, Too Many Trucks Force Risky Ramp Parking, Study Shows"
+     },
+     {
+      "source": "media",
+      "title": "Soaring gas prices could add €16 billion to German power cost, study shows"
+     },
+     {
+      "source": "media",
+      "title": "Auto Suppliers Face Workforce, Automation Challenges, Study Shows"
+     }
+    ],
+    "expected": 0.93,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 5,
+    "score": 4.39,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "study shows",
+    "voices": 4,
+    "z": 2.92
+   },
+   {
+    "baseline": 6,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029"
+     },
+     {
+      "source": "media",
+      "title": "Google Selects Bezos’ Blue Origin for Data Center Satellite Test"
+     },
+     {
+      "source": "hn",
+      "title": "Google signs deal with Blue Origin to send satellite data centers into orbit"
+     }
+    ],
+    "expected": 0.47,
+    "field": "power",
+    "is_new": false,
+    "rank": 5,
+    "recent": 4,
+    "score": 4.38,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "blue origin",
+    "voices": 4,
+    "z": 2.92
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Amazon delivery drone crashes into Michigan garage"
+     },
+     {
+      "source": "hn",
+      "title": "Amazon faces FAA probe after delivery drone strikes fiber cable and garage"
+     },
+     {
+      "source": "arxiv",
+      "title": "DAA for an Autonomous Delivery Drone: Maneuver Selection Policies for Near-Collision Risk Avoidance"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 6,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "delivery drone",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "In 1957, five men agreed to stand under an exploding nuclear bomb (2012)"
+     },
+     {
+      "source": "hn",
+      "title": "With War in Limbo, Influential Iranian Officials Openly Call for a Nuclear Bomb"
+     },
+     {
+      "source": "hn",
+      "title": "Nuclear bomb in space would disable 98 per cent of satellites within a week"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 7,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nuclear bomb",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 36,
+    "examples": [
+     {
+      "source": "media",
+      "title": "BOJ's ambiguity on rate hike path could tempt yen bears"
+     },
+     {
+      "source": "media",
+      "title": "Bessent advocates lower Fed rate hike, cites energy shock"
+     },
+     {
+      "source": "media",
+      "title": "Japan's core inflation accelerates in October, cementing rate hike expectations"
+     }
+    ],
+    "expected": 2.8,
+    "field": "power",
+    "is_new": false,
+    "rank": 8,
+    "recent": 6,
+    "score": 2.46,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "rate hike",
+    "voices": 3,
+    "z": 1.64
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Analysts comment on market impact of Huang's return as Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "After Jensen Huang’s Return, Where Does Corporate Governance Go?"
+     },
+     {
+      "source": "media",
+      "title": "Huang’s Return Hits the Reset Button for AI Bets"
+     }
+    ],
+    "expected": 0.23,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 22,
+    "score": 29.4,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "huang return",
+    "voices": 12,
+    "z": 19.6
+   },
+   {
+    "baseline": 20,
+    "examples": [
+     {
+      "source": "media",
+      "title": "‘Grand Theft Auto 6’ Is Being Review Bombed On Metacritic"
+     },
+     {
+      "source": "media",
+      "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day"
+     },
+     {
+      "source": "media",
+      "title": "Just How Big Is ‘Grand Theft Auto VI’? The Multibillion-Dollar Frenzy in Charts"
+     }
+    ],
+    "expected": 1.56,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 27,
+    "score": 23.87,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "grand theft auto",
+    "voices": 20,
+    "z": 15.92
+   },
+   {
+    "baseline": 300,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Frantic White House Push to Get Jensen Huang Back"
+     },
+     {
+      "source": "media",
+      "title": "The White House Push to Reinstate Jensen Huang"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Job May Be Even More Difficult Now"
+     }
+    ],
+    "expected": 23.33,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 3,
+    "recent": 96,
+    "score": 22.1,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "jensen huang",
+    "voices": 53,
+    "z": 14.73
+   },
+   {
+    "baseline": 28,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Board’s Stunning Reversal Raises Questions On Governance"
+     },
+     {
+      "source": "media",
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board"
+     },
+     {
+      "source": "media",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return"
+     }
+    ],
+    "expected": 2.18,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 12,
+    "score": 8.26,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia board",
+    "voices": 11,
+    "z": 5.51
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US blacklists Alibaba subsidiary and Megaspeed linked to Nvidia scandal"
+     },
+     {
+      "source": "media",
+      "title": "American State Capitalism Helped Produce the Nvidia Scandal"
+     },
+     {
+      "source": "media",
+      "title": "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia scandal, lawsuit says"
+     }
+    ],
+    "expected": 0.7,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 7,
+    "score": 7.25,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia scandal",
+    "voices": 6,
+    "z": 4.83
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang Returns And, Just Like That, Resurrects Nvidia Stock"
+     },
+     {
+      "source": "media",
+      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 6,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "media"
+    ],
+    "term": "huang returns",
+    "voices": 3,
+    "z": 5.0
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia says 'no' to rehiring Huang"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang's exit"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 4.6,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia says",
+    "voices": 4,
+    "z": 3.06
+   },
+   {
+    "baseline": 32,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China"
+     },
+     {
+      "source": "media",
+      "title": "China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal."
+     },
+     {
+      "source": "media",
+      "title": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal."
+     }
+    ],
+    "expected": 2.49,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 8,
+    "recent": 8,
+    "score": 4.43,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia chips",
+    "voices": 6,
+    "z": 2.95
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter"
+     },
+     {
+      "source": "hn",
+      "title": "Rene Haas to remain CEO of chipmaker Arm through 2033"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO"
+     }
+    ],
+    "expected": 0.16,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.97,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "rene haas",
+    "voices": 3,
+    "z": 2.65
+   },
+   {
+    "baseline": 78,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Analysts comment on market impact of Huang's return as Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "A Timeline of Nvidia CEO Jensen Huang’s Spy Downfall and Resurrection"
+     }
+    ],
+    "expected": 6.07,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 13,
+    "score": 3.91,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia ceo",
+    "voices": 10,
+    "z": 2.61
+   },
+   {
+    "baseline": 19,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Right-Hand Man Oversaw Chip Customers—Including Alice Huang"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia Introduced Alibaba to Alice Huang for Workaround on U.S. Export Controls"
+     }
+    ],
+    "expected": 1.48,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 3.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "alice huang",
+    "voices": 4,
+    "z": 2.24
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia stops shipping US-approved AI chips to China"
+     },
+     {
+      "source": "hn",
+      "title": "Nvidia Stops Selling AI Chips to China Despite US Approval"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 12,
+    "recent": 3,
+    "score": 3.32,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chips to china",
+    "voices": 3,
+    "z": 2.22
+   },
+   {
+    "baseline": 14,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Jensen Huang Returns And, Just Like That, Resurrects Nvidia Stock"
+     },
+     {
+      "source": "media",
+      "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows"
+     },
+     {
+      "source": "hn",
+      "title": "Who in Washington owns and trades Nvidia stock"
+     }
+    ],
+    "expected": 1.09,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 13,
+    "recent": 4,
+    "score": 3.02,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nvidia stock",
+    "voices": 4,
+    "z": 2.01
+   },
+   {
+    "baseline": 22,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Introduced Alibaba to Alice Huang for Workaround on U.S. Export Controls"
+     },
+     {
+      "source": "hn",
+      "title": "Megaspeed added to entity list (export controls for US companies) [pdf]"
+     },
+     {
+      "source": "hn",
+      "title": "Show HN: End User, a game about smuggling AI chips past export controls"
+     }
+    ],
+    "expected": 1.71,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 14,
+    "recent": 5,
+    "score": 3.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "export controls",
+    "voices": 5,
+    "z": 2.0
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "California Attorney General Issues Investigative Subpoena to Nvidia"
+     },
+     {
+      "source": "hn",
+      "title": "California Attorney General subpoenas Nvidia over chips"
+     },
+     {
+      "source": "hn",
+      "title": "Texas' New Attorney General Was a DBZ Composer"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 15,
+    "recent": 3,
+    "score": 2.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "attorney general",
+    "voices": 3,
+    "z": 1.87
+   }
+  ]
+ },
+ "recent_days": 7
+}

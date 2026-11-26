@@ -5,6 +5,12 @@
   "origin": "auto",
   "score_at_add": 11.45
  },
+ "ai copyright cave": {
+  "added": "2026-11-26",
+  "field": "ai",
+  "origin": "auto",
+  "score_at_add": 24.0
+ },
  "anthropic ipo": {
   "added": "2026-11-21",
   "field": "ai",
@@ -34,6 +40,12 @@
   "field": "ai",
   "origin": "auto",
   "score_at_add": 12.0
+ },
+ "centers in space": {
+  "added": "2026-11-26",
+  "field": "power",
+  "origin": "auto",
+  "score_at_add": 6.14
  },
  "chinese spy": {
   "added": "2026-11-09",
@@ -82,18 +94,6 @@
   "field": "power",
   "origin": "auto",
   "score_at_add": 9.0
- },
- "democrats win": {
-  "added": "2026-11-05",
-  "field": "power",
-  "origin": "auto",
-  "score_at_add": 7.5
- },
- "election results": {
-  "added": "2026-11-05",
-  "field": "semiconductor",
-  "origin": "auto",
-  "score_at_add": 5.87
  },
  "fake job": {
   "added": "2026-11-05",

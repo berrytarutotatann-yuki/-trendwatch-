@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-25",
  "docs_baseline": 115199,
- "docs_recent": 9118,
+ "docs_recent": 9124,
  "fields": {
   "ai": [
    {
@@ -307,34 +307,34 @@
     "z": 7.61
    },
    {
-    "baseline": 2,
+    "baseline": 14,
     "examples": [
      {
       "source": "media",
-      "title": "Asian Stocks Rise as Tech Gains in Taiwan, Korea: Markets Wrap"
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
      },
      {
-      "source": "news",
-      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street"
+      "source": "media",
+      "title": "Japan Tobacco Shares Fall After Russia-Related Charges"
      },
      {
-      "source": "news",
-      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street"
+      "source": "media",
+      "title": "Novartis trims medium-term growth target, shares fall"
      }
     ],
-    "expected": 0.16,
+    "expected": 1.09,
     "field": "ai",
     "is_new": false,
     "rank": 11,
-    "recent": 8,
-    "score": 10.95,
+    "recent": 10,
+    "score": 9.25,
     "sources": [
      "media",
      "news"
     ],
-    "term": "asian stocks",
-    "voices": 8,
-    "z": 7.3
+    "term": "shares fall",
+    "voices": 10,
+    "z": 6.17
    },
    {
     "baseline": 0,

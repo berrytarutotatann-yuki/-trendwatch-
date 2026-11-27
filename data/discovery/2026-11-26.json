@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-26",
  "docs_baseline": 115334,
- "docs_recent": 8700,
+ "docs_recent": 8706,
  "fields": {
   "ai": [
    {
@@ -247,36 +247,6 @@
     "z": 7.63
    },
    {
-    "baseline": 2,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap"
-     },
-     {
-      "source": "news",
-      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street"
-     },
-     {
-      "source": "news",
-      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street"
-     }
-    ],
-    "expected": 0.16,
-    "field": "ai",
-    "is_new": false,
-    "rank": 9,
-    "recent": 8,
-    "score": 10.95,
-    "sources": [
-     "media",
-     "news"
-    ],
-    "term": "asian stocks",
-    "voices": 8,
-    "z": 7.3
-   },
-   {
     "baseline": 0,
     "examples": [
      {
@@ -295,7 +265,7 @@
     "expected": 0.0,
     "field": "ai",
     "is_new": true,
-    "rank": 10,
+    "rank": 9,
     "recent": 6,
     "score": 9.0,
     "sources": [
@@ -325,7 +295,7 @@
     "expected": 0.23,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 10,
     "recent": 5,
     "score": 8.58,
     "sources": [
@@ -356,7 +326,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 11,
     "recent": 6,
     "score": 8.56,
     "sources": [
@@ -386,7 +356,7 @@
     "expected": 0.7,
     "field": "ai",
     "is_new": false,
-    "rank": 13,
+    "rank": 12,
     "recent": 8,
     "score": 8.4,
     "sources": [
@@ -396,6 +366,36 @@
     "term": "ipo price",
     "voices": 8,
     "z": 5.6
+   },
+   {
+    "baseline": 15,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+     },
+     {
+      "source": "media",
+      "title": "Japan Tobacco Shares Fall After Russia-Related Charges"
+     },
+     {
+      "source": "news",
+      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street"
+     }
+    ],
+    "expected": 1.17,
+    "field": "ai",
+    "is_new": false,
+    "rank": 13,
+    "recent": 9,
+    "score": 7.98,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "shares fall",
+    "voices": 9,
+    "z": 5.32
    },
    {
     "baseline": 11,
@@ -1487,11 +1487,11 @@
     "examples": [
      {
       "source": "media",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it"
+      "title": "Nvidia's Huang said he violated code of conduct, source says"
      },
      {
       "source": "media",
-      "title": "Nvidia's Huang said he violated code of conduct, source says"
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it"
      },
      {
       "source": "news",

@@ -1,0 +1,1486 @@
+{
+ "baseline_days_available": 90,
+ "baseline_days_wanted": 90,
+ "date": "2026-11-26",
+ "docs_baseline": 115334,
+ "docs_recent": 7900,
+ "fields": {
+  "ai": [
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Mathematician Says He Proved Riemann Hypothesis"
+     },
+     {
+      "source": "media",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
+     },
+     {
+      "source": "hn",
+      "title": "The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map"
+     }
+    ],
+    "expected": 0.78,
+    "field": "ai",
+    "is_new": false,
+    "rank": 1,
+    "recent": 74,
+    "score": 82.38,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "riemann hypothesis",
+    "voices": 69,
+    "z": 54.92
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "Giving it away : authors denounce AI copyright cave - in"
+     },
+     {
+      "source": "news",
+      "title": "Giving it away : authors denounce AI copyright cave - in"
+     },
+     {
+      "source": "news",
+      "title": "Giving it away : authors denounce AI copyright cave - in"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 2,
+    "recent": 24,
+    "score": 24.0,
+    "sources": [
+     "news"
+    ],
+    "term": "ai copyright cave",
+    "voices": 24,
+    "z": 24.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "news",
+      "title": "US market correction gathers pace , outstrips early dot - com crash decline : SBI Research"
+     },
+     {
+      "source": "news",
+      "title": "US market correction gathers pace , outstrips early dot - com crash decline : SBI Research"
+     },
+     {
+      "source": "news",
+      "title": "US market correction gathers pace , outstrips early dot - com crash decline : SBI Research"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 3,
+    "recent": 19,
+    "score": 19.0,
+    "sources": [
+     "news"
+    ],
+    "term": "com crash decline",
+    "voices": 19,
+    "z": 19.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial"
+     },
+     {
+      "source": "hn",
+      "title": "Huawei convicted of deceiving banks about Iran, stealing US trade secrets"
+     },
+     {
+      "source": "news",
+      "title": "China Huawei convicted in sprawling US criminal trial over Iran business"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 4,
+    "recent": 9,
+    "score": 18.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "huawei convicted",
+    "voices": 9,
+    "z": 9.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "We haven’t seen the last of the major tech outages"
+     },
+     {
+      "source": "media",
+      "title": "US intelligence chief predicts more tech outages as systems undergo upgrades"
+     },
+     {
+      "source": "media",
+      "title": "White House Replaces Cybersecurity Official After Tech Outages"
+     }
+    ],
+    "expected": 0.54,
+    "field": "ai",
+    "is_new": false,
+    "rank": 5,
+    "recent": 10,
+    "score": 15.22,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "tech outages",
+    "voices": 8,
+    "z": 7.61
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Alpöge's Riemann Hypothesis Proof, Rewritten for Humans (<300 Pages) [pdf]"
+     },
+     {
+      "source": "hn",
+      "title": "Claude and Levent Alpöge Prove the Riemann Hypothesis"
+     },
+     {
+      "source": "hn",
+      "title": "Invalidity of Alpöge's Riemann Hypothesis (Jenny L. Nielsen)"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 6,
+    "recent": 13,
+    "score": 13.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "alp ge",
+    "voices": 13,
+    "z": 13.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Huawei found guilty of stealing trade secrets"
+     },
+     {
+      "source": "hn",
+      "title": "US court convicts China's Huawei for fraud, conspiring to steal trade secrets"
+     },
+     {
+      "source": "hn",
+      "title": "Huawei convicted of deceiving banks about Iran, stealing US trade secrets"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 7,
+    "recent": 9,
+    "score": 12.73,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "trade secrets",
+    "voices": 9,
+    "z": 6.37
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Shares Slide After Banks Exercise ‘Greenshoe’"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 8,
+    "recent": 8,
+    "score": 11.45,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic shares",
+    "voices": 8,
+    "z": 7.63
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Asian Stocks Rise for Second Day, Treasuries Slip: Markets Wrap"
+     },
+     {
+      "source": "news",
+      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street"
+     },
+     {
+      "source": "news",
+      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street"
+     }
+    ],
+    "expected": 0.16,
+    "field": "ai",
+    "is_new": false,
+    "rank": 9,
+    "recent": 8,
+    "score": 10.95,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "asian stocks",
+    "voices": 8,
+    "z": 7.3
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic launches Claude Ship to help developers ship code faster"
+     },
+     {
+      "source": "hn",
+      "title": "Claude Ship (Beta)"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 10,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "claude ship",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic Mathematician Says He Proved Riemann Hypothesis"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Mathematician Says AI Has Solved the Most Famous Problem in Math"
+     }
+    ],
+    "expected": 0.08,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 6,
+    "score": 8.56,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "anthropic mathematician",
+    "voices": 6,
+    "z": 5.7
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+     },
+     {
+      "source": "media",
+      "title": "Anthropic Falls Below IPO Price Amid Broader Tech Slump"
+     }
+    ],
+    "expected": 0.7,
+    "field": "ai",
+    "is_new": false,
+    "rank": 12,
+    "recent": 8,
+    "score": 8.4,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "ipo price",
+    "voices": 8,
+    "z": 5.6
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show"
+     },
+     {
+      "source": "news",
+      "title": "Microsoft Declares  Code Red  After Global Outage Exposes Critical Engineering Failures – Sri Lanka Guardian"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 13,
+    "recent": 4,
+    "score": 8.0,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "declares code red",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls"
+     },
+     {
+      "source": "media",
+      "title": "Nasdaq 100 Falls 2% on AI Rout, Tariff Hike Talk: Markets Wrap"
+     },
+     {
+      "source": "media",
+      "title": "European Chip Stocks Bounce After AI Rout"
+     }
+    ],
+    "expected": 0.86,
+    "field": "ai",
+    "is_new": false,
+    "rank": 14,
+    "recent": 8,
+    "score": 7.87,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "ai rout",
+    "voices": 4,
+    "z": 5.24
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Lance Fortnow on VP ≠ VNP"
+     },
+     {
+      "source": "hn",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)"
+     },
+     {
+      "source": "hn",
+      "title": "VP ≠ VNP over Every Field"
+     }
+    ],
+    "expected": 0.0,
+    "field": "ai",
+    "is_new": true,
+    "rank": 15,
+    "recent": 7,
+    "score": 7.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "vp vnp",
+    "voices": 7,
+    "z": 7.0
+   }
+  ],
+  "other": [
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Macy’s Thanksgiving Parade, Lead Azide, And Earth’s Fever"
+     },
+     {
+      "source": "media",
+      "title": "How Can Iowans Protect Themselves From The Army’s Lead Azide Detonation?"
+     },
+     {
+      "source": "hn",
+      "title": "Army detonates tons of lead azide as local residents brace for toxic plume"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 1,
+    "recent": 12,
+    "score": 17.23,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "lead azide",
+    "voices": 10,
+    "z": 11.48
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "LeanLean: Benchmarking Repository-Scale Lean Proof Compression"
+     },
+     {
+      "source": "hn",
+      "title": "Open benchmark for compressing Alpöge's Lean proof of Riemann hypothesis"
+     },
+     {
+      "source": "hn",
+      "title": "Lean proof of the Riemann hypothesis: an interactive map"
+     }
+    ],
+    "expected": 0.31,
+    "field": "other",
+    "is_new": false,
+    "rank": 2,
+    "recent": 14,
+    "score": 11.95,
+    "sources": [
+     "hn"
+    ],
+    "term": "lean proof",
+    "voices": 14,
+    "z": 11.95
+   },
+   {
+    "baseline": 37,
+    "examples": [
+     {
+      "source": "media",
+      "title": "GTA VI developers vote against unionization"
+     },
+     {
+      "source": "media",
+      "title": "Why GTA VI’s version of Florida feels so real"
+     },
+     {
+      "source": "media",
+      "title": "GTA VI PC recompilation project shut down by Take-Two"
+     }
+    ],
+    "expected": 2.88,
+    "field": "other",
+    "is_new": false,
+    "rank": 3,
+    "recent": 16,
+    "score": 10.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gta vi",
+    "voices": 12,
+    "z": 6.66
+   },
+   {
+    "baseline": 10,
+    "examples": [
+     {
+      "source": "media",
+      "title": "COP31 Broke Down Over Fossil Fuels. Here’s Why, And What Happens Next?"
+     },
+     {
+      "source": "hn",
+      "title": "COP31 climate talks break down after angry dispute over fossil fuels"
+     },
+     {
+      "source": "hn",
+      "title": "Fossil fuels get guarantees. Renewables get promises"
+     }
+    ],
+    "expected": 0.78,
+    "field": "other",
+    "is_new": false,
+    "rank": 4,
+    "recent": 9,
+    "score": 9.25,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fossil fuels",
+    "voices": 9,
+    "z": 6.17
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "The US national cyber director is stepping down"
+     },
+     {
+      "source": "hn",
+      "title": "US National Cyber Director fired after series of outages"
+     },
+     {
+      "source": "hn",
+      "title": "White House national cyber director is leaving the administration"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 5,
+    "recent": 6,
+    "score": 9.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "cyber director",
+    "voices": 6,
+    "z": 6.0
+   },
+   {
+    "baseline": 35,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+     },
+     {
+      "source": "media",
+      "title": "‘Grand Theft Auto 6’ Is Being Review Bombed On Metacritic"
+     },
+     {
+      "source": "media",
+      "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day"
+     }
+    ],
+    "expected": 2.72,
+    "field": "other",
+    "is_new": false,
+    "rank": 6,
+    "recent": 13,
+    "score": 7.99,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "grand theft auto",
+    "voices": 12,
+    "z": 5.33
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion"
+     },
+     {
+      "source": "hn",
+      "title": "CrowdStrike to Acquire Zscaler"
+     },
+     {
+      "source": "hn",
+      "title": "CrowdStrike to Acquire Zscaler for $43.9B"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 7,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "acquire zscaler",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US Army Detonates Explosives Cache in Middletown, Iowa"
+     },
+     {
+      "source": "hn",
+      "title": "(Update) Army Detonates Tons of Toxic Lead Explosives in Iowa"
+     },
+     {
+      "source": "hn",
+      "title": "US Army detonates tons of unstable bomb-making chemicals in Iowa"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "army detonates",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Macy’s Thanksgiving Parade, Lead Azide, And Earth’s Fever"
+     },
+     {
+      "source": "media",
+      "title": "Macy’s Thanksgiving Day Parade 2026: Why It’s Been Postponed And When And Where To Watch"
+     },
+     {
+      "source": "media",
+      "title": "Macy's Thanksgiving Day Parade postponed due to weather for first time in 100 years"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 9,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "macy thanksgiving",
+    "voices": 3,
+    "z": 4.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "media",
+      "title": "GTA VI PC recompilation project shut down by Take-Two"
+     },
+     {
+      "source": "hn",
+      "title": "The \"Leonida\" Xbox PC Recompilation of GTA 6 Taken Down from GitHub"
+     },
+     {
+      "source": "hn",
+      "title": "Live Coordination of \"Leonida\" – PC Recompilation of the Xbox Version of GTA 6"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 10,
+    "recent": 4,
+    "score": 5.67,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "pc recompilation",
+    "voices": 4,
+    "z": 3.78
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99"
+     },
+     {
+      "source": "media",
+      "title": "Samsung Launches World’s First 1,100Hz Gaming Monitor"
+     },
+     {
+      "source": "hn",
+      "title": "Next gaming monitor should still be an OLED"
+     }
+    ],
+    "expected": 0.16,
+    "field": "other",
+    "is_new": false,
+    "rank": 11,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "gaming monitor",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor"
+     },
+     {
+      "source": "hn",
+      "title": "Developer Turns MacBook Trackpad into a Speaker Using Haptic Motor"
+     },
+     {
+      "source": "hn",
+      "title": "MacBook Trackpad Talking Using Its Haptic Motor"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 12,
+    "recent": 5,
+    "score": 5.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "macbook trackpad",
+    "voices": 5,
+    "z": 5.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "US Army plans to detonate an Iowa ammo plant, leading to airbourne lead plume"
+     },
+     {
+      "source": "hn",
+      "title": "See How the Army Plans to Blow Up 5 Tons of Toxic Lead Compounds in Iowa"
+     },
+     {
+      "source": "hn",
+      "title": "The Army Plans to Blow Up Tons of Toxic Explosives. It Rejected a Safer Option"
+     }
+    ],
+    "expected": 0.08,
+    "field": "other",
+    "is_new": false,
+    "rank": 13,
+    "recent": 5,
+    "score": 4.74,
+    "sources": [
+     "hn"
+    ],
+    "term": "army plans",
+    "voices": 5,
+    "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage"
+     },
+     {
+      "source": "media",
+      "title": "Delta flights faced brief delays at Atlanta airport over automated system issue"
+     },
+     {
+      "source": "hn",
+      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 14,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "delta flights",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Tesla FSD V15 Offers Stunning Visualizations That Distract From “25x”"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla FSD V15: Reality View Is Insane [video]"
+     },
+     {
+      "source": "hn",
+      "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes"
+     }
+    ],
+    "expected": 0.0,
+    "field": "other",
+    "is_new": true,
+    "rank": 15,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "fsd v15",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "power": [
+   {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "COP31 Climate Talks Collapse, But The Energy Transition Moves On"
+     },
+     {
+      "source": "media",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks"
+     },
+     {
+      "source": "hn",
+      "title": "COP31 climate talks break down after angry dispute over fossil fuels"
+     }
+    ],
+    "expected": 0.23,
+    "field": "power",
+    "is_new": false,
+    "rank": 1,
+    "recent": 8,
+    "score": 10.49,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "climate talks",
+    "voices": 8,
+    "z": 6.99
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FCC approves SpaceX plan to put AI data centers in space"
+     },
+     {
+      "source": "media",
+      "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX gets green light to deploy 1M satellites for data centers in space"
+     }
+    ],
+    "expected": 0.31,
+    "field": "power",
+    "is_new": false,
+    "rank": 2,
+    "recent": 5,
+    "score": 6.14,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "centers in space",
+    "voices": 4,
+    "z": 4.09
+   },
+   {
+    "baseline": 2,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US"
+     },
+     {
+      "source": "hn",
+      "title": "Trump threatens penalties for US tech firms that build datacenters abroad"
+     },
+     {
+      "source": "hn",
+      "title": "Trump threatens ban on US firms building AI data centres overseas"
+     }
+    ],
+    "expected": 0.16,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 4,
+    "score": 5.36,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "trump threatens",
+    "voices": 4,
+    "z": 3.58
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "SpaceX gets green light to deploy 1M satellites for data centers in space"
+     },
+     {
+      "source": "hn",
+      "title": "The FCC has authorized SpaceX to deploy 1M satellites"
+     },
+     {
+      "source": "hn",
+      "title": "FCC approved SpaceX's request for 1M satellites [pdf]"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 4,
+    "recent": 5,
+    "score": 4.74,
+    "sources": [
+     "hn"
+    ],
+    "term": "1m satellites",
+    "voices": 4,
+    "z": 4.74
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say"
+     },
+     {
+      "source": "hn",
+      "title": "Russia May Launch a Nuclear-armed Satellite Far Sooner Than We Thought"
+     },
+     {
+      "source": "hn",
+      "title": "NATO believes Russia is ready to launch nuclear-armed satellite"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 5,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "nuclear-armed satellite",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space"
+     },
+     {
+      "source": "hn",
+      "title": "The FCC has authorized SpaceX to deploy 1M satellites"
+     },
+     {
+      "source": "hn",
+      "title": "US authorizes SpaceX to deploy 1M satellites for data centers in space"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 6,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex to deploy",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Amazon delivery drone crashes into Michigan garage"
+     },
+     {
+      "source": "hn",
+      "title": "Amazon faces FAA probe after delivery drone strikes fiber cable and garage"
+     },
+     {
+      "source": "arxiv",
+      "title": "DAA for an Autonomous Delivery Drone: Maneuver Selection Policies for Near-Collision Risk Avoidance"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 7,
+    "recent": 3,
+    "score": 4.22,
+    "sources": [
+     "arxiv",
+     "hn"
+    ],
+    "term": "delivery drone",
+    "voices": 3,
+    "z": 2.81
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "SpaceX gets green light to deploy 1M satellites for data centers in space"
+     },
+     {
+      "source": "hn",
+      "title": "The FCC has authorized SpaceX to deploy 1M satellites"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 8,
+    "recent": 4,
+    "score": 4.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "deploy 1m",
+    "voices": 4,
+    "z": 4.0
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "In 1957, five men agreed to stand under an exploding nuclear bomb (2012)"
+     },
+     {
+      "source": "hn",
+      "title": "With War in Limbo, Influential Iranian Officials Openly Call for a Nuclear Bomb"
+     },
+     {
+      "source": "hn",
+      "title": "Nuclear bomb in space would disable 98 per cent of satellites within a week"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "nuclear bomb",
+    "voices": 3,
+    "z": 3.0
+   }
+  ],
+  "semiconductor": [
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Analysts comment on market impact of Huang's return as Nvidia CEO"
+     },
+     {
+      "source": "media",
+      "title": "After Jensen Huang’s Return, Where Does Corporate Governance Go?"
+     },
+     {
+      "source": "media",
+      "title": "Huang’s Return Hits the Reset Button for AI Bets"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 1,
+    "recent": 24,
+    "score": 40.07,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "huang return",
+    "voices": 15,
+    "z": 20.03
+   },
+   {
+    "baseline": 316,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang’s Vision for the New Nvidia Is a Lot Like the Old One"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang's second coming offers little relief to AI credits"
+     }
+    ],
+    "expected": 24.58,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 2,
+    "recent": 110,
+    "score": 33.78,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "jensen huang",
+    "voices": 65,
+    "z": 16.89
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang Returns And, Just Like That, Resurrects Nvidia Stock"
+     },
+     {
+      "source": "media",
+      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 3,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "huang returns",
+    "voices": 5,
+    "z": 8.0
+   },
+   {
+    "baseline": 29,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia Board’s Stunning Reversal Raises Questions On Governance"
+     },
+     {
+      "source": "media",
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board"
+     },
+     {
+      "source": "media",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return"
+     }
+    ],
+    "expected": 2.26,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 4,
+    "recent": 13,
+    "score": 11.91,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia board",
+    "voices": 12,
+    "z": 5.95
+   },
+   {
+    "baseline": 11,
+    "examples": [
+     {
+      "source": "media",
+      "title": "US blacklists Alibaba subsidiary and Megaspeed linked to Nvidia scandal"
+     },
+     {
+      "source": "media",
+      "title": "American State Capitalism Helped Produce the Nvidia Scandal"
+     },
+     {
+      "source": "news",
+      "title": "Editorial : Nvidia scandal requires investigation , accountability"
+     }
+    ],
+    "expected": 0.86,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 5,
+    "recent": 6,
+    "score": 7.55,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "nvidia scandal",
+    "voices": 6,
+    "z": 3.78
+   },
+   {
+    "baseline": 21,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Is Alice Huang a spy or not?"
+     },
+     {
+      "source": "media",
+      "title": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China"
+     },
+     {
+      "source": "news",
+      "title": "Jensen Huang returns to Nvidia as questions swirl about Megaspeed and Alice Huang"
+     }
+    ],
+    "expected": 1.63,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 6,
+    "recent": 7,
+    "score": 6.61,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "alice huang",
+    "voices": 6,
+    "z": 3.31
+   },
+   {
+    "baseline": 4,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Malaysia Says Too Early to See Impact of US Chip Curbs"
+     },
+     {
+      "source": "media",
+      "title": "US chip curbs won't impact Malaysia's China ties, PM says"
+     },
+     {
+      "source": "media",
+      "title": "US AI chip curbs hit China tech stocks, spur self-sufficiency push"
+     }
+    ],
+    "expected": 0.31,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 7,
+    "recent": 4,
+    "score": 4.83,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "chip curbs",
+    "voices": 3,
+    "z": 3.22
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Opinion | Is Nvidia Trump’s Waterloo?"
+     },
+     {
+      "source": "news",
+      "title": "NVIDIA , Trump and Black America Stake in AI"
+     },
+     {
+      "source": "news",
+      "title": "US government may acquire stake in Nvidia - Trump"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 8,
+    "recent": 3,
+    "score": 4.5,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "nvidia trump",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 7,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it"
+     },
+     {
+      "source": "media",
+      "title": "Nvidia's Huang said he violated code of conduct, source says"
+     },
+     {
+      "source": "news",
+      "title": "Jensen Huang admits  terrible mistakes , apologises to employees over code of conduct violations in first address after Nvidia comeback"
+     }
+    ],
+    "expected": 0.54,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 9,
+    "recent": 4,
+    "score": 4.17,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "code of conduct",
+    "voices": 4,
+    "z": 2.78
+   },
+   {
+    "baseline": 5,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Benchmarking the Performance Benefit of Fred on AMD Zen 6"
+     },
+     {
+      "source": "hn",
+      "title": "AMD Zen 1 PSP bootrom exploit"
+     },
+     {
+      "source": "hn",
+      "title": "AMD \"Zen 6\" for Desktop Reportedly Pushed to Computex 2027"
+     }
+    ],
+    "expected": 0.39,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 10,
+    "recent": 3,
+    "score": 2.22,
+    "sources": [
+     "hn"
+    ],
+    "term": "amd zen",
+    "voices": 3,
+    "z": 2.22
+   }
+  ]
+ },
+ "recent_days": 7
+}

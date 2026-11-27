@@ -3,7 +3,7 @@
  "baseline_days_wanted": 90,
  "date": "2026-11-26",
  "docs_baseline": 115334,
- "docs_recent": 7900,
+ "docs_recent": 8700,
  "fields": {
   "ai": [
    {
@@ -19,22 +19,22 @@
      },
      {
       "source": "hn",
-      "title": "The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map"
+      "title": "How did they Crack the Riemann Hypothesis – Numverphile [video]"
      }
     ],
     "expected": 0.78,
     "field": "ai",
     "is_new": false,
     "rank": 1,
-    "recent": 74,
-    "score": 82.38,
+    "recent": 78,
+    "score": 86.88,
     "sources": [
      "hn",
      "media"
     ],
     "term": "riemann hypothesis",
-    "voices": 69,
-    "z": 54.92
+    "voices": 72,
+    "z": 57.92
    },
    {
     "baseline": 0,
@@ -307,6 +307,37 @@
     "z": 6.0
    },
    {
+    "baseline": 3,
+    "examples": [
+     {
+      "source": "media",
+      "title": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show"
+     },
+     {
+      "source": "hn",
+      "title": "Microsoft declared \"code red\", fews days after their outage"
+     },
+     {
+      "source": "news",
+      "title": "Microsoft Declares  Code Red  After Global Outage Exposes Critical Engineering Failures – Sri Lanka Guardian"
+     }
+    ],
+    "expected": 0.23,
+    "field": "ai",
+    "is_new": false,
+    "rank": 11,
+    "recent": 5,
+    "score": 8.58,
+    "sources": [
+     "hn",
+     "media",
+     "news"
+    ],
+    "term": "code red",
+    "voices": 5,
+    "z": 4.29
+   },
+   {
     "baseline": 1,
     "examples": [
      {
@@ -325,7 +356,7 @@
     "expected": 0.08,
     "field": "ai",
     "is_new": false,
-    "rank": 11,
+    "rank": 12,
     "recent": 6,
     "score": 8.56,
     "sources": [
@@ -355,7 +386,7 @@
     "expected": 0.7,
     "field": "ai",
     "is_new": false,
-    "rank": 12,
+    "rank": 13,
     "recent": 8,
     "score": 8.4,
     "sources": [
@@ -365,37 +396,6 @@
     "term": "ipo price",
     "voices": 8,
     "z": 5.6
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "EXCLUSIVE: Microsoft declares 'Code Red' after historic outage, internal memos show"
-     },
-     {
-      "source": "news",
-      "title": "Microsoft Declares  Code Red  After Global Outage Exposes Critical Engineering Failures – Sri Lanka Guardian"
-     },
-     {
-      "source": "hn",
-      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show"
-     }
-    ],
-    "expected": 0.0,
-    "field": "ai",
-    "is_new": true,
-    "rank": 13,
-    "recent": 4,
-    "score": 8.0,
-    "sources": [
-     "hn",
-     "media",
-     "news"
-    ],
-    "term": "declares code red",
-    "voices": 4,
-    "z": 4.0
    },
    {
     "baseline": 11,
@@ -493,29 +493,29 @@
     "examples": [
      {
       "source": "hn",
-      "title": "LeanLean: Benchmarking Repository-Scale Lean Proof Compression"
+      "title": "The condensed Lean proof of RH and GRH: a reading [pdf]"
      },
      {
       "source": "hn",
-      "title": "Open benchmark for compressing Alpöge's Lean proof of Riemann hypothesis"
+      "title": "Show HN: Explore the 17M-line Lean proof of the Riemann Hypothesis"
      },
      {
       "source": "hn",
-      "title": "Lean proof of the Riemann hypothesis: an interactive map"
+      "title": "Show HN: A textbook on the Lean proof of GRH in lsernau/grh-lean, for students"
      }
     ],
     "expected": 0.31,
     "field": "other",
     "is_new": false,
     "rank": 2,
-    "recent": 14,
-    "score": 11.95,
+    "recent": 17,
+    "score": 14.57,
     "sources": [
      "hn"
     ],
     "term": "lean proof",
-    "voices": 14,
-    "z": 11.95
+    "voices": 16,
+    "z": 14.57
    },
    {
     "baseline": 37,
@@ -537,15 +537,15 @@
     "field": "other",
     "is_new": false,
     "rank": 3,
-    "recent": 16,
-    "score": 10.0,
+    "recent": 19,
+    "score": 12.28,
     "sources": [
      "hn",
      "media"
     ],
     "term": "gta vi",
-    "voices": 12,
-    "z": 6.66
+    "voices": 15,
+    "z": 8.19
    },
    {
     "baseline": 10,
@@ -608,7 +608,7 @@
     "z": 6.0
    },
    {
-    "baseline": 35,
+    "baseline": 37,
     "examples": [
      {
       "source": "media",
@@ -623,19 +623,19 @@
       "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day"
      }
     ],
-    "expected": 2.72,
+    "expected": 2.88,
     "field": "other",
     "is_new": false,
     "rank": 6,
-    "recent": 13,
-    "score": 7.99,
+    "recent": 14,
+    "score": 8.47,
     "sources": [
      "hn",
      "media"
     ],
-    "term": "grand theft auto",
-    "voices": 12,
-    "z": 5.33
+    "term": "grand theft",
+    "voices": 13,
+    "z": 5.65
    },
    {
     "baseline": 0,
@@ -950,22 +950,81 @@
      },
      {
       "source": "hn",
-      "title": "SpaceX gets green light to deploy 1M satellites for data centers in space"
+      "title": "FCC authorizes Elon Musk's plans for data centers in space"
      }
     ],
     "expected": 0.31,
     "field": "power",
     "is_new": false,
     "rank": 2,
-    "recent": 5,
-    "score": 6.14,
+    "recent": 8,
+    "score": 10.07,
     "sources": [
      "hn",
      "media"
     ],
     "term": "centers in space",
+    "voices": 7,
+    "z": 6.71
+   },
+   {
+    "baseline": 1,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "FCC says SpaceX can deploy 1M satellites for data centers in space"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX gets FCC approval for 1M satellites to build data centers in space"
+     },
+     {
+      "source": "hn",
+      "title": "SpaceX gets green light to deploy 1M satellites for data centers in space"
+     }
+    ],
+    "expected": 0.08,
+    "field": "power",
+    "is_new": false,
+    "rank": 3,
+    "recent": 7,
+    "score": 6.67,
+    "sources": [
+     "hn"
+    ],
+    "term": "1m satellites",
+    "voices": 6,
+    "z": 6.67
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space"
+     },
+     {
+      "source": "media",
+      "title": "FCC approves SpaceX plan to put AI data centers in space"
+     },
+     {
+      "source": "hn",
+      "title": "US approves SpaceX plan to send a million data satellites to space"
+     }
+    ],
+    "expected": 0.0,
+    "field": "power",
+    "is_new": true,
+    "rank": 4,
+    "recent": 4,
+    "score": 6.0,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "spacex plan",
     "voices": 4,
-    "z": 4.09
+    "z": 4.0
    },
    {
     "baseline": 2,
@@ -986,7 +1045,7 @@
     "expected": 0.16,
     "field": "power",
     "is_new": false,
-    "rank": 3,
+    "rank": 5,
     "recent": 4,
     "score": 5.36,
     "sources": [
@@ -996,35 +1055,6 @@
     "term": "trump threatens",
     "voices": 4,
     "z": 3.58
-   },
-   {
-    "baseline": 1,
-    "examples": [
-     {
-      "source": "hn",
-      "title": "SpaceX gets green light to deploy 1M satellites for data centers in space"
-     },
-     {
-      "source": "hn",
-      "title": "The FCC has authorized SpaceX to deploy 1M satellites"
-     },
-     {
-      "source": "hn",
-      "title": "FCC approved SpaceX's request for 1M satellites [pdf]"
-     }
-    ],
-    "expected": 0.08,
-    "field": "power",
-    "is_new": false,
-    "rank": 4,
-    "recent": 5,
-    "score": 4.74,
-    "sources": [
-     "hn"
-    ],
-    "term": "1m satellites",
-    "voices": 4,
-    "z": 4.74
    },
    {
     "baseline": 0,
@@ -1045,7 +1075,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 5,
+    "rank": 6,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1075,7 +1105,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 6,
+    "rank": 7,
     "recent": 3,
     "score": 4.5,
     "sources": [
@@ -1105,7 +1135,7 @@
     "expected": 0.08,
     "field": "power",
     "is_new": false,
-    "rank": 7,
+    "rank": 8,
     "recent": 3,
     "score": 4.22,
     "sources": [
@@ -1117,33 +1147,34 @@
     "z": 2.81
    },
    {
-    "baseline": 0,
+    "baseline": 3,
     "examples": [
      {
-      "source": "hn",
-      "title": "SpaceX gets green light to deploy 1M satellites for data centers in space"
+      "source": "media",
+      "title": "Opinion | Let’s Build Data Centers for the Real World"
      },
      {
       "source": "hn",
-      "title": "The FCC has authorized SpaceX to deploy 1M satellites"
+      "title": "SpaceX gets FCC approval for 1M satellites to build data centers in space"
      },
      {
       "source": "hn",
-      "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites"
+      "title": "Trump Says He Will Penalize Companies That Build Data Centers Outside the U.S."
      }
     ],
-    "expected": 0.0,
+    "expected": 0.23,
     "field": "power",
-    "is_new": true,
-    "rank": 8,
-    "recent": 4,
-    "score": 4.0,
+    "is_new": false,
+    "rank": 9,
+    "recent": 3,
+    "score": 3.74,
     "sources": [
-     "hn"
+     "hn",
+     "media"
     ],
-    "term": "deploy 1m",
-    "voices": 4,
-    "z": 4.0
+    "term": "build data centers",
+    "voices": 3,
+    "z": 2.49
    },
    {
     "baseline": 0,
@@ -1164,7 +1195,7 @@
     "expected": 0.0,
     "field": "power",
     "is_new": true,
-    "rank": 9,
+    "rank": 10,
     "recent": 3,
     "score": 3.0,
     "sources": [
@@ -1173,6 +1204,36 @@
     "term": "nuclear bomb",
     "voices": 3,
     "z": 3.0
+   },
+   {
+    "baseline": 9,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Britain says SpaceX restrictions in Ukraine 'dented confidence and trust'"
+     },
+     {
+      "source": "hn",
+      "title": "FCC says SpaceX can deploy 1M satellites for data centers in space"
+     },
+     {
+      "source": "hn",
+      "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history"
+     }
+    ],
+    "expected": 0.7,
+    "field": "power",
+    "is_new": false,
+    "rank": 11,
+    "recent": 3,
+    "score": 2.65,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "says spacex",
+    "voices": 3,
+    "z": 1.76
    }
   ],
   "semiconductor": [
@@ -1227,46 +1288,16 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 2,
-    "recent": 110,
-    "score": 33.78,
+    "recent": 113,
+    "score": 34.97,
     "sources": [
      "hn",
      "media",
      "news"
     ],
     "term": "jensen huang",
-    "voices": 65,
-    "z": 16.89
-   },
-   {
-    "baseline": 0,
-    "examples": [
-     {
-      "source": "media",
-      "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount"
-     },
-     {
-      "source": "media",
-      "title": "Jensen Huang Returns And, Just Like That, Resurrects Nvidia Stock"
-     },
-     {
-      "source": "media",
-      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO"
-     }
-    ],
-    "expected": 0.0,
-    "field": "semiconductor",
-    "is_new": true,
-    "rank": 3,
-    "recent": 8,
-    "score": 12.0,
-    "sources": [
-     "media",
-     "news"
-    ],
-    "term": "huang returns",
-    "voices": 5,
-    "z": 8.0
+    "voices": 67,
+    "z": 17.48
    },
    {
     "baseline": 29,
@@ -1287,17 +1318,47 @@
     "expected": 2.26,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 4,
-    "recent": 13,
-    "score": 11.91,
+    "rank": 3,
+    "recent": 14,
+    "score": 13.02,
     "sources": [
      "hn",
      "media",
      "news"
     ],
     "term": "nvidia board",
-    "voices": 12,
-    "z": 5.95
+    "voices": 13,
+    "z": 6.51
+   },
+   {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "media",
+      "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount"
+     },
+     {
+      "source": "media",
+      "title": "Jensen Huang Returns And, Just Like That, Resurrects Nvidia Stock"
+     },
+     {
+      "source": "media",
+      "title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 4,
+    "recent": 8,
+    "score": 12.0,
+    "sources": [
+     "media",
+     "news"
+    ],
+    "term": "huang returns",
+    "voices": 5,
+    "z": 8.0
    },
    {
     "baseline": 11,
@@ -1381,15 +1442,15 @@
     "field": "semiconductor",
     "is_new": false,
     "rank": 7,
-    "recent": 4,
-    "score": 4.83,
+    "recent": 5,
+    "score": 6.14,
     "sources": [
      "hn",
      "media"
     ],
     "term": "chip curbs",
-    "voices": 3,
-    "z": 3.22
+    "voices": 4,
+    "z": 4.09
    },
    {
     "baseline": 0,
@@ -1452,6 +1513,65 @@
     "z": 2.78
    },
    {
+    "baseline": 0,
+    "examples": [
+     {
+      "source": "hn",
+      "title": "Nvidia's 'great man theory' is flawed"
+     },
+     {
+      "source": "hn",
+      "title": "The Limits of the Great Man Theory of Business"
+     },
+     {
+      "source": "hn",
+      "title": "Jensen Huang and the Great Man Theory of AI"
+     }
+    ],
+    "expected": 0.0,
+    "field": "semiconductor",
+    "is_new": true,
+    "rank": 10,
+    "recent": 3,
+    "score": 3.0,
+    "sources": [
+     "hn"
+    ],
+    "term": "great man theory",
+    "voices": 3,
+    "z": 3.0
+   },
+   {
+    "baseline": 8,
+    "examples": [
+     {
+      "source": "media",
+      "title": "California Attorney General Issues Investigative Subpoena to Nvidia"
+     },
+     {
+      "source": "hn",
+      "title": "Louisiana Attorney General receives death threats over Kalshi lawsuit"
+     },
+     {
+      "source": "hn",
+      "title": "California Attorney General subpoenas Nvidia over chips"
+     }
+    ],
+    "expected": 0.62,
+    "field": "semiconductor",
+    "is_new": false,
+    "rank": 11,
+    "recent": 3,
+    "score": 2.8,
+    "sources": [
+     "hn",
+     "media"
+    ],
+    "term": "attorney general",
+    "voices": 3,
+    "z": 1.87
+   },
+   {
     "baseline": 5,
     "examples": [
      {
@@ -1470,7 +1590,7 @@
     "expected": 0.39,
     "field": "semiconductor",
     "is_new": false,
-    "rank": 10,
+    "rank": 12,
     "recent": 3,
     "score": 2.22,
     "sources": [

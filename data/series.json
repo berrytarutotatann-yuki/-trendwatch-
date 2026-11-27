@@ -8,7 +8,7 @@
     }
    },
    "fetched_from": "2026-07-13",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -42,7 +42,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -682,7 +682,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "ai brings": {
@@ -702,14 +702,10 @@
     }
    },
    "fetched_from": "2026-07-14",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
-    "2026-07-29": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-07-31": {
      "count": 1,
      "voices": 1
@@ -848,7 +844,7 @@
     }
    },
    "fetched_from": "2026-07-14",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -1882,19 +1878,19 @@
     }
    },
    "fetched_from": "2026-07-17",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "ai copyright cave": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -2508,15 +2504,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "anthropic ipo": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -2783,10 +2779,14 @@
     "2026-11-25": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-07-24",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -3770,10 +3770,6 @@
   },
   "qiita": {
    "days": {
-    "2026-07-29": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-07-30": {
      "count": 1,
      "voices": 1
@@ -3852,14 +3848,14 @@
     }
    },
    "fetched_from": "2026-07-24",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "blue origin": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -3993,7 +3989,7 @@
     }
    },
    "fetched_from": "2026-07-24",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -4970,22 +4966,30 @@
     "2026-11-24": {
      "count": 6,
      "voices": null
+    },
+    "2026-11-25": {
+     "count": 5,
+     "voices": null
+    },
+    "2026-11-26": {
+     "count": 34,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-24",
-   "fetched_to": "2026-11-24"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "blue wave": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -5072,10 +5076,14 @@
     "2026-11-24": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -6125,14 +6133,14 @@
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "california sues": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -6154,7 +6162,7 @@
     }
    },
    "fetched_from": "2026-07-21",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -7122,15 +7130,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "california sues openai": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -7152,7 +7160,7 @@
     }
    },
    "fetched_from": "2026-07-20",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -7766,8 +7774,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "centers in space": {
@@ -7791,14 +7799,10 @@
     }
    },
    "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
-    "2026-07-29": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-08-03": {
      "count": 3,
      "voices": 3
@@ -7974,10 +7978,14 @@
     "2026-11-25": {
      "count": 3,
      "voices": 2
+    },
+    "2026-11-26": {
+     "count": 6,
+     "voices": 6
     }
    },
    "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -8591,15 +8599,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "chinese spy": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -8714,10 +8722,14 @@
     "2026-11-25": {
      "count": 3,
      "voices": 3
+    },
+    "2026-11-26": {
+     "count": 4,
+     "voices": 4
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -9747,7 +9759,7 @@
     }
    },
    "fetched_from": "2026-07-20",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "chip rout": {
@@ -9767,7 +9779,7 @@
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -9785,7 +9797,7 @@
     }
    },
    "fetched_from": "2026-07-09",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -10813,22 +10825,18 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "chip stocks": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
-    "2026-07-29": {
-     "count": 2,
-     "voices": 1
-    },
     "2026-07-30": {
      "count": 1,
      "voices": 1
@@ -10899,7 +10907,7 @@
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -11939,17 +11947,13 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "claude fable": {
   "arxiv": {
    "days": {
-    "2026-07-29": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-07-30": {
      "count": 1,
      "voices": 1
@@ -12128,14 +12132,10 @@
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
-    "2026-07-29": {
-     "count": 2,
-     "voices": 2
-    },
     "2026-07-31": {
      "count": 2,
      "voices": 2
@@ -12507,10 +12507,14 @@
     "2026-11-24": {
      "count": 2,
      "voices": 2
+    },
+    "2026-11-26": {
+     "count": 7,
+     "voices": 5
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -13503,17 +13507,29 @@
     "2026-11-22": {
      "count": 2,
      "voices": null
+    },
+    "2026-11-23": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-24": {
+     "count": 3,
+     "voices": null
+    },
+    "2026-11-25": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-26": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-18",
-   "fetched_to": "2026-11-22"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {
-    "2026-07-29": {
-     "count": 3,
-     "voices": 3
-    },
     "2026-07-30": {
      "count": 5,
      "voices": 4
@@ -13961,17 +13977,21 @@
     "2026-11-25": {
      "count": 6,
      "voices": 6
+    },
+    "2026-11-26": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "climate talks": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -14001,7 +14021,7 @@
     }
    },
    "fetched_from": "2026-07-25",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -14966,15 +14986,23 @@
     "2026-11-24": {
      "count": 74,
      "voices": null
+    },
+    "2026-11-25": {
+     "count": 9,
+     "voices": null
+    },
+    "2026-11-26": {
+     "count": 16,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-27",
-   "fetched_to": "2026-11-24"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "co-packaged optics": {
@@ -15010,7 +15038,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -15024,7 +15052,7 @@
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -16126,7 +16154,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "data center site": {
@@ -16142,7 +16170,7 @@
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -16184,7 +16212,7 @@
     }
    },
    "fetched_from": "2026-07-15",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -17208,17 +17236,13 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "data centers": {
   "arxiv": {
    "days": {
-    "2026-07-29": {
-     "count": 2,
-     "voices": 2
-    },
     "2026-07-30": {
      "count": 4,
      "voices": 4
@@ -17641,14 +17665,10 @@
     }
    },
    "fetched_from": "2026-07-11",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
-    "2026-07-29": {
-     "count": 39,
-     "voices": 38
-    },
     "2026-07-30": {
      "count": 23,
      "voices": 22
@@ -18124,10 +18144,14 @@
     "2026-11-25": {
      "count": 28,
      "voices": 25
+    },
+    "2026-11-26": {
+     "count": 30,
+     "voices": 30
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -19234,17 +19258,21 @@
     "2026-11-21": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "democratic sweep": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -19254,7 +19282,7 @@
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -20278,15 +20306,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "fake job": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -20380,7 +20408,7 @@
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -21397,10 +21425,26 @@
     "2026-11-22": {
      "count": 0,
      "voices": null
+    },
+    "2026-11-23": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-24": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-25": {
+     "count": 1,
+     "voices": null
+    },
+    "2026-11-26": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-22"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {
@@ -21414,14 +21458,14 @@
     }
    },
    "fetched_from": "2026-07-08",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "grand theft": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -21612,10 +21656,14 @@
     "2026-11-25": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 2,
+     "voices": 2
     }
    },
    "fetched_from": "2026-07-23",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -22613,14 +22661,14 @@
     }
    },
    "fetched_from": "2026-07-23",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "grand theft auto": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -22787,10 +22835,14 @@
     "2026-11-25": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-28",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -23751,10 +23803,14 @@
     "2026-11-25": {
      "count": 73,
      "voices": null
+    },
+    "2026-11-26": {
+     "count": 25,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {
@@ -23772,7 +23828,7 @@
     }
    },
    "fetched_from": "2026-07-28",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "ground stop": {
@@ -23796,7 +23852,7 @@
     }
    },
    "fetched_from": "2026-07-18",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -23850,7 +23906,7 @@
     }
    },
    "fetched_from": "2026-07-18",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -24855,10 +24911,14 @@
     "2026-11-25": {
      "count": 107,
      "voices": null
+    },
+    "2026-11-26": {
+     "count": 116,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-18",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {
@@ -24868,7 +24928,7 @@
     }
    },
    "fetched_from": "2026-07-20",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "harness engineering": {
@@ -24972,7 +25032,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -25234,7 +25294,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -26675,19 +26735,19 @@
      "voices": 3
     },
     "2026-11-23": {
-     "count": 2,
-     "voices": 2
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "huang exit": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -26713,7 +26773,7 @@
     }
    },
    "fetched_from": "2026-07-22",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -27690,22 +27750,26 @@
     "2026-11-25": {
      "count": 6,
      "voices": null
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-25",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "huang return": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -27743,7 +27807,7 @@
     }
    },
    "fetched_from": "2026-07-28",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -28715,15 +28779,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "iea says": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -28741,7 +28805,7 @@
     }
    },
    "fetched_from": "2026-07-23",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -29722,29 +29786,33 @@
     "2026-11-24": {
      "count": 1,
      "voices": null
+    },
+    "2026-11-25": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-26": {
+     "count": 0,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-23",
-   "fetched_to": "2026-11-24"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "jensen huang": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
-    "2026-07-29": {
-     "count": 4,
-     "voices": 4
-    },
     "2026-08-01": {
      "count": 2,
      "voices": 2
@@ -30048,10 +30116,14 @@
     "2026-11-25": {
      "count": 25,
      "voices": 23
+    },
+    "2026-11-26": {
+     "count": 14,
+     "voices": 11
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -31079,10 +31151,6 @@
   },
   "qiita": {
    "days": {
-    "2026-07-29": {
-     "count": 2,
-     "voices": 2
-    },
     "2026-07-30": {
      "count": 1,
      "voices": 1
@@ -31182,24 +31250,24 @@
     "2026-11-24": {
      "count": 3,
      "voices": 2
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-12",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "microsoft data": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
-    "2026-07-29": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-08-04": {
      "count": 1,
      "voices": 1
@@ -31250,7 +31318,7 @@
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -32259,10 +32327,18 @@
     "2026-11-24": {
      "count": 1,
      "voices": null
+    },
+    "2026-11-25": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-26": {
+     "count": 2,
+     "voices": null
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-24"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {
@@ -32308,14 +32384,14 @@
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "midterm results": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -32369,7 +32445,7 @@
     }
    },
    "fetched_from": "2026-07-10",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -33413,22 +33489,18 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "nvidia ceo": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
-    "2026-07-29": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-08-12": {
      "count": 1,
      "voices": 1
@@ -33572,10 +33644,14 @@
     "2026-11-25": {
      "count": 4,
      "voices": 4
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -34595,10 +34671,6 @@
   },
   "qiita": {
    "days": {
-    "2026-07-29": {
-     "count": 1,
-     "voices": 1
-    },
     "2026-08-16": {
      "count": 1,
      "voices": 1
@@ -34642,10 +34714,14 @@
     "2026-11-24": {
      "count": 2,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-16",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "riemann hypothesis": {
@@ -34906,10 +34982,14 @@
     "2026-11-24": {
      "count": 3,
      "voices": 3
+    },
+    "2026-11-25": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-07-25",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -35200,10 +35280,14 @@
     "2026-11-25": {
      "count": 63,
      "voices": 62
+    },
+    "2026-11-26": {
+     "count": 54,
+     "voices": 46
     }
    },
    "fetched_from": "2026-07-25",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -36210,17 +36294,21 @@
     "2026-11-24": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 3,
+     "voices": 3
     }
    },
    "fetched_from": "2026-07-25",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "slop ui": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -36263,10 +36351,14 @@
     "2026-11-23": {
      "count": 2,
      "voices": 2
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-01",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -36880,8 +36972,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "small modular reactor": {
@@ -36909,7 +37001,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -36924,10 +37016,14 @@
     "2026-10-20": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": 1
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -37537,18 +37633,6 @@
   },
   "news": {
    "days": {
-    "2026-07-27": {
-     "count": 7,
-     "voices": null
-    },
-    "2026-07-28": {
-     "count": 14,
-     "voices": null
-    },
-    "2026-07-29": {
-     "count": 8,
-     "voices": null
-    },
     "2026-07-30": {
      "count": 13,
      "voices": null
@@ -38016,15 +38100,27 @@
     "2026-11-23": {
      "count": 0,
      "voices": null
+    },
+    "2026-11-24": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-25": {
+     "count": 0,
+     "voices": null
+    },
+    "2026-11-26": {
+     "count": 1,
+     "voices": null
     }
    },
    "fetched_from": "2026-06-03",
-   "fetched_to": "2026-11-23"
+   "fetched_to": "2026-11-26"
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "system one model": {
@@ -38192,7 +38288,7 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -38283,10 +38379,14 @@
     "2026-10-30": {
      "count": 1,
      "voices": 1
+    },
+    "2026-11-26": {
+     "count": 2,
+     "voices": 2
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -39480,14 +39580,14 @@
     }
    },
    "fetched_from": "2026-06-02",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   }
  },
  "tech outages": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -39521,7 +39621,7 @@
     }
    },
    "fetched_from": "2026-07-28",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -40493,15 +40593,15 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  },
  "trump threatens": {
   "arxiv": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   },
   "hn": {
    "days": {
@@ -40535,7 +40635,7 @@
     }
    },
    "fetched_from": "2026-07-26",
-   "fetched_to": "2026-11-25"
+   "fetched_to": "2026-11-26"
   },
   "media": {
    "days": {
@@ -41503,8 +41603,8 @@
   },
   "qiita": {
    "days": {},
-   "fetched_from": "2026-07-29",
-   "fetched_to": "2026-11-25"
+   "fetched_from": "2026-07-30",
+   "fetched_to": "2026-11-26"
   }
  }
 }
